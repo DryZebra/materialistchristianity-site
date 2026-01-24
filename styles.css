@@ -6,8 +6,6 @@
   --panel:#1b1510;
   --accent:#b2472d;
   --accent-2:#7a2b28;
-  --youtube:#FF0000;
-  --substack:#FF6719;
   --border:#2f261f;
   --border-light:#3a2e24;
 }
@@ -173,6 +171,7 @@ h1{
   left:0;
   width:100%;
   height:100%;
+  border:none;
   border-radius:12px;
 }
 
