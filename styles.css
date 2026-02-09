@@ -77,6 +77,11 @@ a.btn{display:inline-block;text-decoration:none}
   font-size:1.1rem;
   max-width:720px;
 }
+.pressure{
+  margin:0 0 12px;
+  color:var(--muted);
+  font-weight:600;
+}
 
 .buttons{
   display:flex;
