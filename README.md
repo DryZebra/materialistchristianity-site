@@ -1,6 +1,6 @@
 # MaterialistChristianity.org
 
-Static site for **Vestnik of the Light** — a fast hub linking to the book, Substack, TikTok, Twitter, Payhip guides, and PayPal donations.
+Static site for **Materialist Christianity** — a finite recognition library that directs readers to the book for full explanations.
 
 ## Deploy (GitHub Pages)
 
@@ -9,7 +9,6 @@ Static site for **Vestnik of the Light** — a fast hub linking to the book, Sub
    - `index.html`
    - `styles.css`
    - `CNAME` (contains `MaterialistChristianity.org`)
-   - `/assets/banner.jpg` (your banner) and optional `/assets/pfp.jpg` (avatar)
 3. Push to `main`.
 4. Settings → Pages → Source: **Deploy from a branch**, Branch: `main` / `/root`.
 5. Under **Custom domain**, enter `MaterialistChristianity.org` and save.
@@ -19,7 +18,9 @@ Static site for **Vestnik of the Light** — a fast hub linking to the book, Sub
 7. In Pages, enable **Enforce HTTPS** after the cert appears.
 
 ## Replace placeholders
-- Put your book-cover art (no text) as `/assets/banner.jpg`.
-- Optionally add `/assets/pfp.jpg` for the round avatar; otherwise it hides.
-- If you have a Substack subdomain (e.g., `vestnikofthelight.substack.com`), uncomment the iframe embed to show a subscribe box.
+- Add the canonical Amazon URL in `/docs/LINKS.md` and replace `#amazon-link` references.
 
+## Changelog
+- Reframed the site around the book-first architecture in `/docs/SITE_INTENT.md`, removing social/feed focus and aligning the homepage to recognition → confidence → direction.
+- Added a book hub, concepts library, concept pages, and a simple 404 page to create a finite recognition library with explicit pointers back to the book.
+- Simplified styling for readability while keeping the existing visual tone.
