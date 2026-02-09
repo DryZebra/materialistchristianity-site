@@ -160,15 +160,32 @@ a.btn{display:inline-block;text-decoration:none}
   gap:16px;
 }
 .concept-list li{
+  margin:0;
+}
+.concept-card{
+  display:block;
   border:1px solid var(--border);
   border-radius:12px;
   padding:16px;
   background:#19130e;
-}
-.concept-list a{
+  min-height:44px;
   text-decoration:none;
+  transition:transform 0.2s ease, box-shadow 0.2s ease, border-color 0.2s ease;
 }
-.concept-list p{
+.concept-card:hover{
+  border-color:var(--border-light);
+  box-shadow:0 4px 12px rgba(0,0,0,0.3);
+  transform:translateY(-2px);
+}
+.concept-card:active{
+  transform:translateY(0);
+  box-shadow:0 2px 6px rgba(0,0,0,0.25);
+}
+.concept-card:focus-visible{
+  outline:2px solid var(--accent);
+  outline-offset:2px;
+}
+.concept-card p{
   margin:6px 0 0;
   color:var(--muted);
 }
