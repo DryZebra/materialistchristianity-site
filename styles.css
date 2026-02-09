@@ -118,6 +118,12 @@ a.btn{display:inline-block;text-decoration:none}
   gap:12px;
   align-items:center;
 }
+.button-stack{
+  display:flex;
+  flex-direction:column;
+  gap:12px;
+  margin-top:16px;
+}
 .btn{
   padding:12px 22px;
   border-radius:12px;
