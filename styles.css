@@ -284,6 +284,10 @@ a.btn{display:inline-block;text-decoration:none}
     flex-direction:column;
     align-items:stretch;
   }
+  .button-stack{
+    flex-direction:column;
+    align-items:stretch;
+  }
   .btn{
     width:100%;
     text-align:center;
