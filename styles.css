@@ -120,7 +120,8 @@ a.btn{display:inline-block;text-decoration:none}
 }
 .button-stack{
   display:flex;
-  flex-direction:column;
+  flex-wrap:wrap;
+  flex-direction:row;
   gap:12px;
   margin-top:16px;
 }
@@ -286,6 +287,10 @@ a.btn{display:inline-block;text-decoration:none}
   .btn{
     width:100%;
     text-align:center;
+  }
+  .button-stack{
+    flex-direction:column;
+    align-items:stretch;
   }
 }
 
