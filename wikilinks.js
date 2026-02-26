@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
         fragment.appendChild(document.createTextNode(prefix));
       }
 
-      const slug = pageName.toLowerCase().replace(/\s+/g, '-');
+      const slug = pageName.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/(^-|-$)/g, '');
       const link = document.createElement('a');
       link.href = `${wikiBasePath}${slug}`;
       link.className = 'wikilink';
