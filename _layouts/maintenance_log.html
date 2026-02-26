@@ -6,13 +6,13 @@
     <title>{{ page.title }} | Maintenance Log</title>
     <style>
       :root {
-        color-scheme: light;
+        color-scheme: dark;
       }
 
       body {
         margin: 0;
-        background: #f4f4f4;
-        color: #141414;
+        background: var(--bg, #110d0a);
+        color: var(--ink, #f4e3c3);
         font-family: Georgia, "Times New Roman", serif;
         line-height: 1.6;
       }
@@ -26,9 +26,9 @@
       .switchboard-link {
         display: inline-block;
         text-decoration: none;
-        background: #111;
-        color: #f7f7f7;
-        border: 1px solid #000;
+        background: var(--panel, #1b1510);
+        color: var(--ink, #f4e3c3);
+        border: 1px solid var(--border-light, #3a2e24);
         border-radius: 4px;
         font-family: "Segoe UI", Tahoma, sans-serif;
         font-weight: 700;
@@ -55,9 +55,9 @@
       }
 
       .zone-hardware {
-        background: linear-gradient(170deg, #f8f0c8 0%, #eadb9f 100%);
-        border: 2px solid #4f4a33;
-        box-shadow: inset 0 0 0 2px rgba(79, 74, 51, 0.2);
+        background: var(--panel, #1b1510);
+        border: 2px solid var(--border-light, #3a2e24);
+        box-shadow: inset 0 0 0 2px rgba(0, 0, 0, 0.5);
         padding: 1rem 1.2rem;
       }
 
@@ -72,14 +72,14 @@
       .zone-hardware blockquote {
         margin: 0;
         padding: 0.6rem 0.85rem;
-        border-left: 4px solid #4f4a33;
-        background: rgba(255, 255, 255, 0.5);
+        border-left: 4px solid var(--border-light, #3a2e24);
+        background: rgba(0, 0, 0, 0.3);
         font-size: 1.05rem;
       }
 
       .zone-diagnostic {
-        background: #ffffff;
-        border: 1px solid #c7c7c7;
+        background: #19130e;
+        border: 1px solid var(--border, #2f261f);
         padding: 1rem 1.2rem;
         font-family: "Segoe UI", Tahoma, Arial, sans-serif;
       }
@@ -92,8 +92,8 @@
       }
 
       .zone-junction {
-        background: #d5d5d5;
-        border: 1px solid #a8a8a8;
+        background: var(--bg, #110d0a);
+        border: 1px solid var(--border-light, #3a2e24);
         padding: 1rem 1.2rem;
       }
 
@@ -110,9 +110,9 @@
         padding-left: 1.2rem;
       }
 
-      .zone-junction code {
-        font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace;
-        background: rgba(255, 255, 255, 0.45);
+      .capped-wire {
+        font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+        background: rgba(255, 255, 255, 0.08);
         padding: 0.1rem 0.2rem;
         border-radius: 3px;
       }
@@ -137,7 +137,7 @@
         <h2>Zone 3: The Junction Box (Capped Wires)</h2>
         <ul>
           {% for link in page.wikilinks %}
-            <li><code>[[{{ link }}]]</code></li>
+            <li><span class="capped-wire">[[{{ link }}]]</span></li>
           {% endfor %}
         </ul>
       </footer>
