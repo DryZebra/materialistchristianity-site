@@ -1,0 +1,12 @@
+---
+---
+[
+  {% assign log_pages = site.pages | where_exp: "item", "item.dir == '/maintenance-log/' and item.name != 'index.md'" %}
+  {% for item in log_pages %}
+    {
+      "title": {{ item.title | jsonify }},
+      "url": {{ item.url | absolute_url | jsonify }},
+      "content": {{ item.content | strip_html | replace: "\n", " " | replace: "\r", " " | strip | jsonify }}
+    }{% unless forloop.last %},{% endunless %}
+  {% endfor %}
+]
