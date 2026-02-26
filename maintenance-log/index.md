@@ -137,6 +137,7 @@ title: Maintenance Log
 
     <ul>
       <li>[[The Sermon on the Mount - The New Constitution]]</li>
+      <li>[[Matthew 19:8 - The Timeline Lever]]</li>
       <li>[[Mark 2:23-28 - Collapsing the Contradiction]]</li>
       <li>[[Acts 2 - The Working Class Co-Op]]</li>
       <li>[[The Debt Jubilee - Resetting the Financial Circuit]]</li>
