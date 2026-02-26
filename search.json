@@ -1,12 +1,14 @@
 ---
+layout: none
 ---
 [
-  {% assign log_pages = site.pages | where_exp: "item", "item.dir == '/maintenance-log/' and item.name != 'index.md'" %}
-  {% for item in log_pages %}
+  {% for page in site.pages %}
+    {% if page.url contains '/maintenance-log/' and page.url != '/maintenance-log/' and page.url != '/maintenance-log/index.html' %}
     {
-      "title": {{ item.title | jsonify }},
-      "url": {{ item.url | absolute_url | jsonify }},
-      "content": {{ item.content | strip_html | replace: "\n", " " | replace: "\r", " " | strip | jsonify }}
+      "title": "{{ page.title | escape }}",
+      "url": "{{ page.url | relative_url }}",
+      "content": {{ page.content | strip_html | strip_newlines | jsonify }}
     }{% unless forloop.last %},{% endunless %}
+    {% endif %}
   {% endfor %}
 ]
