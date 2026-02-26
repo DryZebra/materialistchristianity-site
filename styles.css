@@ -370,3 +370,14 @@ a.btn{display:inline-block;text-decoration:none}
     padding:20px 16px;
   }
 }
+
+.wikilink{
+  color:#b9dcff;
+  text-decoration:underline dotted;
+  text-underline-offset:0.15em;
+}
+
+.wikilink:hover,
+.wikilink:focus-visible{
+  color:#d3e9ff;
+}
