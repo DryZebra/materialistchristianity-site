@@ -116,11 +116,63 @@
         padding: 0.1rem 0.2rem;
         border-radius: 3px;
       }
+
+      .search-station {
+        margin-bottom: 1.2rem;
+      }
+
+      #wiki-search {
+        width: 100%;
+        box-sizing: border-box;
+        background: #19130e;
+        border: 1px solid var(--border-light, #3a2e24);
+        color: var(--ink, #f4e3c3);
+        padding: 0.65rem 0.75rem;
+        border-radius: 4px;
+        font-family: "Segoe UI", Tahoma, Arial, sans-serif;
+      }
+
+      #wiki-search:focus-visible {
+        outline: 2px solid #7e6652;
+        outline-offset: 1px;
+      }
+
+      #search-results {
+        list-style: none;
+        margin: 0.75rem 0 0;
+        padding: 0;
+      }
+
+      #search-results li {
+        margin: 0.45rem 0;
+      }
+
+      #search-results a {
+        color: var(--ink, #f4e3c3);
+        text-decoration: none;
+        border-bottom: 1px dotted var(--border-light, #3a2e24);
+      }
+
+      #search-results a:hover,
+      #search-results a:focus-visible {
+        color: #ffffff;
+        border-bottom-color: #ffffff;
+      }
     </style>
   </head>
   <body>
     <main class="maintenance-shell">
       <a class="switchboard-link" href="/maintenance-log/">Return to Master Switchboard</a>
+
+      <section class="search-station" aria-label="Maintenance log search">
+        <input
+          type="text"
+          id="wiki-search"
+          placeholder="Search the log (e.g., Genesis, Debt, Labor)..."
+        />
+        <ul id="search-results"></ul>
+      </section>
+
       <h1 class="entry-title">{{ page.title }}</h1>
 
       <section class="zone zone-hardware">
@@ -142,5 +194,6 @@
         </ul>
       </footer>
     </main>
+    <script src="/search.js"></script>
   </body>
 </html>
