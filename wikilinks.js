@@ -6,7 +6,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
   const wikiBasePath = '/maintenance-log/';
   const wikiPattern = /\[\[([^\[\]]+?)\]\]/g;
-  const excludedTags = new Set(['A', 'SCRIPT', 'STYLE', 'NOSCRIPT', 'TEXTAREA', 'CODE', 'PRE']);
+  const excludedTags = new Set(['A', 'SCRIPT', 'STYLE', 'NOSCRIPT', 'TEXTAREA', 'PRE']);
 
   const walker = document.createTreeWalker(mainContent, NodeFilter.SHOW_TEXT, {
     acceptNode(node) {
