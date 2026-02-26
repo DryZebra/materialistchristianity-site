@@ -188,7 +188,8 @@
         <h2>Zone 3: The Junction Box (Capped Wires)</h2>
         <ul>
           {% for link in page.wikilinks %}
-            <li><span class="capped-wire">[[{{ link }}]]</span></li>
+            {% assign slug = link | downcase | replace: " ", "-" | replace: ":", "-" | replace: ".", "" %}
+            <li><a href="/maintenance-log/{{ slug }}" class="capped-wire">[[{{ link }}]]</a></li>
           {% endfor %}
         </ul>
       </footer>
