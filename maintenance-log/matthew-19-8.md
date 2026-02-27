@@ -2,11 +2,10 @@
 layout: maintenance_log
 title: "Matthew 19:8 - The Timeline Lever"
 permalink: /maintenance-log/matthew-19-8
-hardware_text: "He saith unto them, Moses because of the hardness of your hearts suffered you to put away your wives: but from the beginning it was not so. — Matthew 19:8 (KJV)"
+hardware_text: "He saith unto them, Moses because of the hardness of your hearts suffered you to put away your wives: but from the beginning it was not so."
 wikilinks:
   - "Genesis 1:1"
-  - "The Pharisees - The Administrative Class"
-  - "The Hardness of Heart - The Friction of Entropy"
+  - "Phase B"
 ---
 
 This is a direct confrontation between the administrative class (the Pharisees) and the synthesis (Christ). The Pharisees attempt to trap him using a highly specific legal code regarding divorce—which, in the ancient economic grid, was primarily a mechanism of property control and the financial discarding of vulnerable labor (women).
