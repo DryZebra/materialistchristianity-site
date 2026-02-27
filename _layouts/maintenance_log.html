@@ -6,55 +6,150 @@
     <title>{{ page.title }} | Materialist Christianity</title>
     <link rel="stylesheet" href="/styles.css">
     <style>
-        :root { color-scheme: dark; }
-        body { background: var(--bg, #110d0a); color: var(--ink, #f4e3c3); padding: 2rem 1rem; max-width: 800px; margin: 0 auto; font-family: sans-serif; }
-        .switchboard-nav { margin-bottom: 2rem; }
-        .switchboard-link { display: inline-block; padding: 0.5rem 1rem; background: var(--panel, #1b1510); color: var(--ink, #f4e3c3); border: 1px solid var(--border-light, #3a2e24); text-decoration: none; text-transform: uppercase; font-size: 0.8rem; letter-spacing: 1px; }
-        .zone { margin-bottom: 2rem; }
-        .zone-hardware { background: var(--panel, #1b1510); border: 2px solid var(--border-light, #3a2e24); box-shadow: inset 0 0 0 2px rgba(0,0,0,0.5); padding: 1.5rem; }
-        .zone-hardware blockquote { margin: 0; padding-left: 1rem; border-left: 4px solid var(--border-light, #3a2e24); font-style: italic; background: rgba(0,0,0,0.3); padding: 1rem; }
-        .zone-diagnostic { background: #19130e; border: 1px solid var(--border, #2f261f); padding: 2rem; line-height: 1.6; }
-        .zone-junction { background: var(--bg, #110d0a); border: 1px solid var(--border-light, #3a2e24); padding: 1.5rem; }
-        .zone-junction h3 { margin-top: 0; text-transform: uppercase; font-size: 0.9rem; letter-spacing: 1px; border-bottom: 1px solid #3a2e24; padding-bottom: 0.5rem; }
-        .zone-junction ul { list-style: none; padding: 0; margin: 0; }
-        .zone-junction li { margin-bottom: 0.5rem; }
-        .capped-wire { font-family: ui-monospace, monospace; background: rgba(255,255,255,0.08); padding: 0.2rem 0.4rem; border-radius: 3px; color: #6db3f2; text-decoration: none; }
-        #wiki-search { width: 100%; box-sizing: border-box; padding: 0.8rem; margin-bottom: 1rem; background: #19130e; color: #f4e3c3; border: 1px solid #3a2e24; font-size: 16px !important; }
-        #search-results { list-style: none; padding: 0; margin-bottom: 1rem; }
-        #search-results a { color: #6db3f2; text-decoration: none; display: block; padding: 0.5rem 0; border-bottom: 1px solid #2f261f; }
+      .wiki-hero-meta {
+        color: var(--muted);
+        margin: 0;
+        max-width: 760px;
+      }
+
+      .wiki-search {
+        width: 100%;
+        padding: 0.8rem 0.9rem;
+        border-radius: 12px;
+        border: 1px solid var(--border-light);
+        background: #19130e;
+        color: var(--ink);
+        font-size: 1rem;
+      }
+
+      .wiki-search:focus-visible {
+        outline: 2px solid var(--accent);
+        outline-offset: 2px;
+      }
+
+      #search-results {
+        list-style: none;
+        margin: 1rem 0 0;
+        padding: 0;
+      }
+
+      #search-results li + li {
+        margin-top: 0.75rem;
+      }
+
+      #search-results a {
+        text-decoration: none;
+        display: block;
+        border: 1px solid var(--border);
+        border-radius: 12px;
+        padding: 0.75rem 0.9rem;
+        background: #19130e;
+      }
+
+      #search-results a:hover,
+      #search-results a:focus-visible {
+        border-color: var(--border-light);
+      }
+
+      .maintenance-quote {
+        margin: 0;
+        padding-left: 1rem;
+        border-left: 3px solid var(--accent);
+        color: var(--muted);
+        font-style: italic;
+      }
+
+      .maintenance-content h2,
+      .maintenance-content h3 {
+        margin-top: 1.8rem;
+      }
+
+      .maintenance-content h2:first-child,
+      .maintenance-content h3:first-child {
+        margin-top: 0;
+      }
+
+      .maintenance-links {
+        list-style: none;
+        margin: 0;
+        padding: 0;
+        display: grid;
+        gap: 0.75rem;
+      }
+
+      .maintenance-links a {
+        text-decoration: none;
+        display: block;
+        border: 1px solid var(--border);
+        border-radius: 10px;
+        padding: 0.6rem 0.75rem;
+        background: #19130e;
+      }
+
+      .maintenance-links a:hover,
+      .maintenance-links a:focus-visible {
+        border-color: var(--border-light);
+      }
     </style>
 </head>
 <body>
-    <nav class="switchboard-nav">
-        <a href="/maintenance-log/" class="switchboard-link">← Return to Master Switchboard</a>
-    </nav>
-
-    <input type="text" id="wiki-search" placeholder="Search the log (e.g., Genesis, Debt)...">
-    <ul id="search-results"></ul>
-
-    <main>
-        {% if page.hardware_text %}
-        <div class="zone zone-hardware">
-            <blockquote>{{ page.hardware_text }}</blockquote>
+    <header class="site-header">
+      <nav class="site-nav" aria-label="Primary">
+        <a class="brand" href="/">Materialist Christianity</a>
+        <div class="nav-links">
+          <a href="/">Home</a>
+          <a href="/start/">Start Here</a>
+          <a href="/maintenance-log/">Concepts</a>
+          <a href="/book/">The Book</a>
         </div>
-        {% endif %}
-
-        <div class="zone zone-diagnostic">
-            {{ content }}
+      </nav>
+      <div class="page-hero">
+        <h1>{{ page.title }}</h1>
+        <p class="wiki-hero-meta">{{ page.description | default: "A practical wiki for mapping the concepts, references, and pressure points used throughout Materialist Christianity." }}</p>
+        <div class="buttons">
+          <a href="/maintenance-log/" class="btn">Browse all entries</a>
+          <a href="/start/" class="btn">Start here</a>
         </div>
+      </div>
+    </header>
 
-        {% if page.wikilinks %}
-        <footer class="zone zone-junction">
-            <h3>Capped Wires</h3>
-            <ul>
-            {% for link in page.wikilinks %}
-                {% assign slug = link | downcase | replace: " ", "-" | replace: ":", "-" | replace: ".", "" %}
-                <li><a href="/maintenance-log/{{ slug }}" class="capped-wire">[[{{ link }}]]</a></li>
-            {% endfor %}
-            </ul>
-        </footer>
-        {% endif %}
+    <main class="content">
+      <section class="panel">
+        <label class="section-label" for="wiki-search">Search concepts</label>
+        <input type="text" id="wiki-search" class="wiki-search" placeholder="Search the log (e.g., Genesis, Debt, Entropy)">
+        <ul id="search-results"></ul>
+      </section>
+
+      {% if page.hardware_text %}
+      <section class="panel">
+        <p class="section-label">Source line</p>
+        <blockquote class="maintenance-quote">{{ page.hardware_text }}</blockquote>
+      </section>
+      {% endif %}
+
+      <section class="panel maintenance-content">
+        {{ content }}
+      </section>
+
+      {% if page.wikilinks %}
+      <section class="panel">
+        <h2>Related entries</h2>
+        <ul class="maintenance-links">
+        {% for link in page.wikilinks %}
+          {% assign slug = link | downcase | replace: " ", "-" | replace: ":", "-" | replace: ".", "" %}
+          <li><a href="/maintenance-log/{{ slug }}">[[{{ link }}]]</a></li>
+        {% endfor %}
+        </ul>
+      </section>
+      {% endif %}
     </main>
+
+    <footer class="footer">
+      <div class="footer-content">
+        <p>© 2025 Materialist Christianity</p>
+        <p class="footer-note">The book contains the full explanations and foundational arguments.</p>
+      </div>
+    </footer>
 
     <script src="/search.js" defer></script>
     <script src="/wikilinks.js" defer></script>
