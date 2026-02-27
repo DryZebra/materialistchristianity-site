@@ -159,3 +159,6 @@ title: Maintenance Log
     <li>[[The Mutual Aid Network]]</li>
   </ul>
 </section>
+
+<script src="/search.js" defer></script>
+<script src="/wikilinks.js" defer></script>
