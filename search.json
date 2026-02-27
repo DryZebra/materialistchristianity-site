@@ -1,12 +1,16 @@
 ---
 layout: none
 ---
-{% assign log_pages = site.pages | where_exp: "page", "page.url contains '/maintenance-log/' and page.url != '/maintenance-log/' and page.url != '/maintenance-log/index.html'" %}
 [
-  {% for page in log_pages %}
-  {
-    "title": "{{ page.title | escape }}",
-    "url": "{{ page.url | relative_url }}"
-  }{% unless forloop.last %},{% endunless %}
+  {% assign first = true %}
+  {% for page in site.pages %}
+    {% if page.url contains '/maintenance-log/' and page.url != '/maintenance-log/' and page.url != '/maintenance-log/index.html' %}
+      {% unless first %},{% endunless %}
+      {
+        "title": "{{ page.title | escape }}",
+        "url": "{{ page.url | relative_url }}"
+      }
+      {% assign first = false %}
+    {% endif %}
   {% endfor %}
 ]
