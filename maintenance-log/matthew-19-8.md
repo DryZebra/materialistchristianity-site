@@ -7,13 +7,30 @@ wikilinks:
   - "Genesis 1:1"
   - "Phase B"
 ---
+## THE SCHEMATICS (Matthew 19:8)
 
-This is a direct confrontation between the administrative class (the Pharisees) and the synthesis (Christ). The Pharisees attempt to trap him using a highly specific legal code regarding divorce—which, in the ancient economic grid, was primarily a mechanism of property control and the financial discarding of vulnerable labor (women).
+### 1. The Friction (The Hardness of Heart)
+**Raw Greek:** sklērokardian (σκληροκαρδίαν)
+**Morphology:** Noun, Accusative, Singular, Feminine
+**The Physics:** This is a compound of sklēros (hard, stiff, dried out) and kardia (heart/core). In industrial terms, this is entropy. It is a material that has lost its plasticity and become brittle. Christ is diagnosing the Pharisaic law not as a divine ideal, but as a mechanical patch applied to a failing, brittle system.
 
-They expect a theological or legal debate. They want to argue the footnotes of Phase B (the era of extraction, complex law, and social hierarchy).
+### 2. The Anchor (The Beginning)
+**Raw Greek:** archēs (ἀρχῆς)
+**Morphology:** Noun, Genitive, Singular, Feminine
+**The Physics:** This is the exact Greek word used in the Septuagint translation of Genesis 1:1 ("En archē"). It means the foundation, the origin, the first structural node. Christ is explicitly grabbing the Genesis 1:1 wire. He is bypassing all the legal code added in Phase B and plugging his argument directly into Phase A.
 
-Christ refuses to engage with their localized legal framework. Instead, he grabs the absolute baseline established in Genesis 1:1 and uses it as a wrecking bar to collapse their entire premise.
+### 3. The Absolute Negative
+**Raw Greek:** ou (οὐ)
+**Morphology:** Adverb, Negative
+**The Physics:** This is not a soft "no." It is the absolute, objective negative. It means "factually, materially, this is not the case."
 
-First, he diagnoses their law as a symptom of entropy: *"because of the hardness of your hearts."* He identifies the complex legal code not as divine perfection, but as a mechanical concession to human friction and corruption. The law only exists because the system is already broken.
+### 4. The Core Verb (The Manufacture)
+**Raw Greek:** gegonen (γέγονεν)
+**Morphology:** Verb, Perfect, Active, Indicative
+**The Physics:** This is the kill shot. The verb is ginomai, which does not mean a magical poof into existence. It means to be generated, to be manufactured, to come into being through a process.
+Crucially, it is in the Perfect Tense. In Greek, the perfect tense describes an action that was completed in the past but has a continuous, ongoing structural result in the present.
 
-Second, he pulls the lever: *"but from the beginning it was not so."* By invoking the original material baseline, Christ completely invalidates the authority of the administrative class. He demonstrates that their current legal and economic system is an artificial deviation from the factory settings. The answer to their trap is not found by interpreting the corrupt law better; the answer is to abolish the concession entirely and return to the original, uncorrupted structure. He uses the timeline to short-circuit their authority, proving that the end goal (the synthesis) is the restoration of the beginning.
+### The Vector Calculation:
+When you put the gears together—ap' archēs de ou gegonen houtōs—Christ is not giving a philosophical opinion on marriage. He is making a structural, historical declaration:
+"From the foundational baseline (archēs), the system was absolutely not (ou) manufactured to operate like this (gegonen houtōs)."
+He is pointing to the blueprint to prove the current machine is built wrong.
