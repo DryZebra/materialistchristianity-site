@@ -1,200 +1,62 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>{{ page.title }} | Maintenance Log</title>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page.title }} | Materialist Christianity</title>
+    <link rel="stylesheet" href="/styles.css">
     <style>
-      :root {
-        color-scheme: dark;
-      }
-
-      body {
-        margin: 0;
-        background: var(--bg, #110d0a);
-        color: var(--ink, #f4e3c3);
-        font-family: Georgia, "Times New Roman", serif;
-        line-height: 1.6;
-      }
-
-      .maintenance-shell {
-        max-width: 860px;
-        margin: 0 auto;
-        padding: 1.25rem 1rem 2rem;
-      }
-
-      .switchboard-link {
-        display: inline-block;
-        text-decoration: none;
-        background: var(--panel, #1b1510);
-        color: var(--ink, #f4e3c3);
-        border: 1px solid var(--border-light, #3a2e24);
-        border-radius: 4px;
-        font-family: "Segoe UI", Tahoma, sans-serif;
-        font-weight: 700;
-        letter-spacing: 0.02em;
-        padding: 0.55rem 0.9rem;
-        margin-bottom: 1rem;
-      }
-
-      .switchboard-link:hover,
-      .switchboard-link:focus-visible {
-        background: #2a2a2a;
-      }
-
-      .entry-title {
-        margin: 0 0 1rem;
-        font-family: "Arial Black", "Segoe UI", sans-serif;
-        letter-spacing: 0.02em;
-        text-transform: uppercase;
-      }
-
-      .zone {
-        border-radius: 5px;
-        margin-bottom: 1rem;
-      }
-
-      .zone-hardware {
-        background: var(--panel, #1b1510);
-        border: 2px solid var(--border-light, #3a2e24);
-        box-shadow: inset 0 0 0 2px rgba(0, 0, 0, 0.5);
-        padding: 1rem 1.2rem;
-      }
-
-      .zone-hardware h2 {
-        margin: 0 0 0.6rem;
-        font-family: "Arial Black", "Segoe UI", sans-serif;
-        font-size: 1rem;
-        letter-spacing: 0.04em;
-        text-transform: uppercase;
-      }
-
-      .zone-hardware blockquote {
-        margin: 0;
-        padding: 0.6rem 0.85rem;
-        border-left: 4px solid var(--border-light, #3a2e24);
-        background: rgba(0, 0, 0, 0.3);
-        font-size: 1.05rem;
-      }
-
-      .zone-diagnostic {
-        background: #19130e;
-        border: 1px solid var(--border, #2f261f);
-        padding: 1rem 1.2rem;
-        font-family: "Segoe UI", Tahoma, Arial, sans-serif;
-      }
-
-      .zone-diagnostic h2 {
-        margin-top: 0;
-        font-size: 1rem;
-        letter-spacing: 0.04em;
-        text-transform: uppercase;
-      }
-
-      .zone-junction {
-        background: var(--bg, #110d0a);
-        border: 1px solid var(--border-light, #3a2e24);
-        padding: 1rem 1.2rem;
-      }
-
-      .zone-junction h2 {
-        margin-top: 0;
-        font-family: "Arial Black", "Segoe UI", sans-serif;
-        font-size: 0.95rem;
-        letter-spacing: 0.04em;
-        text-transform: uppercase;
-      }
-
-      .zone-junction ul {
-        margin: 0;
-        padding-left: 1.2rem;
-      }
-
-      .capped-wire {
-        font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
-        background: rgba(255, 255, 255, 0.08);
-        padding: 0.1rem 0.2rem;
-        border-radius: 3px;
-      }
-
-      .search-station {
-        margin-bottom: 1.2rem;
-      }
-
-      #wiki-search {
-        width: 100%;
-        box-sizing: border-box;
-        background: #19130e;
-        border: 1px solid var(--border-light, #3a2e24);
-        color: var(--ink, #f4e3c3);
-        padding: 0.65rem 0.75rem;
-        border-radius: 4px;
-        font-family: "Segoe UI", Tahoma, Arial, sans-serif;
-      }
-
-      #wiki-search:focus-visible {
-        outline: 2px solid #7e6652;
-        outline-offset: 1px;
-      }
-
-      #search-results {
-        list-style: none;
-        margin: 0.75rem 0 0;
-        padding: 0;
-      }
-
-      #search-results li {
-        margin: 0.45rem 0;
-      }
-
-      #search-results a {
-        color: var(--ink, #f4e3c3);
-        text-decoration: none;
-        border-bottom: 1px dotted var(--border-light, #3a2e24);
-      }
-
-      #search-results a:hover,
-      #search-results a:focus-visible {
-        color: #ffffff;
-        border-bottom-color: #ffffff;
-      }
+        :root { color-scheme: dark; }
+        body { background: var(--bg, #110d0a); color: var(--ink, #f4e3c3); padding: 2rem 1rem; max-width: 800px; margin: 0 auto; font-family: sans-serif; }
+        .switchboard-nav { margin-bottom: 2rem; }
+        .switchboard-link { display: inline-block; padding: 0.5rem 1rem; background: var(--panel, #1b1510); color: var(--ink, #f4e3c3); border: 1px solid var(--border-light, #3a2e24); text-decoration: none; text-transform: uppercase; font-size: 0.8rem; letter-spacing: 1px; }
+        .zone { margin-bottom: 2rem; }
+        .zone-hardware { background: var(--panel, #1b1510); border: 2px solid var(--border-light, #3a2e24); box-shadow: inset 0 0 0 2px rgba(0,0,0,0.5); padding: 1.5rem; }
+        .zone-hardware blockquote { margin: 0; padding-left: 1rem; border-left: 4px solid var(--border-light, #3a2e24); font-style: italic; background: rgba(0,0,0,0.3); padding: 1rem; }
+        .zone-diagnostic { background: #19130e; border: 1px solid var(--border, #2f261f); padding: 2rem; line-height: 1.6; }
+        .zone-junction { background: var(--bg, #110d0a); border: 1px solid var(--border-light, #3a2e24); padding: 1.5rem; }
+        .zone-junction h3 { margin-top: 0; text-transform: uppercase; font-size: 0.9rem; letter-spacing: 1px; border-bottom: 1px solid #3a2e24; padding-bottom: 0.5rem; }
+        .zone-junction ul { list-style: none; padding: 0; margin: 0; }
+        .zone-junction li { margin-bottom: 0.5rem; }
+        .capped-wire { font-family: ui-monospace, monospace; background: rgba(255,255,255,0.08); padding: 0.2rem 0.4rem; border-radius: 3px; color: #6db3f2; text-decoration: none; }
+        #wiki-search { width: 100%; box-sizing: border-box; padding: 0.8rem; margin-bottom: 1rem; background: #19130e; color: #f4e3c3; border: 1px solid #3a2e24; font-size: 16px !important; }
+        #search-results { list-style: none; padding: 0; margin-bottom: 1rem; }
+        #search-results a { color: #6db3f2; text-decoration: none; display: block; padding: 0.5rem 0; border-bottom: 1px solid #2f261f; }
     </style>
-  </head>
-  <body>
-    <main class="maintenance-shell">
-      <a class="switchboard-link" href="/maintenance-log/">Return to Master Switchboard</a>
+</head>
+<body>
+    <nav class="switchboard-nav">
+        <a href="/maintenance-log/" class="switchboard-link">← Return to Master Switchboard</a>
+    </nav>
 
-      <input
-        type="text"
-        id="wiki-search"
-        placeholder="Search the log..."
-        style="width:100%; padding:0.8rem; margin-bottom:1rem; background:#19130e; color:#f4e3c3; border:1px solid #3a2e24;"
-      />
-      <ul id="search-results" style="list-style:none; padding:0; margin-bottom:1rem;"></ul>
+    <input type="text" id="wiki-search" placeholder="Search the log (e.g., Genesis, Debt)...">
+    <ul id="search-results"></ul>
 
-      <h1 class="entry-title">{{ page.title }}</h1>
+    <main>
+        {% if page.hardware_text %}
+        <div class="zone zone-hardware">
+            <blockquote>{{ page.hardware_text }}</blockquote>
+        </div>
+        {% endif %}
 
-      <section class="zone zone-hardware">
-        <h2>Zone 1: The Hardware (The Text)</h2>
-        <blockquote>{{ page.hardware_text | default: "KJV source text pending installation." }}</blockquote>
-      </section>
+        <div class="zone zone-diagnostic">
+            {{ content }}
+        </div>
 
-      <section class="zone zone-diagnostic">
-        <h2>Zone 2: The Diagnostic (The Structural Analysis)</h2>
-        {{ content }}
-      </section>
-
-      <footer class="zone zone-junction">
-        <h2>Zone 3: The Junction Box (Capped Wires)</h2>
-        <ul>
-          {% for link in page.wikilinks %}
-            {% assign slug = link | downcase | replace: " ", "-" | replace: ":", "-" | replace: ".", "" %}
-            <li><a href="/maintenance-log/{{ slug }}" class="capped-wire">[[{{ link }}]]</a></li>
-          {% endfor %}
-        </ul>
-      </footer>
+        {% if page.wikilinks %}
+        <footer class="zone zone-junction">
+            <h3>Capped Wires</h3>
+            <ul>
+            {% for link in page.wikilinks %}
+                {% assign slug = link | downcase | replace: " ", "-" | replace: ":", "-" | replace: ".", "" %}
+                <li><a href="/maintenance-log/{{ slug }}" class="capped-wire">[[{{ link }}]]</a></li>
+            {% endfor %}
+            </ul>
+        </footer>
+        {% endif %}
     </main>
+
     <script src="/search.js" defer></script>
     <script src="/wikilinks.js" defer></script>
-  </body>
+</body>
 </html>
