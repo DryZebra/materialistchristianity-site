@@ -106,10 +106,10 @@ title: Maintenance Log
     </p>
 
     <ul>
-      <li>[[Genesis 1:1 - The Objective Material Baseline]]</li>
-      <li>[[Genesis 2:15 - The Original Mandate of Labor]]</li>
-      <li>[[Matthew 1:1 - The Biological Lineage of the Synthesis]]</li>
-      <li>[[The Sabbath - Original Labor Protection]]</li>
+      <li><a href="/maintenance-log/genesis-1-1" class="capped-wire">[[Genesis 1:1 - The Objective Material Baseline]]</a></li>
+      <li><a href="/maintenance-log/genesis-2-15" class="capped-wire">[[Genesis 2:15 - The Original Mandate of Labor]]</a></li>
+      <li><a href="/maintenance-log/matthew-1-1" class="capped-wire">[[Matthew 1:1 - The Biological Lineage of the Synthesis]]</a></li>
+      <li><a href="/maintenance-log/the-sabbath" class="capped-wire">[[The Sabbath - Original Labor Protection]]</a></li>
     </ul>
   </section>
 
@@ -121,10 +121,10 @@ title: Maintenance Log
     </p>
 
     <ul>
-      <li>[[James 5:1-4 - The Thermodynamics of Hoarded Wealth]]</li>
-      <li>[[The Pharisees - The Administrative Class]]</li>
-      <li>[[Unjust Scales - The Mechanics of Exploitation]]</li>
-      <li>[[The Fall of Babylon - The Collapse of the Extraction Economy]]</li>
+      <li><a href="/maintenance-log/james-5-1-4" class="capped-wire">[[James 5:1-4 - The Thermodynamics of Hoarded Wealth]]</a></li>
+      <li><a href="/maintenance-log/the-pharisees" class="capped-wire">[[The Pharisees - The Administrative Class]]</a></li>
+      <li><a href="/maintenance-log/unjust-scales" class="capped-wire">[[Unjust Scales - The Mechanics of Exploitation]]</a></li>
+      <li><a href="/maintenance-log/the-fall-of-babylon" class="capped-wire">[[The Fall of Babylon - The Collapse of the Extraction Economy]]</a></li>
     </ul>
   </section>
 
@@ -136,11 +136,11 @@ title: Maintenance Log
     </p>
 
     <ul>
-      <li>[[The Sermon on the Mount - The New Constitution]]</li>
-      <li>[[Matthew 19:8 - The Timeline Lever]]</li>
-      <li>[[Mark 2:23-28 - Collapsing the Contradiction]]</li>
-      <li>[[Acts 2 - The Working Class Co-Op]]</li>
-      <li>[[The Debt Jubilee - Resetting the Financial Circuit]]</li>
+      <li><a href="/maintenance-log/the-sermon-on-the-mount" class="capped-wire">[[The Sermon on the Mount - The New Constitution]]</a></li>
+      <li><a href="/maintenance-log/matthew-19-8" class="capped-wire">[[Matthew 19:8 - The Timeline Lever]]</a></li>
+      <li><a href="/maintenance-log/mark-2-23-28" class="capped-wire">[[Mark 2:23-28 - Collapsing the Contradiction]]</a></li>
+      <li><a href="/maintenance-log/acts-2" class="capped-wire">[[Acts 2 - The Working Class Co-Op]]</a></li>
+      <li><a href="/maintenance-log/the-debt-jubilee" class="capped-wire">[[The Debt Jubilee - Resetting the Financial Circuit]]</a></li>
     </ul>
   </section>
 </div>
@@ -155,8 +155,8 @@ title: Maintenance Log
   </p>
 
   <ul>
-    <li>[[The Holy Spirit as Class Consciousness]]</li>
-    <li>[[The Mutual Aid Network]]</li>
+    <li><a href="/maintenance-log/the-holy-spirit-as-class-consciousness" class="capped-wire">[[The Holy Spirit as Class Consciousness]]</a></li>
+    <li><a href="/maintenance-log/the-mutual-aid-network" class="capped-wire">[[The Mutual Aid Network]]</a></li>
   </ul>
 </section>
 
