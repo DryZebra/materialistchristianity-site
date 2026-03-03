@@ -42,3 +42,23 @@ These entries focus on social glue: the bond that absorbs overload and prevents 
 
 - [[The Holy Spirit as Class Consciousness]](/maintenance-log/the-holy-spirit-as-class-consciousness)
 - [[The Mutual Aid Network]](/maintenance-log/the-mutual-aid-network)
+
+## Linked slug inventory
+
+Slugs currently linked from this index under `/maintenance-log/...`:
+
+- `genesis-1-1`
+- `genesis-2-15`
+- `matthew-1-1`
+- `the-sabbath`
+- `james-5-1-4`
+- `the-pharisees`
+- `unjust-scales`
+- `the-fall-of-babylon`
+- `the-sermon-on-the-mount`
+- `matthew-19-8`
+- `mark-2-23-28`
+- `acts-2`
+- `the-debt-jubilee`
+- `the-holy-spirit-as-class-consciousness`
+- `the-mutual-aid-network`
