@@ -20,6 +20,9 @@ Static site for **Materialist Christianity** — a finite recognition library th
 ## Replace placeholders
 - Add the canonical Amazon URL in `/docs/LINKS.md` and replace `#amazon-link` references.
 
+## Release checklist
+- Update `sitemap.xml` whenever new pages are added.
+
 ## Changelog
 - Reframed the site around the book-first architecture in `/docs/SITE_INTENT.md`, removing social/feed focus and aligning the homepage to recognition → confidence → direction.
 - Added a book hub, concepts library, concept pages, and a simple 404 page to create a finite recognition library with explicit pointers back to the book.
