@@ -381,3 +381,20 @@ a.btn{display:inline-block;text-decoration:none}
 .wikilink:focus-visible{
   color:#d3e9ff;
 }
+
+
+.master-spec{
+  border:2px solid var(--accent);
+  background:linear-gradient(180deg, rgba(178,71,45,0.18) 0%, rgba(27,21,16,1) 65%);
+}
+
+.vault-gate{
+  border:2px dashed var(--border-light);
+  background:repeating-linear-gradient(
+    -45deg,
+    rgba(122,43,40,0.2),
+    rgba(122,43,40,0.2) 12px,
+    rgba(27,21,16,1) 12px,
+    rgba(27,21,16,1) 24px
+  );
+}
