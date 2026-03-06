@@ -1,9 +1,0 @@
-main:
-  - title: Home
-    url: /
-  - title: Start Here
-    url: /start/
-  - title: Concepts
-    url: /maintenance-log/
-  - title: The Book
-    url: /book/

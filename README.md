@@ -1,6 +1,6 @@
 # MaterialistChristianity.org
 
-Static site for **Materialist Christianity** — a finite recognition library that directs readers to the book for full explanations.
+Static site for **Materialist Christianity** — a serial publishing surface with public field notes, a book CTA, and a paid Vault lane.
 
 ## Deploy (GitHub Pages)
 
@@ -21,8 +21,6 @@ Static site for **Materialist Christianity** — a finite recognition library th
 - Add the canonical Amazon URL in `/docs/LINKS.md` and replace `#amazon-link` references.
 
 ## Pre-publish maintenance link check
-- Run `python scripts/check_maintenance_log_links.py` before each publish.
-- This validates that every internal `/maintenance-log/<slug>` link found in markdown files resolves to an existing `maintenance-log/<slug>.md` page.
 
 ## Changelog
 - Reframed the site around the book-first architecture in `/docs/SITE_INTENT.md`, removing social/feed focus and aligning the homepage to recognition → confidence → direction.
