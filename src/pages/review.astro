@@ -394,9 +394,9 @@ const longs = manifest.videos.filter(v => v.type === 'long');
 	// APPROVE / LIKE
 	document.querySelectorAll('.approve-btn').forEach(btn => {
 		btn.addEventListener('click', async () => {
-			const item = btn.closest('.review-item') as HTMLElement;
+			const item = btn.closest('.review-item');
 			const type = item.dataset.type;
-			const id = (btn as HTMLElement).dataset.id;
+			const id = btn.dataset.id;
 			
 			if (type === 'essay') {
 				// Legacy Essay Publish Logic
@@ -414,10 +414,10 @@ const longs = manifest.videos.filter(v => v.type === 'long');
 	// REJECT / DISLIKE
 	document.querySelectorAll('.reject-btn').forEach(btn => {
 		btn.addEventListener('click', async () => {
-			const item = btn.closest('.review-item') as HTMLElement;
+			const item = btn.closest('.review-item');
 			const type = item.dataset.type;
-			const id = (btn as HTMLElement).dataset.id;
-			const feedback = (item.querySelector('.feedback-input') as HTMLTextAreaElement)?.value || "";
+			const id = btn.dataset.id;
+			const feedback = item.querySelector('.feedback-input')?.value || "";
 			
 			if (type === 'essay') {
 				const slug = item.dataset.slug;
@@ -429,7 +429,7 @@ const longs = manifest.videos.filter(v => v.type === 'long');
 		});
 	});
 
-	async function logRemoteAction(id: string, action: string, element: HTMLElement, feedback = "") {
+	async function logRemoteAction(id, action, element, feedback = "") {
 		const headers = getGHHeaders();
 		if (!headers) return;
 
@@ -470,8 +470,7 @@ const longs = manifest.videos.filter(v => v.type === 'long');
 		}
 	}
 
-	async function executeAstroAction(currentPath: string, targetPath: string | null, element: HTMLElement, feedback = "") {
-		// Existing Essay logic logic... (omitted for brevity in prompt, but I'll write the full code)
+	async function executeAstroAction(currentPath, targetPath, element, feedback = "") {
 		const headers = getGHHeaders();
 		if (!headers) return;
 
@@ -510,7 +509,7 @@ const longs = manifest.videos.filter(v => v.type === 'long');
 		}
 	}
 
-	async function logRejectedPattern(reason: string, headers: any) {
+	async function logRejectedPattern(reason, headers) {
 		const path = "rejected_patterns.json";
 		let patterns = [];
 		let sha = "";
