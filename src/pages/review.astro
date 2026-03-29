@@ -142,6 +142,8 @@ const longs = manifest.videos.filter(v => v.type === 'long');
 </Layout>
 
 <style>
+	.hidden { display: none !important; }
+	
 	.review-container {
 		padding: 2rem 1rem;
 		max-width: 800px;
@@ -169,6 +171,11 @@ const longs = manifest.videos.filter(v => v.type === 'long');
 		letter-spacing: 1px;
 	}
 	.header-status {
+		display: flex;
+		justify-content: space-between;
+		align-items: center;
+		margin-bottom: 1.5rem;
+	}
 	.sync-status {
 		font-size: 0.7rem;
 		opacity: 0.6;
@@ -236,7 +243,6 @@ const longs = manifest.videos.filter(v => v.type === 'long');
 		resize: none;
 		font-size: 0.8rem;
 	}
-	.hidden { display: none !important; }
 	.empty-state { text-align: center; opacity: 0.5; padding: 3rem; }
 	#pin-entry {
 		background: #000;
