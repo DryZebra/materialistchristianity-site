@@ -37,12 +37,18 @@ const longs = manifest.videos.filter(v => v.type === 'long');
 					<span class="auth-badge">[ SYSTEM AUTHENTICATED ]</span>
 				</div>
 				<p class="sync-status">LAST SYNC: {manifest.last_sync}</p>
-				<nav class="ucc-tabs">
-					<button class="tab-btn active" data-tab="essays">FIELD NOTES ({essays.length})</button>
-					<button class="tab-btn" data-tab="shorts">SHORTS ({shorts.length})</button>
-					<button class="tab-btn" data-tab="longs">LONG FORM ({longs.length})</button>
-				</nav>
-				<div id="status-bar" class="panel hidden"></div>
+				<div class="header-controls">
+					<nav class="ucc-tabs">
+						<button class="tab-btn active" data-tab="essays">FIELD NOTES ({essays.length})</button>
+						<button class="tab-btn" data-tab="shorts">SHORTS ({shorts.length})</button>
+						<button class="tab-btn" data-tab="longs">LONG FORM ({longs.length})</button>
+					</nav>
+					<button id="refresh-hub" class="mini-btn" title="Refresh Sync">REFRESH ⟳</button>
+				</div>
+				<div id="status-bar" class="panel hidden">
+					<span id="status-text"></span>
+					<button id="undo-btn" class="mini-btn hidden" style="margin-left:auto;">[ UNDO ]</button>
+				</div>
 			</header>
 
 			<!-- ESSAYS TAB -->
@@ -177,11 +183,30 @@ const longs = manifest.videos.filter(v => v.type === 'long');
 		align-items: center;
 		margin-bottom: 1.5rem;
 	}
+	.header-controls {
+		display: flex;
+		justify-content: space-between;
+		align-items: center;
+		gap: 1rem;
+	}
 	.sync-status {
 		font-size: 0.7rem;
 		opacity: 0.6;
 		margin: 0;
 	}
+	#status-bar {
+		margin: 1rem 0;
+		padding: 0.8rem;
+		font-size: 0.8rem;
+		text-transform: uppercase;
+		letter-spacing: 1px;
+		font-family: 'Courier New', Courier, monospace;
+		border: 1px solid #333;
+		display: flex;
+		align-items: center;
+	}
+	.hidden-instant { display: none !important; }
+	.tab-btn { flex: 1; }
 	#status-bar {
 		margin: 1rem 0;
 		padding: 0.8rem;
@@ -418,13 +443,54 @@ const longs = manifest.videos.filter(v => v.type === 'long');
 	const showStatus = (msg, isError = false) => {
 		console.log(`[UCC STATUS] ${msg}`);
 		if (status) {
-			status.textContent = msg;
+			const textEl = document.getElementById('status-text');
+			if (textEl) textEl.textContent = msg;
 			status.className = isError ? 'panel status-error' : 'panel status-success';
 			status.classList.remove('hidden');
 			// Keep errors visible longer
-			setTimeout(() => status.classList.add('hidden'), isError ? 10000 : 5000);
+			setTimeout(() => {
+				if (!isError) status.classList.add('hidden');
+			}, isError ? 10000 : 5000);
 		}
 	};
+
+	// REFRESH
+	document.getElementById('refresh-hub')?.addEventListener('click', () => {
+		location.reload();
+	});
+
+	// UNDO Logic
+	const undoBtn = document.getElementById('undo-btn');
+	undoBtn?.addEventListener('click', async () => {
+		const headers = getGHHeaders();
+		if (!headers) return;
+		
+		showStatus("REVERSING LAST ACTION...");
+		try {
+			const actionsPath = "src/data/review_actions.json";
+			const res = await fetch(`https://api.github.com/repos/${OWNER}/${REPO}/contents/${actionsPath}`, { headers });
+			if (res.ok) {
+				const data = await res.json();
+				let actions = JSON.parse(atob(data.content));
+				if (actions.length > 0) {
+					const removed = actions.pop();
+					await fetch(`https://api.github.com/repos/${OWNER}/${REPO}/contents/${actionsPath}`, {
+						method: 'PUT',
+						headers,
+						body: JSON.stringify({
+							message: `Ezra: UNDO ${removed.action} on ${removed.id}`,
+							content: btoa(JSON.stringify(actions, null, 2)),
+							sha: data.sha
+						})
+					});
+					showStatus("UNDO SUCCESSFUL. REFRESHING...");
+					setTimeout(() => location.reload(), 2000);
+				}
+			}
+		} catch (e) {
+			alert(`UNDO FAILURE: ${e}`);
+		}
+	});
 
 	// APPROVE / LIKE
 	document.querySelectorAll('.approve-btn').forEach(btn => {
@@ -506,8 +572,8 @@ const longs = manifest.videos.filter(v => v.type === 'long');
 
 			if (updateRes.ok) {
 				showStatus(`COMMAND ACKNOWLEDGED. ENGINE WILL ACT IN NEXT CYCLE.`);
-				element.style.opacity = "0.3";
-				element.style.pointerEvents = "none";
+				element.classList.add('hidden-instant');
+				undoBtn?.classList.remove('hidden');
 			} else {
 				const err = await updateRes.json();
 				alert(`ENGINE REJECTION: ${err.message}`);
@@ -549,8 +615,8 @@ const longs = manifest.videos.filter(v => v.type === 'long');
 				body: JSON.stringify({ message: "Ezra: Clearing review slot", sha })
 			});
 
-			element.style.opacity = "0.3";
-			element.style.pointerEvents = "none";
+			element.classList.add('hidden-instant');
+			undoBtn?.classList.remove('hidden');
 			showStatus("STRUCTURAL ACTION COMPLETE.");
 		} catch (e) {
 			alert(`ACTION FAILURE: ${e}`);
