@@ -435,9 +435,13 @@ const longs = manifest.videos.filter(v => v.type === 'long');
 			
 			if (type === 'essay') {
 				// Legacy Essay Publish Logic
-				const slug = item.dataset.slug;
-				const currentPath = `src/content/blog/drafts/${slug}.md`;
-				const targetPath = `src/content/blog/${slug}.md`;
+				const id = btn.dataset.id;
+				const currentPath = `src/content/blog/${id}`;
+				const targetPath = `src/content/blog/${id.replace('drafts/', '')}`;
+				
+				// Diagnostic Alert
+				alert(`MASTER SYNC: Targeting ${currentPath}`);
+				
 				await executeAstroAction(currentPath, targetPath, item);
 			} else {
 				// NEW: Video Approval (Updates actions.json)
@@ -458,6 +462,10 @@ const longs = manifest.videos.filter(v => v.type === 'long');
 				const id = item.dataset.id;
 				const currentPath = `src/content/blog/${id}`;
 				const targetPath = `src/content/blog/${id.replace('drafts/', '')}`;
+				
+				// Diagnostic Alert
+				alert(`MASTER SYNC: Targeting ${currentPath}`);
+				
 				await executeAstroAction(currentPath, targetPath, item);
 			} else {
 				await logRemoteAction(id, "dislike", item, feedback);
