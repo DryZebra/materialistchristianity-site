@@ -1,52 +1,129 @@
 ---
 import { getCollection } from 'astro:content';
 import Layout from '../layouts/Layout.astro';
+import fs from 'node:fs/promises';
+import { Path } from 'node:path';
 
-// We fetch drafts at build time for the initial list, 
-// but the LIVE actions happen via the GitHub API in the client.
+// We fetch drafts and manifest at build time for the initial list
 const allPosts = await getCollection('blog');
-const drafts = allPosts.filter((post) => post.id.startsWith('drafts/'));
+const essays = allPosts
+	.filter((post) => post.id.startsWith('drafts/'))
+	.map(p => ({ slug: p.slug, title: p.data.title, id: p.id }));
+
+// Load the YouTube manifest (if it exists)
+let manifest = { videos: [], essays: [], last_sync: "N/A" };
+const manifestPath = './src/data/review_manifest.json';
+try {
+	const data = await fs.readFile(manifestPath, 'utf-8');
+	manifest = JSON.parse(data);
+} catch (e) {
+	console.log("No UCC manifest discovered. Operating in legacy mode.");
+}
+
+const shorts = manifest.videos.filter(v => v.type === 'short' || v.title.toLowerCase().includes('short'));
+const longs = manifest.videos.filter(v => v.type === 'long' || (!v.title.toLowerCase().includes('short') && v.type !== 'short'));
 ---
 
-<Layout title="Structural Review Hub">
-	<main class="content">
-		<header class="section-header">
-			<div class="dispatch-tag">PRIVATE ACCESS</div>
-			<h1>Structural Review Hub</h1>
-			<p class="lede">Gated access for William-engine validation. Approve or incinerate new field notes.</p>
-		</header>
-
-		<div id="auth-gate" class="panel highlight-panel">
-			<h3>IDENTITY VERIFICATION REQUIRED</h3>
-			<p>Enter your Structural Key (GitHub Token) to unlock the command interface.</p>
-			<input type="password" id="gh-token" placeholder="Enter Token..." class="input-field" />
-			<button id="unlock-btn" class="btn primary">UNSEAL INTERFACE</button>
-			<p class="note">Token is saved in your browser's local storage for mobile persistence.</p>
+<Layout title="UCC: Unified Command Center">
+	<main class="review-container">
+		<div id="auth-gate" class="panel gate-panel">
+			<h2>[ COMMAND CENTER LOCKED ]</h2>
+			<p>ACCESS REQUIRES STRUCTURAL PIN</p>
+			<div class="pin-grid">
+				<input type="password" id="pin-entry" maxlength="4" placeholder="****" inputmode="numeric" />
+				<button id="unlock-btn" class="btn">[ ENGAGE ]</button>
+			</div>
 		</div>
 
-		<div id="review-interface" style="display: none;">
-			<section class="draft-list">
-				{drafts.length === 0 ? (
-					<div class="panel">
-						<p>NO PENDING DRAFTS DISCOVERED. BUFFER IS SATISFIED.</p>
-					</div>
+		<div id="ucc-interface" class="hidden">
+			<header class="ucc-header">
+				<h1>[ UCC: UNIFIED COMMAND CENTER ]</h1>
+				<p class="sync-status">LAST SYNC: {manifest.last_sync}</p>
+				<nav class="ucc-tabs">
+					<button class="tab-btn active" data-tab="essays">FIELD NOTES ({essays.length})</button>
+					<button class="tab-btn" data-tab="shorts">SHORTS ({shorts.length})</button>
+					<button class="tab-btn" data-tab="longs">LONG FORM ({longs.length})</button>
+				</nav>
+			</header>
+
+			<!-- ESSAYS TAB -->
+			<section id="tab-essays" class="tab-content active">
+				{essays.length === 0 ? (
+					<div class="panel empty-state">NO PENDING DRAFTS DISCOVERED.</div>
 				) : (
-					drafts.map((draft) => (
-						<article class="draft-item panel" data-slug={draft.slug} data-id={draft.id}>
-							<div class="draft-header">
-								<h2 class="recognition-title">{draft.data.title}</h2>
-								<span class="status-tag">PENDING VALIDATION</span>
-							</div>
-							<p class="draft-meta">DATE: {draft.data.pubDate.toLocaleDateString()}</p>
-							<div class="draft-content">
-								<p><strong>TAKEAWAY:</strong> {draft.data.description}</p>
-								<div class="body-preview">
-									{draft.body ? draft.body.substring(0, 300) : "CONTENT UNAVAILABLE"}...
-								</div>
+					essays.map((essay) => (
+						<article class="review-item panel" data-slug={essay.slug} data-id={essay.id} data-type="essay">
+							<div class="item-info">
+								<h3>{essay.title}</h3>
+								<code class="slug-tag">{essay.slug}</code>
 							</div>
 							<div class="action-row">
-								<button class="btn approve-btn" data-id={draft.id}>[ APPROVE & PUBLISH ]</button>
-								<button class="btn reject-btn" data-id={draft.id} data-sha={""}>[ INCINERATE ]</button>
+								<button class="btn approve-btn" data-id={essay.id}>[ PUBLISH ]</button>
+								<button class="btn reject-btn" data-id={essay.id}>[ INCINERATE ]</button>
+							</div>
+						</article>
+					))
+				)}
+			</section>
+
+			<!-- SHORTS TAB -->
+			<section id="tab-shorts" class="tab-content">
+				{shorts.length === 0 ? (
+					<div class="panel empty-state">SHORTS BUFFER IS EMPTY.</div>
+				) : (
+					shorts.map((v) => (
+						<article class="review-item panel" data-vid={v.id} data-type="video">
+							<div class="video-preview">
+								<iframe 
+									width="100%" 
+									height="400" 
+									src={`https://www.youtube.com/embed/${v.id}`} 
+									frameborder="0" 
+									allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+									allowfullscreen>
+								</iframe>
+							</div>
+							<div class="item-info">
+								<h3>{v.title}</h3>
+							</div>
+							<div class="feedback-box">
+								<textarea placeholder="OPTIONAL REJECTION FEEDBACK..." class="feedback-input"></textarea>
+							</div>
+							<div class="action-row">
+								<button class="btn approve-btn" data-id={v.id}>[ LIKE ]</button>
+								<button class="btn reject-btn" data-id={v.id}>[ DISLIKE ]</button>
+							</div>
+						</article>
+					))
+				)}
+			</section>
+
+			<!-- LONGS TAB -->
+			<section id="tab-longs" class="tab-content">
+				{longs.length === 0 ? (
+					<div class="panel empty-state">LONG FORM BUFFER IS EMPTY.</div>
+				) : (
+					longs.map((v) => (
+						<article class="review-item panel" data-vid={v.id} data-type="video">
+							<div class="video-preview">
+								<iframe 
+									width="100%" 
+									height="225" 
+									src={`https://www.youtube.com/embed/${v.id}`} 
+									frameborder="0" 
+									allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+									allowfullscreen>
+								</iframe>
+							</div>
+							<div class="item-info">
+								<h3>{v.title}</h3>
+							</div>
+							<div class="feedback-box">
+								<textarea placeholder="OPTIONAL REJECTION FEEDBACK..." class="feedback-input"></textarea>
+							</div>
+							<div class="action-row">
+								<button class="btn approve-btn" data-id={v.id}>[ LIKE ]</button>
+								<button class="btn reject-btn" data-id={v.id}>[ DISLIKE ]</button>
 							</div>
 						</article>
 					))
@@ -54,214 +131,302 @@ const drafts = allPosts.filter((post) => post.id.startsWith('drafts/'));
 			</section>
 		</div>
 
-		<a href="/maintenance-log/" class="text-link">← RETURN TO LOG</a>
+		<div id="status-bar" class="hidden"></div>
 	</main>
 </Layout>
+
+<style>
+	.review-container {
+		padding: 2rem 1rem;
+		max-width: 800px;
+		margin: 0 auto;
+		min-height: 80vh;
+	}
+	.ucc-header h1 {
+		font-size: 1.5rem;
+		color: var(--brand-orange);
+		letter-spacing: 2px;
+		margin-bottom: 0.5rem;
+	}
+	.sync-status {
+		font-size: 0.7rem;
+		opacity: 0.6;
+		margin-bottom: 1.5rem;
+	}
+	.ucc-tabs {
+		display: grid;
+		grid-template-columns: 1fr 1fr 1fr;
+		gap: 0.5rem;
+		margin-bottom: 2rem;
+	}
+	.tab-btn {
+		background: #1a1a1a;
+		border: 1px solid #333;
+		color: #666;
+		padding: 0.75rem 0.25rem;
+		font-size: 0.7rem;
+		cursor: pointer;
+		font-family: inherit;
+		text-transform: uppercase;
+	}
+	.tab-btn.active {
+		border-color: var(--brand-orange);
+		color: var(--white);
+		background: #222;
+	}
+	.tab-content {
+		display: none;
+	}
+	.tab-content.active {
+		display: block;
+	}
+	.review-item {
+		margin-bottom: 1.5rem;
+		border-left: 4px solid #333;
+	}
+	.review-item[data-type="essay"] { border-left-color: #2980b9; }
+	.review-item[data-type="video"] { border-left-color: #c0392b; }
+	
+	.video-preview {
+		background: #000;
+		margin: -1.5rem -1.5rem 1rem -1.5rem;
+		border-bottom: 1px solid #333;
+	}
+	.feedback-input {
+		width: 100%;
+		background: #000;
+		border: 1px solid #333;
+		color: #999;
+		font-family: inherit;
+		padding: 0.5rem;
+		margin: 1rem 0;
+		height: 60px;
+		resize: none;
+		font-size: 0.8rem;
+	}
+	.hidden { display: none !important; }
+	.empty-state { text-align: center; opacity: 0.5; padding: 3rem; }
+	#pin-entry {
+		background: #000;
+		border: 1px solid #333;
+		color: var(--brand-orange);
+		font-size: 2rem;
+		text-align: center;
+		width: 100%;
+		margin-bottom: 1rem;
+		letter-spacing: 10px;
+	}
+	.action-row {
+		display: flex;
+		gap: 1rem;
+		margin-top: 1rem;
+	}
+	.action-row .btn { flex: 1; padding: 1rem; font-weight: bold; }
+	.approve-btn { border-color: #27ae60 !important; color: #27ae60 !important; }
+	.reject-btn { border-color: #c0392b !important; color: #c0392b !important; }
+</style>
 
 <script lang="ts">
 	const OWNER = "DryZebra";
 	const REPO = "materialistchristianity-site";
 	
-	const authGate = document.getElementById('auth-gate');
-	const reviewInterface = document.getElementById('review-interface');
-	const tokenInput = document.getElementById('gh-token') as HTMLInputElement;
+	// Auth Logic
+	const pinInput = document.getElementById('pin-entry') as HTMLInputElement;
 	const unlockBtn = document.getElementById('unlock-btn');
+	const gate = document.getElementById('auth-gate');
+	const hub = document.getElementById('ucc-interface');
+	const status = document.getElementById('status-bar');
 
-	// Check for stored token
-	const storedToken = localStorage.getItem('review_gh_token');
-	if (storedToken) {
-		tokenInput.value = storedToken;
-		// Automatically show interface if token exists
-		authGate!.style.display = 'none';
-		reviewInterface!.style.display = 'block';
-	}
+	const checkAuth = () => {
+		if (localStorage.getItem('ucc_authorized') === '2026') {
+			gate?.classList.add('hidden');
+			hub?.classList.remove('hidden');
+		}
+	};
 
 	unlockBtn?.addEventListener('click', () => {
-		const token = tokenInput.value;
-		if (token) {
-			localStorage.setItem('review_gh_token', token);
-			authGate!.style.display = 'none';
-			reviewInterface!.style.display = 'block';
-			alert("Interface Unsealed. Structural authority established.");
+		if (pinInput.value === '2026') {
+			localStorage.setItem('ucc_authorized', '2026');
+			checkAuth();
+		} else {
+			alert("TOPOLOGY ERROR: ACCESS DENIED.");
+			pinInput.value = "";
 		}
 	});
 
-	// Action Listeners
+	// Tab Logic
+	const tabBtns = document.querySelectorAll('.tab-btn');
+	const tabContents = document.querySelectorAll('.tab-content');
+
+	tabBtns.forEach(btn => {
+		btn.addEventListener('click', () => {
+			const target = btn.getAttribute('data-tab');
+			tabBtns.forEach(b => b.classList.remove('active'));
+			tabContents.forEach(c => c.classList.remove('active'));
+			btn.classList.add('active');
+			document.getElementById(`tab-${target}`)?.classList.add('active');
+		});
+	});
+
+	// Action Logic (Shared)
+	const getGHHeaders = () => {
+		const token = localStorage.getItem('review_gh_token');
+		if (!token) {
+			const t = prompt("INPUT GITHUB TOKEN FOR ENGINE HANDSHAKE:");
+			if (t) {
+				localStorage.setItem('review_gh_token', t);
+				return { "Authorization": `token ${t}`, "Accept": "application/vnd.github.v3+json" };
+			}
+			return null;
+		}
+		return { "Authorization": `token ${token}`, "Accept": "application/vnd.github.v3+json" };
+	};
+
+	const showStatus = (msg: string, isError = false) => {
+		if (status) {
+			status.textContent = msg;
+			status.className = isError ? 'panel status-error' : 'panel status-success';
+			status.classList.remove('hidden');
+			setTimeout(() => status.classList.add('hidden'), 5000);
+		}
+	};
+
+	// APPROVE / LIKE
 	document.querySelectorAll('.approve-btn').forEach(btn => {
-		btn.addEventListener('click', async (e) => {
-			const target = e.target as HTMLButtonElement;
-			const id = target.dataset.id;
-			await moveFile(id, target);
+		btn.addEventListener('click', async () => {
+			const item = btn.closest('.review-item') as HTMLElement;
+			const type = item.dataset.type;
+			const id = (btn as HTMLElement).dataset.id;
+			
+			if (type === 'essay') {
+				// Legacy Essay Publish Logic
+				const slug = item.dataset.slug;
+				const currentPath = `src/content/blog/drafts/${slug}.md`;
+				const targetPath = `src/content/blog/${slug}.md`;
+				await executeAstroAction(currentPath, targetPath, item);
+			} else {
+				// NEW: Video Approval (Updates actions.json)
+				await logRemoteAction(id, "like", item);
+			}
 		});
 	});
 
+	// REJECT / DISLIKE
 	document.querySelectorAll('.reject-btn').forEach(btn => {
-		btn.addEventListener('click', async (e) => {
-			const target = e.target as HTMLButtonElement;
-			const id = target.dataset.id;
-			await deleteFile(id, target);
+		btn.addEventListener('click', async () => {
+			const item = btn.closest('.review-item') as HTMLElement;
+			const type = item.dataset.type;
+			const id = (btn as HTMLElement).dataset.id;
+			const feedback = (item.querySelector('.feedback-input') as HTMLTextAreaElement)?.value || "";
+			
+			if (type === 'essay') {
+				const slug = item.dataset.slug;
+				const currentPath = `src/content/blog/drafts/${slug}.md`;
+				await executeAstroAction(currentPath, null, item, feedback);
+			} else {
+				await logRemoteAction(id, "dislike", item, feedback);
+			}
 		});
 	});
 
-	async function moveFile(id: string | undefined, btn: HTMLButtonElement) {
-		if (!id) return;
-		const token = localStorage.getItem('review_gh_token');
-		btn.disabled = true;
-		btn.innerText = "PROMOTING...";
+	async function logRemoteAction(id: string, action: string, element: HTMLElement, feedback = "") {
+		const headers = getGHHeaders();
+		if (!headers) return;
 
-		const oldPath = `src/content/blog/${id}.md`;
-		const newPath = oldPath.replace('drafts/', '');
-
+		showStatus(`SYNCHRONIZING ${action.toUpperCase()} TO ENGINE...`);
+		
 		try {
-			// 1. Get current file content and SHA
-			const getRes = await fetch(`https://api.github.com/repos/${OWNER}/${REPO}/contents/${oldPath}`, {
-				headers: { "Authorization": `token ${token}` }
-			});
-			const fileData = await getRes.json();
-
-			// 2. Create new file in blog root
-			const createRes = await fetch(`https://api.github.com/repos/${OWNER}/${REPO}/contents/${newPath}`, {
-				method: "PUT",
-				headers: { "Authorization": `token ${token}`, "Content-Type": "application/json" },
+			// Pull current actions.json
+			const actionsPath = "src/data/review_actions.json";
+			let actions = [];
+			let sha = "";
+			
+			const res = await fetch(`https://api.github.com/repos/${OWNER}/${REPO}/contents/${actionsPath}`, { headers });
+			if (res.ok) {
+				const data = await res.json();
+				actions = JSON.parse(atob(data.content));
+				sha = data.sha;
+			}
+			
+			actions.push({ id, action, feedback, timestamp: new Date().toISOString() });
+			
+			const updateRes = await fetch(`https://api.github.com/repos/${OWNER}/${REPO}/contents/${actionsPath}`, {
+				method: 'PUT',
+				headers,
 				body: JSON.stringify({
-					message: `Structural Promotion: ${id}`,
-					content: fileData.content,
-					sha: "", // Creating new file
-					branch: "main"
+					message: `Ezra: Mobile ${action} on ${id}`,
+					content: btoa(JSON.stringify(actions, null, 2)),
+					sha: sha || undefined
 				})
 			});
 
-			if (createRes.ok) {
-				// 3. Delete old draft
-				await fetch(`https://api.github.com/repos/${OWNER}/${REPO}/contents/${oldPath}`, {
-					method: "DELETE",
-					headers: { "Authorization": `token ${token}`, "Content-Type": "application/json" },
-					body: JSON.stringify({
-						message: `Cleaning up draft: ${id}`,
-						sha: fileData.sha,
-						branch: "main"
-					})
+			if (updateRes.ok) {
+				showStatus(`COMMAND ACKNOWLEDGED. ENGINE WILL ACT IN NEXT CYCLE.`);
+				element.style.opacity = "0.3";
+				element.style.pointerEvents = "none";
+			}
+		} catch (e) {
+			showStatus(`SYNC FAILED: ${e}`, true);
+		}
+	}
+
+	async function executeAstroAction(currentPath: string, targetPath: string | null, element: HTMLElement, feedback = "") {
+		// Existing Essay logic logic... (omitted for brevity in prompt, but I'll write the full code)
+		const headers = getGHHeaders();
+		if (!headers) return;
+
+		try {
+			// Find SHA
+			const fileRes = await fetch(`https://api.github.com/repos/${OWNER}/${REPO}/contents/${currentPath}`, { headers });
+			if (!fileRes.ok) throw new Error("File not discovered in repo.");
+			const fileData = await fileRes.json();
+			const sha = fileData.sha;
+			const content = fileData.content;
+
+			if (targetPath) {
+				// PUBLISH
+				await fetch(`https://api.github.com/repos/${OWNER}/${REPO}/contents/${targetPath}`, {
+					method: 'PUT',
+					headers,
+					body: JSON.stringify({ message: "Ezra: Approved Field Note", content, branch: "main" })
 				});
-				btn.innerText = "[ APPROVED ]";
-				btn.style.backgroundColor = "#006b33";
-				setTimeout(() => btn.closest('.draft-item')?.remove(), 1000);
 			} else {
-				throw new Error("Creation failed");
+				// LOG REJECTION
+				if (feedback) await logRejectedPattern(feedback, headers);
 			}
-		} catch (err) {
-			console.error(err);
-			alert("Promotion Failure. Check token permissions or network.");
-			btn.disabled = false;
-			btn.innerText = "[ RETRY APPROVE ]";
+
+			// DELETE DRAFT
+			await fetch(`https://api.github.com/repos/${OWNER}/${REPO}/contents/${currentPath}`, {
+				method: 'DELETE',
+				headers,
+				body: JSON.stringify({ message: "Ezra: Clearing review slot", sha })
+			});
+
+			element.style.opacity = "0.3";
+			element.style.pointerEvents = "none";
+			showStatus("STRUCTURAL ACTION COMPLETE.");
+		} catch (e) {
+			showStatus(`ACTION FAILED: ${e}`, true);
 		}
 	}
 
-	async function deleteFile(id: string | undefined, btn: HTMLButtonElement) {
-		if (!id) return;
-		const token = localStorage.getItem('review_gh_token');
-		btn.disabled = true;
-		btn.innerText = "INCINERATING...";
-
-		const path = `src/content/blog/${id}.md`;
-
-		try {
-			// Get SHA first
-			const getRes = await fetch(`https://api.github.com/repos/${OWNER}/${REPO}/contents/${path}`, {
-				headers: { "Authorization": `token ${token}` }
-			});
-			const fileData = await getRes.json();
-
-			const delRes = await fetch(`https://api.github.com/repos/${OWNER}/${REPO}/contents/${path}`, {
-				method: "DELETE",
-				headers: { "Authorization": `token ${token}`, "Content-Type": "application/json" },
-				body: JSON.stringify({
-					message: `Structural Rejection: ${id}`,
-					sha: fileData.sha,
-					branch: "main"
-				})
-			});
-
-			if (delRes.ok) {
-				btn.innerText = "[ INCINERATED ]";
-				btn.style.backgroundColor = "#b80000";
-				setTimeout(() => btn.closest('.draft-item')?.remove(), 1000);
-			} else {
-				throw new Error("Deletion failed");
-			}
-		} catch (err) {
-			console.error(err);
-			alert("Incineration Failure.");
-			btn.disabled = false;
-			btn.innerText = "[ RETRY REJECT ]";
+	async function logRejectedPattern(reason: string, headers: any) {
+		const path = "rejected_patterns.json";
+		let patterns = [];
+		let sha = "";
+		const res = await fetch(`https://api.github.com/repos/${OWNER}/${REPO}/contents/${path}`, { headers });
+		if (res.ok) {
+			const data = await res.json();
+			patterns = JSON.parse(atob(data.content));
+			sha = data.sha;
 		}
+		patterns.push({ timestamp: new Date().toISOString(), reason });
+		await fetch(`https://api.github.com/repos/${OWNER}/${REPO}/contents/${path}`, {
+			method: 'PUT',
+			headers,
+			body: JSON.stringify({ message: "Ezra: Logging conceptual rejection", content: btoa(JSON.stringify(patterns, null, 2)), sha })
+		});
 	}
+
+	checkAuth();
 </script>
-
-<style>
-	.draft-list {
-		display: flex;
-		flex-direction: column;
-		gap: 1.5rem;
-		margin-top: 2rem;
-	}
-	.draft-item {
-		border-left: 4px solid var(--accent-color);
-		max-width: 600px;
-	}
-	.draft-header {
-		display: flex;
-		justify-content: space-between;
-		align-items: center;
-		margin-bottom: 0.5rem;
-	}
-	.status-tag {
-		font-size: 0.7rem;
-		background: #444;
-		color: #fff;
-		padding: 2px 6px;
-		letter-spacing: 1px;
-	}
-	.draft-meta {
-		font-size: 0.8rem;
-		color: #888;
-		margin-bottom: 1rem;
-	}
-	.body-preview {
-		font-family: var(--font-mono);
-		font-size: 0.85rem;
-		color: #aaa;
-		background: rgba(255,255,255,0.05);
-		padding: 1rem;
-		border-top: 1px solid #333;
-		margin-top: 1rem;
-	}
-	.action-row {
-		display: flex;
-		gap: 1rem;
-		margin-top: 1.5rem;
-	}
-	.approve-btn {
-		background-color: #004522;
-		color: white;
-		flex: 2;
-	}
-	.reject-btn {
-		background-color: #450000;
-		color: white;
-		flex: 1;
-	}
-	.input-field {
-		width: 100%;
-		padding: 0.75rem;
-		background: #222;
-		border: 1px solid #444;
-		color: white;
-		margin: 1rem 0;
-		font-family: var(--font-mono);
-	}
-	.note {
-		font-size: 0.75rem;
-		color: #666;
-		margin-top: 0.5rem;
-	}
-</style>
