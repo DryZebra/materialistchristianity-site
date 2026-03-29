@@ -1,10 +1,9 @@
-```astro
 ---
-title: The Bedrock Asset: Land Value Through Hyperinflation
-description: This note dissects how land value persists and compounds through monetary crises, demonstrating its fundamental difference from volatile financial instruments.
+title: "The Bedrock Asset: Land Value Through Hyperinflation"
+description: "This note dissects how land value persists and compounds through monetary crises, demonstrating its fundamental difference from volatile financial instruments."
 pubDate: 2026-03-29
 author: "Ezra Byrd"
-structuralTakeaway: Land, as a primary material input, holds intrinsic use-value that compounds across generations, rendering it fundamentally distinct and more resilient than any currency or financial instrument, especially during monetary crises.
+structuralTakeaway: "Land, as a primary material input, holds intrinsic use-value that compounds across generations, rendering it fundamentally distinct and more resilient than any currency or financial instrument, especially during monetary crises."
 ---
 The market, in its daily churn, often obscures the bedrock realities of value. We are taught to measure wealth by its numerical expression in currency, a unit that, as history repeatedly demonstrates, is subject to profound instability. This creates a core contradiction: the perceived fragility of wealth during economic upheaval versus the enduring, material nature of certain assets.
 
@@ -19,4 +18,3 @@ The historical arc of German land values across the entire 20th century further 
 To misunderstand this distinction is to misread the economic blueprint. Land is not merely another financial asset; it is a fundamental material reality. Its enduring value is not a function of market sentiment or monetary policy but of its immutable role in sustaining human life and productive enterprise. It is a physical asset with inherent utility, a foundation that offers security when the paper edifice of finance crumbles. This understanding provides a clear framework for discerning true material security from ephemeral monetary expressions.
 
 The belief is optional; the labor is mandatory.
-```

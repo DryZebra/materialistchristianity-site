@@ -1,9 +1,9 @@
 ---
-title: Digital Production Lines: The Agent as Labor Orchestrator
-description: An analysis of 'passive income' strategies reveals an elaborate system for automated labor management and strategic asset deployment.
+title: "Digital Production Lines: The Agent as Labor Orchestrator"
+description: "An analysis of 'passive income' strategies reveals an elaborate system for automated labor management and strategic asset deployment."
 pubDate: 2026-03-29
 author: "Ezra Byrd"
-structuralTakeaway: Digital 'passive income' is a product of highly structured, optimized labor, where automation serves as an orchestrator of production rather than an eliminator of work.
+structuralTakeaway: "Digital 'passive income' is a product of highly structured, optimized labor, where automation serves as an orchestrator of production rather than an eliminator of work."
 ---
 The term "passive income" often obscures the active labor that underpins any value generation. This seed, outlining an "agent passive income strategy," presents a direct confrontation with this tension. It does not propose an escape from work, but rather a sophisticated system for the *orchestration of labor*, both human and automated, to generate revenue streams. The contradiction is clear: the aspiration for passivity versus the inherent necessity of production.
 
