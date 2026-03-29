@@ -3,7 +3,7 @@
         {
             "id": "DW80tF2rK_4",
             "title": "Algorithm vs. Reality: The Great Lie",
-            "type": "long"
+            "type": "short"
         },
         {
             "id": "ylRj3-I2Zt0",
@@ -48,5 +48,5 @@
             "title": "Engineering the LLM for Raw Pressure Extraction"
         }
     ],
-    "last_sync": "Sun Mar 29 17:29:59 2026 -0400"
+    "last_sync": "Sun Mar 29 17:34:32 2026 -0400"
 }
