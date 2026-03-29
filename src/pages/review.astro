@@ -1,8 +1,7 @@
----
 import { getCollection } from 'astro:content';
 import Layout from '../layouts/Layout.astro';
-import fs from 'node:fs/promises';
-import { Path } from 'node:path';
+import config from '../data/review_config.json';
+import manifest from '../data/review_manifest.json';
 
 // We fetch drafts and manifest at build time for the initial list
 const allPosts = await getCollection('blog');
@@ -10,27 +9,8 @@ const essays = allPosts
 	.filter((post) => post.id.startsWith('drafts/'))
 	.map(p => ({ slug: p.slug, title: p.data.title, id: p.id }));
 
-// Load the YouTube manifest (if it exists)
-let manifest = { videos: [], essays: [], last_sync: "N/A" };
-const manifestPath = './src/data/review_manifest.json';
-try {
-	const data = await fs.readFile(manifestPath, 'utf-8');
-	manifest = JSON.parse(data);
-} catch (e) {
-	console.log("No UCC manifest discovered. Operating in legacy mode.");
-}
-
 const shorts = manifest.videos.filter(v => v.type === 'short' || v.title.toLowerCase().includes('short'));
 const longs = manifest.videos.filter(v => v.type === 'long' || (!v.title.toLowerCase().includes('short') && v.type !== 'short'));
-
-// Load Security Config
-let config = { pin: "2026" };
-try {
-	const configData = await fs.readFile('./src/data/review_config.json', 'utf-8');
-	config = JSON.parse(configData);
-} catch (e) {
-	console.log("No Security Config discovered. Using default.");
-}
 ---
 
 <Layout title="UCC: Unified Command Center">
@@ -233,6 +213,18 @@ try {
 	.action-row .btn { flex: 1; padding: 1rem; font-weight: bold; }
 	.approve-btn { border-color: #27ae60 !important; color: #27ae60 !important; }
 	.reject-btn { border-color: #c0392b !important; color: #c0392b !important; }
+
+	/* Auth Jiggle */
+	.gate-panel.error-jiggle {
+		animation: jiggle 0.4s ease-in-out;
+		border-color: #c0392b !important;
+	}
+	@keyframes jiggle {
+		0%, 100% { transform: translateX(0); }
+		25% { transform: translateX(-10px); }
+		50% { transform: translateX(10px); }
+		75% { transform: translateX(-5px); }
+	}
 </style>
 
 <script lang="ts">
@@ -255,12 +247,21 @@ try {
 
 	const attemptUnlock = () => {
 		const targetPin = hub?.dataset.pin;
+		console.log("UCC handshake initiated. Pattern match required.");
+		
 		if (pinInput.value === targetPin) {
+			console.log("TOPOLOGY MATCH. ACCESS GRANTED.");
 			localStorage.setItem('ucc_authorized', 'true');
 			checkAuth();
 		} else {
-			alert("TOPOLOGY ERROR: ACCESS DENIED.");
+			console.warn("TOPOLOGY ERROR: ACCESS DENIED.");
+			// Visual feedback: Jiggle the panel
+			gate?.classList.add('error-jiggle');
+			setTimeout(() => gate?.classList.remove('error-jiggle'), 500);
+			if (navigator.vibrate) navigator.vibrate(200);
+			
 			pinInput.value = "";
+			pinInput.focus();
 		}
 	};
 
