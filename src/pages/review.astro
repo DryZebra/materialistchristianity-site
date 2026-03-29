@@ -378,12 +378,20 @@ const longs = manifest.videos.filter(v => v.type === 'long');
 
 	// Action Logic (Shared)
 	const getGHHeaders = () => {
-		const token = hub?.dataset.token;
-		if (!token || token === "undefined") {
+		const interfaceEl = document.getElementById('ucc-interface');
+		const encodedToken = interfaceEl ? interfaceEl.dataset.token : null;
+		if (!encodedToken || encodedToken === "undefined") {
 			showStatus("AUTHENTICATION ERROR: ENGINE TOKEN MISSING. SET VIA MANAGER.", true);
 			return null;
 		}
-		return { "Authorization": `token ${token}`, "Accept": "application/vnd.github.v3+json" };
+		try {
+			// Unmask: Decode then Reverse
+			const token = atob(encodedToken).split('').reverse().join('');
+			return { "Authorization": `token ${token}`, "Accept": "application/vnd.github.v3+json" };
+		} catch (e) {
+			showStatus("STRUCTURAL ERROR: Handshake decoding failed.", true);
+			return null;
+		}
 	};
 
 	const showStatus = (msg, isError = false) => {
