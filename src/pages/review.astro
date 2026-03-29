@@ -8,10 +8,15 @@ import manifest from '../data/review_manifest.json';
 const allPosts = await getCollection('blog');
 const essays = allPosts
 	.filter((post) => post.id.startsWith('drafts/'))
-	.map(p => ({ slug: p.slug, title: p.data.title, id: p.id }));
+	.map(p => ({ 
+		slug: p.slug, 
+		title: p.data.title, 
+		id: p.id,
+		body: p.body // Include the markdown body for reading
+	}));
 
-const shorts = manifest.videos.filter(v => v.type === 'short' || v.title.toLowerCase().includes('short'));
-const longs = manifest.videos.filter(v => v.type === 'long' || (!v.title.toLowerCase().includes('short') && v.type !== 'short'));
+const shorts = manifest.videos.filter(v => v.type === 'short');
+const longs = manifest.videos.filter(v => v.type === 'long');
 ---
 
 <Layout title="UCC: Unified Command Center">
@@ -19,7 +24,7 @@ const longs = manifest.videos.filter(v => v.type === 'long' || (!v.title.toLower
 		<div id="auth-gate" class="panel gate-panel">
 			<h2>[ COMMAND CENTER LOCKED ]</h2>
 			<p>ACCESS REQUIRES STRUCTURAL PIN</p>
-			<div id="auth-form" class="pin-grid">
+			<div class="pin-grid">
 				<input type="text" id="pin-entry" maxlength="4" placeholder="****" inputmode="numeric" autocomplete="off" style="-webkit-text-security: disc;" />
 				<button id="unlock-btn" class="btn">[ ENGAGE ]</button>
 			</div>
@@ -47,7 +52,15 @@ const longs = manifest.videos.filter(v => v.type === 'long' || (!v.title.toLower
 								<h3>{essay.title}</h3>
 								<code class="slug-tag">{essay.slug}</code>
 							</div>
+							
+							<div class="reading-room hidden">
+								<div class="prose-content">
+									{essay.body.split('\n').map(line => <p>{line}</p>)}
+								</div>
+							</div>
+
 							<div class="action-row">
+								<button class="btn preview-btn">[ READ ]</button>
 								<button class="btn approve-btn" data-id={essay.id}>[ PUBLISH ]</button>
 								<button class="btn reject-btn" data-id={essay.id}>[ INCINERATE ]</button>
 							</div>
@@ -66,7 +79,7 @@ const longs = manifest.videos.filter(v => v.type === 'long' || (!v.title.toLower
 							<div class="video-preview">
 								<iframe 
 									width="100%" 
-									height="400" 
+									height="500" 
 									src={`https://www.youtube.com/embed/${v.id}`} 
 									frameborder="0" 
 									allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
@@ -215,6 +228,25 @@ const longs = manifest.videos.filter(v => v.type === 'long' || (!v.title.toLower
 	.approve-btn { border-color: #27ae60 !important; color: #27ae60 !important; }
 	.reject-btn { border-color: #c0392b !important; color: #c0392b !important; }
 
+	/* Reading Room Styling */
+	.reading-room {
+		background: #111;
+		border: 1px solid #222;
+		margin: 1rem -1rem;
+		padding: 1.5rem;
+		max-height: 400px;
+		overflow-y: auto;
+		font-family: 'Inter', system-ui, sans-serif;
+		line-height: 1.6;
+		color: #ccc;
+	}
+	.prose-content p {
+		margin-bottom: 1rem;
+		font-size: 0.95rem;
+	}
+	.prose-content p:last-child { margin-bottom: 0; }
+	.preview-btn { border-color: #f39c12 !important; color: #f39c12 !important; }
+
 	/* Auth Jiggle */
 	.gate-panel.error-jiggle {
 		animation: jiggle 0.4s ease-in-out;
@@ -273,6 +305,16 @@ const longs = manifest.videos.filter(v => v.type === 'long' || (!v.title.toLower
 
 	pinInput?.addEventListener('keyup', (e) => {
 		if (e.key === 'Enter') attemptUnlock();
+	});
+
+	// Essay Reading Toggle
+	document.querySelectorAll('.preview-btn').forEach(btn => {
+		btn.addEventListener('click', () => {
+			const item = btn.closest('.review-item');
+			const room = item.querySelector('.reading-room');
+			room.classList.toggle('hidden');
+			btn.textContent = room.classList.contains('hidden') ? '[ READ ]' : '[ CLOSE ]';
+		});
 	});
 
 	// Tab Logic
