@@ -1,0 +1,268 @@
+---
+import { getCollection } from 'astro:content';
+import Layout from '../layouts/Layout.astro';
+
+// We fetch drafts at build time for the initial list, 
+// but the LIVE actions happen via the GitHub API in the client.
+const drafts = await getCollection('blog', ({ id }) => {
+	return id.startsWith('drafts/');
+});
+---
+
+<Layout title="Structural Review Hub">
+	<main class="content">
+		<header class="section-header">
+			<div class="dispatch-tag">PRIVATE ACCESS</div>
+			<h1>Structural Review Hub</h1>
+			<p class="lede">Gated access for William-engine validation. Approve or incinerate new field notes.</p>
+		</header>
+
+		<div id="auth-gate" class="panel highlight-panel">
+			<h3>IDENTITY VERIFICATION REQUIRED</h3>
+			<p>Enter your Structural Key (GitHub Token) to unlock the command interface.</p>
+			<input type="password" id="gh-token" placeholder="Enter Token..." class="input-field" />
+			<button id="unlock-btn" class="btn primary">UNSEAL INTERFACE</button>
+			<p class="note">Token is saved in your browser's local storage for mobile persistence.</p>
+		</div>
+
+		<div id="review-interface" style="display: none;">
+			<section class="draft-list">
+				{drafts.length === 0 ? (
+					<div class="panel">
+						<p>NO PENDING DRAFTS DISCOVERED. BUFFER IS SATISFIED.</p>
+					</div>
+				) : (
+					drafts.map((draft) => (
+						<article class="draft-item panel" data-slug={draft.slug} data-id={draft.id}>
+							<div class="draft-header">
+								<h2 class="recognition-title">{draft.data.title}</h2>
+								<span class="status-tag">PENDING VALIDATION</span>
+							</div>
+							<p class="draft-meta">DATE: {draft.data.pubDate.toLocaleDateString()}</p>
+							<div class="draft-content">
+								<p><strong>TAKEAWAY:</strong> {draft.data.description}</p>
+								<div class="body-preview">
+									{draft.body.substring(0, 300)}...
+								</div>
+							</div>
+							<div class="action-row">
+								<button class="btn approve-btn" data-id={draft.id}>[ APPROVE & PUBLISH ]</button>
+								<button class="btn reject-btn" data-id={draft.id} data-sha={""}>[ INCINERATE ]</button>
+							</div>
+						</article>
+					))
+				)}
+			</section>
+		</div>
+
+		<a href="/maintenance-log/" class="text-link">← RETURN TO LOG</a>
+	</main>
+</Layout>
+
+<script>
+	const OWNER = "DryZebra";
+	const REPO = "materialistchristianity-site";
+	
+	const authGate = document.getElementById('auth-gate');
+	const reviewInterface = document.getElementById('review-interface');
+	const tokenInput = document.getElementById('gh-token') as HTMLInputElement;
+	const unlockBtn = document.getElementById('unlock-btn');
+
+	// Check for stored token
+	const storedToken = localStorage.getItem('review_gh_token');
+	if (storedToken) {
+		tokenInput.value = storedToken;
+		// Automatically show interface if token exists
+		authGate!.style.display = 'none';
+		reviewInterface!.style.display = 'block';
+	}
+
+	unlockBtn?.addEventListener('click', () => {
+		const token = tokenInput.value;
+		if (token) {
+			localStorage.setItem('review_gh_token', token);
+			authGate!.style.display = 'none';
+			reviewInterface!.style.display = 'block';
+			alert("Interface Unsealed. Structural authority established.");
+		}
+	});
+
+	// Action Listeners
+	document.querySelectorAll('.approve-btn').forEach(btn => {
+		btn.addEventListener('click', async (e) => {
+			const target = e.target as HTMLButtonElement;
+			const id = target.dataset.id;
+			await moveFile(id, target);
+		});
+	});
+
+	document.querySelectorAll('.reject-btn').forEach(btn => {
+		btn.addEventListener('click', async (e) => {
+			const target = e.target as HTMLButtonElement;
+			const id = target.dataset.id;
+			await deleteFile(id, target);
+		});
+	});
+
+	async function moveFile(id: string | undefined, btn: HTMLButtonElement) {
+		if (!id) return;
+		const token = localStorage.getItem('review_gh_token');
+		btn.disabled = true;
+		btn.innerText = "PROMOTING...";
+
+		const oldPath = `src/content/blog/${id}.md`;
+		const newPath = oldPath.replace('drafts/', '');
+
+		try {
+			// 1. Get current file content and SHA
+			const getRes = await fetch(`https://api.github.com/repos/${OWNER}/${REPO}/contents/${oldPath}`, {
+				headers: { "Authorization": `token ${token}` }
+			});
+			const fileData = await getRes.json();
+
+			// 2. Create new file in blog root
+			const createRes = await fetch(`https://api.github.com/repos/${OWNER}/${REPO}/contents/${newPath}`, {
+				method: "PUT",
+				headers: { "Authorization": `token ${token}`, "Content-Type": "application/json" },
+				body: JSON.stringify({
+					message: `Structural Promotion: ${id}`,
+					content: fileData.content,
+					sha: "", // Creating new file
+					branch: "main"
+				})
+			});
+
+			if (createRes.ok) {
+				// 3. Delete old draft
+				await fetch(`https://api.github.com/repos/${OWNER}/${REPO}/contents/${oldPath}`, {
+					method: "DELETE",
+					headers: { "Authorization": `token ${token}`, "Content-Type": "application/json" },
+					body: JSON.stringify({
+						message: `Cleaning up draft: ${id}`,
+						sha: fileData.sha,
+						branch: "main"
+					})
+				});
+				btn.innerText = "[ APPROVED ]";
+				btn.style.backgroundColor = "#006b33";
+				setTimeout(() => btn.closest('.draft-item')?.remove(), 1000);
+			} else {
+				throw new Error("Creation failed");
+			}
+		} catch (err) {
+			console.error(err);
+			alert("Promotion Failure. Check token permissions or network.");
+			btn.disabled = false;
+			btn.innerText = "[ RETRY APPROVE ]";
+		}
+	}
+
+	async function deleteFile(id: string | undefined, btn: HTMLButtonElement) {
+		if (!id) return;
+		const token = localStorage.getItem('review_gh_token');
+		btn.disabled = true;
+		btn.innerText = "INCINERATING...";
+
+		const path = `src/content/blog/${id}.md`;
+
+		try {
+			// Get SHA first
+			const getRes = await fetch(`https://api.github.com/repos/${OWNER}/${REPO}/contents/${path}`, {
+				headers: { "Authorization": `token ${token}` }
+			});
+			const fileData = await getRes.json();
+
+			const delRes = await fetch(`https://api.github.com/repos/${OWNER}/${REPO}/contents/${path}`, {
+				method: "DELETE",
+				headers: { "Authorization": `token ${token}`, "Content-Type": "application/json" },
+				body: JSON.stringify({
+					message: `Structural Rejection: ${id}`,
+					sha: fileData.sha,
+					branch: "main"
+				})
+			});
+
+			if (delRes.ok) {
+				btn.innerText = "[ INCINERATED ]";
+				btn.style.backgroundColor = "#b80000";
+				setTimeout(() => btn.closest('.draft-item')?.remove(), 1000);
+			} else {
+				throw new Error("Deletion failed");
+			}
+		} catch (err) {
+			console.error(err);
+			alert("Incineration Failure.");
+			btn.disabled = false;
+			btn.innerText = "[ RETRY REJECT ]";
+		}
+	}
+</script>
+
+<style>
+	.draft-list {
+		display: flex;
+		flex-direction: column;
+		gap: 1.5rem;
+		margin-top: 2rem;
+	}
+	.draft-item {
+		border-left: 4px solid var(--accent-color);
+		max-width: 600px;
+	}
+	.draft-header {
+		display: flex;
+		justify-content: space-between;
+		align-items: center;
+		margin-bottom: 0.5rem;
+	}
+	.status-tag {
+		font-size: 0.7rem;
+		background: #444;
+		color: #fff;
+		padding: 2px 6px;
+		letter-spacing: 1px;
+	}
+	.draft-meta {
+		font-size: 0.8rem;
+		color: #888;
+		margin-bottom: 1rem;
+	}
+	.body-preview {
+		font-family: var(--font-mono);
+		font-size: 0.85rem;
+		color: #aaa;
+		background: rgba(255,255,255,0.05);
+		padding: 1rem;
+		border-top: 1px solid #333;
+		margin-top: 1rem;
+	}
+	.action-row {
+		display: flex;
+		gap: 1rem;
+		margin-top: 1.5rem;
+	}
+	.approve-btn {
+		background-color: #004522;
+		color: white;
+		flex: 2;
+	}
+	.reject-btn {
+		background-color: #450000;
+		color: white;
+		flex: 1;
+	}
+	.input-field {
+		width: 100%;
+		padding: 0.75rem;
+		background: #222;
+		border: 1px solid #444;
+		color: white;
+		margin: 1rem 0;
+		font-family: var(--font-mono);
+	}
+	.note {
+		font-size: 0.75rem;
+		color: #666;
+		margin-top: 0.5rem;
+	}
+</style>
