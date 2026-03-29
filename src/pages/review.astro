@@ -352,6 +352,9 @@ const longs = manifest.videos.filter(v => v.type === 'long');
 	const status = document.getElementById('status-bar');
 
 
+	const OWNER = "DryZebra";
+	const REPO = "materialistchristianity-site";
+
 	const checkAuth = () => {
 		if (localStorage.getItem('ucc_authorized') === 'true') {
 			gate?.classList.add('hidden');
@@ -432,7 +435,7 @@ const longs = manifest.videos.filter(v => v.type === 'long');
 		try {
 			// Unmask: Decode then Reverse
 			const token = atob(encodedToken).split('').reverse().join('');
-			return { "Authorization": `token ${token}`, "Accept": "application/vnd.github.v3+json" };
+			return { "Authorization": `Bearer ${token}`, "Accept": "application/vnd.github.v3+json" };
 		} catch (e) {
 			alert("DECRYPTION FAILURE: The engine token is malformed.");
 			showStatus("STRUCTURAL ERROR: Handshake decoding failed.", true);
