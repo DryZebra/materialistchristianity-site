@@ -33,7 +33,10 @@ const longs = manifest.videos.filter(v => v.type === 'long');
 		<div id="ucc-interface" class="hidden" data-pin={config.pin}>
 			<header class="ucc-header">
 				<h1>[ UCC: UNIFIED COMMAND CENTER ]</h1>
-				<p class="sync-status">LAST SYNC: {manifest.last_sync}</p>
+				<div class="header-status">
+					<p class="sync-status">LAST SYNC: {manifest.last_sync}</p>
+					<button id="reset-handshake" class="mini-btn">[ RESET HANDSHAKE ]</button>
+				</div>
 				<nav class="ucc-tabs">
 					<button class="tab-btn active" data-tab="essays">FIELD NOTES ({essays.length})</button>
 					<button class="tab-btn" data-tab="shorts">SHORTS ({shorts.length})</button>
@@ -145,17 +148,28 @@ const longs = manifest.videos.filter(v => v.type === 'long');
 		margin: 0 auto;
 		min-height: 80vh;
 	}
-	.ucc-header h1 {
-		font-size: 1.5rem;
-		color: var(--brand-orange);
-		letter-spacing: 2px;
-		margin-bottom: 0.5rem;
+	.header-status {
+		display: flex;
+		justify-content: space-between;
+		align-items: center;
+		margin-bottom: 1.5rem;
 	}
 	.sync-status {
 		font-size: 0.7rem;
 		opacity: 0.6;
-		margin-bottom: 1.5rem;
+		margin: 0;
 	}
+	.mini-btn {
+		background: #222;
+		border: 1px solid #444;
+		color: #888;
+		font-size: 0.6rem;
+		padding: 0.2rem 0.5rem;
+		cursor: pointer;
+		text-transform: uppercase;
+		font-family: inherit;
+	}
+	.mini-btn:hover { border-color: var(--brand-orange); color: var(--brand-orange); }
 	.ucc-tabs {
 		display: grid;
 		grid-template-columns: 1fr 1fr 1fr;
@@ -271,6 +285,11 @@ const longs = manifest.videos.filter(v => v.type === 'long');
 	const hub = document.getElementById('ucc-interface');
 	const status = document.getElementById('status-bar');
 
+	document.getElementById('reset-handshake')?.addEventListener('click', () => {
+		localStorage.removeItem('review_gh_token');
+		showStatus("UCC ENGINE HANDSHAKE RESET. RE-AUTHENTICATION REQUIRED.");
+	});
+
 	const checkAuth = () => {
 		if (localStorage.getItem('ucc_authorized') === 'true') {
 			gate?.classList.add('hidden');
@@ -317,6 +336,15 @@ const longs = manifest.videos.filter(v => v.type === 'long');
 		});
 	});
 
+	// Bonus: Click title to toggle too
+	document.querySelectorAll('.review-item[data-type="essay"] h3').forEach(title => {
+		title.style.cursor = 'pointer';
+		title.addEventListener('click', () => {
+			const btn = title.closest('.review-item').querySelector('.preview-btn');
+			btn.click();
+		});
+	});
+
 	// Tab Logic
 	const tabBtns = document.querySelectorAll('.tab-btn');
 	const tabContents = document.querySelectorAll('.tab-content');
@@ -333,24 +361,31 @@ const longs = manifest.videos.filter(v => v.type === 'long');
 
 	// Action Logic (Shared)
 	const getGHHeaders = () => {
-		const token = localStorage.getItem('review_gh_token');
+		let token = localStorage.getItem('review_gh_token');
 		if (!token) {
-			const t = prompt("INPUT GITHUB TOKEN FOR ENGINE HANDSHAKE:");
+			const t = prompt("UCC ENGINE HANDSHAKE REQUIRED.\n\nPlease input your GITHUB PERSONAL ACCESS TOKEN (PAT).\n(This is NOT your 4-digit access PIN)");
 			if (t) {
+				if (t.length === 4 && /^\d+$/.test(t)) {
+					alert("TOPOLOGY ERROR: You entered your 4-digit PIN.\nThe engine requires a GitHub Token (PAT) for repository access.");
+					return null;
+				}
 				localStorage.setItem('review_gh_token', t);
-				return { "Authorization": `token ${t}`, "Accept": "application/vnd.github.v3+json" };
+				token = t;
+			} else {
+				return null;
 			}
-			return null;
 		}
 		return { "Authorization": `token ${token}`, "Accept": "application/vnd.github.v3+json" };
 	};
 
-	const showStatus = (msg: string, isError = false) => {
+	const showStatus = (msg, isError = false) => {
+		console.log(`[UCC STATUS] ${msg}`);
 		if (status) {
 			status.textContent = msg;
 			status.className = isError ? 'panel status-error' : 'panel status-success';
 			status.classList.remove('hidden');
-			setTimeout(() => status.classList.add('hidden'), 5000);
+			// Keep errors visible longer
+			setTimeout(() => status.classList.add('hidden'), isError ? 10000 : 5000);
 		}
 	};
 
