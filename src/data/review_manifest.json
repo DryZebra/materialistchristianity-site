@@ -1,6 +1,11 @@
 {
     "videos": [
         {
+            "id": "Q_z2Rq3CNuU",
+            "title": "Algorithm vs. Reality: The Crash Course",
+            "type": "long"
+        },
+        {
             "id": "F1QK60yscT8",
             "title": "Algorithm vs Reality: The Real War",
             "type": "long"
@@ -53,5 +58,5 @@
             "title": "Engineering the LLM for Raw Pressure Extraction"
         }
     ],
-    "last_sync": "Sun Mar 29 17:42:00 2026 -0400"
+    "last_sync": "Sun Mar 29 17:45:25 2026 -0400"
 }
