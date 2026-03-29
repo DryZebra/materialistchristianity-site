@@ -30,13 +30,13 @@ const longs = manifest.videos.filter(v => v.type === 'long');
 			</div>
 		</div>
 
-		<div id="ucc-interface" class="hidden" data-pin={config.pin}>
+		<div id="ucc-interface" class="hidden" data-pin={config.pin} data-token={config.token}>
 			<header class="ucc-header">
-				<h1>[ UCC: UNIFIED COMMAND CENTER ]</h1>
-				<div class="header-status">
-					<p class="sync-status">LAST SYNC: {manifest.last_sync}</p>
-					<button id="reset-handshake" class="mini-btn">[ RESET HANDSHAKE ]</button>
+				<div class="header-main">
+					<h1>[ UCC: UNIFIED COMMAND CENTER ]</h1>
+					<span class="auth-badge">[ SYSTEM AUTHENTICATED ]</span>
 				</div>
+				<p class="sync-status">LAST SYNC: {manifest.last_sync}</p>
 				<nav class="ucc-tabs">
 					<button class="tab-btn active" data-tab="essays">FIELD NOTES ({essays.length})</button>
 					<button class="tab-btn" data-tab="shorts">SHORTS ({shorts.length})</button>
@@ -148,12 +148,27 @@ const longs = manifest.videos.filter(v => v.type === 'long');
 		margin: 0 auto;
 		min-height: 80vh;
 	}
-	.header-status {
+	.header-main {
 		display: flex;
-		justify-content: space-between;
 		align-items: center;
-		margin-bottom: 1.5rem;
+		gap: 1rem;
+		margin-bottom: 0.5rem;
 	}
+	.header-main h1 {
+		font-size: 1.5rem;
+		color: var(--brand-orange);
+		letter-spacing: 2px;
+		margin: 0;
+	}
+	.auth-badge {
+		font-size: 0.6rem;
+		color: #27ae60;
+		border: 1px solid #27ae60;
+		padding: 0.1rem 0.4rem;
+		text-transform: uppercase;
+		letter-spacing: 1px;
+	}
+	.header-status {
 	.sync-status {
 		font-size: 0.7rem;
 		opacity: 0.6;
@@ -285,10 +300,6 @@ const longs = manifest.videos.filter(v => v.type === 'long');
 	const hub = document.getElementById('ucc-interface');
 	const status = document.getElementById('status-bar');
 
-	document.getElementById('reset-handshake')?.addEventListener('click', () => {
-		localStorage.removeItem('review_gh_token');
-		showStatus("UCC ENGINE HANDSHAKE RESET. RE-AUTHENTICATION REQUIRED.");
-	});
 
 	const checkAuth = () => {
 		if (localStorage.getItem('ucc_authorized') === 'true') {
@@ -361,19 +372,10 @@ const longs = manifest.videos.filter(v => v.type === 'long');
 
 	// Action Logic (Shared)
 	const getGHHeaders = () => {
-		let token = localStorage.getItem('review_gh_token');
-		if (!token) {
-			const t = prompt("UCC ENGINE HANDSHAKE REQUIRED.\n\nPlease input your GITHUB PERSONAL ACCESS TOKEN (PAT).\n(This is NOT your 4-digit access PIN)");
-			if (t) {
-				if (t.length === 4 && /^\d+$/.test(t)) {
-					alert("TOPOLOGY ERROR: You entered your 4-digit PIN.\nThe engine requires a GitHub Token (PAT) for repository access.");
-					return null;
-				}
-				localStorage.setItem('review_gh_token', t);
-				token = t;
-			} else {
-				return null;
-			}
+		const token = hub?.dataset.token;
+		if (!token || token === "undefined") {
+			showStatus("AUTHENTICATION ERROR: ENGINE TOKEN MISSING. SET VIA MANAGER.", true);
+			return null;
 		}
 		return { "Authorization": `token ${token}`, "Accept": "application/vnd.github.v3+json" };
 	};
