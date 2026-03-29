@@ -22,6 +22,15 @@ try {
 
 const shorts = manifest.videos.filter(v => v.type === 'short' || v.title.toLowerCase().includes('short'));
 const longs = manifest.videos.filter(v => v.type === 'long' || (!v.title.toLowerCase().includes('short') && v.type !== 'short'));
+
+// Load Security Config
+let config = { pin: "2026" };
+try {
+	const configData = await fs.readFile('./src/data/review_config.json', 'utf-8');
+	config = JSON.parse(configData);
+} catch (e) {
+	console.log("No Security Config discovered. Using default.");
+}
 ---
 
 <Layout title="UCC: Unified Command Center">
@@ -29,13 +38,13 @@ const longs = manifest.videos.filter(v => v.type === 'long' || (!v.title.toLower
 		<div id="auth-gate" class="panel gate-panel">
 			<h2>[ COMMAND CENTER LOCKED ]</h2>
 			<p>ACCESS REQUIRES STRUCTURAL PIN</p>
-			<div class="pin-grid">
-				<input type="password" id="pin-entry" maxlength="4" placeholder="****" inputmode="numeric" />
-				<button id="unlock-btn" class="btn">[ ENGAGE ]</button>
-			</div>
+			<form id="auth-form" class="pin-grid" onsubmit="return false;">
+				<input type="password" id="pin-entry" maxlength="4" placeholder="****" inputmode="numeric" autocomplete="current-password" />
+				<button type="submit" id="unlock-btn" class="btn">[ ENGAGE ]</button>
+			</form>
 		</div>
 
-		<div id="ucc-interface" class="hidden">
+		<div id="ucc-interface" class="hidden" data-pin={config.pin}>
 			<header class="ucc-header">
 				<h1>[ UCC: UNIFIED COMMAND CENTER ]</h1>
 				<p class="sync-status">LAST SYNC: {manifest.last_sync}</p>
@@ -238,20 +247,30 @@ const longs = manifest.videos.filter(v => v.type === 'long' || (!v.title.toLower
 	const status = document.getElementById('status-bar');
 
 	const checkAuth = () => {
-		if (localStorage.getItem('ucc_authorized') === '2026') {
+		if (localStorage.getItem('ucc_authorized') === 'true') {
 			gate?.classList.add('hidden');
 			hub?.classList.remove('hidden');
 		}
 	};
 
-	unlockBtn?.addEventListener('click', () => {
-		if (pinInput.value === '2026') {
-			localStorage.setItem('ucc_authorized', '2026');
+	const attemptUnlock = () => {
+		const targetPin = hub?.dataset.pin;
+		if (pinInput.value === targetPin) {
+			localStorage.setItem('ucc_authorized', 'true');
 			checkAuth();
 		} else {
 			alert("TOPOLOGY ERROR: ACCESS DENIED.");
 			pinInput.value = "";
 		}
+	};
+
+	unlockBtn?.addEventListener('click', (e) => {
+		e.preventDefault();
+		attemptUnlock();
+	});
+
+	pinInput?.addEventListener('keyup', (e) => {
+		if (e.key === 'Enter') attemptUnlock();
 	});
 
 	// Tab Logic
