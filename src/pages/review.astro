@@ -19,10 +19,10 @@ const longs = manifest.videos.filter(v => v.type === 'long' || (!v.title.toLower
 		<div id="auth-gate" class="panel gate-panel">
 			<h2>[ COMMAND CENTER LOCKED ]</h2>
 			<p>ACCESS REQUIRES STRUCTURAL PIN</p>
-			<form id="auth-form" class="pin-grid" onsubmit="return false;">
-				<input type="password" id="pin-entry" maxlength="4" placeholder="****" inputmode="numeric" autocomplete="current-password" />
-				<button type="submit" id="unlock-btn" class="btn">[ ENGAGE ]</button>
-			</form>
+			<div id="auth-form" class="pin-grid">
+				<input type="text" id="pin-entry" maxlength="4" placeholder="****" inputmode="numeric" autocomplete="off" style="-webkit-text-security: disc;" />
+				<button id="unlock-btn" class="btn">[ ENGAGE ]</button>
+			</div>
 		</div>
 
 		<div id="ucc-interface" class="hidden" data-pin={config.pin}>
@@ -228,12 +228,12 @@ const longs = manifest.videos.filter(v => v.type === 'long' || (!v.title.toLower
 	}
 </style>
 
-<script lang="ts">
+<script>
 	const OWNER = "DryZebra";
 	const REPO = "materialistchristianity-site";
 	
 	// Auth Logic
-	const pinInput = document.getElementById('pin-entry') as HTMLInputElement;
+	const pinInput = document.getElementById('pin-entry');
 	const unlockBtn = document.getElementById('unlock-btn');
 	const gate = document.getElementById('auth-gate');
 	const hub = document.getElementById('ucc-interface');
