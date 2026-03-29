@@ -9,17 +9,19 @@ posts.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
 <Layout>
 	<main class="content">
 		<header class="section-header">
+			<p class="kicker">Structural History</p>
 			<h1>Maintenance Log</h1>
 			<p class="lede">The free archive. Field notes, structural observations, and open-circuits for navigating a post-Christian world materially.</p>
 		</header>
 		<section class="post-list">
 			{
 				posts.map((post) => (
-					<article class="post-item">
+					<article class="post-item panel">
 						<a href={`/blog/${post.slug}/`}>
-							<h3>{post.data.title}</h3>
+							<h3 class="recognition-title">{post.data.title}</h3>
 						</a>
 						<p class="post-meta">
+							RECOGNITION DATE: 
 							<time datetime={post.data.pubDate.toISOString()}>
 								{post.data.pubDate.toLocaleDateString('en-us', {
 									year: 'numeric',
@@ -28,11 +30,25 @@ posts.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
 								})}
 							</time>
 						</p>
-						<p class="post-description">{post.data.description}</p>
+						<p class="post-description"><strong>STRUCTURAL TAKEAWAY:</strong> {post.data.description}</p>
+						<a href={`/blog/${post.slug}/`} class="text-link">Review Full Schematic →</a>
 					</article>
 				))
 			}
 		</section>
+
+		<script type="application/ld+json">
+		{
+			"@context": "https://schema.org",
+			"@type": "Blog",
+			"name": "Materialist Christianity Maintenance Log",
+			"description": "Archive of field notes and structural observations by Ezra Byrd.",
+			"publisher": {
+				"@type": "Person",
+				"name": "Ezra Byrd"
+			}
+		}
+		</script>
 	</main>
 </Layout>
 
