@@ -4,9 +4,8 @@ import Layout from '../layouts/Layout.astro';
 
 // We fetch drafts at build time for the initial list, 
 // but the LIVE actions happen via the GitHub API in the client.
-const drafts = await getCollection('blog', ({ id }) => {
-	return id.startsWith('drafts/');
-});
+const allPosts = await getCollection('blog');
+const drafts = allPosts.filter((post) => post.id.startsWith('drafts/'));
 ---
 
 <Layout title="Structural Review Hub">
