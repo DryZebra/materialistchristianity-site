@@ -1,6 +1,11 @@
 {
     "videos": [
         {
+            "id": "lCYddD6TSXo",
+            "title": "Algorithm vs. Reality: The Hidden Cost",
+            "type": "short"
+        },
+        {
             "id": "tLiOhe_3tZg",
             "title": "Algorithm vs. Reality: The Concrete Punch",
             "type": "long"
@@ -41,27 +46,6 @@
             "type": "long"
         }
     ],
-    "essays": [
-        {
-            "slug": "agent-passive-income-strategy-833",
-            "title": "Digital Production Lines: The Agent as Labor Orchestrator"
-        },
-        {
-            "slug": "capitalism-and-derivatives-analysis-906",
-            "title": "The Bedrock Asset: Land Value Through Hyperinflation"
-        },
-        {
-            "slug": "materialist-christianity-description-330",
-            "title": "The Material Basis of Morality: An Introduction to Materialist Christianity"
-        },
-        {
-            "slug": "our-story-unfolded-658",
-            "title": "Structural Stability: The Reflexive Guard of Interpretive Sovereignty"
-        },
-        {
-            "slug": "website-strategy-for-materialist-christianity-620",
-            "title": "Engineering the LLM for Raw Pressure Extraction"
-        }
-    ],
-    "last_sync": "Sun Mar 29 18:04:07 2026 -0400"
+    "essays": [],
+    "last_sync": "Sun Mar 29 18:13:35 2026 -0400"
 }
