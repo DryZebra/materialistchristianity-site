@@ -455,9 +455,10 @@ const longs = manifest.videos.filter(v => v.type === 'long');
 			const feedback = item.querySelector('.feedback-input')?.value || "";
 			
 			if (type === 'essay') {
-				const slug = item.dataset.slug;
-				const currentPath = `src/content/blog/drafts/${slug}.md`;
-				await executeAstroAction(currentPath, null, item, feedback);
+				const id = item.dataset.id;
+				const currentPath = `src/content/blog/${id}`;
+				const targetPath = `src/content/blog/${id.replace('drafts/', '')}`;
+				await executeAstroAction(currentPath, targetPath, item);
 			} else {
 				await logRemoteAction(id, "dislike", item, feedback);
 			}
