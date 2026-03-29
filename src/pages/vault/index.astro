@@ -1,0 +1,84 @@
+---
+import { getCollection } from 'astro:content';
+import Layout from '../../layouts/Layout.astro';
+
+const posts = await getCollection('vault');
+posts.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+---
+
+<Layout>
+	<main class="content">
+		<header class="section-header vault-header">
+			<p class="section-label">Locked Dispatch</p>
+			<h1>The Vault</h1>
+			<p class="lede">Weekly structural audits and deep-dive teardowns of the systems currently failing around us. $5/month.</p>
+			<div class="cta-row vault-cta">
+				<a class="btn primary" href="https://buy.stripe.com/dRmbIT2Z26pAbPPf7ZbV600" target="_blank" rel="noopener">Subscribe to Unlock</a>
+			</div>
+		</header>
+		<section class="post-list">
+			{
+				posts.length === 0 ? (
+					<p>The vault is currently empty. Transmitting soon.</p>
+				) : (
+					posts.map((post) => (
+						<article class="post-item vault-item">
+							<a href={`/vault/${post.slug}/`}>
+								<h3>🔒 {post.data.title}</h3>
+							</a>
+							<p class="post-meta">
+								<time datetime={post.data.pubDate.toISOString()}>
+									{post.data.pubDate.toLocaleDateString('en-us', {
+										year: 'numeric',
+										month: 'short',
+										day: 'numeric',
+									})}
+								</time>
+							</p>
+							<p class="post-description">{post.data.description}</p>
+						</article>
+					))
+				)
+			}
+		</section>
+	</main>
+</Layout>
+
+<style>
+	.vault-header {
+		background-color: #1a1612;
+		padding: 2rem;
+		border: 1px solid #3d3329;
+		margin-bottom: 2rem;
+	}
+	.vault-cta {
+		margin-top: 1.5rem;
+	}
+	.post-list {
+		display: flex;
+		flex-direction: column;
+		gap: 2rem;
+	}
+	.post-item {
+		padding: 1rem 0;
+	}
+	.post-item h3 {
+		margin: 0 0 0.5rem 0;
+	}
+	.post-item a {
+		text-decoration: none;
+		color: var(--text-color);
+	}
+	.post-item a:hover h3 {
+		color: var(--primary-color);
+		text-decoration: underline;
+	}
+	.post-meta {
+		font-size: 0.85rem;
+		color: #666;
+		margin: 0 0 0.5rem 0;
+	}
+	.post-description {
+		margin: 0;
+	}
+</style>

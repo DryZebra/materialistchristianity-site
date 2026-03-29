@@ -1,0 +1,72 @@
+---
+import { getCollection } from 'astro:content';
+import Layout from '../../layouts/Layout.astro';
+
+const posts = await getCollection('blog');
+posts.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+---
+
+<Layout>
+	<main class="content">
+		<header class="section-header">
+			<h1>Maintenance Log</h1>
+			<p class="lede">The free archive. Field notes, structural observations, and open-circuits for navigating a post-Christian world materially.</p>
+		</header>
+		<section class="post-list">
+			{
+				posts.map((post) => (
+					<article class="post-item">
+						<a href={`/blog/${post.slug}/`}>
+							<h3>{post.data.title}</h3>
+						</a>
+						<p class="post-meta">
+							<time datetime={post.data.pubDate.toISOString()}>
+								{post.data.pubDate.toLocaleDateString('en-us', {
+									year: 'numeric',
+									month: 'short',
+									day: 'numeric',
+								})}
+							</time>
+						</p>
+						<p class="post-description">{post.data.description}</p>
+					</article>
+				))
+			}
+		</section>
+	</main>
+</Layout>
+
+<style>
+	.section-header {
+		margin-bottom: 2rem;
+		border-bottom: 1px solid var(--border-color);
+		padding-bottom: 1.5rem;
+	}
+	.post-list {
+		display: flex;
+		flex-direction: column;
+		gap: 2rem;
+	}
+	.post-item {
+		padding: 1rem 0;
+	}
+	.post-item h3 {
+		margin: 0 0 0.5rem 0;
+	}
+	.post-item a {
+		text-decoration: none;
+		color: var(--text-color);
+	}
+	.post-item a:hover h3 {
+		color: var(--primary-color);
+		text-decoration: underline;
+	}
+	.post-meta {
+		font-size: 0.85rem;
+		color: #666;
+		margin: 0 0 0.5rem 0;
+	}
+	.post-description {
+		margin: 0;
+	}
+</style>

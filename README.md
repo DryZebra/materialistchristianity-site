@@ -1,28 +1,46 @@
-# MaterialistChristianity.org
+# Astro Starter Kit: Basics
 
-Static site for **Materialist Christianity** — a serial publishing surface with public field notes, a book CTA, and a paid Vault lane.
+```sh
+npm create astro@latest -- --template basics
+```
 
-## Deploy (GitHub Pages)
+> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
 
-1. Create a repo (public is fine). Example: `materialistchristianity-site`.
-2. Add files in repo root:
-   - `index.html`
-   - `styles.css`
-   - `CNAME` (contains `MaterialistChristianity.org`)
-3. Push to `main`.
-4. Settings → Pages → Source: **Deploy from a branch**, Branch: `main` / `/root`.
-5. Under **Custom domain**, enter `MaterialistChristianity.org` and save.
-6. DNS at registrar:
-   - Apex A records → 185.199.108.153, 185.199.109.153, 185.199.110.153, 185.199.111.153
-   - `www` CNAME → `<your-username>.github.io`
-7. In Pages, enable **Enforce HTTPS** after the cert appears.
+## 🚀 Project Structure
 
-## Replace placeholders
-- Add the canonical Amazon URL in `/docs/LINKS.md` and replace `#amazon-link` references.
+Inside of your Astro project, you'll see the following folders and files:
 
-## Pre-publish maintenance link check
+```text
+/
+├── public/
+│   └── favicon.svg
+├── src
+│   ├── assets
+│   │   └── astro.svg
+│   ├── components
+│   │   └── Welcome.astro
+│   ├── layouts
+│   │   └── Layout.astro
+│   └── pages
+│       └── index.astro
+└── package.json
+```
 
-## Changelog
-- Reframed the site around the book-first architecture in `/docs/SITE_INTENT.md`, removing social/feed focus and aligning the homepage to recognition → confidence → direction.
-- Added a book hub, concepts library, concept pages, and a simple 404 page to create a finite recognition library with explicit pointers back to the book.
-- Simplified styling for readability while keeping the existing visual tone.
+To learn more about the folder structure of an Astro project, refer to [our guide on project structure](https://docs.astro.build/en/basics/project-structure/).
+
+## 🧞 Commands
+
+All commands are run from the root of the project, from a terminal:
+
+| Command                   | Action                                           |
+| :------------------------ | :----------------------------------------------- |
+| `npm install`             | Installs dependencies                            |
+| `npm run dev`             | Starts local dev server at `localhost:4321`      |
+| `npm run build`           | Build your production site to `./dist/`          |
+| `npm run preview`         | Preview your build locally, before deploying     |
+| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
+| `npm run astro -- --help` | Get help using the Astro CLI                     |
+
+## 👀 Want to learn more?
+
+Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).

@@ -1,0 +1,37 @@
+name: Weekly SEO Trends Tracker
+
+on:
+  schedule:
+    # Runs at 14:00 UTC (10:00 AM EST) every Monday
+    - cron: '0 14 * * 1'
+  workflow_dispatch: # Allows manual triggering from the Actions tab
+
+jobs:
+  run-seo-tracker:
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write # Required to create the GitHub Issue
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install pytrends pandas requests lxml
+
+      - name: Run SEO Tracker Script
+        run: python .github/scripts/seo_tracker.py
+
+      - name: Create Issue with Report
+        uses: peter-evans/create-issue-from-file@v5
+        with:
+          title: "📈 Weekly SEO Trends Report"
+          content-filepath: ./seo_report.md
+          labels: "seo-report"

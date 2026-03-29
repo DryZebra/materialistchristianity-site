@@ -1,0 +1,53 @@
+---
+import Layout from '../layouts/Layout.astro';
+---
+
+<Layout>
+	<main class="content">
+		<section class="panel success-panel">
+			<div class="dispatch-tag">[TRANSMISSION RECEIVED]</div>
+			<h1>AUDIT SIGNAL SECURED.</h1>
+			<p class="lede">The transaction has been cleared. The **30-Day Structural Audit** is being dispatched to your localized terminal (email) right now.</p>
+			
+			<div class="hard-stop">
+				<p>Check your inbox for the "Lectionary of Labor" PDF.</p>
+			</div>
+
+			<p class="note">If the signal doesn't arrive within 5 minutes, the circuit might be overloaded. Email Ezra directly and we'll manually patch the link through.</p>
+
+			<div class="cta-row">
+				<a class="btn primary" href="/">RETURN TO COMMAND CENTER (HOME)</a>
+			</div>
+		</section>
+
+		<section class="panel">
+			<h2>Next Phase: The Grounding</h2>
+			<p>While you wait for the manual, you can browse the free field notes or check the maintenance log to prepare your workspace.</p>
+			<div class="concept-nav">
+				<a href="/maintenance-log/">View Maintenance Log</a>
+				<a href="/start/">Start Here (Foundations)</a>
+			</div>
+		</section>
+	</main>
+</Layout>
+
+<style>
+	.success-panel {
+		border: 4px solid var(--accent);
+		background: linear-gradient(180deg, rgba(178,71,45,0.1) 0%, var(--panel) 100%);
+		text-align: center;
+		padding: 4rem 2rem;
+	}
+	.success-panel h1 {
+		font-size: 2.5rem;
+		margin-bottom: 1rem;
+		letter-spacing: 0.05em;
+	}
+	.success-panel .lede {
+		margin-left: auto;
+		margin-right: auto;
+	}
+	.success-panel .cta-row {
+		margin-top: 2.5rem;
+	}
+</style>

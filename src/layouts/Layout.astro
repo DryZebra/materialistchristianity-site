@@ -1,0 +1,49 @@
+---
+import "../styles/global.css";
+---
+
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width" />
+		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+		<link rel="icon" href="/favicon.ico" />
+		<meta name="generator" content={Astro.generator} />
+		<title>Materialist Christianity</title>
+		<meta name="description" content="Matter precedes hierarchy. Morality is mechanical. Read the manual, browse free field notes, or get the 30-day structural audit." />
+		<meta property="og:title" content="Materialist Christianity" />
+		<meta property="og:description" content="Industrial-grade publishing surface: free field notes plus weekly structural audits in the vault." />
+		<meta property="og:type" content="website" />
+		<meta property="og:url" content="https://materialistchristianity.org" />
+		<meta name="theme-color" content="#221b14" />
+		<link rel="canonical" href="https://materialistchristianity.org" />
+	</head>
+	<body>
+		<header class="site-header">
+			<nav class="site-nav" aria-label="Primary">
+				<a class="brand" href="/">Materialist Christianity</a>
+				<div class="nav-links">
+					<a href="/">Home</a>
+					<a href="/start/">Start Here</a>
+					<a href="/maintenance-log/">Free Archive</a>
+					<a href="/book/">The Book</a>
+				</div>
+			</nav>
+			<div class="hero">
+				<p class="kicker">Industrial theology for people under pressure.</p>
+				<h1>Matter Precedes Hierarchy. Morality is Mechanical.</h1>
+				<p class="lede">A structural audit of the modern world. We don't deal in spiritual advice; we deal in the mechanics of survival, faith, and human coordination.</p>
+			</div>
+		</header>
+
+		<slot />
+
+		<footer class="footer">
+			<div class="footer-content">
+				<p>© 2025 Materialist Christianity</p>
+				<p class="footer-note">The belief is optional; the labor is mandatory.</p>
+			</div>
+		</footer>
+	</body>
+</html>

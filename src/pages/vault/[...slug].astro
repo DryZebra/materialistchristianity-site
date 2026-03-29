@@ -1,0 +1,37 @@
+---
+import { type CollectionEntry, getCollection } from 'astro:content';
+import Layout from '../../layouts/Layout.astro';
+
+export async function getStaticPaths() {
+	const posts = await getCollection('vault');
+	return posts.map((post) => ({
+		params: { slug: post.slug },
+		props: post,
+	}));
+}
+type Props = CollectionEntry<'vault'>;
+
+const post = Astro.props;
+const { Content } = await post.render();
+---
+
+<Layout>
+	<main class="content article vault-protected">
+		<article>
+			<div class="prose">
+				<div class="title">
+					<p class="section-label">Locked Dispatch</p>
+					<h1>{post.data.title}</h1>
+					<hr />
+				</div>
+                <div data-ms-content="premium">
+				    <Content />
+                </div>
+                <div data-ms-content="!premium">
+                    <p>This entry is locked. Subscribe to the vault to read structural audits.</p>
+                    <a class="btn primary" href="https://www.paypal.com/donate?business=ezrabyrd@gmail.com&item_name=Materialist+Christianity+Vault" target="_blank" rel="noopener">Unlock The Vault</a>
+                </div>
+			</div>
+		</article>
+	</main>
+</Layout>
