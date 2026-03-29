@@ -1,6 +1,11 @@
 {
     "videos": [
         {
+            "id": "DW80tF2rK_4",
+            "title": "Algorithm vs. Reality: The Great Lie",
+            "type": "long"
+        },
+        {
             "id": "ylRj3-I2Zt0",
             "title": "Algorithm vs. Reality: The Brutal Truth",
             "type": "short"
@@ -43,5 +48,5 @@
             "title": "Engineering the LLM for Raw Pressure Extraction"
         }
     ],
-    "last_sync": "Sun Mar 29 17:22:56 2026 -0400"
+    "last_sync": "Sun Mar 29 17:29:59 2026 -0400"
 }
