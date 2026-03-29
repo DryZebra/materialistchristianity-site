@@ -1,6 +1,11 @@
 {
     "videos": [
         {
+            "id": "3bVbxOAc2Gw",
+            "title": "Algorithm vs. Reality: The Real Fight",
+            "type": "long"
+        },
+        {
             "id": "Btn4RFiGirE",
             "title": "Holy Cruelty: Power's Mask",
             "type": "long"
@@ -21,9 +26,17 @@
             "title": "The Bedrock Asset: Land Value Through Hyperinflation"
         },
         {
+            "slug": "materialist-christianity-description-330",
+            "title": "The Material Basis of Morality: An Introduction to Materialist Christianity"
+        },
+        {
             "slug": "our-story-unfolded-658",
             "title": "Structural Stability: The Reflexive Guard of Interpretive Sovereignty"
+        },
+        {
+            "slug": "website-strategy-for-materialist-christianity-620",
+            "title": "Engineering the LLM for Raw Pressure Extraction"
         }
     ],
-    "last_sync": "Sun Mar 29 16:21:09 2026 -0400"
+    "last_sync": "Sun Mar 29 16:25:36 2026 -0400"
 }
