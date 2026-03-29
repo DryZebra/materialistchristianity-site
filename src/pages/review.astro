@@ -42,7 +42,7 @@ const drafts = await getCollection('blog', ({ id }) => {
 							<div class="draft-content">
 								<p><strong>TAKEAWAY:</strong> {draft.data.description}</p>
 								<div class="body-preview">
-									{draft.body.substring(0, 300)}...
+									{draft.body ? draft.body.substring(0, 300) : "CONTENT UNAVAILABLE"}...
 								</div>
 							</div>
 							<div class="action-row">
@@ -59,7 +59,7 @@ const drafts = await getCollection('blog', ({ id }) => {
 	</main>
 </Layout>
 
-<script>
+<script lang="ts">
 	const OWNER = "DryZebra";
 	const REPO = "materialistchristianity-site";
 	
