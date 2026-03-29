@@ -42,6 +42,7 @@ const longs = manifest.videos.filter(v => v.type === 'long');
 					<button class="tab-btn" data-tab="shorts">SHORTS ({shorts.length})</button>
 					<button class="tab-btn" data-tab="longs">LONG FORM ({longs.length})</button>
 				</nav>
+				<div id="status-bar" class="panel hidden"></div>
 			</header>
 
 			<!-- ESSAYS TAB -->
@@ -180,6 +181,25 @@ const longs = manifest.videos.filter(v => v.type === 'long');
 		font-size: 0.7rem;
 		opacity: 0.6;
 		margin: 0;
+	}
+	#status-bar {
+		margin: 1rem 0;
+		padding: 0.8rem;
+		font-size: 0.8rem;
+		text-transform: uppercase;
+		letter-spacing: 1px;
+		font-family: 'Courier New', Courier, monospace;
+		border: 1px solid #333;
+	}
+	.status-success {
+		background: rgba(39, 174, 96, 0.1);
+		border-color: #27ae60 !important;
+		color: #27ae60;
+	}
+	.status-error {
+		background: rgba(192, 57, 43, 0.1);
+		border-color: #c0392b !important;
+		color: #c0392b;
 	}
 	.mini-btn {
 		background: #222;
@@ -389,6 +409,7 @@ const longs = manifest.videos.filter(v => v.type === 'long');
 			const token = atob(encodedToken).split('').reverse().join('');
 			return { "Authorization": `token ${token}`, "Accept": "application/vnd.github.v3+json" };
 		} catch (e) {
+			alert("DECRYPTION FAILURE: The engine token is malformed.");
 			showStatus("STRUCTURAL ERROR: Handshake decoding failed.", true);
 			return null;
 		}
@@ -478,8 +499,12 @@ const longs = manifest.videos.filter(v => v.type === 'long');
 				showStatus(`COMMAND ACKNOWLEDGED. ENGINE WILL ACT IN NEXT CYCLE.`);
 				element.style.opacity = "0.3";
 				element.style.pointerEvents = "none";
+			} else {
+				const err = await updateRes.json();
+				alert(`ENGINE REJECTION: ${err.message}`);
 			}
 		} catch (e) {
+			alert(`SYNC ERROR: ${e}`);
 			showStatus(`SYNC FAILED: ${e}`, true);
 		}
 	}
@@ -519,6 +544,7 @@ const longs = manifest.videos.filter(v => v.type === 'long');
 			element.style.pointerEvents = "none";
 			showStatus("STRUCTURAL ACTION COMPLETE.");
 		} catch (e) {
+			alert(`ACTION FAILURE: ${e}`);
 			showStatus(`ACTION FAILED: ${e}`, true);
 		}
 	}
