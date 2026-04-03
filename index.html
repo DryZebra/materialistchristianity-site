@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>Materialist Christianity</title>
+    <meta name="description" content="Matter precedes hierarchy. Industrial theology for people under pressure.">
+    
+    <!-- Open Graph / Social Media -->
+    <meta property="og:title" content="Materialist Christianity">
+    <meta property="og:description" content="Matter precedes hierarchy. Industrial theology for people under pressure.">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://materialistchristianity.org">
+    
+    <!-- Aesthetic Styling -->
+    <style>
+        body, html {
+            margin: 0;
+            padding: 0;
+            height: 100%;
+            width: 100%;
+            overflow: hidden;
+            background-color: #000; /* Pre-render black */
+        }
+        
+        #mirror-frame {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            border: none;
+            display: block;
+        }
+
+        /* Loading Spinner Aesthetics */
+        #loader {
+            position: fixed;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            color: #fff;
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+            letter-spacing: 0.1em;
+            text-transform: uppercase;
+            font-size: 0.8rem;
+            opacity: 0.5;
+            transition: opacity 0.5s ease;
+            pointer-events: none;
+        }
+    </style>
+</head>
+<body>
+
+    <div id="loader">Loading Manual...</div>
+
+    <iframe 
+        id="mirror-frame"
+        src="https://materialistos.polsia.app/" 
+        allow="camera; microphone; geolocation; payment; autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
+        allowfullscreen
+        title="Materialist Christianity (Polsia Mirror)"
+        onload="document.getElementById('loader').style.opacity = '0';"
+    ></iframe>
+
+    <script>
+        // Deep Link Handling
+        // If someone visits materialistchristianity.org/?path=essays, load that in the iFrame
+        const urlParams = new URLSearchParams(window.location.search);
+        const targetPath = urlParams.get('path');
+        const frame = document.getElementById('mirror-frame');
+        
+        if (targetPath) {
+            frame.src = "https://materialistos.polsia.app/" + targetPath;
+        }
+
+        // Prevent address bar jumping on mobile if possible
+        window.addEventListener('scroll', (e) => { e.preventDefault(); }, { passive: false });
+    </script>
+</body>
+</html>
