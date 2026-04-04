@@ -3,6 +3,7 @@ import Link from 'next/link';
 import ReactMarkdown from 'react-markdown';
 import remarkGfm from 'remark-gfm';
 import { getAllWikiNodes, getWikiNodeBySlug } from '@/lib/wiki';
+import { transformWikiLinks } from '@/lib/markdown';
 
 export async function generateStaticParams() {
   const nodes = getAllWikiNodes();
@@ -97,7 +98,7 @@ export default async function Essay({ params }: { params: Promise<{ slug: string
 
       <section className="max-w-5xl text-lg md:text-2xl leading-relaxed font-serif border-b-4 border-ash pb-16 markdown-real">
         <ReactMarkdown remarkPlugins={[remarkGfm]}>
-          {node.content}
+          {transformWikiLinks(node.content)}
         </ReactMarkdown>
       </section>
 

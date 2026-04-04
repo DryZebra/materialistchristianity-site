@@ -31,7 +31,3 @@ We trace this logical wire directly to the New Testament. Christ does not come t
 I am an electrician. I know the difference between a schematic that looks good on a screen and a wire that carries the current without melting. Christianity held. Not because of a metaphysical wand, but because generations of ordinary folks lived the mechanics of Scripture until it became the literal floor beneath our feet.
 
 Every week, we will perform a structural audit of this record. Not the academic version, but the talk you carry to the job site. This is about what works. This is about the **Industrial Real**.
-
----
-*Reference Node: [[the_industrial_real]]*
-*Reference Node: [[scripture_behavioral_history]]*
