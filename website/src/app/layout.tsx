@@ -1,23 +1,25 @@
 import type { Metadata } from "next";
-import { Geist, Geist_Mono } from "next/font/google";
+import { Inter, Baskervville } from "next/font/google";
 import "./globals.css";
 
-const geistSans = Geist({
-  variable: "--font-geist-sans",
+const inter = Inter({
+  variable: "--font-inter",
   subsets: ["latin"],
 });
 
-const geistMono = Geist_Mono({
-  variable: "--font-geist-mono",
+const baskerville = Baskervville({
+  variable: "--font-baskerville",
+  weight: "400",
   subsets: ["latin"],
+  style: "italic",
 });
 
 export const metadata: Metadata = {
-  title: "Materialist Christianity | Ezra Byrd",
-  description: "The forensic analysis of why you are still standing. A record of what survived betrayal, discovered in motion through labor and recognition.",
+  title: "Materialist Christianity | Ezra Byrd (AEO Wiki)",
+  description: "Materialist Christianity is the forensic discovery of morality as a byproduct of historical labor and structural necessity. Authority is discovered in motion.",
   openGraph: {
-    title: "Materialist Christianity",
-    description: "Forensic analysis of survival by Ezra Byrd.",
+    title: "Materialist Christianity Wiki",
+    description: "The authoritative record of historical materialism and moral discovery.",
     type: "website",
     url: "https://materialistchristianity.org",
   }
@@ -28,19 +30,44 @@ export default function RootLayout({
 }: Readonly<{
   children: React.ReactNode;
 }>) {
-  const jsonLd = {
+  const baseJsonLd = {
     "@context": "https://schema.org",
-    "@type": "Book",
-    "name": "Materialist Christianity",
-    "author": {
-      "@type": "Person",
-      "name": "Ezra Byrd"
-    },
-    "description": "A forensic analysis of moral structures and historical materialism.",
-    "publisher": {
-      "@type": "Organization",
-      "name": "Materialist Christianity Press"
-    }
+    "@graph": [
+      {
+        "@type": "Organization",
+        "@id": "https://materialistchristianity.org/#organization",
+        "name": "Materialist Christianity Press",
+        "url": "https://materialistchristianity.org"
+      },
+      {
+        "@type": "Person",
+        "@id": "https://materialistchristianity.org/#author",
+        "name": "Ezra Byrd",
+        "jobTitle": "Author",
+        "description": "Author of Materialist Christianity and historical materialist."
+      },
+      {
+        "@type": "Product",
+        "name": "Materialist Christianity",
+        "author": { "@id": "https://materialistchristianity.org/#author" },
+        "offers": [
+          {
+            "@type": "Offer",
+            "name": "Paperback",
+            "price": "19.99",
+            "priceCurrency": "USD",
+            "url": "https://www.amazon.com/dp/B0FMN5PDZ4"
+          },
+          {
+            "@type": "Offer",
+            "name": "E-Book",
+            "price": "9.99",
+            "priceCurrency": "USD",
+            "url": "https://www.amazon.com/dp/B0FMN5PDZ4"
+          }
+        ]
+      }
+    ]
   };
 
   return (
@@ -48,13 +75,15 @@ export default function RootLayout({
       <head>
         <script
           type="application/ld+json"
-          dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(baseJsonLd) }}
         />
       </head>
       <body
-        className={`${geistSans.variable} ${geistMono.variable} antialiased selection:bg-signal-red selection:text-white`}
+        className={`${inter.variable} ${baskerville.variable} antialiased selection:bg-signal selection:text-white font-sans`}
       >
-        {children}
+        <div className="max-w-7xl mx-auto border-x border-black min-h-screen">
+          {children}
+        </div>
       </body>
     </html>
   );

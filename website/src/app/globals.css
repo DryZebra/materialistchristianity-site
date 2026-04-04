@@ -1,73 +1,92 @@
 @import "tailwindcss";
 
 :root {
-  --background-white: #FFFFFF;
-  --background-coal: #0F0F0F;
-  --foreground-ink: #000000;
-  --foreground-bone: #F5F5E5;
-  --signal-red: #FF0000;
+  --bg-primary: #FFFFFF;
+  --bg-secondary: #F8F8F8;
+  --fg-primary: #000000;
+  --fg-secondary: #404040;
+  --signal: #FF0000;
   
-  /* System variables that change on scroll - handled via JS or CSS calc */
-  --current-bg: var(--background-white);
-  --current-fg: var(--foreground-ink);
-  
-  --spacing-unit: 2rem;
-  --border-weight: 2px;
+  --spacing: 1.5rem;
+  --border: 1px solid #000;
 }
 
 @theme inline {
-  --color-background: var(--current-bg);
-  --color-foreground: var(--current-fg);
-  --color-signal-red: var(--signal-red);
+  --color-background: var(--bg-primary);
+  --color-foreground: var(--fg-primary);
+  --color-signal: var(--signal);
 }
 
 * {
   box-sizing: border-box;
-  margin: 0;
-  padding: 0;
 }
 
 body {
-  background-color: var(--current-bg);
-  color: var(--current-fg);
-  min-height: 100vh;
-  transition: background-color 0.5s ease, color 0.5s ease;
-  line-height: 1.4;
-  word-spacing: -0.05em;
-  text-rendering: optimizeLegibility;
+  background-color: var(--bg-primary);
+  color: var(--fg-primary);
+  font-family: 'Inter', system-ui, sans-serif;
+  line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
 }
 
-/* Brutalist Grid Components */
-.b-grid {
-  display: grid;
-  grid-template-columns: repeat(12, 1fr);
-  gap: 0;
-  border-left: var(--border-weight) solid currentColor;
-  border-right: var(--border-weight) solid currentColor;
+/* AEO: Structural Text Clarity */
+article {
+  max-width: 68ch;
+  margin: 0 auto;
 }
 
-.b-cell {
-  border-bottom: var(--border-weight) solid currentColor;
-  padding: var(--spacing-unit);
-}
-
-.b-border-t { border-top: var(--border-weight) solid currentColor; }
-.b-border-r { border-right: var(--border-weight) solid currentColor; }
-
-/* Cumulative Pressure Utilities */
-.pressure-gradient {
-  background: linear-gradient(to bottom, var(--background-white) 0%, var(--background-coal) 100%);
-  background-attachment: fixed;
-}
-
-/* Typography Overrides */
 h1, h2, h3 {
+  font-weight: 800;
   text-transform: uppercase;
-  font-weight: 900;
-  letter-spacing: -0.02em;
-  line-height: 0.9;
+  letter-spacing: -0.01em;
+  line-height: 1.1;
+  margin-top: 2.5rem;
+  margin-bottom: 1rem;
 }
 
-p {
-  max-width: 65ch;
+h1 { font-size: 3rem; }
+h2 { font-size: 2rem; border-bottom: var(--border); padding-bottom: 0.5rem; }
+
+/* Answer-First Formatting Helper */
+.aeo-answer {
+  font-size: 1.25rem;
+  font-weight: 600;
+  color: var(--fg-secondary);
+  border-left: 4px solid var(--signal);
+  padding-left: 1rem;
+  margin: 1.5rem 0;
+}
+
+/* Wiki Hub Grid */
+.wiki-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: var(--spacing);
+}
+
+.wiki-card {
+  border: var(--border);
+  padding: var(--spacing);
+  transition: transform 0.1s ease;
+}
+
+.wiki-card:hover { border-width: 2px; }
+
+/* The Funnel */
+.cta-funnel {
+  background-color: #000;
+  color: #FFF;
+  padding: 4rem;
+  text-align: center;
+  margin-top: 5rem;
+}
+
+.btn-signal {
+  background-color: var(--signal);
+  color: #FFF;
+  padding: 1rem 2rem;
+  font-weight: 900;
+  text-transform: uppercase;
+  display: inline-block;
+  margin-top: 1rem;
 }
