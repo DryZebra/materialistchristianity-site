@@ -19,6 +19,8 @@
 
 * {
   box-sizing: border-box;
+  margin: 0;
+  padding: 0;
 }
 
 body {
@@ -27,12 +29,15 @@ body {
   font-family: 'Inter', system-ui, sans-serif;
   line-height: 1.5;
   -webkit-font-smoothing: antialiased;
+  overflow-x: hidden;
 }
 
 /* AEO: Structural Text Clarity */
 article {
   max-width: 68ch;
   margin: 0 auto;
+  overflow-wrap: break-word;
+  word-break: break-word;
 }
 
 h1, h2, h3 {
@@ -44,7 +49,7 @@ h1, h2, h3 {
   margin-bottom: 1rem;
 }
 
-h1 { font-size: 3rem; }
+h1 { font-size: 3.5rem; }
 h2 { font-size: 2rem; border-bottom: var(--border); padding-bottom: 0.5rem; }
 
 /* Answer-First Formatting Helper */
@@ -57,26 +62,42 @@ h2 { font-size: 2rem; border-bottom: var(--border); padding-bottom: 0.5rem; }
   margin: 1.5rem 0;
 }
 
-/* Wiki Hub Grid */
+/* Wiki Hub Grid - Stable & Responsive */
 .wiki-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  display: flex;
+  flex-direction: column;
   gap: var(--spacing);
 }
 
 .wiki-card {
   border: var(--border);
   padding: var(--spacing);
-  transition: transform 0.1s ease;
+  transition: background-color 0.1s ease;
 }
 
-.wiki-card:hover { border-width: 2px; }
+.wiki-card:hover { background-color: var(--bg-secondary); }
 
-/* The Funnel */
+/* The Math: Responsive Formulas */
+.formula-block {
+  margin-bottom: 3rem;
+  width: 100%;
+}
+
+.formula-display {
+  background-color: var(--bg-secondary);
+  border: var(--border);
+  padding: 2rem;
+  font-family: monospace;
+  font-size: clamp(1.5rem, 5vw, 4rem);
+  text-align: center;
+  overflow-x: auto;
+}
+
+/* The Funnel (Omnipresent CTA) */
 .cta-funnel {
   background-color: #000;
   color: #FFF;
-  padding: 4rem;
+  padding: 4rem 2rem;
   text-align: center;
   margin-top: 5rem;
 }
@@ -84,9 +105,17 @@ h2 { font-size: 2rem; border-bottom: var(--border); padding-bottom: 0.5rem; }
 .btn-signal {
   background-color: var(--signal);
   color: #FFF;
-  padding: 1rem 2rem;
+  padding: 1.2rem 2.5rem;
   font-weight: 900;
   text-transform: uppercase;
   display: inline-block;
-  margin-top: 1rem;
+  text-decoration: none;
+}
+
+/* AI Memory / Hidden Infrastructure */
+.ai-only {
+  display: none;
+  visibility: hidden;
+  height: 0;
+  width: 0;
 }

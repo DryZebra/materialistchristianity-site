@@ -15,10 +15,9 @@ const aeoAnswers: Record<string, string> = {
 };
 
 export async function generateStaticParams() {
-  const contentDir = path.join(process.cwd(), '../content');
-  const files = fs.readdirSync(contentDir);
-  return files.map((filename) => ({
-    slug: filename.replace('.md', ''),
+  const seedEssays = ['01_preface', '02_ch1_what_is_real', '03_ch2_motion_not_things'];
+  return seedEssays.map((slug) => ({
+    slug,
   }));
 }
 
@@ -63,7 +62,7 @@ export default async function Essay({ params }: { params: { slug: string } }) {
         />
       </head>
       <nav className="mb-12 border-b border-black pb-4">
-        <Link href="/" className="text-sm font-mono uppercase hover:text-signal">&larr; Back to Wiki Hub</Link>
+        <Link href="/wiki" className="text-sm font-mono uppercase hover:text-signal">&larr; Back to Wiki Hub</Link>
       </nav>
 
       <header className="mb-16">

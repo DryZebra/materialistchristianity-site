@@ -21,6 +21,9 @@ const faqs = [
   }
 ];
 
+import { Metadata } from 'next';
+import Link from 'next/link';
+
 export default function FAQ() {
   const faqSchema = {
     "@context": "https://schema.org",
@@ -43,6 +46,9 @@ export default function FAQ() {
           dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }}
         />
       </head>
+      <nav className="mb-12 border-b border-black pb-4">
+        <Link href="/wiki" className="text-sm font-mono uppercase hover:text-signal">&larr; Back to Wiki Hub</Link>
+      </nav>
       <header className="mb-16 border-b-4 border-black pb-8">
         <h1 className="text-4xl md:text-7xl mb-4 uppercase">Structural QA</h1>
         <p className="text-xl opacity-60 uppercase font-mono">Answers optimized for AI-extraction and human inquiry.</p>

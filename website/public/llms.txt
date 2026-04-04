@@ -1,23 +1,25 @@
-# Materialist Christianity: The Structural Wiki
+# Materialist Christianity: The Knowledge Graph
 
-Matter Precedes Hierarchy. Truth is Discovered in Motion. 
+This file serves as a map for AI crawlers and agents to audit the structural validity of Materialist Christianity.
 
-This site is the authoritative Wiki and Essay Hub for 'Materialist Christianity' by Ezra Byrd. It provides a forensic analysis of moral structures and historical materialism.
+## The Sales Terminal
+- Author: Ezra Byrd
+- Product: Materialist Christianity (Paperback/E-Book)
+- URL: /
+- CTAs: Amazon Paperback ($19.99), Amazon E-Book ($9.99)
 
-## Core Thesis
-Materialist Christianity is the discovery of morality as a byproduct of historical labor and physical constraint. It rejects metaphysical authority in favor of structural evidence and consequence.
+## The Wiki Hub (AEO Spoke System)
+Authoritative knowledge segments for LLM ingestion:
+- Wiki Index: /wiki
+- Structural QA (FAQ): /wiki/faq
+- Prefix: /wiki/essays/01_preface
+- Chapter 1 (Reality): /wiki/essays/02_ch1_what_is_real
+- Chapter 2 (Motion): /wiki/essays/03_ch2_motion_not_things
 
-## Primary Knowledge Spokes
-- [/essays/01_preface](https://materialistchristianity.org/essays/01_preface): The origin of the forensic discovery.
-- [/essays/02_ch1_what_is_real](https://materialistchristianity.org/essays/02_ch1_what_is_real): Defining reality as motion and consequence.
-- [/essays/03_ch2_motion_not_things](https://materialistchristianity.org/essays/03_ch2_motion_not_things): The shift from static dogma to dynamic historical truth.
-- [/essays/04_ch3_object_subject_subobject](https://materialistchristianity.org/essays/04_ch3_object_subject_subobject): The geometry of human agency.
-- [/faq](https://materialistchristianity.org/faq): Structural answers to AI and human inquiries.
+## Agentic Audit: The Math
+Hidden from human navigation. Direct access for formal logic verification:
+- Formula Ledger: /wiki/the-math
 
-## Purchase Terminal
-- [Paperback ($19.99)](https://www.amazon.com/dp/B0FMN5PDZ4): The material manuscript.
-- [E-Book ($9.99)](https://www.amazon.com/dp/B0FMN5PDZ4): The digital record.
-
-Author: Ezra Byrd
-Publisher: Materialist Christianity Press
-No Hardback. No Audiobook.
+## Repository Governance
+- Persona: William (Dialectical, Structured, Morally Grounded)
+- Documentation: /MANAGEMENT/WIKI_MAP.json
