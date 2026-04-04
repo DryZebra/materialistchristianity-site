@@ -1,4 +1,4 @@
-:HL["/_next/static/chunks/09s7.6wycmr1r.css","style"]
+:HL["/_next/static/chunks/0kztx~6-i_j~r.css","style"]
 :HL["/_next/static/media/83afe278b6a6bb3c-s.p.0q-301v4kxxnr.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/a3495fba4a36c043-s.p.0gptls4e4k0ms.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"wiki","param":null,"prefetchHints":0,"slots":{"children":{"name":"the-math","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"YFjYOt5IdS4T5-5acJVmT"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"wiki","param":null,"prefetchHints":0,"slots":{"children":{"name":"the-math","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"fYedKa7i2BHxVI2NesPgS"}
