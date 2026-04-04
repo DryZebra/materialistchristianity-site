@@ -582,6 +582,13 @@
       "volume": 2,
       "type": "Forensic",
       "integration_status": "Integrated"
+    },
+    {
+      "slug": "bible/gen/1",
+      "title": "Genesis 1: The Initialization of the Substrate",
+      "volume": 3,
+      "type": "Verse",
+      "integration_status": "Integrated"
     }
   ],
   "essays": [

@@ -1,0 +1,13 @@
+[
+  {
+    "ref": "Gen 1:1",
+    "book": "Genesis",
+    "chapter": 1,
+    "verse": 1,
+    "status": "Completed",
+    "morph_verified": true,
+    "themes": ["Origins", "Structure", "Metabolism"],
+    "dialectical_link": "John 1:1; Col 1:17",
+    "file_path": "content/bible/gen/1.md"
+  }
+]
