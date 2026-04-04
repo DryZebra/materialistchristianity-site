@@ -146,6 +146,48 @@ h1, h2, h3 {
   padding-left: 0.25rem;
 }
 
+/* SEARCH & NAV INTERFACE */
+.search-container {
+  @apply sticky top-0 z-[60] bg-concrete border-b-4 border-ash/20 py-4 mb-8;
+}
+
+.search-input {
+  @apply w-full bg-steel/20 border-2 border-ash px-4 py-3 text-ash font-mono uppercase focus:border-signal outline-none transition-all;
+}
+
+.mobile-nav-trigger {
+  @apply lg:hidden fixed bottom-8 right-8 z-[100] bg-signal text-white p-6 rounded-none font-black uppercase text-xl shadow-[8px_8px_0_rgba(0,0,0,0.5)] hover:translate-x-1 hover:translate-y-1 hover:shadow-none transition-all;
+}
+
+.mobile-drawer {
+  @apply fixed inset-0 z-[90] bg-concrete transform transition-transform duration-300 ease-in-out;
+}
+
+.drawer-open {
+  @apply translate-x-0;
+}
+
+.drawer-closed {
+  @apply -translate-x-full;
+}
+
+.tab-button {
+  @apply px-4 py-2 font-black uppercase text-sm border-b-4 border-transparent opacity-50 hover:opacity-100 transition-all;
+}
+
+.tab-active {
+  @apply border-signal opacity-100;
+}
+
+/* BREADCRUMBS */
+.breadcrumb {
+  @apply flex items-center gap-2 text-[10px] font-mono uppercase opacity-40 mb-4;
+}
+
+.breadcrumb-sep {
+  @apply w-1 h-1 bg-ash/40 rotate-45;
+}
+
 /* Bento Grid */
 .bento-grid {
   display: grid;

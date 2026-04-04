@@ -1,5 +1,6 @@
 import Link from 'next/link';
-import { getNodesByCategory } from '@/lib/wiki';
+import { getNodesByCategory, getAllWikiNodes, getAllEssays } from '@/lib/wiki';
+import MobileNav from '@/components/MobileNav';
 
 export default function WikiLayout({ children }: { children: React.ReactNode }) {
   const categories = getNodesByCategory();
@@ -7,13 +8,13 @@ export default function WikiLayout({ children }: { children: React.ReactNode }) 
 
   return (
     <div className="forensic-layout">
-      {/* PERSISTENT FORENSIC SIDEBAR */}
+      {/* PERSISTENT FORENSIC SIDEBAR (DESKTOP) */}
       <aside className="forensic-sidebar hidden lg:block">
         <div className="mb-12">
-          <Link href="/wiki" className="text-3xl font-black text-signal block mb-2 uppercase leading-none">
+          <Link href="/wiki" className="text-3xl font-black text-signal block mb-2 uppercase leading-none italic">
             Archive
           </Link>
-          <div className="text-[10px] uppercase font-mono opacity-40">Status: Operational</div>
+          <div className="text-[10px] uppercase font-mono opacity-40">Status: Operational // Vol II</div>
         </div>
 
         <nav className="space-y-8">
@@ -54,8 +55,11 @@ export default function WikiLayout({ children }: { children: React.ReactNode }) 
         </nav>
       </aside>
 
+      {/* MOBILE NAV OVERLAY */}
+      <MobileNav categories={categories} />
+
       {/* VIEWPORT */}
-      <section className="forensic-content">
+      <section className="forensic-content relative">
         {children}
       </section>
     </div>

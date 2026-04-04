@@ -95,25 +95,34 @@ export default async function WikiNode({ params }: { params: Promise<{ slug: str
         />
       </head>
       
-      <nav className="mb-12 border-b-2 border-ash pb-4">
-        <Link href="/wiki" className="text-sm font-mono uppercase hover:text-signal transition-colors tracking-widest font-bold">
-          &larr; Hub Node / Wiki Index
-        </Link>
+      <nav className="mb-12 border-b-2 border-ash/20 pb-4">
+        <div className="breadcrumb">
+          <Link href="/wiki" className="hover:text-signal transition-colors">Archive</Link>
+          <span className="breadcrumb-sep"></span>
+          <span className="text-signal">{node.category}</span>
+          <span className="breadcrumb-sep"></span>
+          <span className="opacity-100">{node.title}</span>
+        </div>
       </nav>
 
-      <header className="max-w-4xl mb-16">
-        <div className="flex gap-2 mb-4 text-xs font-mono uppercase tracking-widest opacity-50">
-          <span className="text-signal font-bold">{node.category}</span>
-          {node.tags.map(tag => (
-            <span key={tag} className="before:content-['#']">{tag}</span>
-          ))}
+      <header className="max-w-4xl mb-16 relative">
+        <div className="absolute -left-12 top-0 h-full w-1 bg-signal opacity-50 hidden md:block"></div>
+        <div className="flex flex-wrap gap-4 mb-6 text-[10px] font-mono uppercase tracking-widest">
+          <div className="bg-signal text-white px-3 py-1 font-black">
+            Category // {node.category}
+          </div>
+          <div className="flex gap-2 items-center opacity-50">
+            {node.tags.map(tag => (
+              <span key={tag} className="border border-ash/30 px-2 py-0.5 before:content-['#']">{tag}</span>
+            ))}
+          </div>
         </div>
-        <h1 className="text-4xl md:text-6xl xl:text-7xl mb-12 leading-[0.95] break-words overflow-hidden">
+        <h1 className="text-5xl md:text-7xl xl:text-8xl mb-12 leading-[0.9] break-words overflow-hidden font-black italic">
           {node.title}
         </h1>
-        <div className="bg-ash text-concrete p-8 border-l-[12px] border-signal font-bold mb-12">
-          <span className="uppercase text-xs block mb-2 opacity-50 font-mono tracking-widest">Machine-Readable Extract (AEO Index):</span>
-          <p className="text-xl md:text-2xl leading-tight">{node.description}</p>
+        <div className="bg-steel/10 p-8 border-l-[12px] border-signal font-bold mb-12 shadow-[12px_12px_0_rgba(0,0,0,0.4)]">
+          <span className="uppercase text-[10px] block mb-3 opacity-40 font-mono tracking-widest border-b border-ash/10 pb-1 w-fit">Extraction Hash // Description:</span>
+          <p className="text-xl md:text-3xl leading-tight uppercase tracking-tighter">{node.description}</p>
         </div>
       </header>
 
