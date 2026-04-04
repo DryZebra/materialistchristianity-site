@@ -83,9 +83,16 @@ h1, h2, h3 {
 
 /* Forensic Dashboard Layout */
 .forensic-layout {
-  display: grid;
-  grid-template-columns: 300px 1fr;
+  display: flex;
+  flex-direction: column;
   min-height: 100vh;
+}
+
+@media (min-width: 1024px) {
+  .forensic-layout {
+    display: grid;
+    grid-template-columns: 300px 1fr;
+  }
 }
 
 .forensic-sidebar {
@@ -100,8 +107,17 @@ h1, h2, h3 {
 }
 
 .forensic-content {
-  padding: 4rem;
-  max-width: 1600px;
+  padding: 1.5rem;
+  width: 100%;
+  max-width: 100%;
+  overflow-x: hidden;
+}
+
+@media (min-width: 768px) {
+  .forensic-content {
+    padding: 4rem;
+    max-width: 1600px;
+  }
 }
 
 /* Category Index */
@@ -208,6 +224,8 @@ h1, h2, h3 {
 
 /* Mobile Optimizations */
 @media (max-width: 768px) {
-  h1 { font-size: 4rem !important; }
+  h1 { font-size: 3rem !important; }
+  h2 { font-size: 2.5rem !important; }
   .brutalist-card { padding: 1.5rem; }
+  .gate-card { padding: 1.5rem; min-height: auto; }
 }
