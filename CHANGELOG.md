@@ -2,6 +2,21 @@
 
 All notable changes to this project will be documented in this file. This is a mandatory protocol to ensure persistence across AI agent sessions.
 
+## [2026-04-04] - Phase 8: Industrial Funnel Realignment
+
+### Added
+- Dark Industrial Design System: Charcoal/Concrete palette with Signal Orange accents.
+- 5-Step Automated Funnel: Rebuilt landing page for high-torque book conversion.
+- Asset Integration: Physical book cover (Amazon listing version) integrated into landing page.
+- Direct Email Capture: Implemented `mailto` logic for structural blueprint requests.
+
+### Changed
+- Wiki Hub Restoration: Fixed dead-end dynamic routing for Chapter 2 and applied industrial theme to all knowledge nodes.
+- SEO Optimization: Integrated AEO (Answer Engine Optimization) blocks across all dynamic essays for agentic crawler authority.
+
+### Verified
+- Production Build: Successfully executed `npm run build` with all static routes active.
+
 ## [2026-04-04] - Project Management Initialization
 
 ### Initial Setup

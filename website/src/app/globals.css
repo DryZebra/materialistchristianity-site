@@ -1,121 +1,103 @@
 @import "tailwindcss";
 
-:root {
-  --bg-primary: #FFFFFF;
-  --bg-secondary: #F8F8F8;
-  --fg-primary: #000000;
-  --fg-secondary: #404040;
-  --signal: #FF0000;
-  
-  --spacing: 1.5rem;
-  --border: 1px solid #000;
+@theme {
+  --color-signal: #FF3E00;
+  --color-steel: #333333;
+  --color-concrete: #121212;
+  --color-ash: #D1D1D1;
 }
 
-@theme inline {
-  --color-background: var(--bg-primary);
-  --color-foreground: var(--fg-primary);
-  --color-signal: var(--signal);
-}
-
-* {
-  box-sizing: border-box;
-  margin: 0;
-  padding: 0;
-}
-
+/* Base Industrial Reset */
 body {
-  background-color: var(--bg-primary);
-  color: var(--fg-primary);
+  background-color: var(--color-concrete);
+  color: var(--color-ash);
   font-family: 'Inter', system-ui, sans-serif;
   line-height: 1.5;
-  -webkit-font-smoothing: antialiased;
+  margin: 0;
   overflow-x: hidden;
 }
 
-/* AEO: Structural Text Clarity */
-article {
-  max-width: 68ch;
-  margin: 0 auto;
-  overflow-wrap: break-word;
-  word-break: break-word;
-}
-
-h1, h2, h3 {
-  font-weight: 800;
-  text-transform: uppercase;
-  letter-spacing: -0.01em;
-  line-height: 1.1;
-  margin-top: 2.5rem;
-  margin-bottom: 1rem;
-}
-
-h1 { font-size: 3.5rem; }
-h2 { font-size: 2rem; border-bottom: var(--border); padding-bottom: 0.5rem; }
-
-/* Answer-First Formatting Helper */
-.aeo-answer {
-  font-size: 1.25rem;
-  font-weight: 600;
-  color: var(--fg-secondary);
-  border-left: 4px solid var(--signal);
-  padding-left: 1rem;
-  margin: 1.5rem 0;
-}
-
-/* Wiki Hub Grid - Stable & Responsive */
-.wiki-grid {
-  display: flex;
-  flex-direction: column;
-  gap: var(--spacing);
-}
-
-.wiki-card {
-  border: var(--border);
-  padding: var(--spacing);
-  transition: background-color 0.1s ease;
-}
-
-.wiki-card:hover { background-color: var(--bg-secondary); }
-
-/* The Math: Responsive Formulas */
-.formula-block {
-  margin-bottom: 3rem;
+/* Concrete Grain Effect */
+body::before {
+  content: "";
+  position: fixed;
+  top: 0;
+  left: 0;
   width: 100%;
+  height: 100%;
+  background: radial-gradient(circle, rgba(255,255,255,0.02) 1px, transparent 1px);
+  background-size: 4px 4px;
+  pointer-events: none;
+  z-index: -1;
 }
 
-.formula-display {
-  background-color: var(--bg-secondary);
-  border: var(--border);
+/* Brutalist Typography */
+h1, h2, h3 {
+  text-transform: uppercase;
+  font-weight: 900;
+  letter-spacing: -0.05em;
+  line-height: 0.9;
+}
+
+.brutalist-card {
+  border: 4px solid var(--color-ash);
   padding: 2rem;
-  font-family: monospace;
-  font-size: clamp(1.5rem, 5vw, 4rem);
-  text-align: center;
-  overflow-x: auto;
+  background: transparent;
+  transition: all 0.2s ease;
 }
 
-/* The Funnel (Omnipresent CTA) */
-.cta-funnel {
-  background-color: #000;
-  color: #FFF;
-  padding: 4rem 2rem;
-  text-align: center;
-  margin-top: 5rem;
+.brutalist-card:hover {
+  border-color: var(--color-signal);
+  transform: translate(-4px, -4px);
+  box-shadow: 8px 8px 0 var(--color-signal);
 }
 
-.btn-signal {
-  background-color: var(--signal);
-  color: #FFF;
-  padding: 1.2rem 2.5rem;
+.cta-terminal {
+  background: var(--color-signal);
+  color: white;
+  padding: 1.5rem 3rem;
+  font-size: 1.5rem;
   font-weight: 900;
   text-transform: uppercase;
+  border: none;
+  cursor: pointer;
   display: inline-block;
-  text-decoration: none;
+  text-align: center;
+  transition: transform 0.1s active;
 }
 
-/* AI Memory / Hidden Infrastructure */
+.cta-terminal:hover {
+  transform: scale(1.02);
+  filter: brightness(1.1);
+}
+
+.cta-terminal:active {
+  transform: scale(0.98);
+}
+
+/* Section Dividers */
+.load-bearing-border {
+  border-top: 8px solid var(--color-ash);
+  margin: 4rem 0;
+}
+
+/* AEO Styling */
+.aeo-answer {
+  background: white;
+  color: black;
+  padding: 2rem;
+  font-weight: bold;
+  border-left: 12px solid var(--color-signal);
+  margin: 2rem 0;
+}
+
+/* AI Memory Utility */
 .ai-only {
-  display: none;
-  visibility: hidden;
-  height: 0;
-  width: 0;
+  display: none !important;
+}
+
+/* Mobile Optimizations */
+@media (max-width: 768px) {
+  h1 { font-size: 4rem !important; }
+  .brutalist-card { padding: 1.5rem; }
 }

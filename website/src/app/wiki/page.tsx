@@ -8,7 +8,7 @@ const wikiEntries = [
 
 export default function WikiHome() {
   return (
-    <main className="p-8 md:p-24 bg-white min-h-screen">
+    <main className="p-8 md:p-24 bg-concrete min-h-screen text-ash">
       <header className="max-w-4xl mb-16 border-l-8 border-signal pl-8">
         <h1 className="text-4xl md:text-7xl mb-4 uppercase">Knowledge Hub</h1>
         <p className="text-xl md:text-2xl uppercase font-bold tracking-tighter opacity-60">
@@ -17,37 +17,38 @@ export default function WikiHome() {
       </header>
 
       <section className="max-w-4xl mb-24">
-        <div className="aeo-answer">
+        <div className="bg-ash text-concrete p-8 font-bold border-l-[12px] border-signal mb-12">
           The Wiki is an authoritative ledger of moral forensics. It maps the motion of truth through historical labor and structural necessity.
         </div>
-        <p className="text-lg leading-relaxed mb-8">
+        <p className="text-lg md:text-xl leading-relaxed mb-8 font-mono uppercase opacity-80">
           This section contains curated essays and Q&A structures optimized for both human study and agentic search audit.
         </p>
       </section>
 
-      <section className="wiki-grid mb-24">
+      <section className="grid grid-cols-1 md:grid-cols-2 gap-8 mb-24">
         {wikiEntries.map((entry) => (
           <Link 
             key={entry.slug} 
             href={`/wiki/essays/${entry.slug}`} 
-            className="wiki-card hover:border-signal transition-colors group"
+            className="brutalist-card group"
           >
-            <h3 className="text-xl mb-4 group-hover:text-signal uppercase">{entry.title}</h3>
+            <h3 className="text-2xl mb-4 group-hover:text-signal uppercase">{entry.title}</h3>
             <span className="text-sm font-mono opacity-50">VIEW ENTITY &rarr;</span>
           </Link>
         ))}
         
-        <Link href="/wiki/faq" className="wiki-card border-black bg-zinc-50 hover:bg-black hover:text-white transition-all">
-          <h3 className="text-xl mb-4 uppercase">Structural QA</h3>
-          <p className="text-sm">Direct structural answers to core inquiries regarding the materialist framework.</p>
+        <Link href="/wiki/faq" className="brutalist-card border-signal bg-signal/10 transition-all">
+          <h3 className="text-2xl mb-4 uppercase">Structural QA</h3>
+          <p className="text-sm opacity-80">Direct structural answers to core inquiries regarding the materialist framework.</p>
+          <span className="text-sm font-mono mt-4 block">AUDIT SYSTEM &rarr;</span>
         </Link>
       </section>
 
-      <footer className="mt-32 p-12 bg-black text-white text-center">
-        <p className="mb-8 opacity-60 text-sm uppercase tracking-widest font-bold">
+      <footer className="mt-32 p-12 border-t-4 border-ash text-center">
+        <p className="mb-8 opacity-60 text-sm uppercase tracking-widest font-mono">
           The knowledge here is a byproduct of the manuscript.
         </p>
-        <Link href="/" className="text-xl font-bold uppercase border-b border-white hover:text-signal transition-colors">
+        <Link href="/" className="text-2xl font-black uppercase border-b-4 border-ash hover:border-signal hover:text-signal transition-colors inline-block">
           Return to Sales Terminal &rarr;
         </Link>
       </footer>
