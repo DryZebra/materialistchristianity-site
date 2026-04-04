@@ -1,6 +1,10 @@
 # The Forensic Ingestion Protocol
 
-This document serves as the authoritative manual for maintaining the Materialist Christianity Knowledge Hub. Follow these steps to ensure every new essay is perfectly integrated into the structural archive.
+- **Current State**: Phase 11 complete. 61 core wiki nodes materialized and functional.
+- **Source Material**: Located in `docs/sources/`. Use the *Materialist Christianity* EBook as the primary truth source.
+- **Protocol**: 
+  1. Audit `NODE_REGISTRY.md` before ingestion.
+  2. Use `scripts/` for any data processing or asset scans.
 
 ## 1. The Metadata Standard (Frontmatter)
 Every `.md` file placed in the `/content` directory **MUST** begin with a YAML block. Copy this template:
@@ -32,6 +36,11 @@ When you are ready to add a new essay, follow this exact sequence:
     -   Create a new categorized section in the Wiki Hub (if the category is new).
     -   Generate a high-authority AEO header for search engines.
     -   Link the essay to all items listed in the `related` field.
+
+## Ingestion Setup
+Before beginning a content wave, ensure the environment is calibrated:
+- **Registry Check**: Ensure the target node exists in `NODE_REGISTRY.md`.
+- **Source Access**: Refer to the master manuscript in `docs/sources/Materialist Christianity EBook.md`.
 
 ## 3. Maintenance Ethics
 - **Zero Dead Ends**: Never link to a `related` slug that does not exist in `/content`.

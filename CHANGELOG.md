@@ -48,7 +48,7 @@
 - **Management**: Established the **William Persona** in `AGENTS.md`.
 - **System**: Created `CHANGELOG.md` for mandatory progress tracking.
 - **Planning**: Drafted `implementation_plan.md` for the site rebuild, including proposed directory hierarchy and 'Zero-Memory' agent guide.
-- **Analysis**: Read and indexed 'Designing Antigravity SEO Book Prompt.md' and the first 1600 lines of 'Materialist Christianity EBook.md'.
+- **Analysis**: Read and indexed 'STRATEGY_ARCHITECTURE.md' and the first 1600 lines of 'Materialist Christianity EBook.md'.
 
 ## [2026-04-04] - Phase 6: Structural Realignment & Funnel Isolation
 

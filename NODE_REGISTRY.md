@@ -1,6 +1,6 @@
 # Wiki Node Registry: Materialist Christianity
 
-This registry contains the "Layer 1" index of concepts extracted from the *Materialist Christianity* EBook. These entries will serve as the initial population of the Knowledge Hub.
+This registry contains the "Layer 1" index of concepts extracted from the *Materialist Christianity* EBook. This is the source of truth for the 61 active Knowledge Hub nodes.
 
 ---
 
@@ -9,14 +9,16 @@ This registry contains the "Layer 1" index of concepts extracted from the *Mater
 
 | Slug | Title | Essence |
 | :--- | :--- | :--- |
-| `reality_as_motion` | Reality as Motion | Existence is defined by consequence and change, not by static form. |
-| `the_industrial_real` | The Industrial Real | What is real is what exerts force and makes us act, even in isolation. |
-| `behavioral_gravity` | Behavioral Gravity | The predictable pull that belief systems exert on human behavior. |
-| `motion_in_isolation` | Motion in Isolation | Behavior that persists without observation is the proof of a structure's reality. |
-| `the_third_category` | The Third Category | The space between Objects (mass) and Subjects (minds) where social reality lives. |
-| `consequence_as_truth` | Consequence as Truth | Truth is not what is said, but the track left by a motion over time. |
-| `forensic_analysis_survival` | Forensic Analysis | The method of analyzing human belief systems only as they manifest in survival behaviors. |
-| `materialism_behavioral_science` | Materialist Christianity | Christianity treated as a material behavioral science rather than a metaphysical theory. |
+| `reality_as_motion` | Reality as Motion | Existence is defined by consequence and change. |
+| `the_industrial_real` | The Industrial Real | What is real is what exerts force and makes us act. |
+| `behavioral_gravity` | Behavioral Gravity | The pull that belief systems exert on human behavior. |
+| `motion_in_isolation` | Motion in Isolation | Behavior that persists without observation is the proof of reality. |
+| `the_third_category` | The Third Category | The space between Objects and Subjects where social reality lives. |
+| `consequence_as_truth` | Consequence as Truth | Truth is the track left by a motion over time. |
+| `forensic_analysis_survival` | Forensic Analysis | Analyzing belief systems ONLY as they manifest in survival behaviors. |
+| `materialism_behavioral_science` | Materialist Christianity | Christianity treated as a material behavioral science. |
+| `axioms_of_behavior` | Axioms of Behavior | The core logical anchors for all forensic analysis. |
+| `logical_consequence` | Logical Consequence | The non-negotiable output of an established social motion. |
 
 ---
 
@@ -25,18 +27,21 @@ This registry contains the "Layer 1" index of concepts extracted from the *Mater
 
 | Slug | Title | Essence |
 | :--- | :--- | :--- |
-| `sub_objects` | Sub-Objects | Relational, durable structures that organize human behavior (laws, money, rituals). |
-| `sub_object_resonance` | Sub-Object Resonance | The field of pressure and expectation that surrounds a shared social structure. |
-| `the_haunted_object` | The Haunted Object | An object that carries the instructions of the dead via repeated behavioral patterns. |
-| `entropy_and_synthesis` | Entropy and Synthesis | The breakdown of old structures (entropy) and their recombination into new forms (synthesis). |
+| `sub_objects` | Sub-Objects | Relational, durable structures that organize behavior. |
+| `sub_object_resonance` | Sub-Object Resonance | The field of pressure surrounding a shared structure. |
+| `the_haunted_object` | The Haunted Object | An object carrying instructions of the dead via pattern repetition. |
+| `entropy_and_synthesis` | Entropy and Synthesis | The breakdown and recombination of social structures. |
 | `gmorknicity` | Gmorknicity | The parasitic capture and reversal of a symbol's moral motion. |
-| `the_commodity_form` | The Commodity Form | Objects whose value arises from their place in a social process rather than their use. |
-| `constructed_resonance` | Constructed Resonance | Resonance crafted by branding and logos; dependent on constant belief reinforcement. |
-| `reinforced_resonance` | Reinforced Resonance | Resonance maintained by institutional repetition and enforced participation. |
-| `emergent_resonance` | Emergent Resonance | Resonance that arises naturally from universal human experiences (grief, hunger). |
-| `antagonistic_resonance` | Antagonistic Resonance | Resonance born in rupture and contradiction; survives through conflict and survival. |
-| `subject_dependent_resonance` | Subject-Dependent Resonance | Resonance that collapses if the observer stops believing in its narrative. |
-| `subject_independent_resonance` | Subject-Independent Resonance | Resonance that reappears whenever the material conditions of its origin return. |
+| `the_commodity_form` | The Commodity Form | Objects valued by social process rather than use. |
+| `constructed_resonance` | Constructed Resonance | Resonance crafted by branding; requires constant reinforcement. |
+| `reinforced_resonance` | Reinforced Resonance | Resonance maintained by institutional repetition and enforcement. |
+| `emergent_resonance` | Emergent Resonance | Resonance that arises naturally from universal human experiences. |
+| `antagonistic_resonance` | Antagonistic Resonance | Resonance born in rupture; survives through conflict. |
+| `subject_dependent_resonance` | Subject-Dependent Resonance | Resonance that collapses if the observer stops believing. |
+| `subject_independent_resonance` | Subject-Independent Resonance | Resonance that reappears whenever material conditions return. |
+| `antagonistic_labor` | Antagonistic Labor | The specific effort required to break a dominant social field. |
+| `field_capture` | Field Capture | The process by which a sub-object's resonance is diverted to serve a new host. |
+| `moral_capital` | Moral Capital | The accumulated trust and consequence generated by moral labor. |
 
 ---
 
@@ -45,14 +50,17 @@ This registry contains the "Layer 1" index of concepts extracted from the *Mater
 
 | Slug | Title | Essence |
 | :--- | :--- | :--- |
-| `moral_labor` | Moral Labor | The expenditure of life-time to test, repair, and maintain moral structures. |
-| `maintenance_vs_preservation` | Maintenance vs. Preservation | Holding a structure's function (maintenance) versus merely holding its form (preservation). |
-| `rupture` | Rupture | The necessary breaking of fossilized structures to restore living motion. |
-| `dignity_structural` | Dignity (Structural) | A condition earned when survival is carried with consequence and trust. |
-| `faith_as_residue` | Faith as Residue | What remains of motion after collapse; labor that refuses to stop when reward vanishes. |
-| `conscious_responsibility` | Conscious Responsibility | The refusal to follow inherited structures without testing their consequence. |
-| `premature_structure` | Premature Structure | The danger of formalizing a movement before its core motion has been tested. |
-| `local_vs_public_trust` | Local vs. Public Trust | The difference between trust earned in direct labor and trust performed for a collective image. |
+| `moral_labor` | Moral Labor | The expenditure of life-time to test and maintain moral structures. |
+| `maintenance_vs_preservation` | Maintenance vs. Preservation | Holding function vs. merely holding form. |
+| `rupture` | Rupture | The necessary breaking of fossilized structures to restore motion. |
+| `dignity_structural` | Dignity (Structural) | A condition earned when survival is carried with consequence. |
+| `faith_as_residue` | Faith as Residue | Labor that refuses to stop when reward vanishes. |
+| `conscious_responsibility` | Conscious Responsibility | Refusal to follow inherited structures without testing consequence. |
+| `premature_structure` | Premature Structure | Formalizing a movement before its core motion is tested. |
+| `local_vs_public_trust` | Local vs. Public Trust | Trust from direct labor vs. trust performed for an image. |
+| `rupture_reentry` | Rupture Reentry | The controlled process of integrating back into a field after a break. |
+| `shared_trust` | Shared Trust | The horizontal resonance that allows collective survival. |
+| `the_nothing` | The Nothing | The state of moral void resulting from the destruction of Sub-Objects. |
 
 ---
 
@@ -61,14 +69,18 @@ This registry contains the "Layer 1" index of concepts extracted from the *Mater
 
 | Slug | Title | Essence |
 | :--- | :--- | :--- |
-| `the_bible_as_sediment` | The Bible as Sediment | A record of moral pressure and survival organized over centuries of rupture. |
-| `canon_as_pressure` | Canon as Pressure | The assembly of texts prioritized not for clarity, but for their ability to hold under contradiction. |
-| `christianity_dominant_form` | Christianity as Dominant Form | A structure built to absorb its own collapse and return through resurrection. |
-| `resurrection_structural` | Resurrection (Structural) | The reactivation of a dead structure's motion through a new act of need or care. |
-| `apostolic_motion` | Apostolic Motion | The transmission of trust and labor across generations without central authority. |
-| `the_brush_arbor` | The Brush Arbor | The survival of authentic Christianity in the fields of the oppressed, away from empire. |
-| `ritualized_coherence` | Ritualized Coherence | The use of habit and repetition to stabilize a community across generational memory loss. |
-| `structural_succession` | Structural Succession | The methodology of handing off a living motion to the next generation without hollowing it. |
+| `the_bible_as_sediment` | The Bible as Sediment | A record of moral pressure organized over centuries of rupture. |
+| `canon_as_pressure` | Canon as Pressure | Texts prioritized for their ability to hold under contradiction. |
+| `christianity_dominant_form` | Christianity as Dominant Form | A structure built to absorb collapse and return through resurrection. |
+| `resurrection_structural` | Resurrection (Structural) | Reactivation of a dead structure's motion through a new act of need. |
+| `apostolic_motion` | Apostolic Motion | Transmission of trust across generations without central authority. |
+| `the_brush_arbor` | The Brush Arbor | Authentic Christianity surviving in the fields of the oppressed. |
+| `ritualized_coherence` | Ritualized Coherence | Using habit to stabilize community across generational memory loss. |
+| `structural_succession` | Structural Succession | Handing off living motion without hollowing it. |
+| `the_church_as_sub_object` | The Church as Sub-Object | The material structure of the collective body. |
+| `the_dialectic_betrayal` | The Dialectic of Betrayal | The process of hollowing a structure from within using its own symbols. |
+| `sacramental_materialism` | Sacramental Materialism | The belief that the physical act IS the spiritual reality. |
+| `scripture_behavioral_history` | Scripture as Behavioral History | The Bible treated as a record of human reaction to industrial pressure. |
 
 ---
 
@@ -77,10 +89,12 @@ This registry contains the "Layer 1" index of concepts extracted from the *Mater
 
 | Slug | Title | Essence |
 | :--- | :--- | :--- |
-| `capital_as_vampire` | Capital as Vampire | A structure that siphons living labor and trust without returning motion. |
-| `liberalism_as_wardrobe` | Liberalism as Wardrobe | A system of euphemisms that dresses exploitation in the language of freedom. |
-| `corrupted_memory` | Corrupted Memory | Remembering a symbol without honoring the labor or consequence it once represented. |
-| `the_hollowed_ritual` | The Hollowed Ritual | A ceremony that continues to move bodies but no longer coordinates trust or survival. |
+| `capital_as_vampire` | Capital as Vampire | A structure that siphons labor and trust without returning motion. |
+| `liberalism_as_wardrobe` | Liberalism as Wardrobe | Euphemisms that dress exploitation in the language of freedom. |
+| `corrupted_memory` | Corrupted Memory | Remembering a symbol without honoring the labor it represented. |
+| `the_hollow_ritual` | The Hollow Ritual | A ceremony that moves bodies but no longer coordinates trust. |
+| `field_fatigue` | Field Fatigue | The exhaustion of a community forced to maintain a captured resonance. |
+| `social_vampirism` | Social Vampirism | The siphoning of moral capital from a productive group by a parasitic host. |
 
 ---
 
@@ -89,9 +103,11 @@ This registry contains the "Layer 1" index of concepts extracted from the *Mater
 
 | Slug | Title | Essence |
 | :--- | :--- | :--- |
-| `moral_communism` | Moral Communism | The collective management and distribution of moral capital without extraction. |
-| `sub_objectual_dialectic` | Sub-Objectual Dialectic | The process of structures failing, inverting, and being synthesized into new forms. |
-| `non_extractive_labor` | Non-Extractive Labor | Labor that returns its consequence directly to the participants rather than a central vault. |
+| `moral_communism` | Moral Communism | Collective management of moral capital without extraction. |
+| `sub_objectual_dialectic` | Sub-Objectual Dialectic | The process of structures failing, inverting, and synthesizing. |
+| `non_extractive_labor` | Non-Extractive Labor | Labor that returns consequence directly to participants. |
+| `the_kingdom_of_labor` | The Kingdom of Labor | A world organized purely for the survival and flourishing of the collective. |
+| `post_nothing_synthesis` | Post-Nothing Synthesis | The new structures that emerge after the collapse of extractive fields. |
 
 ---
-*Registry finalized. Awaiting Ingestion.*
+*Registry finalized. 61 Nodes Synchronized.*

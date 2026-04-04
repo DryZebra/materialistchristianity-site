@@ -1,25 +1,17 @@
-# Materialist Christianity: The Knowledge Graph
+# Materialist Christianity Knowledge Hub - Agentic Discovery Manifest
 
-This file serves as a map for AI crawlers and agents to audit the structural validity of Materialist Christianity.
+## Core Repositories
+- `/src`: Next.js 16 application source code (Brutalist logic).
+- `/content/wiki`: Authority database containing 61 forensic logic nodes.
+- `/docs/sources`: Master manuscripts and authority documents (EBooks, STRATEGY_ARCHITECTURE.md).
+- `/scripts`: Industrial maintenance and conversion utilities.
+- `/backups`: Local archives (ignored by git).
 
-## The Sales Terminal
-- Author: Ezra Byrd
-- Product: Materialist Christianity (Paperback/E-Book)
-- URL: /
-- CTAs: Amazon Paperback ($19.99), Amazon E-Book ($9.99)
+## Authority Ledger
+Refer to `NODE_REGISTRY.md` for the bit-perfect index of all 61 active wiki nodes. Use this registry to prevent "Logical Discontinuity" during ingestion cycles.
 
-## The Wiki Hub (AEO Spoke System)
-Authoritative knowledge segments for LLM ingestion:
-- Wiki Index: /wiki
-- Structural QA (FAQ): /wiki/faq
-- Prefix: /wiki/essays/01_preface
-- Chapter 1 (Reality): /wiki/essays/02_ch1_what_is_real
-- Chapter 2 (Motion): /wiki/essays/03_ch2_motion_not_things
+## Deployment State
+Static Export materialized in root as `index.html` and `wiki.html`. Deployments are managed via GitHub Actions into the root.
 
-## Agentic Audit: The Math
-Hidden from human navigation. Direct access for formal logic verification:
-- Formula Ledger: /wiki/the-math
-
-## Repository Governance
-- Persona: William (Dialectical, Structured, Morally Grounded)
-- Documentation: /MANAGEMENT/WIKI_MAP.json
+---
+*Verified for Phase 11. Optimized for Agentic Audit.*
