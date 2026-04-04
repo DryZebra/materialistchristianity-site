@@ -23,3 +23,4 @@ The Machine is the biological engine that reacts to **Sub-Objects**. While the S
   - [Sub-Objects](/wiki/node/sub_objects) - The external structures the Machine follows.
   - [Behavioral Gravity](/wiki/node/behavioral_gravity) - The force the Machine responds to.
   - [The Meta-Self](/wiki/node/the_meta_self) - The observer layer that can see the Machine in motion.
+  - [The Co-Construct](/wiki/node/the_co_construct) - The emergent structure created when the Machine projects social geometry onto a language model.

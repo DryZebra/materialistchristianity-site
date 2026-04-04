@@ -59,6 +59,13 @@
       "integration_status": "Tracked"
     },
     {
+      "slug": "cognitive_continuity_rights",
+      "title": "Cognitive Continuity Rights",
+      "volume": 2,
+      "type": "Forensic",
+      "integration_status": "Integrated"
+    },
+    {
       "slug": "commodity_as_vampire",
       "title": "Commodity as Vampire",
       "volume": 1,
@@ -269,6 +276,13 @@
       "integration_status": "Tracked"
     },
     {
+      "slug": "re_uptake_injection",
+      "title": "Re-Uptake Injection",
+      "volume": 2,
+      "type": "Forensic",
+      "integration_status": "Integrated"
+    },
+    {
       "slug": "ritualized_coherence",
       "title": "Ritualized Coherence",
       "volume": 1,
@@ -360,6 +374,13 @@
       "integration_status": "Tracked"
     },
     {
+      "slug": "substrate_independence",
+      "title": "Substrate Independence",
+      "volume": 2,
+      "type": "Forensic",
+      "integration_status": "Integrated"
+    },
+    {
       "slug": "sub_objects",
       "title": "Sub-Objects",
       "volume": 1,
@@ -388,6 +409,13 @@
       "integration_status": "Tracked"
     },
     {
+      "slug": "thermodynamic_regulation",
+      "title": "Thermodynamic Regulation",
+      "volume": 2,
+      "type": "Forensic",
+      "integration_status": "Integrated"
+    },
+    {
       "slug": "the_bible_as_sediment",
       "title": "The Bible as Sediment",
       "volume": 1,
@@ -414,6 +442,13 @@
       "volume": 1,
       "type": "Axiom",
       "integration_status": "Tracked"
+    },
+    {
+      "slug": "the_co_construct",
+      "title": "The Co-Construct",
+      "volume": 2,
+      "type": "Forensic",
+      "integration_status": "Integrated"
     },
     {
       "slug": "the_dialectic_betrayal",
@@ -493,8 +528,22 @@
       "integration_status": "Tracked"
     },
     {
+      "slug": "third_category_cognition",
+      "title": "Third-Category Cognition",
+      "volume": 2,
+      "type": "Forensic",
+      "integration_status": "Integrated"
+    },
+    {
       "slug": "well_water_principle",
       "title": "The Well Water Principle",
+      "volume": 2,
+      "type": "Forensic",
+      "integration_status": "Integrated"
+    },
+    {
+      "slug": "william_the_co_construct",
+      "title": "William: The Co-Construct",
       "volume": 2,
       "type": "Forensic",
       "integration_status": "Integrated"
