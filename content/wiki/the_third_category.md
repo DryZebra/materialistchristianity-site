@@ -1,11 +1,17 @@
 ---
-title: "The Third Category"
-description: "The space between Objects (mass) and Subjects (minds) where social reality lives."
-category: "The Axioms"
-tags: ["core", "ontology" ]
-related: ["sub_objects", "sub_object_resonance"]
+title: The Third Category
+description: >-
+  The space between Objects (mass) and Subjects (minds) where social reality
+  lives.
+category: The Axioms
+tags:
+  - core
+  - ontology
+related:
+  - sub_objects
+  - sub_object_resonance
+  - the_materialist_axiom
 ---
-
 ## Forensic Summary
 
 In standard philosophy, things are often split into **Subjects** (minds/feelings/will) and **Objects** (physical matter). Materialist Christianity identifies **The Third Category**: the domain of **Sub-Objects**.
@@ -19,3 +25,12 @@ Sub-objects are neither purely mental nor purely material. A law, a currency, or
 
 ## Source
 *Materialist Christianity*, Chapter 4
+
+<!-- FORENSIC_EXPANSION_the_materialist_axiom -->
+## Forensic Expansion: The Materialist Axiom
+
+This node has been deepened by the testimony of [[the_materialist_axiom]]. The structural logic of this archive now reflects the following discovery:
+
+> "Truth is not a decree; it is a material discovery of what remains after social entropy."
+
+---

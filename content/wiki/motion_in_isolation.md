@@ -1,11 +1,17 @@
 ---
-title: "Motion in Isolation"
-description: "Behavior that persists without observation is the proof of a structure's reality."
-category: "The Axioms"
-tags: ["core", "evidence"]
-related: ["the_industrial_real", "moral_labor"]
+title: Motion in Isolation
+description: >-
+  Behavior that persists without observation is the proof of a structure's
+  reality.
+category: The Axioms
+tags:
+  - core
+  - evidence
+related:
+  - the_industrial_real
+  - moral_labor
+  - the_materialist_axiom
 ---
-
 ## Forensic Summary
 
 **Motion in Isolation** is the primary litmus test for structural integrity in Materialist Christianity. It asks: *What does a person do when there is no social reward, no fear of public punishment, and no one watching?*
@@ -19,3 +25,12 @@ If a behavior (like a ritual, an ethical choice, or a discipline) persisted only
 
 ## Source
 *Materialist Christianity*, Chapter 3
+
+<!-- FORENSIC_EXPANSION_the_materialist_axiom -->
+## Forensic Expansion: The Materialist Axiom
+
+This node has been deepened by the testimony of [[the_materialist_axiom]]. The structural logic of this archive now reflects the following discovery:
+
+> "Truth is not a decree; it is a material discovery of what remains after social entropy."
+
+---

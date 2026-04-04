@@ -1,11 +1,15 @@
 ---
-title: "Consequence as Truth"
-description: "Truth is not what is said, but the track left by a motion over time."
-category: "The Axioms"
-tags: ["core", "epistemology"]
-related: ["reality_as_motion", "forensic_analysis_survival"]
+title: Consequence as Truth
+description: 'Truth is not what is said, but the track left by a motion over time.'
+category: The Axioms
+tags:
+  - core
+  - epistemology
+related:
+  - reality_as_motion
+  - forensic_analysis_survival
+  - the_materialist_axiom
 ---
-
 ## Forensic Summary
 
 In Materialist Christianity, **Consequence** is the only authoritative definition of **Truth**. This framework rejects the Liberal idea that truth can be determined by "debate," "feeling," or "intent." Instead, truth is viewed as the objective result of behavior. If a system claims to be "just" but consistently results in the starvation or displacement of the working class, then "starvation and displacement" are its only material truths—regardless of its stated intent.
@@ -19,3 +23,12 @@ Truth is the "track" that a motion leaves in the world. By measuring the consequ
 
 ## Source
 *Materialist Christianity*, Chapter 1
+
+<!-- FORENSIC_EXPANSION_the_materialist_axiom -->
+## Forensic Expansion: The Materialist Axiom
+
+This node has been deepened by the testimony of [[the_materialist_axiom]]. The structural logic of this archive now reflects the following discovery:
+
+> "Truth is not a decree; it is a material discovery of what remains after social entropy."
+
+---

@@ -1,11 +1,17 @@
 ---
-title: "Moral Labor"
-description: "Labor that generates shared trust and builds durable sub-objects of survival."
-category: "Praxis"
-tags: ["praxis", "labor", "trust"]
-related: ["moral_capital", "survival_rhythm", "constructed_resonance"]
+title: Moral Labor
+description: Labor that generates shared trust and builds durable sub-objects of survival.
+category: Praxis
+tags:
+  - praxis
+  - labor
+  - trust
+related:
+  - moral_capital
+  - survival_rhythm
+  - constructed_resonance
+  - the_gospel_according_to_labor
 ---
-
 ## Forensic Summary
 
 **Moral Labor** is work that is performed not for individual profit, but to establish or maintain a shared structure of survival. In Materialist Christianity, it is the primary input required to create "Constructed Resonance." When a person stays late to clean a church, cooks a meal for a neighbor, or organizes a union meeting without payment, they are performing moral labor.
@@ -19,3 +25,12 @@ This labor "charges" a Sub-Object with Behavioral Gravity. It is the only way to
 
 ## Source
 *Materialist Christianity*, Chapter 7, 11
+
+<!-- FORENSIC_EXPANSION_the_gospel_according_to_labor -->
+## Forensic Expansion: The Gospel According to Labor
+
+This node has been deepened by the testimony of [[the_gospel_according_to_labor]]. The structural logic of this archive now reflects the following discovery:
+
+> "A forensic audit of the hands of the saints. Christianity as a survival algorithm for the working class."
+
+---

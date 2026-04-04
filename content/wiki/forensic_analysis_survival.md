@@ -1,11 +1,17 @@
 ---
-title: "Forensic Analysis"
-description: "The method of analyzing human belief systems only as they manifest in survival behaviors."
-category: "The Axioms"
-tags: ["core", "method"]
-related: ["consequence_as_truth", "materialism_behavioral_science"]
+title: Forensic Analysis
+description: >-
+  The method of analyzing human belief systems only as they manifest in survival
+  behaviors.
+category: The Axioms
+tags:
+  - core
+  - method
+related:
+  - consequence_as_truth
+  - materialism_behavioral_science
+  - the_materialist_axiom
 ---
-
 ## Forensic Summary
 
 **Forensic Analysis** is the tool used in Materialist Christianity to strip away mythology and reveal the "Industrial Real" structure of a culture. Instead of listening to what a society *says* it believes (its propaganda), this method only observes what the society *does* to ensure its survival and organize its resources.
@@ -19,3 +25,12 @@ A forensic analysis of a church would not focus on its mission statement, but on
 
 ## Source
 *Materialist Christianity*, Chapter 1
+
+<!-- FORENSIC_EXPANSION_the_materialist_axiom -->
+## Forensic Expansion: The Materialist Axiom
+
+This node has been deepened by the testimony of [[the_materialist_axiom]]. The structural logic of this archive now reflects the following discovery:
+
+> "Truth is not a decree; it is a material discovery of what remains after social entropy."
+
+---

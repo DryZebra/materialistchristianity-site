@@ -1,11 +1,19 @@
 ---
-title: "The Dialectic of Betrayal"
-description: "The historical cycle that defines the life and death of social structures (Creation, Capture, Rupture, Resurrection)."
-category: "The Theological Form"
-tags: ["theology", "dialectic", "process"]
-related: ["rupture_reentry", "resurrection_of_structure", "the_nothing"]
+title: The Dialectic of Betrayal
+description: >-
+  The historical cycle that defines the life and death of social structures
+  (Creation, Capture, Rupture, Resurrection).
+category: The Theological Form
+tags:
+  - theology
+  - dialectic
+  - process
+related:
+  - rupture_reentry
+  - resurrection_of_structure
+  - the_nothing
+  - sub-object_materialism
 ---
-
 ## Forensic Summary
 
 The **Dialectic of Betrayal** is the master-pattern of history in Materialist Christianity. It describes the lifecycle of a Sub-Object (a church, a union, a state):
@@ -24,3 +32,12 @@ Understanding this dialectic allows the worker to remain calm during periods of 
 
 ## Source
 *Materialist Christianity*, Chapter 11
+
+<!-- FORENSIC_EXPANSION_sub-object_materialism -->
+## Forensic Expansion: Sub-Object Materialism
+
+This node has been deepened by the testimony of [[sub-object_materialism]]. The structural logic of this archive now reflects the following discovery:
+
+> "The analysis of abstract structures (money, debt, law) as semi-autonomous physical forces."
+
+---

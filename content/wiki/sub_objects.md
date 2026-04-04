@@ -1,11 +1,18 @@
 ---
-title: "Sub-Objects"
-description: "Relational, durable structures that organize human behavior (laws, money, rituals)."
-category: "Mechanics"
-tags: ["core", "mechanic", "ontology"]
-related: ["the_third_category", "sub_object_resonance"]
+title: Sub-Objects
+description: >-
+  Relational, durable structures that organize human behavior (laws, money,
+  rituals).
+category: Mechanics
+tags:
+  - core
+  - mechanic
+  - ontology
+related:
+  - the_third_category
+  - sub_object_resonance
+  - the_materialist_axiom
 ---
-
 ## Forensic Summary
 
 **Sub-Objects** are the foundational building blocks of social reality in Materialist Christianity. Unlike physical objects (Object) or individual thoughts (Subject), a Sub-Object is a **relational structure** that only exists when behavior is coordinated across multiple people over time. Examples include currency, the law, a church liturgy, or even the "Monday-Friday" work week.
@@ -19,3 +26,12 @@ A Sub-Object has real mass (gravity); if you stop "choosing" to believe in money
 
 ## Source
 *Materialist Christianity*, Chapter 4
+
+<!-- FORENSIC_EXPANSION_the_materialist_axiom -->
+## Forensic Expansion: The Materialist Axiom
+
+This node has been deepened by the testimony of [[the_materialist_axiom]]. The structural logic of this archive now reflects the following discovery:
+
+> "Truth is not a decree; it is a material discovery of what remains after social entropy."
+
+---

@@ -1,4 +1,3 @@
----
 title: "The Materialist Axiom"
 type: "Axiom"
 description: "Truth is not a decree; it is a material discovery of what remains after social entropy."
@@ -7,7 +6,6 @@ tags: ["core", "ontology", "forensic", "axiom"]
 related: ["materialism_behavioral_science", "the_industrial_real", "consequence_as_truth"]
 dna_source: "conversations-002.json"
 status: "Sanitized / Ready"
----
 
 # The Materialist Axiom: Truth Has No Allies. It Is.
 

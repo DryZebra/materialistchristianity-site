@@ -7,8 +7,8 @@ This ledger tracks the systematic reconstruction of the Materialist Christianity
     - `[x]` Create folder structure (`axioms/`, `essays/`, `sources/`)
 - `[x]` Reconstruct **The Materialist Axiom**
     - `[x]` Draft `axioms/the_materialist_axiom.md` (Source: `002.json`)
-    - `[x]` Integrate "The Entropic Dance" critique
-    - `[x]` Apply William Engine Persona (AEO / Foreman)
+    - `[x]` **Forensic Purge**: Removed all personal names and case studies.
+    - `[x]` **Reverse Engineering**: Re-justified "The Residual It" metaphor.
 - `[x]` Reconstruct **The Gospel According to Labor**
     - `[x]` Draft `essays/gospel_according_to_labor.md` (Source: `003.json`)
     - `[x]` Forensic Audit: Religion as Applied Physics
@@ -19,11 +19,11 @@ This ledger tracks the systematic reconstruction of the Materialist Christianity
     - `[x]` Run `scripts/validate-links.mjs` on offline docs
     - `[x]` Manual review of tone and cadence
 
-| Priority | Title | Type | Source | Status | Publish Date |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| 1 | **The Materialist Axiom** | Axiom | `002.json` | ✅ Ready | |
-| 2 | **The Gospel According to Labor** | Essay | `003.json` | ✅ Ready | |
-| 3 | **Sub-Object Materialism** | Axiom | `005.json` | ✅ Ready | |
+| Priority | Title | Type | Source | Data Status | Status | Publish Date |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 1 | **The Materialist Axiom** | Axiom | `002.json` | 🛡️ Sanitized | ✅ Ready | |
+| 2 | **The Gospel According to Labor** | Essay | `003.json` | 🛡️ Sanitized | ✅ Ready | |
+| 3 | **Sub-Object Materialism** | Axiom | `005.json` | 🛡️ Sanitized | ✅ Ready | |
 | 4 | **Labor of the Real (Vol II)** | Essay | `005.json` | ⏳ Pending | |
 
 ## 🛠️ Reconstructive Notes
