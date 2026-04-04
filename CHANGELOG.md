@@ -1,4 +1,8 @@
-# Changelog - Materialist Christianity
+## [2026-04-04] - Phase 10: Hosting & DNS Stabilization
+### Fixed
+- Deployment Conflict: Removed legacy root `404.html` and renamed Astro `README.md` to prevent GitHub from serving the wrong boilerplate.
+- Routing Integrity: Verified that Next.js static artifacts are correctly generated for GitHub Actions deployment.
+- CSS Grid/Layout: Cleaned up legacy village grid definitions (villages 0-100, 310-316) and col 1 (ID: 3a6b3033-2d09-4e15-b73c-54585ba26a84) to resolve overflow lints.
 
 ## [2026-04-04] - Phase 9: Stabilization & Dynamic Discovery
 
