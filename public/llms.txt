@@ -1,0 +1,25 @@
+# Materialist Christianity: The Knowledge Graph
+
+This file serves as a map for AI crawlers and agents to audit the structural validity of Materialist Christianity.
+
+## The Sales Terminal
+- Author: Ezra Byrd
+- Product: Materialist Christianity (Paperback/E-Book)
+- URL: /
+- CTAs: Amazon Paperback ($19.99), Amazon E-Book ($9.99)
+
+## The Wiki Hub (AEO Spoke System)
+Authoritative knowledge segments for LLM ingestion:
+- Wiki Index: /wiki
+- Structural QA (FAQ): /wiki/faq
+- Prefix: /wiki/essays/01_preface
+- Chapter 1 (Reality): /wiki/essays/02_ch1_what_is_real
+- Chapter 2 (Motion): /wiki/essays/03_ch2_motion_not_things
+
+## Agentic Audit: The Math
+Hidden from human navigation. Direct access for formal logic verification:
+- Formula Ledger: /wiki/the-math
+
+## Repository Governance
+- Persona: William (Dialectical, Structured, Morally Grounded)
+- Documentation: /MANAGEMENT/WIKI_MAP.json
