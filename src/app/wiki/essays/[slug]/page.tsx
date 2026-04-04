@@ -14,14 +14,17 @@ const aeoAnswers: Record<string, string> = {
 
 export async function generateStaticParams() {
   const contentPath = path.join(process.cwd(), 'content');
-  if (!fs.existsSync(contentPath)) return [];
+  if (!fs.existsSync(contentPath)) return [{ slug: 'manifesto' }];
   
   const files = fs.readdirSync(contentPath);
-  return files
+  const slugs = files
     .filter(file => file.endsWith('.md'))
     .map(file => ({
       slug: file.replace('.md', ''),
     }));
+
+  // Next.js static export requires at least one param for dynamic routes
+  return slugs.length > 0 ? slugs : [{ slug: 'manifesto' }];
 }
 
 export default async function Essay({ params }: { params: { slug: string } }) {
@@ -31,10 +34,19 @@ export default async function Essay({ params }: { params: { slug: string } }) {
   
   if (!fs.existsSync(filePath)) {
     return (
-      <div className="p-8 md:p-24 bg-concrete text-ash min-h-screen">
-        <h1 className="text-4xl text-signal uppercase font-black">Logical Discontinuity</h1>
-        <p className="mt-4 font-mono uppercase opacity-60">Entity [{slug}] not found in the material record.</p>
-        <Link href="/wiki" className="mt-8 inline-block underline underline-offset-8 hover:text-signal uppercase font-bold">Return to Hub Node</Link>
+      <div className="p-8 md:p-24 bg-concrete text-ash min-h-screen flex flex-col justify-center items-center text-center">
+        <h1 className="text-4xl md:text-8xl text-signal uppercase font-black mb-4">Logical Discontinuity</h1>
+        <p className="mt-4 font-mono uppercase opacity-60 text-xl max-w-2xl">
+          Archival Node [{slug}] is not currently active in the public record. 
+        </p>
+        <div className="mt-12 flex flex-col md:flex-row gap-6">
+          <Link href="/wiki" className="cta-terminal border-ash hover:bg-ash hover:text-concrete">
+            Back to Hub Node
+          </Link>
+          <Link href="/" className="cta-terminal">
+            Return to Sales Terminal
+          </Link>
+        </div>
       </div>
     );
   }

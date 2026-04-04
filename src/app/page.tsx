@@ -77,7 +77,6 @@ export default function LandingPage() {
 
       {/* 4. THE STRUCTURAL PROOF (Excerpts) */}
       <section className="p-8 md:p-24 bg-ash text-concrete border-b-4 border-ash relative">
-        <div className="absolute inset-0 opacity-10 pointer-events-none bg-[url('/images/subtle_paper_texture.png')]"></div>
         <h2 className="text-4xl md:text-7xl mb-16 text-center">Proof of Torque</h2>
         <div className="max-w-5xl mx-auto space-y-24">
           <blockquote className="text-3xl md:text-5xl border-l-[12px] border-signal pl-8 italic leading-tight">

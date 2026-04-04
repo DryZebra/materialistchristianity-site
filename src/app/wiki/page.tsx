@@ -34,23 +34,49 @@ export default function WikiHome() {
         </p>
       </section>
 
-      <section className="grid grid-cols-1 md:grid-cols-2 gap-8 mb-24">
-        {wikiEntries.map((entry) => (
-          <Link 
-            key={entry.slug} 
-            href={`/wiki/essays/${entry.slug}`} 
-            className="brutalist-card group"
-          >
-            <h3 className="text-2xl mb-4 group-hover:text-signal uppercase">{entry.title}</h3>
-            <span className="text-sm font-mono opacity-50">VIEW ENTITY &rarr;</span>
-          </Link>
-        ))}
+      <section className="max-w-4xl mb-24">
+        {wikiEntries.length > 0 ? (
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
+            {wikiEntries.map((entry) => (
+              <Link 
+                key={entry.slug} 
+                href={`/wiki/essays/${entry.slug}`} 
+                className="brutalist-card group"
+              >
+                <h3 className="text-2xl mb-4 group-hover:text-signal uppercase">{entry.title}</h3>
+                <span className="text-sm font-mono opacity-50">VIEW ENTITY &rarr;</span>
+              </Link>
+            ))}
+          </div>
+        ) : (
+          <div className="border-4 border-ash p-12 bg-concrete/50">
+            <h2 className="text-3xl md:text-5xl uppercase font-black mb-6">Archive Status: Operational</h2>
+            <div className="font-mono uppercase opacity-70 mb-8 space-y-2">
+              <p>Database: Standby</p>
+              <p>Active Nodes: 0</p>
+              <p>Scanning for Manuscript Ingestion...</p>
+            </div>
+            <p className="text-xl mb-12 max-w-2xl leading-tight">
+              The Knowledge Hub is currently awaiting the integration of core archival nodes. 
+              The backend infrastructure is locked and ready for deployment.
+            </p>
+            <Link href="https://www.amazon.com/dp/B0FMN5PDZ4" className="cta-terminal inline-block">
+              Secure the Physical Manuscript &mdash; amazon.com
+            </Link>
+          </div>
+        )}
         
-        <Link href="/wiki/faq" className="brutalist-card border-signal bg-signal/10 transition-all">
-          <h3 className="text-2xl mb-4 uppercase">Structural QA</h3>
-          <p className="text-sm opacity-80">Direct structural answers to core inquiries regarding the materialist framework.</p>
-          <span className="text-sm font-mono mt-4 block">AUDIT SYSTEM &rarr;</span>
-        </Link>
+        <div className="grid grid-cols-1 md:grid-cols-2 gap-8 mt-12">
+          <Link href="/wiki/faq" className="brutalist-card border-signal bg-signal/10 transition-all opacity-50 cursor-not-allowed">
+            <h3 className="text-2xl mb-4 uppercase">Structural QA (Locked)</h3>
+            <p className="text-sm opacity-80">Direct structural answers to core inquiries. Offline.</p>
+          </Link>
+
+          <Link href="/wiki/the-math" className="brutalist-card border-ash opacity-30 cursor-not-allowed">
+            <h3 className="text-2xl mb-4 uppercase">Agentic Math (Shielded)</h3>
+            <p className="text-sm opacity-80">Machine-readable truth tables. Shielded.</p>
+          </Link>
+        </div>
       </section>
 
       <footer className="mt-32 p-12 border-t-4 border-ash text-center">
