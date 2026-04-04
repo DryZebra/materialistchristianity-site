@@ -1,24 +1,35 @@
-# build output
-dist/
+# Asset Archive (Local Only - DO NOT SYNC)
+raw_assets/
+William Backup Full.zip
+*.zip
+*.heic
 
-# generated types
-.astro/
+# Next.js
+.next/
+out/
+build/
 
-# dependencies
+# deps
 node_modules/
+.pnpm-store/
 
 # logs
+*.log
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 pnpm-debug.log*
 
-# environment variables
-.env
-.env.production
+# env
+.env*
+!.env.example
 
-# macOS-specific files
+# OS
 .DS_Store
+Thumbs.db
 
-# jetbrains setting folder
+# IDEs
 .idea/
+.vscode/
+*.swp
+*.swo

@@ -1,0 +1,73 @@
+@import "tailwindcss";
+
+:root {
+  --background-white: #FFFFFF;
+  --background-coal: #0F0F0F;
+  --foreground-ink: #000000;
+  --foreground-bone: #F5F5E5;
+  --signal-red: #FF0000;
+  
+  /* System variables that change on scroll - handled via JS or CSS calc */
+  --current-bg: var(--background-white);
+  --current-fg: var(--foreground-ink);
+  
+  --spacing-unit: 2rem;
+  --border-weight: 2px;
+}
+
+@theme inline {
+  --color-background: var(--current-bg);
+  --color-foreground: var(--current-fg);
+  --color-signal-red: var(--signal-red);
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: var(--current-bg);
+  color: var(--current-fg);
+  min-height: 100vh;
+  transition: background-color 0.5s ease, color 0.5s ease;
+  line-height: 1.4;
+  word-spacing: -0.05em;
+  text-rendering: optimizeLegibility;
+}
+
+/* Brutalist Grid Components */
+.b-grid {
+  display: grid;
+  grid-template-columns: repeat(12, 1fr);
+  gap: 0;
+  border-left: var(--border-weight) solid currentColor;
+  border-right: var(--border-weight) solid currentColor;
+}
+
+.b-cell {
+  border-bottom: var(--border-weight) solid currentColor;
+  padding: var(--spacing-unit);
+}
+
+.b-border-t { border-top: var(--border-weight) solid currentColor; }
+.b-border-r { border-right: var(--border-weight) solid currentColor; }
+
+/* Cumulative Pressure Utilities */
+.pressure-gradient {
+  background: linear-gradient(to bottom, var(--background-white) 0%, var(--background-coal) 100%);
+  background-attachment: fixed;
+}
+
+/* Typography Overrides */
+h1, h2, h3 {
+  text-transform: uppercase;
+  font-weight: 900;
+  letter-spacing: -0.02em;
+  line-height: 0.9;
+}
+
+p {
+  max-width: 65ch;
+}
