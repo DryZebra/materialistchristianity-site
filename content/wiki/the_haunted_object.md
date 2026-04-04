@@ -14,8 +14,8 @@ Even if the current generation forgets why they meet, the object itself—the Ha
 
 ## Internal Logic
 - **Connections**: 
-  - [Sub-Objects](/wiki/essays/sub_objects) - Haunted objects are physical manifestations of sub-objects.
-  - [Corrupted Memory](/wiki/essays/corrupted_memory) - When the haunting is ignored, the memory becomes corrupted.
+  - [Sub-Objects](/wiki/node/sub_objects) - Haunted objects are physical manifestations of sub-objects.
+  - [Corrupted Memory](/wiki/node/corrupted_memory) - When the haunting is ignored, the memory becomes corrupted.
 
 ## Source
 *Materialist Christianity*, Chapter 6

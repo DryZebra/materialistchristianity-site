@@ -14,8 +14,8 @@ This conversion is destructive because it strips the object of its **Behavioral 
 
 ## Internal Logic
 - **Connections**: 
-  - [Gmorknicity](/wiki/essays/gmorknicity) - The force that drives the commodity conversion.
-  - [Commodity as Vampire](/wiki/essays/commodity_as_vampire) - The parasitic nature of this form.
+  - [Gmorknicity](/wiki/node/gmorknicity) - The force that drives the commodity conversion.
+  - [Commodity as Vampire](/wiki/node/commodity_as_vampire) - The parasitic nature of this form.
 
 ## Source
 *Materialist Christianity*, Chapter 8

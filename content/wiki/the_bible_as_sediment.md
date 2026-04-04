@@ -14,8 +14,8 @@ To read the Bible forensically is to ask: *What survival necessity carved this s
 
 ## Internal Logic
 - **Connections**: 
-  - [Scripture as Behavioral History](/wiki/essays/scripture_behavioral_history) - The specific behaviors found in the sediment.
-  - [Historical Alignment](/wiki/essays/historical_alignment) - Using the sediment to align current motion.
+  - [Scripture as Behavioral History](/wiki/node/scripture_behavioral_history) - The specific behaviors found in the sediment.
+  - [Historical Alignment](/wiki/node/historical_alignment) - Using the sediment to align current motion.
 
 ## Source
 *Materialist Christianity*, Chapter 7

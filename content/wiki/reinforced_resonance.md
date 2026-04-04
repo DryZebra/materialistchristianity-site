@@ -14,8 +14,8 @@ This density creates a field that can survive extreme periods of "Entropy." It i
 
 ## Internal Logic
 - **Connections**: 
-  - [Sub-Object Resonance](/wiki/essays/sub_object_resonance) - The core mechanic of all social fields.
-  - [The Haunted Object](/wiki/essays/the_haunted_object) - The physical site where reinforcement is stored.
+  - [Sub-Object Resonance](/wiki/node/sub_object_resonance) - The core mechanic of all social fields.
+  - [The Haunted Object](/wiki/node/the_haunted_object) - The physical site where reinforcement is stored.
 
 ## Source
 *Materialist Christianity*, Chapter 5

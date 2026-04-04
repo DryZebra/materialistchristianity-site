@@ -14,8 +14,8 @@ You walk into a court of law and lower your voice; you do this not because you a
 
 ## Internal Logic
 - **Connections**: 
-  - [Sub-Objects](/wiki/essays/sub_objects) - The material anchor for independent resonance.
-  - [The Industrial Real](/wiki/essays/the_industrial_real) - Independent resonance is a force of reality.
+  - [Sub-Objects](/wiki/node/sub_objects) - The material anchor for independent resonance.
+  - [The Industrial Real](/wiki/node/the_industrial_real) - Independent resonance is a force of reality.
 
 ## Source
 *Materialist Christianity*, Chapter 5

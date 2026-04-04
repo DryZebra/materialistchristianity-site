@@ -14,8 +14,8 @@ If a behavior (like a ritual, an ethical choice, or a discipline) persisted only
 
 ## Internal Logic
 - **Connections**: 
-  - [The Industrial Real](/wiki/essays/the_industrial_real) - Isolation reveals what is truly real.
-  - [Moral Labor](/wiki/essays/moral_labor) - Labor is what turns a choice into an isolated motion.
+  - [The Industrial Real](/wiki/node/the_industrial_real) - Isolation reveals what is truly real.
+  - [Moral Labor](/wiki/node/moral_labor) - Labor is what turns a choice into an isolated motion.
 
 ## Source
 *Materialist Christianity*, Chapter 3

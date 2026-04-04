@@ -26,6 +26,16 @@ function toSlug(text) {
 
 const CONTENT_DIRS = ['content/wiki', 'content/essays'];
 
+// Pre-scan the filesystem to know where everything is
+const WIKI_SLUGS = new Set(fs.readdirSync(path.join(process.cwd(), 'content/wiki')).filter(f => f.endsWith('.md')).map(f => path.basename(f, '.md')));
+const ESSAY_SLUGS = new Set(fs.readdirSync(path.join(process.cwd(), 'content/essays')).filter(f => f.endsWith('.md')).map(f => path.basename(f, '.md')));
+
+function getCorrectPrefix(slug) {
+    if (ESSAY_SLUGS.has(slug)) return '/essays/';
+    if (WIKI_SLUGS.has(slug)) return '/wiki/node/';
+    return '/wiki/node/'; // Default to wiki if unknown
+}
+
 async function sanitizeDir(dir) {
   const dirPath = path.join(process.cwd(), dir);
   if (!fs.existsSync(dirPath)) return;
@@ -47,11 +57,11 @@ async function sanitizeDir(dir) {
       return `[[${toSlug(rawSlug)}]]`;
     });
 
-    // 3. Handle [Title](/wiki/node/Target) or [Title](/essays/Target)
-    content = content.replace(/\[(.*?)\]\((?:\/wiki\/node\/|\/essays\/)(.*?)\)/g, (match, title, rawPath) => {
-        const isEssay = rawPath.startsWith('01_') || match.includes('/essays/');
-        const prefix = isEssay ? '/essays/' : '/wiki/node/';
-        return `[${title}](${prefix}${toSlug(rawPath)})`;
+    // 3. Handle [Title](ANY_PREFIX/Target) - Purge legacy paths
+    content = content.replace(/\[(.*?)\]\((?:\/wiki\/node\/|\/essays\/|\/wiki\/essays\/)(.*?)\)/g, (match, title, rawPath) => {
+        const slug = toSlug(rawPath);
+        const prefix = getCorrectPrefix(slug);
+        return `[${title}](${prefix}${slug})`;
     });
 
     if (content !== original) {
@@ -65,7 +75,7 @@ async function main() {
   for (const dir of CONTENT_DIRS) {
     await sanitizeDir(dir);
   }
-  console.log('🏁 Content Sanitization Complete.');
+  console.log('🏁 Forensic Switchboard Purge Complete.');
 }
 
 main();

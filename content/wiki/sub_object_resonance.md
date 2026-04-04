@@ -14,8 +14,8 @@ Resonance is not necessarily based on belief; it is based on the **repetition of
 
 ## Internal Logic
 - **Connections**: 
-  - [Sub-Objects](/wiki/essays/sub_objects) - The source of the resonance.
-  - [Behavioral Gravity](/wiki/essays/behavioral_gravity) - The effect felt by individuals within the resonance field.
+  - [Sub-Objects](/wiki/node/sub_objects) - The source of the resonance.
+  - [Behavioral Gravity](/wiki/node/behavioral_gravity) - The effect felt by individuals within the resonance field.
 
 ## Source
 *Materialist Christianity*, Chapter 5

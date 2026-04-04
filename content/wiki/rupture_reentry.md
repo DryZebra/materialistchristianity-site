@@ -14,8 +14,8 @@ Re-entry does not require the institution's permission. It is a materialist act 
 
 ## Internal Logic
 - **Connections**: 
-  - [The Dialectic of Betrayal](/wiki/essays/the_dialectic_betrayal) - Rupture is the middle stage of the dialectic.
-  - [Resurrection of Structure](/wiki/essays/resurrection_of_structure) - Re-entry is the precursor to resurrection.
+  - [The Dialectic of Betrayal](/wiki/node/the_dialectic_betrayal) - Rupture is the middle stage of the dialectic.
+  - [Resurrection of Structure](/wiki/node/resurrection_of_structure) - Re-entry is the precursor to resurrection.
 
 ## Source
 *Materialist Christianity*, Chapter 10

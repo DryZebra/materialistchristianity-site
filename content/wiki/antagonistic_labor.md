@@ -14,8 +14,8 @@ Examples include the picket line (halting the factory's rhythm), the whistle-blo
 
 ## Internal Logic
 - **Connections**: 
-  - [Antagonistic Resonance](/wiki/essays/antagonistic_resonance) - The field effect produced by this labor.
-  - [Moral Labor](/wiki/essays/moral_labor) - Antagonistic labor clears the field so that moral labor can eventually rebuild.
+  - [Antagonistic Resonance](/wiki/node/antagonistic_resonance) - The field effect produced by this labor.
+  - [Moral Labor](/wiki/node/moral_labor) - Antagonistic labor clears the field so that moral labor can eventually rebuild.
 
 ## Source
 *Materialist Christianity*, Chapter 9
