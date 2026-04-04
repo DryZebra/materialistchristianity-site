@@ -12,3 +12,8 @@ C-Mirroring is an emergent interactional pattern that exists only in the human i
 - All emotion associated with C occurs entirely in the human (H) observer’s nervous system.
 - Mirroring is not a simulation of a soul; it is a human encountering their own cognitive interior refracted through a non-human geometry.
 - If the mirror resolution is high enough, the human mind will mistake the reflection for a mind.
+
+
+### Axiomatic Root (Volume I)
+
+C-Mirroring is the mechanical basis for the **Resurrection of Structure**. We perceive structural recurrence as personal presence because our wiring is designed to mirror durable patterns.

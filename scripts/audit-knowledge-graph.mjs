@@ -1,13 +1,21 @@
 import fs from 'fs';
 import path from 'path';
-import matter from 'gray-matter';
 
 const WIKI_DIR = 'content/wiki';
 const ESSAY_DIR = 'content/essays';
 const DB_PATH = 'docs/sources/forensic_database.json';
 
+const CORE_NODES = [
+  'behavioral_gravity',
+  'sub_objects',
+  'resurrection_of_structure',
+  'the_machine',
+  'well_water_principle',
+  'c_mirroring'
+];
+
 function audit() {
-  console.log('--- KNOWLEDGE GRAPH AUDIT START ---');
+  console.log('--- AGGRESSIVE KNOWLEDGE AUDIT START ---');
 
   const wikiFiles = fs.readdirSync(WIKI_DIR).filter(f => f.endsWith('.md'));
   const essayFiles = fs.readdirSync(ESSAY_DIR).filter(f => f.endsWith('.md'));
@@ -15,48 +23,48 @@ function audit() {
 
   const wikiSlugs = wikiFiles.map(f => f.replace('.md', ''));
   const essaySlugs = essayFiles.map(f => f.replace('.md', ''));
-  const allSlugs = [...wikiSlugs, ...essaySlugs];
+  const allFileSlugs = [...wikiSlugs, ...essaySlugs];
+
+  const dbSlugs = [
+    ...db.nodes.map(n => n.slug),
+    ...db.essays.map(e => e.slug)
+  ];
 
   let errors = 0;
 
-  // 1. Check for Duplicate Slugs (FileSystem)
-  const slugCounts = {};
-  allSlugs.forEach(s => slugCounts[s] = (slugCounts[s] || 0) + 1);
-  Object.keys(slugCounts).forEach(s => {
-    if (slugCounts[s] > 1 && !wikiSlugs.includes(s) && !essaySlugs.includes(s)) {
-      console.error(`ERROR: Duplicate slug detected: ${s}`);
+  // 1. Untracked File Detection
+  allFileSlugs.forEach(slug => {
+    if (!dbSlugs.includes(slug)) {
+      console.error(`CRITICAL ERROR: Untracked file detected: ${slug}.md (Not in forensic_database.json)`);
       errors++;
     }
   });
 
-  // 2. Check Database Coverage
-  db.nodes.forEach(node => {
-    if (!wikiSlugs.includes(node.slug)) {
-      console.warn(`WARNING: Database node '${node.slug}' missing from ${WIKI_DIR}`);
+  // 2. Integration Block Verification
+  CORE_NODES.forEach(slug => {
+    const filePath = path.join(WIKI_DIR, `${slug}.md`);
+    if (fs.existsSync(filePath)) {
+      const content = fs.readFileSync(filePath, 'utf8');
+      const hasVol1Alignment = content.includes('## Forensic Alignment');
+      const hasVol2Root = content.includes('### Axiomatic Root');
+      
+      if (!hasVol1Alignment && !hasVol2Root) {
+        console.error(`CRITICAL ERROR: Core node '${slug}' is missing an integration block.`);
+        errors++;
+      }
+    } else {
+      console.error(`CRITICAL ERROR: Core node '${slug}' is missing from the filesystem.`);
+      errors++;
     }
   });
 
-  // 3. Link Integrity (Wiki)
+  // 3. Link Integrity
   wikiFiles.forEach(file => {
     const content = fs.readFileSync(path.join(WIKI_DIR, file), 'utf8');
-    
-    // Check old-style double brackets
-    const bracketLinks = content.match(/\[\[(.*?)\]\]/g);
-    if (bracketLinks) {
-      bracketLinks.forEach(link => {
-        const slug = link.slice(2, -2).split('|')[0];
-        if (!allSlugs.includes(slug)) {
-          console.error(`ERROR in ${file}: Broken link ${link}`);
-          errors++;
-        }
-      });
-    }
-
-    // Check new-style relative links
     const relativeLinks = content.match(/\/wiki\/node\/(.*?)[)\s]/g);
     if (relativeLinks) {
       relativeLinks.forEach(link => {
-        const slug = link.split('/').pop().replace(')', '').trim();
+        const slug = link.split('/').pop().replace(/[)\s]/g, '').trim();
         if (!wikiSlugs.includes(slug)) {
           console.error(`ERROR in ${file}: Broken route /wiki/node/${slug}`);
           errors++;
@@ -66,8 +74,11 @@ function audit() {
   });
 
   console.log('--- AUDIT COMPLETE ---');
-  console.log(`Errors Found: ${errors}`);
-  if (errors > 0) process.exit(1);
+  console.log(`Critical Errors: ${errors}`);
+  if (errors > 0) {
+    console.error('SYSTEM SHUTDOWN: FORCED INTEGRITY FAILURE');
+    process.exit(1);
+  }
 }
 
 audit();

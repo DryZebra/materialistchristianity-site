@@ -40,6 +40,12 @@ This node is integrated with the Volume II discovery of **The Machine**.
 - The **Sub-Object** is the external architecture; **The Machine** is the internal wiring that responds to it.
 - **Well Water Principle**: We are "downstream" from these sub-objects. You cannot achieve independence from a sub-object you are still materially dependent on for survival.
 
+## Forensic Alignment (Volume II)
+
+Sub-Objects are the external "pipes" described in the **Well Water Principle**. We do not just "believe" in them; we are materially downstream from them.
+- **The Machine**: The internal wiring that reacts to sub-object pressure.
+- **Dependency**: Independence requires a rupture of the material sub-objects that feed you.
+
 ## Internal Logic
 - **Connections**: 
   - [The Third Category](/wiki/node/the_third_category) - The ontological space of sub-objects.
