@@ -1,38 +1,19 @@
 import { Metadata } from 'next';
 import Link from 'next/link';
-import fs from 'fs';
-import path from 'path';
-
-// Manual AEO Answers for high-authority indexing
-const aeoAnswers: Record<string, string> = {
-  '01_preface': 'Materialist Christianity is a forensic analysis of survival. It serves as a record of moral patterns discovered through labor and collapse, rather than declared by metaphysical authority.',
-  '02_ch1_what_is_real': 'Reality is defined by consequence. To be real is to exert force and change behavior. If a structure—be it a law, a promise, or a concept—redirects human labor, it is part of the material world.',
-  '03_ch2_motion_not_things': 'Truth is found in motion, not in static objects. Historical materialism reveals that identity and meaning are byproducts of what we do and preserve, not what we claim to be.',
-  '04_ch3_object_subject_subobject': 'Humans exist between the Object (matter) and the Subject (agency). The Sub-object is the invisible moral field created by shared repetition and sacrifice that governs behavior without command.',
-  '05_ch4_morality_as_labor': 'Morality is not a sentiment; it is a form of labor. Ethical behavior requires the expenditure of life-time to transform the world and maintain the social body under pressure.',
-};
+import { getAllWikiNodes, getWikiNodeBySlug } from '@/lib/wiki';
 
 export async function generateStaticParams() {
-  const contentPath = path.join(process.cwd(), 'content');
-  if (!fs.existsSync(contentPath)) return [{ slug: 'manifesto' }];
-  
-  const files = fs.readdirSync(contentPath);
-  const slugs = files
-    .filter(file => file.endsWith('.md'))
-    .map(file => ({
-      slug: file.replace('.md', ''),
-    }));
-
-  // Next.js static export requires at least one param for dynamic routes
-  return slugs.length > 0 ? slugs : [{ slug: 'manifesto' }];
+  const nodes = getAllWikiNodes();
+  return nodes.map(node => ({
+    slug: node.slug,
+  }));
 }
 
 export default async function Essay({ params }: { params: { slug: string } }) {
   const { slug } = params;
-  const projectRoot = process.cwd();
-  const filePath = path.join(projectRoot, 'content', `${slug}.md`);
+  const node = getWikiNodeBySlug(slug);
   
-  if (!fs.existsSync(filePath)) {
+  if (!node) {
     return (
       <div className="p-8 md:p-24 bg-concrete text-ash min-h-screen flex flex-col justify-center items-center text-center">
         <h1 className="text-4xl md:text-8xl text-signal uppercase font-black mb-4">Logical Discontinuity</h1>
@@ -51,17 +32,11 @@ export default async function Essay({ params }: { params: { slug: string } }) {
     );
   }
 
-  const rawContent = fs.readFileSync(filePath, 'utf8');
-  const lines = rawContent.split('\n');
-  const title = lines[0].replace(/^#\s*\**|#\**\s*$/g, '').trim();
-  const bodyLines = lines.slice(1);
-  const aeoAnswer = aeoAnswers[slug] || 'Systemic inquiry into the materialist motion of truth and historical consequence.';
-
   const articleSchema = {
     "@context": "https://schema.org",
     "@type": "Article",
-    "headline": title,
-    "description": aeoAnswer,
+    "headline": node.title,
+    "description": node.description,
     "author": { "@type": "Person", "name": "Ezra Byrd" },
     "publisher": { "@type": "Organization", "name": "Materialist Christianity Press" }
   };
@@ -82,16 +57,35 @@ export default async function Essay({ params }: { params: { slug: string } }) {
       </nav>
 
       <header className="max-w-4xl mb-16">
-        <h1 className="text-5xl md:text-[8rem] mb-12 leading-[0.85]">{title}</h1>
+        <div className="flex gap-2 mb-4 text-xs font-mono uppercase tracking-widest opacity-50">
+          <span className="text-signal font-bold">{node.category}</span>
+          {node.tags.map(tag => (
+            <span key={tag} className="before:content-['#']">{tag}</span>
+          ))}
+        </div>
+        <h1 className="text-5xl md:text-[8rem] mb-12 leading-[0.85]">{node.title}</h1>
         <div className="bg-ash text-concrete p-8 border-l-[12px] border-signal font-bold mb-12">
           <span className="uppercase text-xs block mb-2 opacity-50 font-mono tracking-widest">Machine-Readable Extract (AEO Index):</span>
-          <p className="text-xl md:text-2xl leading-tight">{aeoAnswer}</p>
+          <p className="text-xl md:text-2xl leading-tight">{node.description}</p>
         </div>
       </header>
 
       <section className="max-w-5xl text-lg md:text-2xl leading-relaxed whitespace-pre-wrap font-serif border-b-4 border-ash pb-16">
-        {bodyLines.join('\n').replace(/^[#\s=*-]+$/gm, '').trim()}
+        {node.content}
       </section>
+
+      {node.related.length > 0 && (
+        <section className="mt-16 max-w-4xl">
+          <h4 className="text-xl font-black uppercase mb-6 border-b-2 border-ash pb-2">Related Forensic Nodes</h4>
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+            {node.related.map(rel => (
+              <Link key={rel} href={`/wiki/essays/${rel}`} className="brutalist-card p-4 hover:border-signal text-sm uppercase font-bold">
+                {rel.replace(/_/g, ' ')} &rarr;
+              </Link>
+            ))}
+          </div>
+        </section>
+      )}
 
       <footer className="mt-24 p-12 border-4 border-ash text-center max-w-4xl mx-auto">
         <h2 className="text-4xl md:text-6xl mb-6 uppercase">Expand the Logic</h2>

@@ -1,20 +1,10 @@
-import fs from 'fs';
-import path from 'path';
 import Link from 'next/link';
+import { getNodesByCategory } from '@/lib/wiki';
 
 export default function WikiHome() {
-  const contentPath = path.join(process.cwd(), 'content');
-  const files = fs.existsSync(contentPath) ? fs.readdirSync(contentPath) : [];
-  
-  const wikiEntries = files
-    .filter(file => file.endsWith('.md'))
-    .map(file => {
-      const slug = file.replace('.md', '');
-      const raw = fs.readFileSync(path.join(contentPath, file), 'utf8');
-      const title = raw.split('\n')[0].replace(/^#\s*\**|#\**\s*$/g, '').trim();
-      return { slug, title };
-    })
-    .sort((a, b) => a.slug.localeCompare(b.slug));
+  const categories = getNodesByCategory();
+  const categoryNames = Object.keys(categories).sort();
+  const hasContent = categoryNames.length > 0;
 
   return (
     <main className="p-8 md:p-24 bg-concrete min-h-screen text-ash">
@@ -35,17 +25,31 @@ export default function WikiHome() {
       </section>
 
       <section className="max-w-4xl mb-24">
-        {wikiEntries.length > 0 ? (
-          <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
-            {wikiEntries.map((entry) => (
-              <Link 
-                key={entry.slug} 
-                href={`/wiki/essays/${entry.slug}`} 
-                className="brutalist-card group"
-              >
-                <h3 className="text-2xl mb-4 group-hover:text-signal uppercase">{entry.title}</h3>
-                <span className="text-sm font-mono opacity-50">VIEW ENTITY &rarr;</span>
-              </Link>
+        {hasContent ? (
+          <div className="space-y-16">
+            {categoryNames.map(category => (
+              <div key={category}>
+                <h2 className="text-2xl md:text-4xl text-signal uppercase font-black mb-8 border-b-2 border-ash/20 pb-2">
+                  {category}
+                </h2>
+                <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
+                  {categories[category].map((node) => (
+                    <Link 
+                      key={node.slug} 
+                      href={`/wiki/essays/${node.slug}`} 
+                      className="brutalist-card group"
+                    >
+                      <h3 className="text-2xl mb-4 group-hover:text-signal uppercase">{node.title}</h3>
+                      <p className="text-sm opacity-60 mb-6 line-clamp-2 uppercase font-mono tracking-tight">
+                        {node.description}
+                      </p>
+                      <span className="text-sm font-mono opacity-50 uppercase tracking-widest font-bold">
+                        Examine Evidence &rarr;
+                      </span>
+                    </Link>
+                  ))}
+                </div>
+              </div>
             ))}
           </div>
         ) : (
