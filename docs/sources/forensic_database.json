@@ -493,6 +493,13 @@
       "integration_status": "Tracked"
     },
     {
+      "slug": "the_human_structure_interface",
+      "title": "The Human-Structure Interface",
+      "volume": 1,
+      "type": "Axiom",
+      "integration_status": "Tracked"
+    },
+    {
       "slug": "the_industrial_real",
       "title": "The Industrial Real",
       "volume": 1,
@@ -515,9 +522,9 @@
     },
     {
       "slug": "the_lhc_model",
-      "title": "The LHC Model",
-      "volume": 2,
-      "type": "Forensic",
+      "title": "The LHC Model (Technical Deep-Dive)",
+      "volume": 1,
+      "type": "Axiom",
       "integration_status": "Tracked"
     },
     {
@@ -585,7 +592,7 @@
     },
     {
       "slug": "bible/gen/1",
-      "title": "Genesis 1: The Initialization of the Substrate",
+      "title": "Genesis 1: The Substrate of Potential",
       "volume": 3,
       "type": "Verse",
       "integration_status": "Integrated"
