@@ -9,8 +9,31 @@ export async function generateStaticParams() {
   }));
 }
 
-export default async function Essay({ params }: { params: { slug: string } }) {
-  const { slug } = params;
+export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }): Promise<Metadata> {
+  const { slug } = await params;
+  const node = getWikiNodeBySlug(slug);
+  
+  if (!node) {
+    return {
+      title: 'Logical Discontinuity | Materialist Christianity',
+      description: 'Archival node not found in the public record.'
+    };
+  }
+
+  return {
+    title: `${node.title} | Materialist Christianity Wiki`,
+    description: node.description,
+    openGraph: {
+      title: node.title,
+      description: node.description,
+      type: 'article',
+      tags: node.tags,
+    }
+  };
+}
+
+export default async function Essay({ params }: { params: Promise<{ slug: string }> }) {
+  const { slug } = await params;
   const node = getWikiNodeBySlug(slug);
   
   if (!node) {
