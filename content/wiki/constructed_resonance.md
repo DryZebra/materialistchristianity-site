@@ -14,8 +14,8 @@ The purpose of construction is to create a field so strong that it can hold a co
 
 ## Internal Logic
 - **Connections**: 
-  - [[Sub-Object Resonance]](/wiki/essays/sub_object_resonance) - The broad category of this effect.
-  - [[Moral Labor]](/wiki/essays/moral_labor) - The input required to construct resonance.
+  - [Sub-Object Resonance](/wiki/essays/sub_object_resonance) - The broad category of this effect.
+  - [Moral Labor](/wiki/essays/moral_labor) - The input required to construct resonance.
 
 ## Source
 *Materialist Christianity*, Chapter 5

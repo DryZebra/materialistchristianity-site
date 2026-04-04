@@ -14,8 +14,8 @@ Sub-objects are neither purely mental nor purely material. A law, a currency, or
 
 ## Internal Logic
 - **Connections**: 
-  - [[Sub-Objects]](/wiki/essays/sub_objects) - The primary entities residing in this category.
-  - [[Sub-Object Resonance]](/wiki/essays/sub_object_resonance) - The force field that makes the third category tangible.
+  - [Sub-Objects](/wiki/essays/sub_objects) - The primary entities residing in this category.
+  - [Sub-Object Resonance](/wiki/essays/sub_object_resonance) - The force field that makes the third category tangible.
 
 ## Source
 *Materialist Christianity*, Chapter 4

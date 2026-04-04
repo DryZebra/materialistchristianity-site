@@ -14,8 +14,8 @@ If a belief does not result in a change of behavior or a physical consequence, i
 
 ## Internal Logic
 - **Connections**: 
-  - [[Consequence as Truth]](/wiki/essays/consequence_as_truth) - Truth is the evidentiary trail of motion.
-  - [[The Industrial Real]](/wiki/essays/the_industrial_real) - Reality is defined by the force that compels motion.
+  - [Consequence as Truth](/wiki/essays/consequence_as_truth) - Truth is the evidentiary trail of motion.
+  - [The Industrial Real](/wiki/essays/the_industrial_real) - Reality is defined by the force that compels motion.
 
 ## Source
 *Materialist Christianity*, Chapter 1

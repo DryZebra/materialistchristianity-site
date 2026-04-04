@@ -14,8 +14,8 @@ related: ["the_haunted_object", "the_dialectic_betrayal"]
 
 ## Internal Logic
 - **Connections**: 
-  - [[The Haunted Object]](/wiki/essays/the_haunted_object) - Entropy is what turns a living structure into a haunted one.
-  - [[The Dialectic of Betrayal]](/wiki/essays/the_dialectic_betrayal) - Synthesis often follows a rupture or betrayal.
+  - [The Haunted Object](/wiki/essays/the_haunted_object) - Entropy is what turns a living structure into a haunted one.
+  - [The Dialectic of Betrayal](/wiki/essays/the_dialectic_betrayal) - Synthesis often follows a rupture or betrayal.
 
 ## Source
 *Materialist Christianity*, Chapter 6

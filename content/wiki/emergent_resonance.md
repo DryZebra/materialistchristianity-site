@@ -14,8 +14,8 @@ While this resonance is powerful and authentic, it is also fragile and temporary
 
 ## Internal Logic
 - **Connections**: 
-  - [[Sub-Object Resonance]](/wiki/essays/sub_object_resonance) - The core principle of collective fields.
-  - [[Moral Communism]](/wiki/essays/moral_communism) - The ultimate goal: turning emergent resonance into a permanent structure of survival.
+  - [Sub-Object Resonance](/wiki/essays/sub_object_resonance) - The core principle of collective fields.
+  - [Moral Communism](/wiki/essays/moral_communism) - The ultimate goal: turning emergent resonance into a permanent structure of survival.
 
 ## Source
 *Materialist Christianity*, Chapter 5, 11

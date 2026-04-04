@@ -14,8 +14,8 @@ A forensic analysis of a church would not focus on its mission statement, but on
 
 ## Internal Logic
 - **Connections**: 
-  - [[Consequence as Truth]](/wiki/essays/consequence_as_truth) - Analysis is the search for truth in consequences.
-  - [[Materialist Christianity]](/wiki/essays/materialism_behavioral_science) - The paradigm built upon this method.
+  - [Consequence as Truth](/wiki/essays/consequence_as_truth) - Analysis is the search for truth in consequences.
+  - [Materialist Christianity](/wiki/essays/materialism_behavioral_science) - The paradigm built upon this method.
 
 ## Source
 *Materialist Christianity*, Chapter 1

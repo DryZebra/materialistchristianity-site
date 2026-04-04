@@ -14,8 +14,8 @@ Truth is the "track" that a motion leaves in the world. By measuring the consequ
 
 ## Internal Logic
 - **Connections**: 
-  - [[Reality as Motion]](/wiki/essays/reality_as_motion) - Truth is the record of motion.
-  - [[Forensic Analysis]](/wiki/essays/forensic_analysis_survival) - The method used to measure truth.
+  - [Reality as Motion](/wiki/essays/reality_as_motion) - Truth is the record of motion.
+  - [Forensic Analysis](/wiki/essays/forensic_analysis_survival) - The method used to measure truth.
 
 ## Source
 *Materialist Christianity*, Chapter 1

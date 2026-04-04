@@ -14,8 +14,8 @@ In the materialist framework, Gmorknicity is the effect of **unfettered Capital*
 
 ## Internal Logic
 - **Connections**: 
-  - [[The Nothing]](/wiki/essays/the_nothing) - The state of void that Gmorknicity serves.
-  - [[Commodity as Vampire]](/wiki/essays/commodity_as_vampire) - The mechanism through which Gmorknicity operates.
+  - [The Nothing](/wiki/essays/the_nothing) - The state of void that Gmorknicity serves.
+  - [Commodity as Vampire](/wiki/essays/commodity_as_vampire) - The mechanism through which Gmorknicity operates.
 
 ## Source
 *Materialist Christianity*, Chapter 2, 8

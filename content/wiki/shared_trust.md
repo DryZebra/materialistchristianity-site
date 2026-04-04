@@ -14,8 +14,8 @@ In the Materialist framework, trust is the fuel that allows **Resonance** to thi
 
 ## Internal Logic
 - **Connections**: 
-  - [[Moral Labor]](/wiki/essays/moral_labor) - The only work that generates shared trust.
-  - [[Survival Rhythm]](/wiki/essays/survival_rhythm) - The cadence that preserves trust during hard times.
+  - [Moral Labor](/wiki/essays/moral_labor) - The only work that generates shared trust.
+  - [Survival Rhythm](/wiki/essays/survival_rhythm) - The cadence that preserves trust during hard times.
 
 ## Source
 *Materialist Christianity*, Chapter 1, 11

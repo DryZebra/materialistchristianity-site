@@ -1,5 +1,7 @@
 import { Metadata } from 'next';
 import Link from 'next/link';
+import ReactMarkdown from 'react-markdown';
+import remarkGfm from 'remark-gfm';
 import { getAllWikiNodes, getWikiNodeBySlug } from '@/lib/wiki';
 
 export async function generateStaticParams() {
@@ -93,8 +95,10 @@ export default async function Essay({ params }: { params: Promise<{ slug: string
         </div>
       </header>
 
-      <section className="max-w-5xl text-lg md:text-2xl leading-relaxed whitespace-pre-wrap font-serif border-b-4 border-ash pb-16">
-        {node.content}
+      <section className="max-w-5xl text-lg md:text-2xl leading-relaxed font-serif border-b-4 border-ash pb-16 markdown-real">
+        <ReactMarkdown remarkPlugins={[remarkGfm]}>
+          {node.content}
+        </ReactMarkdown>
       </section>
 
       {node.related.length > 0 && (

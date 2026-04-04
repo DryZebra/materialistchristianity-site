@@ -14,8 +14,8 @@ If the people stop "choosing" to believe in a subject-dependent structure, it di
 
 ## Internal Logic
 - **Connections**: 
-  - [[Sub-Object Resonance]](/wiki/essays/sub_object_resonance) - The broad mechanics of social fields.
-  - [[Motion in Isolation]](/wiki/essays/motion_in_isolation) - Subject-dependent resonance fails the test of isolation.
+  - [Sub-Object Resonance](/wiki/essays/sub_object_resonance) - The broad mechanics of social fields.
+  - [Motion in Isolation](/wiki/essays/motion_in_isolation) - Subject-dependent resonance fails the test of isolation.
 
 ## Source
 *Materialist Christianity*, Chapter 5

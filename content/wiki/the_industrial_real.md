@@ -14,8 +14,8 @@ It is the rejection of metaphysical fluff in favor of forensic pressure. We know
 
 ## Internal Logic
 - **Connections**: 
-  - [[Reality as Motion]](/wiki/essays/reality_as_motion) - Force is the cause of all real motion.
-  - [[Motion in Isolation]](/wiki/essays/motion_in_isolation) - The industrial real persists even when unobserved.
+  - [Reality as Motion](/wiki/essays/reality_as_motion) - Force is the cause of all real motion.
+  - [Motion in Isolation](/wiki/essays/motion_in_isolation) - The industrial real persists even when unobserved.
 
 ## Source
 *Materialist Christianity*, Chapter 2

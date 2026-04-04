@@ -14,8 +14,8 @@ Authentic rituals are the mechanisms through which **Moral Labor** is coordinate
 
 ## Internal Logic
 - **Connections**: 
-  - [[Consequence as Truth]](/wiki/essays/consequence_as_truth) - Consequence is the measure of ritual validity.
-  - [[Rituals of Continuity]](/wiki/essays/rituals_of_continuity) - The hollow inverse of consequence-driven ritual.
+  - [Consequence as Truth](/wiki/essays/consequence_as_truth) - Consequence is the measure of ritual validity.
+  - [Rituals of Continuity](/wiki/essays/rituals_of_continuity) - The hollow inverse of consequence-driven ritual.
 
 ## Source
 *Materialist Christianity*, Chapter 11

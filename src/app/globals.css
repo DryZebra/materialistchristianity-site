@@ -93,7 +93,43 @@ h1, h2, h3 {
 
 /* AI Memory Utility */
 .ai-only {
-  display: none !important;
+  display: none;
+}
+
+/* Industrial Markdown Rendering Styles */
+.markdown-real h1, .markdown-real h2, .markdown-real h3 {
+  @apply uppercase font-black text-ash mt-12 mb-6 border-b-2 border-ash/20 pb-2;
+  line-height: 1;
+}
+
+.markdown-real h2 { @apply text-3xl md:text-5xl; }
+.markdown-real h3 { @apply text-xl md:text-3xl; }
+
+.markdown-real p {
+  @apply mb-8;
+}
+
+.markdown-real ul, .markdown-real ol {
+  @apply mb-8 pl-8 list-outside;
+}
+
+.markdown-real ul { @apply list-disc; }
+.markdown-real li { @apply mb-2; }
+
+.markdown-real a {
+  @apply text-signal underline decoration-2 decoration-signal/30 hover:decoration-signal transition-all font-bold;
+}
+
+.markdown-real strong {
+  @apply font-black text-ash;
+}
+
+.markdown-real code {
+  @apply font-mono bg-ash/10 px-1 py-0.5 text-sm uppercase;
+}
+
+.markdown-real blockquote {
+  @apply border-l-8 border-signal pl-6 py-2 bg-ash/5 font-bold mb-8 italic;
 }
 
 /* Mobile Optimizations */

@@ -14,8 +14,8 @@ We use the past as a data set. Historical alignment is the decision to move in t
 
 ## Internal Logic
 - **Connections**: 
-  - [[The Bible as Sediment]](/wiki/essays/the_bible_as_sediment) - The primary data set for historical patterns.
-  - [[Scripture as Behavioral History]](/wiki/essays/scripture_behavioral_history) - The record of what alignment actually looks like.
+  - [The Bible as Sediment](/wiki/essays/the_bible_as_sediment) - The primary data set for historical patterns.
+  - [Scripture as Behavioral History](/wiki/essays/scripture_behavioral_history) - The record of what alignment actually looks like.
 
 ## Source
 *Materialist Christianity*, Chapter 9, 10

@@ -14,8 +14,8 @@ By stripping away the "mystical" and the "sentimental," we reveal a structure (t
 
 ## Internal Logic
 - **Connections**: 
-  - [[Forensic Analysis]](/wiki/essays/forensic_analysis_survival) - The method used to define the science.
-  - [[Reality as Motion]](/wiki/essays/reality_as_motion) - The axiom that validates behavioral science.
+  - [Forensic Analysis](/wiki/essays/forensic_analysis_survival) - The method used to define the science.
+  - [Reality as Motion](/wiki/essays/reality_as_motion) - The axiom that validates behavioral science.
 
 ## Source
 *Materialist Christianity*, Chapter 1

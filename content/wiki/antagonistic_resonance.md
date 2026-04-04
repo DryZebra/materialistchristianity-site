@@ -14,8 +14,8 @@ Antagonistic resonance is necessary for breaking the "Behavioral Gravity" of a c
 
 ## Internal Logic
 - **Connections**: 
-  - [[Sub-Object Resonance]](/wiki/essays/sub_object_resonance) - The core principle of all social fields.
-  - [[Antagonistic Labor]](/wiki/essays/antagonistic_labor) - The type of work required to break a dominant field.
+  - [Sub-Object Resonance](/wiki/essays/sub_object_resonance) - The core principle of all social fields.
+  - [Antagonistic Labor](/wiki/essays/antagonistic_labor) - The type of work required to break a dominant field.
 
 ## Source
 *Materialist Christianity*, Chapter 5, 9

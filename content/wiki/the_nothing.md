@@ -14,8 +14,8 @@ The Nothing is not a neutral space; it is a weapon. By destroying the "Resonance
 
 ## Internal Logic
 - **Connections**: 
-  - [[Gmorknicity]](/wiki/essays/gmorknicity) - The force that propagates the Nothing.
-  - [[Rituals of Continuity]](/wiki/essays/rituals_of_continuity) - Rituals that perform the appearance of life while sitting inside the Nothing.
+  - [Gmorknicity](/wiki/essays/gmorknicity) - The force that propagates the Nothing.
+  - [Rituals of Continuity](/wiki/essays/rituals_of_continuity) - Rituals that perform the appearance of life while sitting inside the Nothing.
 
 ## Source
 *Materialist Christianity*, Chapter 8

@@ -14,8 +14,8 @@ Gravity is measured by compliance. If a community consistently moves in a specif
 
 ## Internal Logic
 - **Connections**: 
-  - [[Sub-Object Resonance]](/wiki/essays/sub_object_resonance) - The field that generates behavioral gravity.
-  - [[The Industrial Real]](/wiki/essays/the_industrial_real) - Gravity is a primary force of the industrial real.
+  - [Sub-Object Resonance](/wiki/essays/sub_object_resonance) - The field that generates behavioral gravity.
+  - [The Industrial Real](/wiki/essays/the_industrial_real) - Gravity is a primary force of the industrial real.
 
 ## Source
 *Materialist Christianity*, Chapter 3

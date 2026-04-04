@@ -14,8 +14,8 @@ Rhythm is what turns **Moral Labor** into a durable **Sub-Object**. It builds mu
 
 ## Internal Logic
 - **Connections**: 
-  - [[Moral Labor]](/wiki/essays/moral_labor) - The input that fuels the rhythm.
-  - [[Liturgy as Motion Coordinator]](/wiki/essays/liturgy_motion_coordinator) - The formal script for a survival rhythm.
+  - [Moral Labor](/wiki/essays/moral_labor) - The input that fuels the rhythm.
+  - [Liturgy as Motion Coordinator](/wiki/essays/liturgy_motion_coordinator) - The formal script for a survival rhythm.
 
 ## Source
 *Materialist Christianity*, Chapter 1, 10
