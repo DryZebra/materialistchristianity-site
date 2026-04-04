@@ -24,7 +24,10 @@ This ledger tracks the systematic reconstruction of the Materialist Christianity
 | 1 | **The Materialist Axiom** | Axiom | `002.json` | 🛡️ Sanitized | ✅ Ready | |
 | 2 | **The Gospel According to Labor** | Essay | `003.json` | 🛡️ Sanitized | ✅ Ready | |
 | 3 | **Sub-Object Materialism** | Axiom | `005.json` | 🛡️ Sanitized | ✅ Ready | |
-| 4 | **Labor of the Real (Vol II)** | Essay | `005.json` | ⏳ Pending | |
+| 4 | **Fractal Theory of Personality** | Axiom | `Notebook P1` | 🛡️ Sanitized | ⏳ Draft | |
+| 5 | **The Redneck Dictatorship** | Essay | `Outline` | 🛡️ Sanitized | ⏳ Draft | |
+| 6 | **Antisimulation Proof** | Axiom | `Notebook P3` | 🛡️ Sanitized | ⏳ Draft | |
+| 7 | **The 4D Time Snake** | Axiom | `Outline` | 🛡️ Sanitized | ⏳ Draft | |
 
 ## 🛠️ Reconstructive Notes
 - **Axioms**: Foundational definitions (Offline Wiki nodes).

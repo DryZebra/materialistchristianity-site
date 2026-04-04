@@ -17,13 +17,20 @@ related:
 
 Gravity is measured by compliance. If a community consistently moves in a specific way under a symbol, that symbol has massive behavioral gravity.
 
+## Forensic Alignment (Volume II)
+
+Gravity is the effect; **The Machine** is the receiver. Behavioral Gravity only works because the human biological substrate is pre-wired to respond to social pressure, habit, and consequence.
+- **The Hook**: Sub-Objects hook into the "Machine's" inherited trauma and survival instincts to ensure compliance.
+- **Independence**: To resist behavioral gravity, one must first recognize the machinery of their own nervous system. 
+
 ## Internal Logic
 - **Connections**: 
-  - [Sub-Object Resonance](/wiki/node/sub_object_resonance) - The field that generates behavioral gravity.
+  - [The Machine](/wiki/node/the_machine) - The biological component that feels behavioral gravity.
+  - [Sub-Objects](/wiki/node/sub_objects) - The source that generates behavioral gravity.
   - [The Industrial Real](/wiki/node/the_industrial_real) - Gravity is a primary force of the industrial real.
 
 ## Source
-*Materialist Christianity*, Chapter 3
+*Materialist Christianity*, Chapter 3; Volume II Forensic Audit.
 
 <!-- FORENSIC_EXPANSION_the_materialist_axiom -->
 ## Forensic Expansion: The Materialist Axiom

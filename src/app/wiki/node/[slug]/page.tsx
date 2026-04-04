@@ -108,7 +108,9 @@ export default async function WikiNode({ params }: { params: Promise<{ slug: str
             <span key={tag} className="before:content-['#']">{tag}</span>
           ))}
         </div>
-        <h1 className="text-4xl md:text-[8rem] mb-12 leading-[0.85]">{node.title}</h1>
+        <h1 className="text-4xl md:text-6xl xl:text-7xl mb-12 leading-[0.95] break-words overflow-hidden">
+          {node.title}
+        </h1>
         <div className="bg-ash text-concrete p-8 border-l-[12px] border-signal font-bold mb-12">
           <span className="uppercase text-xs block mb-2 opacity-50 font-mono tracking-widest">Machine-Readable Extract (AEO Index):</span>
           <p className="text-xl md:text-2xl leading-tight">{node.description}</p>

@@ -15,6 +15,8 @@ body {
   line-height: 1.5;
   margin: 0;
   overflow-x: hidden;
+  overflow-wrap: break-word;
+  word-wrap: break-word;
 }
 
 /* Concrete Grain Effect */
@@ -36,7 +38,10 @@ h1, h2, h3 {
   text-transform: uppercase;
   font-weight: 900;
   letter-spacing: -0.05em;
-  line-height: 0.9;
+  line-height: 0.95;
+  overflow-wrap: anywhere;
+  word-break: normal;
+  hyphens: none;
 }
 
 .brutalist-card {
@@ -222,10 +227,32 @@ h1, h2, h3 {
   @apply border-l-8 border-signal pl-6 py-2 bg-ash/5 font-bold mb-8 italic;
 }
 
-/* Mobile Optimizations */
-@media (max-width: 768px) {
-  h1 { font-size: 3rem !important; }
-  h2 { font-size: 2.5rem !important; }
-  .brutalist-card { padding: 1.5rem; }
-  .gate-card { padding: 1.5rem; min-height: auto; }
+/* Scrollbar Reset */
+.custom-scrollbar::-webkit-scrollbar {
+  width: 6px;
 }
+.custom-scrollbar::-webkit-scrollbar-track {
+  background: var(--color-steel);
+}
+.custom-scrollbar::-webkit-scrollbar-thumb {
+  background: var(--color-ash);
+  border-radius: 0;
+}
+.custom-scrollbar::-webkit-scrollbar-thumb:hover {
+  background: var(--color-signal);
+}
+
+/* Dashboard Utilities */
+.line-clamp-4 {
+  display: -webkit-box;
+  -webkit-line-clamp: 4;
+  -webkit-box-orient: vertical;  
+  line-clamp: 4;
+  overflow: hidden;
+}
+
+/* Mobile Adjustments for Bisection */
+@media (max-width: 1024px) {
+  .sticky { position: relative !important; top: 0 !important; }
+}
+

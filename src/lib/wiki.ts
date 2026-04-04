@@ -8,10 +8,12 @@ export interface ContentNode {
   description: string;
   category: string;
   tags: string[];
+  date: string;
   related: string[]; // Slugs of other nodes
   references: string[]; // Slugs of essays
   content: string;
 }
+
 
 function getFilesFromDir(dir: string): string[] {
   const contentPath = path.join(process.cwd(), dir);
@@ -33,11 +35,13 @@ function parseContentFile(fullPath: string): ContentNode {
     description: data.description || 'A node in the materialist record.',
     category: data.category || 'General',
     tags: data.tags || [],
+    date: data.date ? new Date(data.date).toISOString().split('T')[0] : new Date().toISOString().split('T')[0],
     related: data.related || [],
     references: data.references || [],
     content: content.trim()
   };
 }
+
 
 // Wiki Nodes (Axioms/Mechanics)
 export function getAllWikiNodes(): ContentNode[] {

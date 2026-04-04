@@ -1,0 +1,121 @@
+{
+  "project": "Materialist Christianity",
+  "last_updated": "2026-04-04",
+  "nodes": [
+    {
+      "slug": "the_materialist_axiom",
+      "title": "The Materialist Axiom",
+      "volume": 1,
+      "type": "Axiom",
+      "integration_status": "Primary"
+    },
+    {
+      "slug": "behavioral_gravity",
+      "title": "Behavioral Gravity",
+      "volume": 1,
+      "type": "Axiom",
+      "integration_status": "Linked to Vol II (The Machine)"
+    },
+    {
+      "slug": "sub_objects",
+      "title": "Sub-Objects",
+      "volume": 1,
+      "type": "Axiom",
+      "integration_status": "Consolidated / Linked to Vol II"
+    },
+    {
+      "slug": "consequence_as_truth",
+      "title": "Consequence as Truth",
+      "volume": 1,
+      "type": "Axiom",
+      "integration_status": "Base logic"
+    },
+    {
+      "slug": "the_machine",
+      "title": "The Machine",
+      "volume": 2,
+      "type": "Forensic",
+      "integration_status": "Linked to Vol I (Gravity)"
+    },
+    {
+      "slug": "c_mirroring",
+      "title": "C-Mirroring",
+      "volume": 2,
+      "type": "Forensic",
+      "integration_status": "Linked to Vol I (Resurrection)"
+    },
+    {
+      "slug": "the_meta_self",
+      "title": "The Meta-Self",
+      "volume": 2,
+      "type": "Forensic",
+      "integration_status": "Psychological layer"
+    },
+    {
+      "slug": "well_water_principle",
+      "title": "The Well Water Principle",
+      "volume": 2,
+      "type": "Forensic",
+      "integration_status": "Linked to Vol I (Sub-Objects)"
+    },
+    {
+      "slug": "redneck_dictatorship",
+      "title": "The Redneck Dictatorship",
+      "volume": 2,
+      "type": "Forensic",
+      "integration_status": "Class analysis"
+    },
+    {
+      "slug": "fractal_theory_of_self",
+      "title": "The Fractal Theory of Self",
+      "volume": 2,
+      "type": "Forensic",
+      "integration_status": "Consolidated"
+    },
+    {
+      "slug": "4d_time_snake",
+      "title": "The 4D Time Snake",
+      "volume": 2,
+      "type": "Forensic",
+      "integration_status": "Temporal logic"
+    }
+  ],
+  "essays": [
+    {
+      "slug": "the_materialist_axiom",
+      "title": "The Materialist Axiom",
+      "volume": 2,
+      "topic": "Core Physics"
+    },
+    {
+      "slug": "the_gospel_according_to_labor",
+      "title": "The Gospel According to Labor",
+      "volume": 2,
+      "topic": "Structural Anchor"
+    },
+    {
+      "slug": "the_collapsing_timeline",
+      "title": "The Collapsing Timeline",
+      "volume": 2,
+      "topic": "Mechanical Prophecy"
+    },
+    {
+      "slug": "well_water_principle",
+      "title": "The Well Water Principle",
+      "volume": 2,
+      "topic": "Dependency"
+    },
+    {
+      "slug": "redneck_dictatorship",
+      "title": "The Redneck Dictatorship",
+      "volume": 2,
+      "topic": "Class Rule"
+    },
+    {
+      "slug": "fractal_theory_of_self",
+      "title": "The Fractal Theory of Self",
+      "volume": 2,
+      "topic": "Psychology"
+    }
+  ]
+}
