@@ -14,8 +14,8 @@ A sacrament is "valid" only if it produces a material effect in the **Industrial
 
 ## Internal Logic
 - **Connections**: 
-  - [[Rituals of Consequence]] - Sacraments are the peak of consequence-driven ritual.
-  - [[Shared Trust]] - Sacraments are the mechanism that "mint" shared trust.
+  - [[rituals_of_consequence]] - Sacraments are the peak of consequence-driven ritual.
+  - [[shared_trust]] - Sacraments are the mechanism that "mint" shared trust.
 
 ## Source
 *Materialist Christianity*, Chapter 11

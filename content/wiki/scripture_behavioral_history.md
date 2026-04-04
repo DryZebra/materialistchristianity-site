@@ -13,7 +13,7 @@ This node defines **Scripture** not as a collection of "stories" but as a forens
 
 ## Forensic Expansion: The Stability Principle ('Emunah)
 
-The concept of "Faith" in scripture is grounded in the morphological root **'Emunah**, meaning **Stability** or **Firmness**. As explored in the [[01_the_electrician_creed|Forensic Testimony]], scripture is the record of what human beings must do to survive their own contradictions. If a behavioral instruction (the weight of the schematic) held the community's connection to survival over centuries, it was preserved as scripture. It is the industrial record of survival-labor.
+The concept of "Faith" in scripture is grounded in the morphological root **'Emunah**, meaning **Stability** or **Firmness**. As explored in the [[01_the_electrician_creed]], scripture is the record of what human beings must do to survive their own contradictions. If a behavioral instruction (the weight of the schematic) held the community's connection to survival over centuries, it was preserved as scripture. It is the industrial record of survival-labor.
 
 ## Internal Logic
 - **Connections**: 

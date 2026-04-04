@@ -14,8 +14,8 @@ A church is functional only when it acts as a "Behavioral Gravity" well, forcing
 
 ## Internal Logic
 - **Connections**: 
-  - [[Sub-Objects]] - The ontological category for the church.
-  - [[Liturgy as Motion Coordinator]] - The operating system of the church.
+  - [[sub_objects]] - The ontological category for the church.
+  - [[liturgy_motion_coordinator]] - The operating system of the church.
 
 ## Source
 *Materialist Christianity*, Chapter 7

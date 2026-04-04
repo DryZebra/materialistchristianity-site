@@ -14,8 +14,8 @@ A successful liturgy creates a **Survival Rhythm**. It ensures that even when pe
 
 ## Internal Logic
 - **Connections**: 
-  - [[The Church as Sub-Object]] - The structure that uses liturgy.
-  - [[Survival Rhythm]] - The effect produced by continuous liturgy.
+  - [[the_church_as_sub_object]] - The structure that uses liturgy.
+  - [[survival_rhythm]] - The effect produced by continuous liturgy.
 
 ## Source
 *Materialist Christianity*, Chapter 7

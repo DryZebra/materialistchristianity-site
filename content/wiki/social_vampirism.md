@@ -14,8 +14,8 @@ Capital cannot build these things; it can only "bite" them, draining the structu
 
 ## Internal Logic
 - **Connections**: 
-  - [[Moral Capital]] - The resource being extracted.
-  - [[Commodity as Vampire]] - The specific mechanic of extraction.
+  - [[moral_capital]] - The resource being extracted.
+  - [[commodity_as_vampire]] - The specific mechanic of extraction.
 
 ## Source
 *Materialist Christianity*, Chapter 8, 9

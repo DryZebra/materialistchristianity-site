@@ -13,7 +13,7 @@ references: ["01_the_electrician_creed"]
 
 ## Forensic Expansion: Tested Structures
 
-As formalized in the [[01_the_electrician_creed|testimony of the Archive]], Materialist Christianity is the project of reclaiming this structure for the working class. It utilizes the forensic evidence of historical survival—the fact that "Christianity held" under the pressure of empire and famine—as its primary scripture. We reject metaphysical "magic tricks" in favor of the industrial reality of a structure that doesn't melt under load.
+As formalized in the [[01_the_electrician_creed]], Materialist Christianity is the project of reclaiming this structure for the working class. It utilizes the forensic evidence of historical survival—the fact that "Christianity held" under the pressure of empire and famine—as its primary scripture. We reject metaphysical "magic tricks" in favor of the industrial reality of a structure that doesn't melt under load.
 
 ## Internal Logic
 - **Connections**: 

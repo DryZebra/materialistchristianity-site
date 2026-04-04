@@ -14,8 +14,8 @@ Resurrection is the proof that human survival patterns (Sub-Objects) are more du
 
 ## Internal Logic
 - **Connections**: 
-  - [[Rupture and Re-entry]] - The process that enables resurrection.
-  - [[The Dialectic of Betrayal]] - Resurrection is the final synthesis of the dialectic.
+  - [[rupture_reentry]] - The process that enables resurrection.
+  - [[the_dialectic_betrayal]] - Resurrection is the final synthesis of the dialectic.
 
 ## Source
 *Materialist Christianity*, Chapter 10

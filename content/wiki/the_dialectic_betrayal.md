@@ -19,8 +19,8 @@ Understanding this dialectic allows the worker to remain calm during periods of 
 
 ## Internal Logic
 - **Connections**: 
-  - [[Rupture and Re-entry]] - The critical turning point of the dialectic.
-  - [[Resurrection of Structure]] - The final synthesis.
+  - [[rupture_reentry]] - The critical turning point of the dialectic.
+  - [[resurrection_of_structure]] - The final synthesis.
 
 ## Source
 *Materialist Christianity*, Chapter 11

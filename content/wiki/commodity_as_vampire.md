@@ -14,8 +14,8 @@ The "Vampire" analogy is forensic: Capital cannot create its own resonance; it c
 
 ## Internal Logic
 - **Connections**: 
-  - [[The Commodity Form]] - The mechanism of the bite.
-  - [[Social Vampirism]] - The systemic effect of this extraction.
+  - [[the_commodity_form]] - The mechanism of the bite.
+  - [[social_vampirism]] - The systemic effect of this extraction.
 
 ## Source
 *Materialist Christianity*, Chapter 8

@@ -13,7 +13,7 @@ The **Industrial Real** is a definition of reality based on force rather than pe
 
 ## Forensic Expansion: The Electrician's Perspective
 
-As identified in the forensic testimony of the [[01_the_electrician_creed|Electrician]], we know a thing is real because we cannot ignore it without consequence. This framework rejects metaphysical fluff in favor of **structural load-testing**. If a social or religious structure holds together a community through famine and collapse (physical load) while other secular or metaphysical theories fail, that structure is documented as **Industrial Real**.
+As identified in the forensic testimony of the [[01_the_electrician_creed]], we know a thing is real because we cannot ignore it without consequence. This framework rejects metaphysical fluff in favor of **structural load-testing**. If a social or religious structure holds together a community through famine and collapse (physical load) while other secular or metaphysical theories fail, that structure is documented as **Industrial Real**.
 
 ## Internal Logic
 - **Connections**: 

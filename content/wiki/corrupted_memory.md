@@ -14,8 +14,8 @@ In Materialist Christianity, a corrupted memory is what allows a Sub-Object to b
 
 ## Internal Logic
 - **Connections**: 
-  - [[The Haunted Object]] - Haunted objects store memory; entropy corrupts it.
-  - [[Rituals of Continuity]] - The behavioral result of corrupted memory.
+  - [[the_haunted_object]] - Haunted objects store memory; entropy corrupts it.
+  - [[rituals_of_continuity]] - The behavioral result of corrupted memory.
 
 ## Source
 *Materialist Christianity*, Chapter 6

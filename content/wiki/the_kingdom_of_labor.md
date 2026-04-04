@@ -14,8 +14,8 @@ In the Kingdom, every motion is a **Ritual of Consequence**, every day is a **Su
 
 ## Internal Logic
 - **Connections**: 
-  - [[Moral Labor]] - The activity that defines the Kingdom.
-  - [[Survival Rhythm]] - The pulse of the Kingdom's motion.
+  - [[moral_labor]] - The activity that defines the Kingdom.
+  - [[survival_rhythm]] - The pulse of the Kingdom's motion.
 
 ## Source
 *Materialist Christianity*, Chapter 11

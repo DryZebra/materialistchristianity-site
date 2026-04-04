@@ -14,8 +14,8 @@ Succession is valid only when the **Motion** is valid. If a bishop claims succes
 
 ## Internal Logic
 - **Connections**: 
-  - [[The Church as Sub-Object]] - The structure that preserves apostolic motion.
-  - [[Historical Alignment]] - The method of ensuring motion is authentic.
+  - [[the_church_as_sub_object]] - The structure that preserves apostolic motion.
+  - [[historical_alignment]] - The method of ensuring motion is authentic.
 
 ## Source
 *Materialist Christianity*, Chapter 1, 9

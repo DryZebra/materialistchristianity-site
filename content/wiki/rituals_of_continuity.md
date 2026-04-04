@@ -14,8 +14,8 @@ These rituals are dangerous because they provide a false sense of **Resonance**.
 
 ## Internal Logic
 - **Connections**: 
-  - [[Rituals of Consequence]] - The materialist standard that continuity fails to meet.
-  - [[The Nothing]] - The environment where rituals of continuity thrive.
+  - [[rituals_of_consequence]] - The materialist standard that continuity fails to meet.
+  - [[the_nothing]] - The environment where rituals of continuity thrive.
 
 ## Source
 *Materialist Christianity*, Chapter 11

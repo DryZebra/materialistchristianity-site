@@ -14,8 +14,8 @@ In this state, the "Behavioral Gravity" of the community is so strong that no in
 
 ## Internal Logic
 - **Connections**: 
-  - [[Moral Capital]] - The primary resource of a moral communist community.
-  - [[The Kingdom of Labor]] - The environment where moral communism resides.
+  - [[moral_capital]] - The primary resource of a moral communist community.
+  - [[the_kingdom_of_labor]] - The environment where moral communism resides.
 
 ## Source
 *Materialist Christianity*, Chapter 11

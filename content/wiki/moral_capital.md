@@ -14,8 +14,8 @@ Unlike financial capital, which is extracted and moved, moral capital is localiz
 
 ## Internal Logic
 - **Connections**: 
-  - [[Shared Trust]] - The unit of measurement for moral capital.
-  - [[Moral Labor]] - The only way to "earn" or "mint" this capital.
+  - [[shared_trust]] - The unit of measurement for moral capital.
+  - [[moral_labor]] - The only way to "earn" or "mint" this capital.
 
 ## Source
 *Materialist Christianity*, Chapter 1, 11

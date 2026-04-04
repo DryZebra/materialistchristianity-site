@@ -17,7 +17,7 @@ The word usually translated as "Glory" (**Kavod**) in scripture literally means 
 
 ## Forensic Expansion
 
-As explored in the [[01_the_electrician_creed|Forensic Testimony]], Christianity is the structure that preserved the category of "Value" for ordinary folks who had nothing but their labor. It is the grid that gave mass to the individual when empire and economy threatened to dissolve them. It is the realization that "Christianity works" as a mechanism for documenting individual dignity through group survival.
+As explored in the [[01_the_electrician_creed]], Christianity is the structure that preserved the category of "Value" for ordinary folks who had nothing but their labor. It is the grid that gave mass to the individual when empire and economy threatened to dissolve them. It is the realization that "Christianity works" as a mechanism for documenting individual dignity through group survival.
 
 ## Source
 *Materialist Christianity*, Chapter 4
