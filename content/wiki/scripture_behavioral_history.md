@@ -4,18 +4,21 @@ description: "The Bible as a record of human behaviors that ensured group endura
 category: "The Theological Form"
 tags: ["theology", "scripture", "behavior"]
 related: ["the_bible_as_sediment", "forensic_analysis_survival"]
+references: ["01_the_electrician_creed"]
 ---
 
 ## Forensic Summary
 
 This node defines **Scripture** not as a collection of "stories" but as a forensic record of successful behavioral mutations. Materialist Christianity argues that the Bible was curated by communities because the instructions within it (the Mosaic Law, the Sermon on the Mount, the Apostolic Epistles) actually worked in the "Industrial Real."
 
-If a set of behavioral instructions (e.g., "Forgive seven times seventy") consistently prevented a community from collapsing into internal feud (Entropy), that instruction was preserved as scripture. It is the record of what human beings must do to survive their own contradictions.
+## Forensic Expansion: The Stability Principle ('Emunah)
+
+The concept of "Faith" in scripture is grounded in the morphological root **'Emunah**, meaning **Stability** or **Firmness**. As explored in the [[01_the_electrician_creed|Forensic Testimony]], scripture is the record of what human beings must do to survive their own contradictions. If a behavioral instruction (the weight of the schematic) held the community's connection to survival over centuries, it was preserved as scripture. It is the industrial record of survival-labor.
 
 ## Internal Logic
 - **Connections**: 
-  - [[Forensic Analysis]] - The method used to read the history.
-  - [[The Bible as Sediment]] - The physical form of this record.
+  - [[forensic_analysis_survival]] - The method used to read the history.
+  - [[the_bible_as_sediment]] - The physical form of this record.
 
 ## Source
 *Materialist Christianity*, Chapter 7

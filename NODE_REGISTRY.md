@@ -1,6 +1,8 @@
 # Wiki Node Registry: Materialist Christianity
 
-This registry contains the "Layer 1" index of concepts extracted from the *Materialist Christianity* EBook. This is the source of truth for the 61 active Knowledge Hub nodes.
+This registry contains the "Layer 1" index of concepts extracted from the *Materialist Christianity* EBook. This is the source of truth for- [WIKI] 61 Active Nodes
+- [ESSAY] 01_the_electrician_creed
+- [STATUS] FORENSIC INGESTION PHASE ACTIVE
 
 ---
 

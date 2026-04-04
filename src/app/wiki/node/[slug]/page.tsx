@@ -106,8 +106,21 @@ export default async function Essay({ params }: { params: Promise<{ slug: string
           <h4 className="text-xl font-black uppercase mb-6 border-b-2 border-ash pb-2">Related Forensic Nodes</h4>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
             {node.related.map(rel => (
-              <Link key={rel} href={`/wiki/essays/${rel}`} className="brutalist-card p-4 hover:border-signal text-sm uppercase font-bold">
+              <Link key={rel} href={`/wiki/node/${rel}`} className="brutalist-card p-4 hover:border-signal text-sm uppercase font-bold">
                 {rel.replace(/_/g, ' ')} &rarr;
+              </Link>
+            ))}
+          </div>
+        </section>
+      )}
+
+      {node.references && node.references.length > 0 && (
+        <section className="mt-16 max-w-4xl">
+          <h4 className="text-xl font-black uppercase mb-6 border-b-2 border-ash pb-2 text-signal">Forensic Testimony</h4>
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+            {node.references.map(ref => (
+              <Link key={ref} href={`/essays/${ref}`} className="brutalist-card p-4 border-signal/40 hover:border-signal text-sm uppercase font-bold">
+                {ref.replace(/_/g, ' ')} &rarr;
               </Link>
             ))}
           </div>

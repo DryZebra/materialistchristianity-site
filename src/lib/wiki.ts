@@ -2,63 +2,66 @@ import fs from 'fs';
 import path from 'path';
 import matter from 'gray-matter';
 
-export interface WikiNode {
+export interface ContentNode {
   slug: string;
   title: string;
   description: string;
   category: string;
   tags: string[];
-  related: string[];
+  related: string[]; // Slugs of other nodes
+  references: string[]; // Slugs of essays
   content: string;
 }
 
-export function getAllWikiNodes(): WikiNode[] {
-  const contentPath = path.join(process.cwd(), 'content');
+function getFilesFromDir(dir: string): string[] {
+  const contentPath = path.join(process.cwd(), dir);
   if (!fs.existsSync(contentPath)) return [];
 
-  const getFilesRecursively = (dir: string): string[] => {
-    let files: string[] = [];
-    const items = fs.readdirSync(dir, { withFileTypes: true });
-    for (const item of items) {
-      const fullPath = path.join(dir, item.name);
-      if (item.isDirectory()) {
-        files = [...files, ...getFilesRecursively(fullPath)];
-      } else if (item.name.endsWith('.md')) {
-        files.push(fullPath);
-      }
-    }
-    return files;
-  };
-
-  const filePaths = getFilesRecursively(contentPath);
-  return filePaths
-    .map(fullPath => {
-      const slug = path.basename(fullPath, '.md');
-      const rawContent = fs.readFileSync(fullPath, 'utf8');
-      
-      const { data, content } = matter(rawContent);
-      
-      return {
-        slug,
-        title: data.title || slug,
-        description: data.description || 'A node in the materialist record.',
-        category: data.category || 'General',
-        tags: data.tags || [],
-        related: data.related || [],
-        content: content.trim()
-      };
-    })
-    .sort((a, b) => a.slug.localeCompare(b.slug));
+  return fs.readdirSync(contentPath)
+    .filter(f => f.endsWith('.md'))
+    .map(f => path.join(contentPath, f));
 }
 
-export function getWikiNodeBySlug(slug: string): WikiNode | null {
+function parseContentFile(fullPath: string): ContentNode {
+  const slug = path.basename(fullPath, '.md');
+  const rawContent = fs.readFileSync(fullPath, 'utf8');
+  const { data, content } = matter(rawContent);
+
+  return {
+    slug,
+    title: data.title || slug,
+    description: data.description || 'A node in the materialist record.',
+    category: data.category || 'General',
+    tags: data.tags || [],
+    related: data.related || [],
+    references: data.references || [],
+    content: content.trim()
+  };
+}
+
+// Wiki Nodes (Axioms/Mechanics)
+export function getAllWikiNodes(): ContentNode[] {
+  return getFilesFromDir('content/wiki').map(parseContentFile).sort((a, b) => a.slug.localeCompare(b.slug));
+}
+
+export function getWikiNodeBySlug(slug: string): ContentNode | null {
   const nodes = getAllWikiNodes();
   return nodes.find(node => node.slug === slug) || null;
 }
 
-export function getNodesByCategory(): Record<string, WikiNode[]> {
+// Essays (Testimony)
+export function getAllEssays(): ContentNode[] {
+  return getFilesFromDir('content/essays').map(parseContentFile).sort((a, b) => a.slug.localeCompare(b.slug));
+}
+
+export function getEssayBySlug(slug: string): ContentNode | null {
+  const essays = getAllEssays();
+  return essays.find(e => e.slug === slug) || null;
+}
+
+export function getNodesByCategory(): Record<string, ContentNode[]> {
   const nodes = getAllWikiNodes();
-  const categories: Record<string, WikiNode[]> = {};
+  const categories: Record<string, ContentNode[]> = {};
 
   nodes.forEach(node => {
     if (!categories[node.category]) {

@@ -1,10 +1,11 @@
 import Link from 'next/link';
-import { getNodesByCategory } from '@/lib/wiki';
+import { getNodesByCategory, getAllEssays } from '@/lib/wiki';
 
 export default function WikiHome() {
   const categories = getNodesByCategory();
+  const essays = getAllEssays();
   const categoryNames = Object.keys(categories).sort();
-  const hasContent = categoryNames.length > 0;
+  const hasContent = categoryNames.length > 0 || essays.length > 0;
 
   return (
     <main className="p-8 md:p-24 bg-concrete min-h-screen text-ash">
@@ -20,23 +21,50 @@ export default function WikiHome() {
           The Wiki is an authoritative ledger of moral forensics. It maps the motion of truth through historical labor and structural necessity.
         </div>
         <p className="text-lg md:text-xl leading-relaxed mb-8 font-mono uppercase opacity-80">
-          This section contains curated essays and Q&A structures optimized for both human study and agentic search audit.
+          This section contains Axiomatic Nodes (the map) and Forensic Testimony (the labor).
         </p>
       </section>
 
       <section className="max-w-4xl mb-24">
         {hasContent ? (
-          <div className="space-y-16">
+          <div className="space-y-24">
+            {/* ESSAYS SECTION */}
+            {essays.length > 0 && (
+              <div>
+                <h2 className="text-3xl md:text-6xl text-signal uppercase font-black mb-8 border-b-4 border-signal pb-2">
+                  Forensic Testimony
+                </h2>
+                <div className="space-y-6">
+                  {essays.map((essay) => (
+                    <Link 
+                      key={essay.slug} 
+                      href={`/essays/${essay.slug}`} 
+                      className="flex flex-col md:flex-row justify-between items-start md:items-center p-8 border-4 border-ash hover:border-signal group transition-all"
+                    >
+                      <div>
+                        <h3 className="text-2xl md:text-4xl group-hover:text-signal uppercase mb-2">{essay.title}</h3>
+                        <p className="text-sm opacity-60 uppercase font-mono tracking-tighter">{essay.description}</p>
+                      </div>
+                      <span className="mt-4 md:mt-0 text-sm font-mono opacity-50 uppercase tracking-widest font-bold group-hover:opacity-100">
+                        Read Testimony &rarr;
+                      </span>
+                    </Link>
+                  ))}
+                </div>
+              </div>
+            )}
+
+            {/* WIKI NODES BY CATEGORY */}
             {categoryNames.map(category => (
               <div key={category}>
-                <h2 className="text-2xl md:text-4xl text-signal uppercase font-black mb-8 border-b-2 border-ash/20 pb-2">
+                <h2 className="text-2xl md:text-4xl text-ash uppercase font-black mb-8 border-b-2 border-ash/20 pb-2">
                   {category}
                 </h2>
                 <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
                   {categories[category].map((node) => (
                     <Link 
                       key={node.slug} 
-                      href={`/wiki/essays/${node.slug}`} 
+                      href={`/wiki/node/${node.slug}`} 
                       className="brutalist-card group"
                     >
                       <h3 className="text-2xl mb-4 group-hover:text-signal uppercase">{node.title}</h3>
