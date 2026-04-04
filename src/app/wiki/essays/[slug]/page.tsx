@@ -2,14 +2,20 @@ import { Metadata } from 'next';
 import Link from 'next/link';
 import ReactMarkdown from 'react-markdown';
 import remarkGfm from 'remark-gfm';
-import { getAllEssays, getEssayBySlug } from '@/lib/wiki';
+import { getAllEssays, getEssayBySlug, getWikiNodeBySlug, getAllWikiNodes } from '@/lib/wiki';
 import { transformWikiLinks } from '@/lib/markdown';
 
 export async function generateStaticParams() {
   const essays = getAllEssays();
-  return essays.map(essay => ({
-    slug: essay.slug,
-  }));
+  // Include all nodes in static params so they are all reachable via /wiki/essays/[slug]
+  const nodes = getAllWikiNodes();
+  
+  const allParams = [
+    ...essays.map(e => ({ slug: e.slug })),
+    ...nodes.map(n => ({ slug: n.slug }))
+  ];
+  
+  return allParams;
 }
 
 export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }): Promise<Metadata> {
@@ -37,7 +43,17 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
 
 export default async function EssayPage({ params }: { params: Promise<{ slug: string }> }) {
   const { slug } = await params;
-  const essay = getEssayBySlug(slug);
+  let essay = getEssayBySlug(slug);
+  let isNodeFallback = false;
+
+  if (!essay) {
+    // Fallback to wiki nodes if not found in essays
+    const node = getWikiNodeBySlug(slug);
+    if (node) {
+      essay = node;
+      isNodeFallback = true;
+    }
+  }
   
   if (!essay) {
     return (

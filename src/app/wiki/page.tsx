@@ -38,7 +38,7 @@ export default function WikiHome() {
                   {essays.map((essay) => (
                     <Link 
                       key={essay.slug} 
-                      href={`/essays/${essay.slug}`} 
+                      href={`/wiki/essays/${essay.slug}`} 
                       className="flex flex-col md:flex-row justify-between items-start md:items-center p-8 border-4 border-ash hover:border-signal group transition-all"
                     >
                       <div>

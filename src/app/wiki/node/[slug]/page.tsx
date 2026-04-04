@@ -2,19 +2,28 @@ import { Metadata } from 'next';
 import Link from 'next/link';
 import ReactMarkdown from 'react-markdown';
 import remarkGfm from 'remark-gfm';
-import { getAllWikiNodes, getWikiNodeBySlug } from '@/lib/wiki';
+import { getAllWikiNodes, getWikiNodeBySlug, getAllEssays, getEssayBySlug } from '@/lib/wiki';
 import { transformWikiLinks } from '@/lib/markdown';
 
 export async function generateStaticParams() {
   const nodes = getAllWikiNodes();
-  return nodes.map(node => ({
-    slug: node.slug,
-  }));
+  const essays = getAllEssays();
+  
+  const allParams = [
+    ...nodes.map(node => ({ slug: node.slug })),
+    ...essays.map(essay => ({ slug: essay.slug }))
+  ];
+  
+  return allParams;
 }
 
 export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }): Promise<Metadata> {
   const { slug } = await params;
-  const node = getWikiNodeBySlug(slug);
+  let node = getWikiNodeBySlug(slug);
+  
+  if (!node) {
+    node = getEssayBySlug(slug);
+  }
   
   if (!node) {
     return {
@@ -35,9 +44,19 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   };
 }
 
-export default async function Essay({ params }: { params: Promise<{ slug: string }> }) {
+export default async function WikiNode({ params }: { params: Promise<{ slug: string }> }) {
   const { slug } = await params;
-  const node = getWikiNodeBySlug(slug);
+  let node = getWikiNodeBySlug(slug);
+  let isEssayFallback = false;
+
+  if (!node) {
+    // Fallback to essays if not found in wiki nodes
+    const essay = getEssayBySlug(slug);
+    if (essay) {
+      node = essay;
+      isEssayFallback = true;
+    }
+  }
   
   if (!node) {
     return (
@@ -120,7 +139,7 @@ export default async function Essay({ params }: { params: Promise<{ slug: string
           <h4 className="text-xl font-black uppercase mb-6 border-b-2 border-ash pb-2 text-signal">Forensic Testimony</h4>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
             {node.references.map(ref => (
-              <Link key={ref} href={`/essays/${ref}`} className="brutalist-card p-4 border-signal/40 hover:border-signal text-sm uppercase font-bold">
+              <Link key={ref} href={`/wiki/essays/${ref}`} className="brutalist-card p-4 border-signal/40 hover:border-signal text-sm uppercase font-bold">
                 {ref.replace(/_/g, ' ')} &rarr;
               </Link>
             ))}
