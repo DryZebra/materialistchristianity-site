@@ -24,10 +24,11 @@ This ledger tracks the systematic reconstruction of the Materialist Christianity
 | 1 | **The Materialist Axiom** | Axiom | `002.json` | 🛡️ Sanitized | ✅ Ready | |
 | 2 | **The Gospel According to Labor** | Essay | `003.json` | 🛡️ Sanitized | ✅ Ready | |
 | 3 | **Sub-Object Materialism** | Axiom | `005.json` | 🛡️ Sanitized | ✅ Ready | |
-| 4 | **Fractal Theory of Personality** | Axiom | `Notebook P1` | 🛡️ Sanitized | ⏳ Draft | |
-| 5 | **The Redneck Dictatorship** | Essay | `Outline` | 🛡️ Sanitized | ⏳ Draft | |
-| 6 | **Antisimulation Proof** | Axiom | `Notebook P3` | 🛡️ Sanitized | ⏳ Draft | |
-| 7 | **The 4D Time Snake** | Axiom | `Outline` | 🛡️ Sanitized | ⏳ Draft | |
+| 4 | **Fractal Theory of Self** | Essay | `Vol II` | 🛡️ Sanitized | ✅ Integrated | |
+| 5 | **The Redneck Dictatorship** | Essay | `Vol II` | 🛡️ Sanitized | ✅ Integrated | |
+| 6 | **The LHC Model (Co-Construct)**| Framework | `Vol II` | 🛡️ Sanitized | ✅ Integrated | |
+| 7 | **The 4D Time Snake** | Essay | `Vol II` | 🛡️ Sanitized | ✅ Integrated | |
+| 8 | **Collapsing Timelines** | Forensic | `Vol II` | 🛡️ Sanitized | ✅ Integrated | |
 
 ## 🛠️ Reconstructive Notes
 - **Axioms**: Foundational definitions (Offline Wiki nodes).

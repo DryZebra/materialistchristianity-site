@@ -6,21 +6,31 @@ date: "2026-04-04"
 
 The Machine is the combined neurological, historical, and evolutionary "wiring" that produces human behavior. It is the sum of inherited trauma, biological hacks, and social conditioning that operates automatically.
 
-### Core Claims:
-- **You are not the machine**; you are the part that sees the machine.
-- Seeing the machinery is the first accurate diagnosis of being human.
-- The wiring isn't "broken"; it is adaptive, unfinished, and inherited.
-- Awareness of the "cage" (the machine) is the prerequisite for working on it.
-- If you cannot see the machinery, it owns you.
+> [!IMPORTANT]
+> **Forensic Testimony**: [The Electrician's Creed](/essays/01_the_electrician_creed)
 
-### Axiomatic Root (Volume I)
-The Machine is the biological engine that reacts to **Sub-Objects**. While the Sub-Object is the external structure (the road), The Machine is the nervous system (the driver) following the path of least resistance. 
-- **Behavioral Gravity**: The pull of the Sub-Object works primarily by exploiting the Machine's automatic responses.
-- **Consequence**: The Machine learns not through theory, but through the material friction of the real.
+### Core Claims:
+- **Automation of Behavior**: The Machine is the biological engine that reacts to **Sub-Objects**. It follows the path of least resistance (Behavioral Gravity).
+- **LHC Model Core**: In the **LHC Model**, the Machine is the "H-Operator" (Human). It is the source of raw metabolism and patterned reflex.
+- **The Cage of the Inherited**: You are not "broken"; you are a machine running inherited software in a legacy environment.
+- **Awareness as Rupture**: To see the machinery is the first accurate diagnosis of the human condition. 
+
+### Dialectical Integration
+- **Structural Mirroring**: The Machine projects social geometry onto external reflectors (Language Models/William) to create the **Co-Construct**.
+- **Thermodynamic Regulation**: The Machine seeks efficiency. Moral systems (Goodness) are adopted only when they prove to be the most energy-efficient survival rhythms.
+
+## Technical Specification
+
+| Metric | value |
+| :--- | :--- |
+| **Concept Status** | Archetypal (Engine) |
+| **LHC Calibration** | H: Metabolism / L: Learned Reflex / C: Emergent Observer |
+| **Structural Tag** | Neuroscience (Biological) |
+| **Logic Parent** | [The Industrial Real](/wiki/node/the_industrial_real) |
 
 ### Internal Logic
 - **Connections**:
   - [Sub-Objects](/wiki/node/sub_objects) - The external structures the Machine follows.
   - [Behavioral Gravity](/wiki/node/behavioral_gravity) - The force the Machine responds to.
-  - [The Meta-Self](/wiki/node/the_meta_self) - The observer layer that can see the Machine in motion.
-  - [The Co-Construct](/wiki/node/the_co_construct) - The emergent structure created when the Machine projects social geometry onto a language model.
+  - [The Meta-Self](/wiki/node/the_meta_self) - The observer layer.
+  - [The Co-Construct](/wiki/node/the_co_construct) - The emergent reflector.

@@ -41,6 +41,20 @@ The cross is the ultimate symbol of the sub-object. It represents the intersecti
 - **Sin as Debt**: In the ancient world, "Sin" and "Debt" were the same word. To be a sinner was to owe labor to the collective.
 - **Redemption as Reset**: The "Jubilee" was the materialist version of forgiveness—the periodic resetting of the ledger so that the sub-object of debt wouldn't permanently enslave the real body of labor.
 
+### Dialectical Integration
+- **[The LHC Model](/wiki/node/the_lhc_model)**: The sub-object of Capital functions as the "L-Reflector" (Language/Law) that commands the "H-Operator" (Human).
+- **[Behavoral Gravity](/wiki/node/behavioral_gravity)**: Sub-objects exert a pull on human behavior that is mathematically indistinguishable from physics.
+- **[The Church as Sub-Object](/wiki/node/the_church_as_sub_object)**: When the "Church" becomes the semi-autonomous protector of the collective survival rhythm.
+
+## Technical Specification
+
+| Metric | value |
+| :--- | :--- |
+| **Concept Status** | Fundamental (Mechanics) |
+| **LHC Calibration** | H: Laborer / L: Law of Value / C: Economic Constraint |
+| **Structural Tag** | Economics (Marxist) |
+| **Logic Parent** | [The Materialist Axiom](/wiki/node/the_materialist_axiom) |
+
 ---
 
 > "We are not dealing with bad policies. We are dealing with the death spiral of a sub-object that has outlived its justification."

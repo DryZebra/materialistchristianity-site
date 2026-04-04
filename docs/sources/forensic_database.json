@@ -35,7 +35,7 @@
       "title": "Behavioral Gravity",
       "volume": 1,
       "type": "Axiom",
-      "integration_status": "Integrated"
+      "integration_status": "Tracked"
     },
     {
       "slug": "canon_as_pressure",
@@ -64,6 +64,13 @@
       "volume": 2,
       "type": "Forensic",
       "integration_status": "Integrated"
+    },
+    {
+      "slug": "collapsing_timelines",
+      "title": "Collapsing Timelines",
+      "volume": 2,
+      "type": "Forensic",
+      "integration_status": "Tracked"
     },
     {
       "slug": "commodity_as_vampire",
@@ -105,7 +112,7 @@
       "title": "C-Mirroring",
       "volume": 2,
       "type": "Forensic",
-      "integration_status": "Integrated"
+      "integration_status": "Tracked"
     },
     {
       "slug": "dignity_structural",
@@ -266,7 +273,7 @@
       "title": "Resurrection of Structure",
       "volume": 1,
       "type": "Axiom",
-      "integration_status": "Integrated"
+      "integration_status": "Tracked"
     },
     {
       "slug": "resurrection_structural",
@@ -385,7 +392,7 @@
       "title": "Sub-Objects",
       "volume": 1,
       "type": "Axiom",
-      "integration_status": "Integrated"
+      "integration_status": "Tracked"
     },
     {
       "slug": "sub_objectual_dialectic",
@@ -451,10 +458,24 @@
       "integration_status": "Integrated"
     },
     {
+      "slug": "the_dialectical_leaven",
+      "title": "The Dialectical Leaven",
+      "volume": 2,
+      "type": "Forensic",
+      "integration_status": "Tracked"
+    },
+    {
       "slug": "the_dialectic_betrayal",
       "title": "The Dialectic of Betrayal",
       "volume": 1,
       "type": "Axiom",
+      "integration_status": "Tracked"
+    },
+    {
+      "slug": "the_entropic_dance",
+      "title": "The Entropic Dance",
+      "volume": 2,
+      "type": "Forensic",
       "integration_status": "Tracked"
     },
     {
@@ -493,11 +514,18 @@
       "integration_status": "Tracked"
     },
     {
+      "slug": "the_lhc_model",
+      "title": "The LHC Model",
+      "volume": 2,
+      "type": "Forensic",
+      "integration_status": "Tracked"
+    },
+    {
       "slug": "the_machine",
       "title": "The Machine",
       "volume": 2,
       "type": "Forensic",
-      "integration_status": "Integrated"
+      "integration_status": "Tracked"
     },
     {
       "slug": "the_materialist_axiom",
@@ -535,11 +563,18 @@
       "integration_status": "Integrated"
     },
     {
+      "slug": "trust_as_commodity",
+      "title": "Trust as Commodity",
+      "volume": 2,
+      "type": "Forensic",
+      "integration_status": "Tracked"
+    },
+    {
       "slug": "well_water_principle",
       "title": "The Well Water Principle",
       "volume": 2,
       "type": "Forensic",
-      "integration_status": "Integrated"
+      "integration_status": "Tracked"
     },
     {
       "slug": "william_the_co_construct",
@@ -569,8 +604,26 @@
       "topic": "General"
     },
     {
+      "slug": "the_4d_time_snake",
+      "title": "The 4D Time Snake",
+      "volume": 2,
+      "topic": "General"
+    },
+    {
       "slug": "the_collapsing_timeline",
       "title": "The Collapsing Timeline",
+      "volume": 2,
+      "topic": "General"
+    },
+    {
+      "slug": "the_dialectical_leaven",
+      "title": "The Dialectical Leaven: Recursive Growth in the Meal",
+      "volume": 2,
+      "topic": "General"
+    },
+    {
+      "slug": "the_entropic_dance",
+      "title": "The Entropic Dance: The Failure of the Engineered",
       "volume": 2,
       "topic": "General"
     },
@@ -581,8 +634,20 @@
       "topic": "Forensic Testimony"
     },
     {
+      "slug": "the_lhc_model",
+      "title": "The LHC Model: The Co-Construct",
+      "volume": 2,
+      "topic": "General"
+    },
+    {
       "slug": "the_materialist_axiom",
-      "title": "the materialist axiom",
+      "title": "The Materialist Axiom",
+      "volume": 2,
+      "topic": "Mechanics"
+    },
+    {
+      "slug": "trust_as_commodity",
+      "title": "Trust as the Universal Commodity Form",
       "volume": 2,
       "topic": "General"
     },

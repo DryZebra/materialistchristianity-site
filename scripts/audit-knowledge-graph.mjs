@@ -47,8 +47,9 @@ function audit() {
       const content = fs.readFileSync(filePath, 'utf8');
       const hasVol1Alignment = content.includes('## Forensic Alignment');
       const hasVol2Root = content.includes('### Axiomatic Root');
+      const hasDialecticalIntegration = content.includes('### Dialectical Integration');
       
-      if (!hasVol1Alignment && !hasVol2Root) {
+      if (!hasVol1Alignment && !hasVol2Root && !hasDialecticalIntegration) {
         console.error(`CRITICAL ERROR: Core node '${slug}' is missing an integration block.`);
         errors++;
       }
