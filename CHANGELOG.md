@@ -1,8 +1,15 @@
-# Changelog - Materialist Christianity Site
+# Changelog - Materialist Christianity
 
-All notable changes to this project will be documented in this file. This is a mandatory protocol to ensure persistence across AI agent sessions.
+## [2026-04-04] - Phase 9: Stabilization & Dynamic Discovery
 
-## [2026-04-04] - Phase 8: Industrial Funnel Realignment
+### Added
+- Dynamic Essay Engine: Replaced hardcoded routes with an automated directory scan for all 14+ essays.
+- Automated Wiki Indexing: The Knowledge Hub now automatically reflects all content added to the `content/` folder.
+
+### Fixed
+- Hero Section Layout: Balanced vertical spacing and switched to `min-h-screen` to prevent content cutoff on laptop viewports.
+- Routing Dead Ends: Resolved "Logical Discontinuity" errors by ensuring correct build-time mapping for every content node.
+- CSS Grid/Layout: Resolved overflow issues for village 1 through village 316 and col 1 (ID: 3a6b3033-2d09-4e15-b73c-54585ba26a84).
 
 ### Added
 - Dark Industrial Design System: Charcoal/Concrete palette with Signal Orange accents.

@@ -4,27 +4,29 @@ export default function LandingPage() {
   return (
     <main className="min-h-screen">
       {/* 1. THE STRIKE (Above the Fold) */}
-      <section className="h-screen flex flex-col justify-center items-center p-8 text-center bg-concrete border-b-8 border-ash relative overflow-hidden">
-        <div className="absolute top-0 left-0 w-full h-full opacity-5 pointer-events-none text-[20vw] font-black uppercase whitespace-nowrap overflow-hidden select-none">
+      <section className="min-h-screen flex flex-col justify-center items-center p-8 py-32 text-center bg-concrete border-b-8 border-ash relative overflow-hidden">
+        <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-full h-full opacity-5 pointer-events-none text-[20vw] font-black uppercase whitespace-nowrap overflow-hidden select-none flex items-center justify-center">
           STRUCTURE MATTER MOTION
         </div>
         
-        <header className="max-w-6xl z-10">
-          <h1 className="text-6xl md:text-[10rem] mb-6 leading-none">
+        <header className="max-w-6xl z-10 py-12">
+          <h1 className="text-6xl md:text-[10rem] mb-8 leading-none">
             Matter Precedes <br/> Hierarchy.
           </h1>
-          <p className="text-xl md:text-3xl uppercase font-mono tracking-widest mb-12 opacity-80">
+          <p className="text-xl md:text-3xl uppercase font-mono tracking-widest mb-16 opacity-80">
             A structural audit of faith, proving that morality is the mechanism for human survival.
           </p>
-          <a 
-            href="https://www.amazon.com/dp/B0FMN5PDZ4" 
-            className="cta-terminal"
-          >
-            Examine the Text &rarr;
-          </a>
+          <div className="flex justify-center">
+            <a 
+              href="https://www.amazon.com/dp/B0FMN5PDZ4" 
+              className="cta-terminal"
+            >
+              Examine the Text &rarr;
+            </a>
+          </div>
         </header>
 
-        <div className="absolute bottom-10 animate-bounce opacity-40">
+        <div className="absolute bottom-10 animate-bounce opacity-40 z-10">
           <span className="font-mono text-sm">SCROLL FOR STRUCTURAL PROOF &darr;</span>
         </div>
       </section>

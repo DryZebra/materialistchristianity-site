@@ -1,12 +1,21 @@
+import fs from 'fs';
+import path from 'path';
 import Link from 'next/link';
 
-const wikiEntries = [
-  { slug: '01_preface', title: 'Preface: The Forensic Discovery' },
-  { slug: '02_ch1_what_is_real', title: 'Chapter 1: What Is Real?' },
-  { slug: '03_ch2_motion_not_things', title: 'Chapter 2: Motion, Not Things' }
-];
-
 export default function WikiHome() {
+  const contentPath = path.join(process.cwd(), '..', 'content');
+  const files = fs.existsSync(contentPath) ? fs.readdirSync(contentPath) : [];
+  
+  const wikiEntries = files
+    .filter(file => file.endsWith('.md'))
+    .map(file => {
+      const slug = file.replace('.md', '');
+      const raw = fs.readFileSync(path.join(contentPath, file), 'utf8');
+      const title = raw.split('\n')[0].replace(/^#\s*\**|#\**\s*$/g, '').trim();
+      return { slug, title };
+    })
+    .sort((a, b) => a.slug.localeCompare(b.slug));
+
   return (
     <main className="p-8 md:p-24 bg-concrete min-h-screen text-ash">
       <header className="max-w-4xl mb-16 border-l-8 border-signal pl-8">

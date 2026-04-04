@@ -13,10 +13,15 @@ const aeoAnswers: Record<string, string> = {
 };
 
 export async function generateStaticParams() {
-  const seedEssays = ['01_preface', '02_ch1_what_is_real', '03_ch2_motion_not_things'];
-  return seedEssays.map((slug) => ({
-    slug,
-  }));
+  const contentPath = path.join(process.cwd(), '..', 'content');
+  if (!fs.existsSync(contentPath)) return [];
+  
+  const files = fs.readdirSync(contentPath);
+  return files
+    .filter(file => file.endsWith('.md'))
+    .map(file => ({
+      slug: file.replace('.md', ''),
+    }));
 }
 
 export default async function Essay({ params }: { params: { slug: string } }) {
