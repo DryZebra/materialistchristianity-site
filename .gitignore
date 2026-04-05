@@ -41,15 +41,19 @@ yarn-error.log*
 next-env.d.ts
 
 # Emergency Asset Protocol - Do NOT sync to GitHub
+/william-engine/archives/
 /William Backup Full.zip
-/raw_assets/
 /William Backup Full/
 /MANAGEMENT/
 *.zip
 *.7z
 *.rar
 
+# William Engine Protection
+# We keep the brain (nodes) and scripts, but ignore the massive archives.
+/william-engine/archives/
+/william-engine/scripts/tmp/
+
 # Maintenance Backups
 backups/
-scripts/tmp/
 

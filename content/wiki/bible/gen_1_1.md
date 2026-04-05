@@ -35,7 +35,7 @@ We trace the logical line from the **Additive Shaping** of the Beginning to its 
 
 In **Matthew 19:8**, Christ performs a direct structural audit of the Mosaic Law regarding divorce: *"Moses because of the hardness of your hearts suffered you to put away your wives: but **from the beginning it was not so.**"*
 
-Christ identifies the "Hardness of Heart" as a state of localized [Social Friction](/wiki/node/the_entropic_dance) that distorted the original **Bara** sequence. He does not replace the Law with an emotion; He absorbs it back into the **Beginning Protocol**. He proves the math of Genesis 1:1 by stripping away the entropic drift of the last 1500 years of Mosaic administration and re-anchoring the [Machine](/wiki/node/the_machine) in the zero-point shaping of the substrate.
+Christ identifies the "Hardness of Heart" as a state of localized [Social Friction](/wiki/node/the_entropic_dance) that distorted the original **Bara** sequence. He does not replace the Law with an emotion; He absorbs it back into the **Beginning Protocol**. He proves the math of Genesis 1:1 by stripping away the entropic drift of the last 1500 years of Mosaic administration and re-anchoring the [Structural Self](/wiki/node/the_structural_self) in the zero-point shaping of the substrate.
 
 ---
 

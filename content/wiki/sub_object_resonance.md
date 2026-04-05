@@ -1,41 +1,43 @@
 ---
-title: "Getting in Sync (Resonance)"
-type: "Lens"
-description: "Core Directive Episode 9 (American Heritage): When the whole community is on the same page and the project starts moving at full speed. Anchored in the facts of the Great Sync."
-category: "Mechanics"
-tags: ["mechanics", "resonance", "alignment", "common-sense", "american"]
-related: ["the_biblical_baseline", "the_materialist_axiom", "redneck_dictatorship"]
-database_trace:
-  thought_origin: "Stalin, 'The First Five-Year Plan' reports (1933)"
-  outcome_metric: "The successful coordination of millions of workers for the industrial mobilization."
-  verification: "The physical result of the mass mobilization in the defense and electrification of the country."
+title: "Sub-Object Resonance"
+concept: "Moral Labor Accumulation"
+mechanic: "The Trust Field"
+diagnostic: "Pure MC"
 ---
 
-# Getting in Sync: Working Together
+# Sub-Object Resonance: The Field of Moral Labor
 
-In Materialist Christianity, **Getting in Sync** is about the moment when the whole community finally starts moving together as one. We don't care about "Personal Opinions" when a job needs doing; we care about **Alignment**. We look at what happens whenทุก ๆ คน in the shop knows their job and knows their neighbor is doing theirs.
+Sub-object resonance is the persistent field of moral-narrative pressure that radiates from a structure, object, or symbol due to the accumulation of **Moral Labor**: the investment of belief, sacrifice, and trust into its meaning. Resonance measures how much gravitational pull an object carries within a social environment.
 
-### I. The Main Problem: Noise vs. The Hum
-Most people think that everyone having their "own" plan is the way to be independent. But a working man knows that if a crew doesn't work together, the house doesn't get built. When a community is full of disagreement and nobody knows what the goal is, there is too much "Noise."
+## The Generation of Resonance
 
-| The Result | The American Fact | What it Means for Us |
-| :--- | :--- | :--- |
-| **The Assembly Line** | Building a truck every 60 seconds. | Everyone being in sync to get the job done. |
-| **National Strength** | Putting a man on the moon. | The "Hum" of a country that knows what it's after. |
-| **Common Sense Order** | Everyone following the same blueprint. | We are seeing the results of the sync. |
+Resonance is not intrinsic to a symbol. It is produced when subjects recognize its prior motion and historical necessity. It is the social "weight" that makes a flag worth dying for—or burning.
 
-We look at the **Results**. There have been moments in our history, like in the middle of a big construction project or a local disaster, when folks just *know* what to do without being told. Every man is in sync with the [Plan](/wiki/node/the_biblical_baseline). This resulted in the biggest projects in human history being completed in record time. It’s what keeps the [Working Stiff](/wiki/node/the_materialist_axiom) from being slowed down by the [Nothing](/wiki/node/the_nothing).
+| Type | Root Source | Stability | Examples |
+| :--- | :--- | :--- | :--- |
+| **Emergent** | Lived, repeatable material experiences | Very High | Sunlight, suffering, parental love |
+| **Reinforced** | Institutional systems and repetition | High | Currency, national flags, state religion |
+| **Constructed** | Shared belief and symbolic agreement | Medium | Corporate logos, national slogans |
+| **Antagonistic** | Conflict and structural contradiction | Wildcard | The USSR, Christ, Palestine |
 
-### II. Where it Comes From: The Common Sense Hum
-We look at two simple ideas that every American worker understands:
+## Subject Independence vs. Dependence
 
-- **The Real Feeling**: The Bible calls this the "Spirit," but for a worker, it just means the **Hum of the Shop**. You can feel it when the factory is running at 100%. Everybody is moving at the same pace and the progress is real. 
-- **The Group Goal**: A lot of leaders want you to be "Individual" because they want to break your union and lower your pay. We focus on the **Sync**. If the folks in your town are all pulling at the same time in the same direction, then no banker or politician can break you.
+The source of the sub-object determines how easily its resonance can be hijacked (Gmorknicity) or overwritten:
 
-### III. The Goal: Moving Together to Win
-Our goal is to have every [Reliable Man](/wiki/node/the_church_as_structural_anchor) be an **Alignment Captain**. We don't hide what we're after: we want a world where the working people move with more precision than any army. We call this the **Great Sync**. A successful focus on Getting in Sync is measured by one thing: if your community is reaching its goals faster and stronger because you're all on the same page, then the plan is verified. The [Church](/wiki/node/the_church_as_structural_anchor) is where we keep the "Rhythm" for the next project.
+-   **Subject-Dependent Resonance**: Requires ongoing belief or narrative reinforcement to exist (e.g., corporate brands). These are highly susceptible to capture.
+-   **Subject-Independent Resonance**: Re-emerges under the same material pressures, whether remembered or not (e.g., class struggle, crucifixion, the labor of the hands). These are resistant to hijacking.
 
----
+## The Target of Capture
+
+High-resonance sub-objects are the primary targets of **Gmorknic Coups**. Political and economic structures specialize in extracting resonance (trust capital) from lived movements (BLM, Pride, etc.) and redirecting it to support counter-motions.
+
+## Diagnostic Standard
+
+In a Pure MC context, one judges a structure by its resonance field:
+
+-   Is the resonance emergent (real/grounded) or constructed (hollow/manufactured)?
+-   Is the resonance being held (protected by discipline/the Hammer) or extracted (captured by capital)?
+-   Can the resonance respond to new contradictions, or has it fossilized into ritual?
 
 > [!IMPORTANT]
-> **Sync Check**: If your church is full of folks who don't know each other or their neighbors’ needs, they aren't **In Sync**. They are **Lonely**. A valid religion will help you find the **Hum** of a community that actually works together to feed and protect its own. Seek the **Sync** today.
+> To name a resonance is to defend it. To understand its field of pressure is to fight back against its extraction. Resonance is the memory of motion, the burden of belief, and the reason why some symbols resurrect themselves in every generation.

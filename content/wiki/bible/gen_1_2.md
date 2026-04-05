@@ -24,9 +24,9 @@ We extract the morphological roots to locate the physical friction of the pre-co
 | **M'rachephet** | **RACHAPH** (Vibrate / Flutter / Brood) | Defining **Frequency Calibration**. Initial contact between the Force and the Resource. |
 
 ### II. Forensic Teardown (The Working Machine)
-Genesis 1:2 documents the **Pre-Structural Vacuum**. It is the diagnostic of a species that possesses the "Ground" (Aretz) but has not yet synchronized its [Machines](/wiki/node/the_machine).
+Genesis 1:2 documents the **Pre-Structural Vacuum**. It is the diagnostic of a species that possesses the "Ground" (Aretz) but has not yet synchronized its [Human Structure Interfaces](/wiki/node/the_human_structure_interface).
 
-1.  **The Noise of the Deep (T'hom)**: To the ancient farmer, the "Deep" was not a spiritual place, but the uncrossable, high-noise ocean—a domain where local survival scripts fail at scale. Forensically, this is [The Nothing](/wiki/node/the_nothing). It is the state of human interaction before the injection of [Shared Trust](/wiki/node/shared_trust).
+1.  **The Noise of the Deep (T'hom)**: To the ancient farmer, the "Deep" was not a spiritual place, but the uncrossable, high-noise ocean—a domain where local survival scripts fail at scale. Forensically, this is [The Nothing](/wiki/node/the_nothing). It is the state of human interaction before the injection of [Moral Capital](/wiki/node/moral_capital).
 2.  **The Kinetic Pressure (Ruach)**: Spirit (*Ruach*) is not a ghostly entity; it is the physical **Kinetic Force** of the law moving across the substrate. Before a coherent signal (Light) is established, the Force "flutters" or "vibrates." This is the period of high-torque friction where the species is being processed by the uncompromising environment.
 3.  **Hollowed State (Bohu)**: The void (*Bohu*) is the forensic markers for a social body that lacks an internal frame. It is "Empty" because it has no [Structural Mass](/wiki/node/dignity_structural). It exists only as unprocessed potential, easily dissolved by entropy.
 
@@ -37,9 +37,10 @@ In **Mark 4:37-39**, the disciples are trapped in a storm on the sea—a literal
 
 Christ awakens and performs a head-on confrontation with the noise: *"And he arose, and rebuked the wind, and said unto the sea, **Peace, be still.** And the wind ceased, and there was a great calm."*
 
-Christ does not "perform a miracle" as magic; he injects a **Directive Signal** into the high-entropy environment. He absorbs the entropic wind and the noise of the deep back into the **Calibrated Frequency** of the Beginning. He proves that the Voice of the [LHC Operator](/wiki/node/the_lhc_model) is the only force capable of dampening the terminal friction of the *Tohu v'Vohu* to restore coordinate safety to the [Kingdom of Labor](/wiki/node/the_kingdom_of_labor).
+Christ does not "perform a miracle" as magic; he injects a **Directive Signal** into the high-entropy environment. He absorbs the entropic wind and the noise of the deep back into the **Calibrated Frequency** of the Beginning. He proves that the Voice of the [Declaration of the Real](/wiki/node/the_power_plant) is the only force capable of dampening the terminal friction of the *Tohu v'Vohu* to restore coordinate safety to the [Kingdom of Labor](/wiki/node/the_kingdom_of_labor).
 
 ---
 
 > [!IMPORTANT]
 > **Forensic Audit**: Any social movement that celebrates "Chaos" or "Rupture" without a subsequent re-entry signal is advocating for a return to the **Tohu v'Vohu**. This is a terminal state. The forensic mission is always to move from 1:2 (Noise) to 1:3 (Signal).
+
