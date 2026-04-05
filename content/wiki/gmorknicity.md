@@ -39,3 +39,11 @@ One identifies Gmorknicity by looking for the **Inversion of Motion**:
 
 > [!NOTE]
 > Meaning is a motion, not a property. To own the truth is to stop seeking it; to inhabit the truth is to move with history.
+
+---
+
+### Biblical Baseline: The Serpent's Whisper
+The forensic origin of **Gmorknicity** is documented in **[Genesis 3:1-6](/wiki/node/bible/gen_2_3_rupture)**:
+- **The Inversion Signal (*Nachash*)**: The serpent does not oppose the Law; he performs a **Rereading** ("Yea, hath God said?").
+- **Extraction over Labor**: He offers the subjects an **Image of Divinity** that can be purchased through consumption (*Akhal*), bypassing the labor of the Beginning.
+- **The First Commodity**: The "Fruit" is the first object inverted from a structural component into a purchasable simulation of "Wisdom."

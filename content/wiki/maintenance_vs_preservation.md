@@ -37,3 +37,11 @@ In a Pure MC analysis, one looks at the "Cost":
 
 > [!IMPORTANT]
 > One cannot "preserve" life; one can only maintain the conditions for it. To seek preservation is to seek death. To seek maintenance is to seek the **Resurrection**.
+
+---
+
+### Biblical Baseline: Re-digging the Wells
+The definitive diagnostic for **Maintenance** is found in **[Genesis 26:18](/wiki/node/bible/gen_24_27_inheritance)**:
+- **The Wells of Abraham**: The original physical infrastructure of the [Kingdom of Labor](/wiki/node/the_kingdom_of_labor).
+- **The Dirt of the Philistines**: The entropic "Preservation" that chokes the life out of the original truth.
+- **The Isaac-Motion**: Isaac does not find "new" water; he performs the **Maintenance of the Real** by clearing the dirt to reach the original substrate.

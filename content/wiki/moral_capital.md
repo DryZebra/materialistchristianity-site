@@ -29,3 +29,11 @@ In a Pure Materialist Christianity context, we use the "Inventory of the Heart" 
 
 > [!CAUTION]
 > Once the Moral Capital of a group is depleted, they become "Dopamine-Poor." At this stage, they are vulnerable to the Vampire, who sells them a simulation of belonging in exchange for their final residues of Labor.
+
+---
+
+### Biblical Baseline: Succession and Inheritance
+The management and transfer of Moral Capital is documented forensically in the **[Genesis 24—27](/wiki/node/bible/gen_24_27_inheritance)** logical chunk.
+- **The Birthright (*Be'korah*)**: The material and legal priority that secures the succession of labor.
+- **The Blessing (*Berakah*)**: The high-resonance transfer of social and moral authority.
+- **The Asset Inversion**: Jacob's acquisition of the blessing proves that Moral Capital must eventually align with **Structural Necessity**, not merely biological "Small Luck."
