@@ -19,11 +19,9 @@ To understand this lens, you only have to walk onto a construction site or a fac
 
 A community is exactly the same. The [Rules of Survival](/wiki/node/the_biblical_baseline)—like being honest and sharing tools—aren't "Suggestions" for your spare time. They are the detected laws of social physics. If you follow them, the town grows strong. If you ignore them, the town falls apart. The "Real World" is the laboratory where we test our [Faith](/wiki/node/the_materialist_axiom) by the [Miles on the Odometer](/wiki/node/reality_as_motion).
 
-### II. Simple Math
-This lens relies on a simple biblical truth that every worker understands:
-
-- **By Their Fruits**: The Bible says, "By their fruits ye shall know them." For a worker, that is **Material Verification**. It means you measure a person or a church by what they actually **Do**, not by what they say on the banner.
-- **The Ground of the Beginning**: The [Beginning](/bible/gen/1) isn't a story; it’s the **Ground**. It’s the physical reality of soil, labor, and localized energy. Any system that ignores this ground and tries to live on "Digital Money" or "Liberal Myths" is doomed to hit the dirt.
+### II. The Scriptural Anchor
+- **Hebrews 11:1**: "Now faith is the substance of things hoped for, the evidence of things not seen."
+- **Unique Mapping**: Christianity uniquely identifies "Faith" not as a feeling, but as **Structural Weight**. The Greek term for "Substance" (Gk. *hypostasis*) refers to that which stands under—the **Foundation** or the **Internal Frame**. In industrial terms, the "Substance" is the **Blueprint** (the thing not seen) that gives the building its physical "Evidence" (the ability to hold a load). "The Real" is the material fact that remains when the story is gone.
 
 ### III. The Outcome: A World of Solid Results
 The value of this way of thinking is that it clears away the **Fake Talk**. It stops you from being fooled by [Vampires](/wiki/node/social_vampirism) who talk about "Spirituality" but don't produce anything real. The success of the Real-World lens is measured by **Stability**. If a neighborhood follows the [Baseline](/wiki/node/the_biblical_baseline) and ends up with [New Houses](/wiki/node/dignity_structural) and [Fed Children](/wiki/node/moral_communism), then the lens is verified. The [Church](/wiki/node/the_church_as_structural_anchor) is the "Foreman" who keeps everyone focused on the task at hand.

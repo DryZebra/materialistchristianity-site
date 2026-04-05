@@ -19,11 +19,9 @@ To understand this lens, you only have to look at the old mechanic in town that 
 
 A "Self" that only exists as a private "Feeling" or a post on social media has no mass; it doesn't help anyone survive. But a person who carries a real load—a family, a job, a neighbor's [Shared Trust](/wiki/node/shared_trust)—develops a dignity that can't be taken away by any [Vampire](/wiki/node/social_vampirism).
 
-### II. The Weight of Glory
-This lens relies on a simple biblical truth that any American worker understands:
-
-- **The Real Heaviness**: The word "Glory" in the Bible comes from an old word meaning "Heaviness" or "Weight." For a worker, that means that **Value is a Matter of Physics**. A "Weighty" person is one who is dense with the [Grit](/wiki/node/rituals_of_consequence) of survival. They are the [Stationary Anchors](/wiki/node/the_church_as_structural_anchor) of the town.
-- **The Long-Term Load**: The Bible speaks of an "Eternal Weight of Glory" that comes from the "Momentary Affliction." For a worker, that means the **Hard Jobs build the Best Men**. The pressure of the [Industrial Real](/wiki/node/the_industrial_real) is what "Manufactures" the dignity that lasts. It isn't an "Accident"; it’s a physical product of labor.
+### II. The Scriptural Anchor
+- **Isaiah 58:12**: "And they that shall be of thee shall build the old waste places: thou shalt raise up the foundations of many generations; and thou shalt be called, The repairer of the breach, The restorer of paths to dwell in."
+- **Unique Mapping**: Christianity uniquely identifies "Dignity" (Glory/Honor) not as a title, but as the **Service Level** of the producer. In industrial terms, the highest status in the [Kingdom of Labor](/wiki/node/the_kingdom_of_labor) is reserved for the **Reliability Engineer** (The Repairer of the Breach). Dignity is the physical result of **Restoring Operation** to a broken social frame. Higher "Weight" (*kavod*) is granted to those who rebuild the foundations.
 
 ### III. The Outcome: A World of Heavy Men
 The value of this way of thinking is that it provides a **Clear Path** for every person to find their own worth. It shows that you don’t need "Permission" to have dignity; you just need a [Station](/wiki/node/the_biblical_baseline) and the [Grit](/wiki/node/rituals_of_consequence) to hold it. The success of the Earning-Your-Place lens is measured by the stability of the town. If a community is full of people who have earned their weight and can't be "Bought" or "Moved" by the [Nothing](/wiki/node/the_nothing), then the lens is verified. The [Church](/wiki/node/the_church_as_structural_anchor) is the place where we honor the "Weighty" and train the "Light."

@@ -26,11 +26,9 @@ A lot of people think that sitting in a pew on Sunday morning is all they have t
 
 We look at the **Results**. There was a time in our history when we decided as a country to have "Conscious Discipline"—not being told what to do by a boss with a stick, but knowing *why* we were working together to build the best nation on earth. This is how we went from being a frontier to being the biggest industrial power the world has ever seen in record time. That's a **Ritual of Consequence**. It results in a world where the American producer actually knows how to run the show.
 
-### II. Where it Comes From: The Work of the People
-We look at a few simple starting points:
-
-- **The Real Service**: The Bible calls services "Liturgy," but for a working man, it just means the **Public Work**. The most important service isn't a song; it's the work we do to build the town and protect our neighbors. 
-- **The Proper Conduct**: "Let all things be done decently and in order." That's not about being fancy. That's about having the right **Alignment** in the shop. It's about knowing your place in the crew so the job gets done right and safely.
+### II. The Scriptural Anchor
+- **1 Corinthians 14:40**: "Let all things be done decently and in order."
+- **Unique Mapping**: Christianity uniquely identifies "Ritual" (Liturgy) not as a magical display, but as **Technical Decorum** (Gk. *euschémonós* - proper form). In industrial terms, these are the **Standard Operating Procedures (SOPs)** of the community. Doing things in "Order" is the only way to ensure the **Flow of Power** (the Spirit) reaches the intended outcome without causing a structural blow-out or a safety hazard.
 
 ### III. The Goal: Getting the Best Performance
 Our goal is to have a community where everyone pulls their weight. We disdain to hide what we're after: we want to train every man to be a leader (a [Vanguard](/wiki/node/the_church_as_structural_anchor)) so that we don't need "Big Bosses" to tell us how to live. A "True Ritual" is just **Training**. It's the constant practice of keeping the community in sync and keeping the [Vampires](/wiki/node/social_vampirism) out of our business. The [Church](/wiki/node/the_church_as_structural_anchor) is where we keep the tools and the plan for the next job.

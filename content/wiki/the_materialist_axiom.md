@@ -26,11 +26,9 @@ A lot of people want to talk about "Rights" or "Spirituality" while the neighbor
 
 We look at the **Results** first. If a way of living makes the working man stronger and keeps the family safe, we call that the **Truth**. If it lets the bankers and the bosses siphon off all the hard work while the town goes bust, we call it a lie.
 
-### II. Where it Comes From: The Common Sense of the Working Man
-We look at two simple ideas that every American worker understands:
-
-- **Knowing a Tree by its Fruit**: You know a good leader by what actually happens to the people under him. If the "Fruit" is a better life for the folks who do the work—new schools, safe streets, and good jobs—then that leader is doing God's work.
-- **Looking at the Facts**: This is just common sense. It's about seeing the world the way it actually is, not the way the media wants you to see it. It's about drawing a line between the people who build things and the people who just take a cut.
+### II. The Scriptural Anchor
+- **Matthew 7:16, 20**: "Ye shall know them by their fruits. Do men gather grapes of thorns, or figs of thistles? ... Wherefore by their fruits ye shall know them."
+- **Unique Mapping**: Christianity uniquely identifies "Truth" not as a set of magical incantations, but as a **Biological and Industrial Output**. In a world of "Spirituality," Jesus maps the divine directly to the **Orchard**. If the tree doesn't produce, it is hewn down and cast into the fire. This is the **Materialist Law of Utility**: Reality is that which survives the audit of the harvest. 
 
 ### III. The Goal: Honest Talk for the Producer
 Our goal is simple: we want the people who do the work—the **Hands** that build this country—to be the only ones who run it. No more middle-men taking a cut of what we produce. The [Church](/wiki/node/the_church_as_structural_anchor) is the place where the most reliable men among us help keep the plan on track and look out for the rest of us.

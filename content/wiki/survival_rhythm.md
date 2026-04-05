@@ -26,11 +26,9 @@ A lot of time, a new leader will come in and demand that everyone work twice as 
 
 We look at the **Results**. There have been moments in our history when our country had to move at an "Impossible Pace" to build the things we needed for survival. But that push was followed by a time of settling in and building the home base. The **Rhythm** of the work was what made it last. This resulted in the biggest industrial base in history. It’s what keeps the [Working Stiff](/wiki/node/the_materialist_axiom) from being burnt out by the [Vampires](/wiki/node/social_vampirism).
 
-### II. Where it Comes From: The Seasonal Body
-We look at two simple ideas that every American worker understands:
-
-- **A Time for Everything**: The Bible says there is a "Time to plant and a time to pluck up." For a worker, that means **Knowing the Cycle**. You don't build the roof before the foundation is dry. You have to follow the **Survival Rhythm** of a project. 
-- **The Group Pace**: A lot of leaders want you to "Hurry Up" so they can make a quick buck and leave. We focus on the **Long-Term**. If the folks in your town are all moving together at a pace that allows for family, rest, and high-quality work, then no [Vampire](/wiki/node/social_vampirism) can exhaust you into giving up.
+### II. The Scriptural Anchor
+- **Genesis 8:22**: "While the earth remaineth, seedtime and harvest, and cold and heat, and summer and winter, and day and night shall not cease."
+- **Unique Mapping**: Christianity uniquely identifies "Rhythm" as a **Physical Guarantee of Continuity**. In industrial terms, these seasons are the **Recursive Production Cycles** that prevent system burnout. Survival is not a one-time event, but a **Social Clock Speed** that must be synced with the biological and planetary substrate. The "Time to Plant" is the **Investment Phase**, and the "Time to Harvest" is the **Extraction/Utility Phase**.
 
 ### III. The Goal: Building a Community that Never Stops
 Our goal is to be the most reliable and steady crew in history. We don't hide what we're after: we want a world where the working people set the **Pace of Reality**. We call this the **Unity of the Rhythm**. A successful focus on Staying in the Rhythm is measured by one thing: if your community is getting stronger and more productive every year without losing its primary strength (the [Reliable Men](/wiki/node/the_church_as_structural_anchor)), then the plan is verified. The [Church](/wiki/node/the_church_as_structural_anchor) is the place where we keep the "Watch" to manage the tempo.

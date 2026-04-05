@@ -26,11 +26,9 @@ A lot of times, the big bosses and the politicians want you to forget your histo
 
 We look at the **Results**. There have been moments in our history, like in a small town that was built first as a trading post, then a mill town, then a manufacturing hub, when everyone knew that their current success was a **Layer** on top of the past. This is what we call **The Bible as Sediment**. It just means that the [Great Record](/wiki/node/the_biblical_baseline) is the deepest layer of our success. This resulted in the most resilient communities in history. It’s what keeps the [Working Stiff](/wiki/node/the_materialist_axiom) from being hollowed out by the [Vampires](/wiki/node/social_vampirism).
 
-### II. Where it Comes From: The Practical Foundation
-We look at two simple ideas that every American worker understands:
-
-- **The Real Ground**: The Bible calls Christ the "Rock." For a worker, that means that the **Truth is a Solid Layer**. If you build your community on the layer of the working man’s success, you won't fall down when the economic winds blow. 
-- **The Group Experience**: A lot of leaders want you to feel "New" and "Modern" so they can sell you things and change your traditional ways. We focus on the **Layers**. If the folks in your town are all standing on thousands of years of survival logic, then no [Vampire](/wiki/node/social_vampirism) can move you.
+### II. The Scriptural Anchor
+- **Matthew 7:24**: "Therefore whosoever heareth these sayings of mine, and doeth them, I will liken him unto a wise man, which built his house upon a rock."
+- **Unique Mapping**: Christianity uniquely identifies the "Bible" not as a magical text, but as the **Geological Foundation of Social Habit**. In industrial terms, the scripture is **Sedimentary Knowledge**—the compressed history of iterative technical and social success. Building on the "Rock" is building on the **Verified Physical Habits** of the species, ensuring the structure does not wash away when the [Nothing](/wiki/node/the_nothing) floods the town.
 
 ### III. The Goal: Being the Guardians of the Foundation
 Our goal is to have every [Reliable Man](/wiki/node/the_church_as_structural_anchor) be a **Master of Historical Layers**. We don't hide what we're after: we want a world where the working people protect the foundation of their own success. We call this the **Unity of the Layers**. A successful focus on The Ground We Stand On is measured by one thing: if your community is stronger and more resilient because you respect the work of the people who came before you, then the plan is verified. The [Church](/wiki/node/the_church_as_structural_anchor) is the record hall where the foundation is kept safe.

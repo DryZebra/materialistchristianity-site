@@ -19,11 +19,9 @@ To understand this lens, you only have to look at a bridge. A bridge doesn't sta
 
 Your community is the same. [Forgiveness](/wiki/node/forgiveness_as_infrastructure) isn't an "Emotion"; it is the work of clearing a "Social Jam" so your team can get back to building. [Honesty](/wiki/node/shared_trust) isn't a "Value"; it is the maintenance of the signal that keeps the [Machine](/wiki/node/the_machine) running. If you don't do the "Work" of looking out for your neighbors, the bridge of your town will collapse into [The Nothing](/wiki/node/the_nothing).
 
-### II. The Requirement of Works
-This lens relies on a simple biblical truth that every worker understands:
-
-- **The Real Doing**: The Bible says that "Faith without works is dead." For a worker, that is **Structural Animation**. If a belief doesn't produce [Real Labor](/wiki/node/moral_labor) and physical results, it doesn't exist. It’s just "Air."
-- **The Easy Yoke**: Jesus spoke of an "Easy Yoke." For a worker, that means **High-Efficiency Coordination**. True moral labor isn't about "Trying harder" to be a "Good Person"; it’s about doing the specific, high-torque tasks that make life easier for everyone. It’s about being a [Load-Bearing Man](/wiki/node/dignity_structural).
+### II. The Scriptural Anchor
+- **James 2:20**: "But wilt thou know, O vain man, that faith without works is dead?"
+- **Unique Mapping**: Christianity uniquely identifies "Morality" (Faith) not as an abstract belief, but as **Active Structural Animation**. In industrial terms, a "Dead" faith is a **Seized Machine**. "Works" are the **Iterative Labor Cycles** (Moral Labor) that keep the community from rusting out or locking up. Morality is the physical act of **Continuous Preventative Maintenance**.
 
 ### III. The Outcome: A World that Holds Together
 The value of this way of thinking is that it provides **Clarity**. It shows that every time you tell the truth or help a neighbor, you are "Piling On" more [Fattening Mass](/wiki/node/gen_1_1) onto the town’s foundation. The success of the Work-of-Being-a-Neighbor lens is measured by **Durability**. If a town can survive a factory closing or a disaster because everyone knows their "Job" is to protect each other, then the lens is verified. The [Church](/wiki/node/the_church_as_structural_anchor) is the "Work Shop" where we train the men to do the hard moral labor and keep the world strong.

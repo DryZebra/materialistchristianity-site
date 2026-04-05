@@ -19,11 +19,9 @@ To understand this lens, you only have to look at the payday loan shop on the co
 
 That is **Extraction**. A vampire doesn't care about the health of the town; they only care about how much "Blood" (metabolic energy) they can pull out before the town dies. This includes big developers who buy up old neighborhoods for "Luxury Condos" and banks that charge high interest while the local schools fall apart.
 
-### II. The Lion's Teeth
-This lens relies on a simple biblical truth that every worker understands:
-
-- **The Devourers**: The Bible speaks of people "whose teeth are spears and arrows." For a worker, that is **Active Predation**. It’s the way the [Market](/wiki/node/the_commodity_form) is designed to bite you the moment you are down.
-- **Mutual Devouring**: The Bible warns folks: "If ye bite and devour one another, take heed that ye be not consumed." For a worker, that is **Auto-Cannibalism**. It happens when the Vampires have sucked the town so dry that the neighbors start turning on each other just to survive.
+### II. The Scriptural Anchor
+- **John 10:10**: "The thief cometh not, but for to steal, and to kill, and to destroy: I am come that they might have life, and that they might have it more abundantly."
+- **Unique Mapping**: Christianity uniquely identifies the "Thief" (The Vampire) as an **Economic Parasite**. In industrial terms, the Vampire is any entity that extracts **Industrial Energy** (Life/Labor) from the social loop without providing a reciprocal **Repair/Supply**. The "Abundant Life" is the state of a **High-Torque Social Metabolism** where the town's life-blood stays with the producers. To be "Consumed" is to be completely liquidated by the extraction process.
 
 ### III. The Outcome: A World with a Fence
 The value of this way of thinking is that it helps you **Identify the Enemy**. It stops you from thinking that "Everyone is just doing business." The success of the Money-Vampires lens is measured by **Protection**. If a town can build a "Fence" around its [Shared Trust](/wiki/node/shared_trust) and its [Money](/wiki/node/moral_communism)—by keeping its business local and its neighbors supported—then the lens is verified. The [Church](/wiki/node/the_church_as_structural_anchor) is the "Watchman" who points out the vampires before they can sink their teeth in.

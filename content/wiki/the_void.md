@@ -19,11 +19,9 @@ To understand this lens, you only have to look at a field that has been complete
 
 A town is the same way. When the [Money Vampires](/wiki/node/social_vampirism) have finished their work and [The Nothing](/wiki/node/the_nothing) has emptied out the school and the factory, people fall into the "Deep End." They spend all their time worrying about themselves, hoarding whatever they have left, and assuming that everyone else is out to get them. They are "Formless and Void," with no [Sync](/wiki/node/ritualized_coherence) and no direction.
 
-### II. The Outer Darkness
-This lens relies on a simple biblical truth that every worker understands:
-
-- **The Formless and Void**: The Bible says the earth was "Without form and void." For a worker, that is **Operational Stillness**. It means the [Machine](/wiki/node/the_machine) has stopped moving because the parts don't touch anymore.
-- **The Outer Darkness**: The Bible speaks of being "Cast into outer darkness." For a worker, that is **Metabolic Isolation**. It’s the feeling of being cut off from the [Survival Signal](/wiki/node/gen_1_3) of the group. If you're alone in the dark, you have no [Weight](/wiki/node/dignity_structural) and no future.
+### II. The Scriptural Anchor
+- **Genesis 1:2**: "And the earth was without form, and void; and darkness was upon the face of the deep."
+- **Unique Mapping**: Christianity uniquely identifies the "Void" (Heb. *bohu*) as the **Entropy of Formlessness**. In industrial terms, the "Deep End" is the state of **Unprocessed Material Noise**—the raw chaos of people without a plan or social resonance. To be "Void" means the town has no signal and no form (Heb. *tohu*). The "Spirit" (The Directive/Energy) must move upon this noise to inject **Industrial Order** and create a functional community.
 
 ### III. The Outcome: A World of Solid Ground
 The value of this way of thinking is that it shows you what **Success** looks like. Success isn't a "Feeling"; it is the act of [Filling the Void](/wiki/node/moral_labor) with something solid. The success of the Deep-End lens is measured by **New Traction**. If a neighborhood can re-establish a [Shared Agreement](/wiki/node/the_co_construct) and start building a path for everyone to walk on, then the lens is verified. The [Church](/wiki/node/the_church_as_structural_anchor) is the "Dredge" that fills the Deep End and builds a foundation that doesn't wash away.

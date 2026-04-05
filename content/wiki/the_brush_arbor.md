@@ -26,11 +26,9 @@ Most people think that they can only talk about the mission in a big, expensive 
 
 We look at the **Results**. There have been moments in our history, like in the middle of a big strike or when the local leaders were being bought off, when the only way to save the community was to meet in a **Brush Arbor**. These simple shelters were the "Command Centers" for folks who were tired of being cheated. This resulted in the biggest union wins in American history. It’s what keeps the [Working Stiff](/wiki/node/the_materialist_axiom) from being sold out by the [Vampires](/wiki/node/social_vampirism).
 
-### II. Where it Comes From: The Underground Body
-We look at two simple ideas that every American worker understands:
-
-- **The Real Hiding Place**: The Bible says that God is a "Refuge." For a worker, that means that the **Truth can be Hidden**. If you have a few [Reliable Men](/wiki/node/the_church_as_structural_anchor) who can meet in a basement or a back-lot to keep the blueprint safe, then the mission hasn't stopped. 
-- **The Group Silence**: A lot of leaders want you to speak "loud and proud" so they can identify and fire the "troublemakers." We focus on the **Silence**. If the folks in your town know how to communicate without the bosses knowing, then no [Vampire](/wiki/node/social_vampirism) can find the "Source" of your strength.
+### II. The Scriptural Anchor
+- **Exodus 33:7**: "And Moses took the tabernacle, and pitched it without the camp, afar off from the camp, and called it the Tabernacle of the congregation. And it came to pass, that every one which sought the LORD went out unto the tabernacle of the congregation, which was without the camp."
+- **Unique Mapping**: Christianity uniquely identifies the "Brush Arbor" (Tabernacle) as a **Mobile Operational Outpost**. In industrial terms, it is a **Temporary Job-Site Rig**. The "Tabernacle without the Camp" is the [Church](/wiki/node/the_church_as_structural_anchor) stripped of its permanent building, proving that the [Logic of Survival](/wiki/node/the_biblical_baseline) is [Substrate Independent](/wiki/node/substrate_independence) and can be deployed "off-grid" in any material field to maintain the mission's [Motion](/wiki/node/reality_as_motion).
 
 ### III. The Goal: Building a Community that Can't be Found
 Our goal is to have every member of our community be a **Master of Privacy**. We don't hide what we're after, but we hide our **Plans for Tomorrow**. We call this the **Tactical Arbor**. A successful focus on Meeting Anywhere is measured by one thing: if your community can keep the plan moving and the neighbors safe even when the big bosses are looking for you, then the plan is verified. The [Church](/wiki/node/the_church_as_structural_anchor) is the "Refuge" wherever the people gather.

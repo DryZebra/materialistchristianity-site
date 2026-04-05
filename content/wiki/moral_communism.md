@@ -19,11 +19,9 @@ To understand this lens, you only have to look at what happens when a farmer's b
 
 Or consider a local "Tool Library" where everyone in the neighborhood shares their specialized equipment—like a heavy-duty drill or a chainsaw—instead of everyone spending $500 on a tool they only use once a year. This makes the whole town wealthier and more [Reliable](/wiki/node/the_materialist_axiom).
 
-### II. The No-Lack Policy
-This lens relies on a simple biblical truth that every worker understands:
-
-- **The Real Koinonia**: The Bible says that the early Christians had "All things in common" and they sold what they didn't need to help those who did. For a worker, that is **Structural Optimization**. It means they conversion [Private Assets](/wiki/node/commodity_as_vampire) into [Collective Potential](/wiki/node/moral_capital) so the whole group can survive.
-- **The Gathering Audit**: The apostle Paul said that "He that had gathered much had nothing over; and he that had gathered little had no lack." For a worker, that is **Metabolic Balancing**. It means we make sure the [Machine](/wiki/node/the_machine) has no "Weak Points." If your neighbor is starving, the whole town is weaker. You fix the weak points to protect the [Kingdom of Labor](/wiki/node/the_kingdom_of_labor).
+### II. The Scriptural Anchor
+- **Acts 4:32**: "And the multitude of them that believed were of one heart and of one soul: neither said any of them that ought of the things which he possessed was his own; but they had all things common."
+- **Unique Mapping**: Christianity uniquely identifies "Communism" (Common Possession) not as a political theory, but as **Operational Unity**. In industrial terms, the crew has **All Things Common** (Gk. *koina*) because they are working on a **Single Large-Scale Project**. Hoarding your own tools or supplies is seen as **Structural Sabotage**. The "One Heart" is the **Synchronized Timing** of the life-sustaining social engine.
 
 ### III. The Outcome: A World of Security
 The value of this way of thinking is that it provides **Security**. It removes the fear of "Losing everything" because you know your community is your [Backup Power](/wiki/node/moral_capital). The success of the Common-Pantry lens is measured by **Distribution**. If a town can keep every family housed and fed even when the [Vampires](/wiki/node/capital_as_vampire) are calling, then the lens is verified. The [Church](/wiki/node/the_church_as_structural_anchor) is the "Pantry Station" where we manage the common inventory and keep each other alive.

@@ -26,11 +26,9 @@ Most people live in towns where the water rights or the land rights have been so
 
 We look at the **Results**. There have been moments in our history, like in the early cooperatives where farmers shared a common silo or a group of neighbors managed their own local timber, when the people finally understood the **Well-Water Principle**. They didn't have a "Leasing Agreement" with a banker; they had an **Ownership Covenant** with each other. This resulted in the most self-sufficient and honestly wealthy towns in the world. It’s what keeps the [Working Stiff](/wiki/node/the_materialist_axiom) from being at the mercy of the [Vampires](/wiki/node/social_vampirism).
 
-### II. Where it Comes From: The Practical Foundation
-We look at two simple ideas that every American worker understands:
-
-- **The Real Water**: The Bible describes "Living Water" that is free for the taking. For a worker, that means that **Survival is a Basic Right**. If you live here and you work here, you have a right to the resources that make your life possible. The "Well" is the [Physical Source](/wiki/node/the_biblical_baseline) of the mission. 
-- **The Group Focus**: A lot of leaders want you to "Pay for Everything" so they can make a profit on your basic survival. We focus on the **Source**. If the folks in your town treat their local resources as a **Common Trust**, then no [Vampire](/wiki/node/social_vampirism) can find a way to starve you out.
+### II. The Scriptural Anchor
+- **John 4:14**: "But whosoever drinketh of the water that I shall give him shall never thirst; but the water that I shall give him shall be in him a well of water springing up into everlasting life."
+- **Unique Mapping**: Christianity uniquely identifies "Energy" (The Water) not as an external pipe or grid connection, but as an **Internal Recursive Loop**. In industrial terms, the "Well" is a **Decentralized Power Source**. A community that possesses its own internal "Spring" of logic and resource is **Structurally Independent** from the [Vampire Grids](/wiki/node/social_vampirism).
 
 ### III. The Goal: Being the Sovereigns of the Ground
 Our goal is to reach a level of **Total Resource Control**. We don't hide what we're after: we want a world where the working people manage the world they live in. We call this the **Unity of the Ground**. A successful focus on The Common Source is measured by one thing: if your community has its own water, its own energy, and its own land, and no outsider can take it from you, then the plan is verified. The [Church](/wiki/node/the_church_as_structural_anchor) is the union hall where the "Deeds" of the people are kept safe.

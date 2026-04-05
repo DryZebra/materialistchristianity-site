@@ -26,11 +26,9 @@ A lot of times, the world is run by people who don't produce anything. There are
 
 We look at the **Results**. When the "Kingdom" works, you see it in the safe streets and the schools. You see it in the fact that one man can work a job and provide for his entire family. This is how our country was built—by a group of reliable men who looked out for everyone else. We call these folks the [Vanguard](/wiki/node/the_church_as_structural_anchor). It's not about one man being a King; it's about the entire community of hard-working people being the Master of their own home.
 
-### II. Where it Comes From: The Foundation of the Hands
-We look at a few simple starting points:
-
-- **The Real Saying**: The Bible says we should be a "Kingdom of Priests." For a worker, that means we should all be **Sovereign Leaders**. Everyone who does the work should be responsible for keeping the community safe and fair.
-- **The Grounding**: The Bible calls the Kingdom a "Foundation." In the real world, that foundation is the work we do every day. If we put the Kingdom first, it means we are putting the **Success of the Shop** first. Everything else (profit, fancy talk, individual greed) comes second to the survival of the folks who build the country.
+### II. The Scriptural Anchor
+- **Matthew 11:12**: "And from the days of John the Baptist until now the kingdom of heaven suffereth violence, and the violent take it by force."
+- **Unique Mapping**: Christianity uniquely identifies the "Kingdom" not as a gift from above, but as a **Seized Operational Reality**. In industrial terms, the Kingdom of Labor is the **Occupied Factory Floor**. It is "Taken by Force" (Gk. *biazetai*) through the non-negotiable application of [Labor](/wiki/node/moral_labor) and the refusal to let outside [Vampires](/wiki/node/social_vampirism) extract the surplus. It is the territory where the producer is sovereign.
 
 ### III. The Goal: A Country Built for the Builders
 Our goal is to seize the final say. We don't hide what we're after: we want a world where the only people allowed to rule are the ones who feed, build, and defend everyone else. In the Bible, it's called the [Kingdom](/wiki/node/the_kingdom_of_labor). In our towns, it's the [Redneck Dictatorship](/wiki/node/redneck_dictatorship)—which just means the **Worker Runs the Show**. The [Church](/wiki/node/the_church_as_structural_anchor) is the union hall where the most reliable men among us help keep the plan focused on the **Results**.

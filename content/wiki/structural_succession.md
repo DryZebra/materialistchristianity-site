@@ -19,11 +19,9 @@ To understand this lens, you only have to look at an old master carpenter who is
 
 A town is the same. You don't "Inherit" a town just by living in the houses. You have to inherit the **Work**. You have to learn the [Sync](/wiki/node/ritualized_coherence) and the [Mutual Aid](/wiki/node/moral_communism) that kept the town alive for eighty years. If the next generation only cares about "Their Own Dreams" and doesn't know how to fix the [Anchor](/wiki/node/the_church_as_structural_anchor), the line stops and the town dies.
 
-### II. The Environmental Code
-This lens relies on a simple biblical truth that every worker understands:
-
-- **Teach the Children**: The Bible says to teach the rules to your children "When thou sittest in thine house, and when thou walkest by the way." For a worker, that is **Environmental Coding**. It means you don't learn how to be a person in a classroom; you learn it by watching your father [Help a Neighbor](/wiki/node/shared_trust) or your mother [Keep the Budget](/wiki/node/moral_capital).
-- **The Failure of the Sons**: The Bible tells the story of Eli’s sons, who had the formal titles but were "Sons of Belial" because they didn't know the work. They were [Money Vampires](/wiki/node/social_vampirism) using the old name. For a worker, that is a **Terminal Failure**. It’s what happens when you inherit the "Store" but you don't know how to run the inventory.
+### II. The Scriptural Anchor
+- **2 Timothy 2:2**: "And the things that thou hast heard of me among many witnesses, the same commit thou to faithful men, who shall be able to teach others also."
+- **Unique Mapping**: Christianity uniquely identifies "Succession" as a **Handover Protocol**. In industrial terms, these are the **Knowledge Transfer** and **Tool Transition** procedures between shifts and generations. The "Faithful Men" are the **Qualified Relievers** who ensure that the [Great Record](/wiki/node/scripture_behavioral_history) remains operational. Succession is the maintenance of the [Social Object's](/wiki/node/the_church_as_structural_anchor) kinetic operational fidelity over time.
 
 ### III. The Outcome: A World that Doesn't Forget
 The value of this way of thinking is that it reveals why **Tradition** is a "Tool" and not just a decoration. It stops you from letting the [Nothing](/wiki/node/the_nothing) eat your history. The success of the Passing-the-Torch lens is measured by **Operational Fidelity**. If the third generation can still run the [Mutual Support](/wiki/node/local_vs_public_trust) and keep the [Anchor](/wiki/node/the_church_as_structural_anchor) solid, then the lens is verified. The [Church](/wiki/node/the_church_as_structural_anchor) is the "Resource Yard" where the torch is guarded and handed off.

@@ -17,11 +17,9 @@ In Materialist Christianity, truth is not a story you believe or a speech you he
 ### I. The Truck Rule
 To understand this lens, you only have to look at buying a used truck. The salesman can tell you a thousand "Truths" about how the truck is the best in the world. But the real truth is under the hood. If the engine knocks and the transmission slips when you're hauling a load, the salesman's words are worthless. The **Broken Truck** is the receipt. In this lens, we don't listen to the "Aims" of a leader; we look at the [Fruits](/wiki/node/consequence_as_truth) of their work.
 
-### II. The Grip on the Heel
-This lens relies on a simple biblical truth that every worker understands:
-
-- **The Real End**: The word "Consequence" is related to an old word for a "Heel." For a worker, that means that **Truth follows at the heel of action**. You don't know the truth of a plan until you reach the end of the job. If the aftermath is a mess, the plan was a [Phantom](/wiki/node/commodity_as_vampire).
-- **The Real Fruit**: Jesus said, "Ye shall know them by their fruits." For a worker, that is the **Standard of Verification**. You identify a tree by the fruit it actually produces, not the sign hanging on the branch. Does a community produce high-performance people who can take care of their own? If not, the "Tree" is rotten.
+### II. The Scriptural Anchor
+- **Galatians 6:7**: "Be not deceived; God is not mocked: for whatsoever a man soweth, that shall he also reap."
+- **Unique Mapping**: Christianity uniquely identifies "Truth" not as an abstract thought, but as a **Causal Feedback Loop**. In industrial terms, the "Sowing and Reaping" is the **Recoil of Reality**—the absolute consistency of material consequences. To say "God is not mocked" is to state that the **Laws of Physics and Social Production** cannot be cheated by clever words or fake reports. The "Receipt" is the only verification.
 
 ### III. The Outcome: A World that Works
 The value of this way of thinking is that it clears away the **Lies**. It stops a person from being tricked by "Pretty Stories" that don't result in survival. The success of the Receipt-of-Truth lens is measured by the [Durability](/wiki/node/the_materialist_axiom) of the world. If you follow the [Manual](/wiki/node/the_biblical_baseline) and your town becomes a place where the [Vampires](/wiki/node/social_vampirism) can't feed, then the lens is verified. The [Church](/wiki/node/the_church_as_structural_anchor) is the place where we perform the "Final Audit" and keep the results honest.

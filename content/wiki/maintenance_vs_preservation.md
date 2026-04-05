@@ -19,11 +19,9 @@ To understand this lens, you only have to look at an old work truck. "Maintenanc
 
 "Preservation" is when you put the truck in a climate-controlled garage and polish the chrome while the engine is seized up. A community or a church that "Preserves" its old traditions but doesn't **Help anyone survive** is just a museum. It is a [Haunted Object](/wiki/node/the_haunted_object) that has lost its purpose.
 
-### II. The Sabbath for the Man
-This lens relies on a simple biblical truth that every worker understands:
-
-- **The Real Service**: Jesus said that "The sabbath was made for man, and not man for the sabbath." For a worker, that is **Functional Sovereignty**. It means the [Rule](/wiki/node/the_biblical_baseline) exists to serve the worker, not the other way around. If a tradition is hurting the town or stopping the [Work](/wiki/node/moral_labor), you are "Lord" of that tradition and you have the right to fix it.
-- **The Living Structure**: A building that is being used is "Warm." A building that is just being "Preserved" is "Cold." For a worker, that means **Life is in the Motion**. We don't worship the "Building" (the institution); we maintain the [Sync](/wiki/node/liturgy_motion_coordinator) (the people working together).
+### II. The Scriptural Anchor
+- **Luke 13:8**: "And he answering said unto him, Lord, let it alone this year also, till I shall dig about it, and dung it:"
+- **Unique Mapping**: Christianity uniquely identifies "Maintenance" as **Proactive Intervention**. In industrial terms, "Preservation" is simply letting a social structure or part sit in a box (where it eventually seizes), while "Maintenance" is the **Aggressive Recovery** (Digging and Dunging) of the material system. If a social project (the tree) does not produce [Results](/wiki/node/consequence_as_truth), it must be aggressively serviced or scrapped to make room for a new build.
 
 ### III. The Outcome: A World of Working Tools
 The value of this way of thinking is that it provides **Utility**. It stops people from being trapped by "The way we’ve always done it" when the results are [Rotting](/wiki/node/the_slow_rot_and_the_new_build). The success of the Fixing-the-Machine lens is measured by **Operational Health**. If a town’s infrastructure, families, and [Shared Trust](/wiki/node/shared_trust) are strong because they are constantly being repaired and improved, then the lens is verified. The [Church](/wiki/node/the_church_as_structural_anchor) is the "Work Shop" where we keep the gears of our town greased and running.

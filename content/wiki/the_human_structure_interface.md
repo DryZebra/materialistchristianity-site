@@ -26,11 +26,9 @@ Most people spend their lives doing work they don't care about, for bosses they 
 
 We look at the **Results**. There have been moments in our history, like in the middle of a massive national mobilization or on a local construction site where everyone is "In the Zone," when the people and the [Plan](/wiki/node/the_biblical_baseline) became one. This resulted in the biggest industrial successes in history. It’s what keeps the [Working Stiff](/wiki/node/the_materialist_axiom) from being just another "Replaceable Part" for the [Vampires](/wiki/node/social_vampirism).
 
-### II. Where it Comes From: The Working Body
-We look at two simple ideas that every American worker understands:
-
-- **The Real Mastery**: The Bible says to be "Master of your own House." For a worker, that means being a **Master of the Tool and the Job**. You don't just "do what you’re told"; you understand the [Results](/wiki/node/the_materialist_axiom) of every move you make. You are the "Interface" between the truth and the physical world.
-- **The Group Skills**: A lot of leaders want you to be "Untrained" so they can pay you less and keep you dependent. We focus on the **Mastery**. If the folks in your town are all masters of their specific jobs and understand the big plan, then no [Vampire](/wiki/node/social_vampirism) can replace your crew with a machine or a cheaper worker.
+### II. The Scriptural Anchor
+- **Exodus 31:3-5**: "And I have filled him with the spirit of God, in wisdom, and in understanding, and in knowledge, and in all manner of workmanship, To devise cunning works... to work in all manner of workmanship."
+- **Unique Mapping**: Christianity uniquely identifies the "Spirit of God" not as a religious feeling, but as **Professional Mastery**. In industrial terms, the Worker is a **Sovereign Technician** of the material real. The "Spirit" is the cognitive ability to map the [Directive](/wiki/node/the_materialist_axiom) into **Cunning Works** (High-Precision Output). The "Interface" is the union of the worker's knowledge and the physical task at hand.
 
 ### III. The Goal: Being the Heart of the Machine
 Our goal is to have every member of our community be a **Master of the Mission**. We don't hide what we're after: we want a world where the working people are the "Soul" of the physical world they build. We call this the **Unity of the Fit**. A successful focus on How We Fit is measured by one thing: if your community is getting the job done with more precision and more pride because everyone understands their role, then the plan is verified. The [Church](/wiki/node/the_church_as_structural_anchor) is where we train our "Hands" for the mission.

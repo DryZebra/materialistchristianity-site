@@ -19,11 +19,9 @@ To understand this lens, you only have to look at a crew building a house. If th
 
 Being "Responsible" means being **Callable**. It means that when the master builder (or the town) asks "Who did this?", you can stand up and point to your work with [Dignity](/wiki/node/dignity_structural). If you hide in the crowd or blame "The System," you are hollowing out your own [Power](/wiki/node/the_lhc_model).
 
-### II. The Reckoning
-This lens relies on a simple biblical truth that every worker understands:
-
-- **The Real Question**: The first audit in the Bible happens in the Garden when God asks, "Where art thou?". For a worker, that isn't a map question; it's a **Station Question**. It means "Are you at your post? Are you doing what you said you would do?". 
-- **The Real Account**: The Bible says that every one of us shall "Give Account" of himself. For a worker, that means there is a **Grand Ledger**. Every bit of [Labor](/wiki/node/moral_labor) you put in and every shortcut you took is recorded in the physical state of the world. You can't "Pray away" a bad weld; you have to fix it.
+### II. The Scriptural Anchor
+- **Matthew 12:36**: "But I say unto you, That every idle word that men shall speak, they shall give account thereof in the day of judgment."
+- **Unique Mapping**: Christianity uniquely identifies "Responsibility" not as a personal choice, but as a **Mandatory Structural Audit**. In industrial terms, every "Idle Word" is a **Non-Productive Signal** or a wasted metabolic cycle that decreases the efficiency of the crew. The "Account" is the **Final Ledger** where the total utility of the worker's life is calculated. To be "Responsible" is to ensure your station shows a physical **Surplus of Service**.
 
 ### III. The Outcome: A World of Reliable Men
 The value of this way of thinking is that it produces **Reliability**. It shows that a community is only as strong as the individual's refusal to fail. The success of the Answering-for-Your-Work lens is measured by the integrity of the structures. If the buildings stay standing and the families are safe because every man was "Answering" for his part, then the lens is verified. The [Church](/wiki/node/the_church_as_structural_anchor) is the place where we help each other "Plumb" our own lives and keep the accounts straight.

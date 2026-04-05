@@ -19,11 +19,9 @@ To understand this lens, you only have to look at an old truck sitting in a fiel
 
 You are the same way. You aren't just a "Person" sitting in a chair. You are the sum total of the [Work](/wiki/node/moral_labor) you do and the [Path](/wiki/node/behavioral_gravity) you walk. Your "Faith" is the **Odometer** of your life—the record of where you went and who you helped.
 
-### II. The Walk with God
-This lens relies on a simple biblical truth that every worker understands:
-
-- **The Real Walk**: The Bible says that Enoch "Walked with God." For a worker, that is **Frequency Sync**. Enoch didn't just "Think" about God; he moved his feet in the same direction and at the same speed as the [Beginning Protocol](/wiki/node/gen_1_1). He was "In Step."
-- **The Real Conduct**: The Bible tells us we were "Created for good works, which God hath before ordained that we should walk in them." For a worker, that means that **The Job is already laid out**. You just have to show up and [Do the Work](/wiki/node/moral_labor).
+### II. The Scriptural Anchor
+- **Acts 17:28**: "For in him we live, and move, and have our being; as certain also of your own poets have said, For we are also his offspring."
+- **Unique Mapping**: Christianity uniquely identifies "Reality" (God) not as a static object of worship, but as the **Medium of Kinetic Existence**. In industrial terms, the "System" is the field where we **Live and Move**. If the motion stops (if production, reproduction, and labor cease), the "Being" (the social existence) dissolves. Reality is defined by its **Total Flux and Momentum**.
 
 ### III. The Outcome: A World of High Torque
 The value of this way of thinking is that it clears away the **Static Traps**. It stops you from wasting time on "Feelings" and gets you focused on **Results**. The success of the Life-is-Motion lens is measured by **Changes in the World**. If you start [Moving](/wiki/node/behavioral_gravity) and your family starts eating better and your neighbors start trusting each other, then the lens is verified. The [Church](/wiki/node/the_church_as_structural_anchor) is the "Garage" where we fix our "Engines" and get back on the road.

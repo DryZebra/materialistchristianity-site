@@ -19,11 +19,9 @@ To understand this lens, you only have to look at a factory that is about to clo
 
 A town or a [Church](/wiki/node/the_church_as_structural_anchor) can be the same way. Folks can still gather on Sundays and wear their nice clothes, but if they don't actually share their [Tools](/wiki/node/moral_labor) or protect each other from the [Vampires](/wiki/node/social_vampirism) during the week, they are just "Actors" in a stage play. The "Ritual" has become a shell.
 
-### II. The Stage-Play (Hypocrisy)
-This lens relies on a simple biblical truth that every worker understands:
-
-- **The Acting**: The Bible calls out the "Hypocrites." That word actually means **Stage-Players**. It describes folks who are putting on a "Performance" for an audience rather than using their lives as [Tools](/wiki/node/the_machine) for survival.
-- **Form without Power**: The Bible warns against having "A form of godliness, but denying the power thereof." For a worker, that is **Dead Aesthetic**. It is a machine that looks shiny and new but has no engine inside. It’s been hollowed out by [The Nothing](/wiki/node/the_nothing).
+### II. The Scriptural Anchor
+- **2 Timothy 3:5**: "Having a form of godliness, but denying the power thereof: from such turn away."
+- **Unique Mapping**: Christianity uniquely identifies "Continuity" not as a guarantee of life, but as a **Potential Failure Mode**. In industrial terms, the "Form" is a **No-Load Cycle**—a state where the machine is consuming power and turning its gears, but no real work (conversion of energy into utility) is being performed. It is the transmission of **Dataless Packets**. When the "Power" (the material result) is denied, the social ritual becomes a hollow shell of [The Nothing](/wiki/node/the_nothing).
 
 ### III. The Outcome: A World of Hollow Shells
 The value of this way of thinking is that it helps you **Stop Wasting Time**. It reveals which groups are real and which ones are just "Going through the motions" while the [Vampires](/wiki/node/social_vampirism) drain the town dry. The success of the Going-through-the-Motions lens is measured by **Operational Audit**. If you stop the ritual and the town falls apart immediately, then you were already dead. The [Church](/wiki/node/the_church_as_structural_anchor) must be a place of [Real Consequence](/wiki/node/rituals_of_consequence), not just a place of empty repetition.

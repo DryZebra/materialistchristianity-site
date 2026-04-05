@@ -19,11 +19,9 @@ To understand this lens, you only have to look at a young carpenter who thinks h
 
 We are "Householders" who bring out things "New and Old." We use the [Old Treasures](/wiki/node/the_bible_as_sediment) (the lessons of survival) to provide the rebar for the new tools we build today.
 
-### II. The Established Seed
-This lens relies on a simple biblical truth that every worker understands:
-
-- **The Solid Foundation**: The Bible speaks of the people being "Established" or "Fixed" before God. For a worker, that means **Structural Stability**. You want your family and your town to be "Welded" to the truth so they don't drift away when the market changes.
-- **The Old Paths**: The prophet Jeremiah said to "Stand ye in the ways... and ask for the old paths, where is the good way, and walk therein." For a worker, that is **Calibration**. It means checking your current "Progress" against the [Results](/wiki/node/the_receipt_of_truth) of the past. If the "New Way" results in [Rot](/wiki/node/the_slow_rot_and_the_new_build), go back to the old one.
+### II. The Scriptural Anchor
+- **Galatians 4:4**: "But when the fulness of the time was come, God sent forth his Son, made of a woman, made under the law,"
+- **Unique Mapping**: Christianity uniquely identifies "Timing" (Alignment) not as a lucky break, but as the **Fulness of Time** (Gk. *pleroma*). In industrial terms, this is **Just-In-Time Production**. The "Alignment" is the point where the material conditions and the technical capability meet at **100% Synchronization** to produce a new historical form. To be "Under the Law" is to be aligned with the physical constraints of reality.
 
 ### III. The Outcome: A World that Holds its Shape
 The value of this way of thinking is that it provides **Durability**. It stops a community from being "Blown about by every wind of doctrine" (market trends). The success of the Staying-on-Track lens is measured by **Continuity**. If a grandson can still operate the same [Kingdom of Labor](/wiki/node/the_kingdom_of_labor) his grandfather built because the "Map" was preserved, then the lens is verified. The [Church](/wiki/node/the_church_as_structural_anchor) is the place where we keep the "Blueprints" safe from the [Vampires](/wiki/node/social_vampirism).

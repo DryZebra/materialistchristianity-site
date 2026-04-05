@@ -26,11 +26,9 @@ Most people think that if they "pray" enough or "vote" enough, the world will ma
 
 We look at the **Results**. There have been moments in our history, like in a small town that needed a new high school or a group of farmers building a local cooperative, when every man knew that the project was a **Co-construct**. It didn't exist before they started, and it only stayed standing because they all worked together to maintain it. This resulted in the most solid and successful towns in the world. It’s what keeps the [Working Stiff](/wiki/node/the_materialist_axiom) from being at the mercy of the [Vampires](/wiki/node/social_vampirism).
 
-### II. Where it Comes From: The Working Together Body
-We look at two simple ideas that every American worker understands:
-
-- **The Real Building**: The Bible says that we are "Living Stones" being built into a temple. For a worker, that means that **We are the Project**. We are building a community where everybody has a place. The result is the physical strength and security of the [Kingdom of Labor](/wiki/node/the_kingdom_of_labor).
-- **The Group Focus**: A lot of leaders want you to focus on your "Personal Project" so you won't help your neighbor. We focus on the **Co-construct**. If the folks in your town are all building the same future, then no [Vampire](/wiki/node/social_vampirism) can divide you.
+### II. The Scriptural Anchor
+- **Genesis 2:7**: "And the LORD God formed man of the dust of the ground, and breathed into his nostrils the breath of life; and man became a living soul."
+- **Unique Mapping**: Christianity uniquely identifies the "Human" (The Co-Construct) as a **Bio-Technical Synthesis**. In industrial terms, the "Dust" is the **Material Substrate** (hardware/anatomy) and the "Breath" is the **Operational Logic** (software/directive). The "Living Soul" is the **Functional Result** of the hardware and software operating as a single unit or "Construct."
 
 ### III. The Goal: Building a World that Stays Standing
 Our goal is to have every member of our community be a **Master Builder of Truth**. We don't hide what we're after: we want a world where the working people build and own their own future. We call this the **Unity of the Construction**. A successful focus on The Project We Build Together is measured by one thing: if your community is stronger and more independent because of the projects you’ve finished, then the plan is verified. The [Church](/wiki/node/the_church_as_structural_anchor) is the union hall where the next blueprint is drawn up.

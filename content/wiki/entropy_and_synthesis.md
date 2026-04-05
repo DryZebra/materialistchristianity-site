@@ -19,11 +19,9 @@ To understand this lens, you only have to look at a house that has been sitting 
 
 But then a new family moves in. They clear the brush, fix the roof, and paint the walls. They are performing **Synthesis**. They aren't just "Fixing" the house; they are making it **Stronger** than it was before by adding their own [Grit](/wiki/node/rituals_of_consequence). They are re-animating the "D Bones" of the structure.
 
-### II. The Breath on the Bones
-This lens relies on a simple biblical truth that every worker understands:
-
-- **The Real Re-Animation**: The Bible tells the story of the "Valley of Dry Bones." The bones were the dead remains of a people who had fallen into rot. But when the "Breath" (the labor and the spirit) entered them, they stood up and became an army. For a worker, that means **Nothing is ever too far gone to fix**. If you have the original [Blueprints](/wiki/node/canon_as_pressure), you can synthesize a new world out of the wreckage.
-- **The Friction of the Job**: We don't view "Rot" as a moral choice; it’s just **Friction**. It’s what happens when you stop pushing against the dark. Synthesis is the process of [Taking Back control](/wiki/node/the_materialist_axiom). It means taking the old lessons from your grandfathers and "Charging" them with your own strength to make them work *today*.
+### II. The Scriptural Anchor
+- **1 Corinthians 15:53**: "For this corruptible must put on incorruption, and this mortal must put on immortality."
+- **Unique Mapping**: Christianity uniquely identifies the "Build" (Synthesis) as a mandatory **State-Change**. In industrial terms, the "Corruptible" is the **Entropic Drift** of any unmaintained hardware or social structure. The "Incorruption" is the **Material Upgrade** achieved through the constant application of high-integrity labor. You don't just "Fix" a system; you **Synthesize** it into a form that resists the second law of thermodynamics.
 
 ### III. The Outcome: A World that Always Wins
 The value of this way of thinking is that it provides **Persistence**. It shows that you don't just build a town once and then "Relax." You are on the job for life. The success of the Slow-Rot-and-New-Build lens is measured by **Durability**. If your town is still standing after a hundred years because every generation put in the [New Build](/wiki/node/moral_labor), then the lens is verified. The [Church](/wiki/node/the_church_as_structural_anchor) is the "Maintenance Shop" where we find the tools to fight the rot and keep the structure strong.

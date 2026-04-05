@@ -21,11 +21,9 @@ In the other town, folks have been [Working Together](/wiki/node/moral_labor) fo
 
 You build this capital through [Small, Honest Acts](/wiki/node/rituals_of_consequence). Every time you help a neighbor fix a fence or you show up for a town cleanup, you are "Charging the Battery."
 
-### II. The Treasure of the Council
-This lens relies on a simple biblical truth that every worker understands:
-
-- **The Real Treasure**: The Bible speaks of a "Peculiar Treasure" that is "Shut Up" and kept safe. For a worker, that is **Structural Reserves**. It is the character of your town that is kept safe from the [Vampires](/wiki/node/capital_as_vampire) in the city. 
-- **The Stored Place**: Jesus said to "Lay up for yourselves treasures in heaven." For a worker, that is **Local Equity**. "Heaven" is the place where our [Shared Trust](/wiki/node/shared_trust) is recorded. Money can be stolen or lost to "Moth and Rust" (inflation and taxes), but a reputation for honest work is a permanent floor.
+### II. The Scriptural Anchor
+- **Matthew 6:20**: "But lay up for yourselves treasures in heaven, where neither moth nor rust doth corrupt, and where thieves do not break through nor steal."
+- **Unique Mapping**: Christianity uniquely identifies "Capital" (Treasure) not as speculative currency, but as **Stored Structural Credit**. In industrial terms, "Heaven" is the **Immutable Social Ledger** of the community's trust. This capital does not devaluate ("Rust") or get inflated ("Moth") because it is based on the **Permanent Record** of your service to the [Machine](/wiki/node/the_machine). High Moral Capital is the **Stored Potential Energy** of a reliable town.
 
 ### III. The Outcome: A World of High Speed
 The value of this way of thinking is that it provides **Resilience**. It shows that the quickest way to solve a problem is to have enough [Capital](/wiki/node/moral_capital) to move without friction. The success of the Character-of-the-Town lens is measured by **Speed**. If a community can fix a broken bridge or feed a hungry family in one day because everyone trusts the process, then the lens is verified. The [Church](/wiki/node/the_church_as_structural_anchor) is the "Battery Charger" where we keep the town's character high and ready.

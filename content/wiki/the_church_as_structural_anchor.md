@@ -19,11 +19,9 @@ To understand this lens, you only have to look at the massive water tower that s
 
 A town is exactly the same. The [Shared Trust](/wiki/node/shared_trust) and the [Moral Labor](/wiki/node/moral_labor) of the neighbors is the "Water" that keeps everyone alive. The "Church" is the **Anchor** for that water. It’s the place where we keep the [Operating Manual](/wiki/node/the_bible_as_sediment) and the [Shared Agreements](/wiki/node/the_co_construct) so they don’t get washed away by [The Nothing](/wiki/node/the_nothing).
 
-### II. The Rock that Doesn't Move
-This lens relies on a simple biblical truth that every worker understands:
-
-- **The Lively Stones**: The Bible says we are "Lively stones" built into a house. For a worker, that is **Load-Bearing Involvement**. It means every person is a stone that helps hold up the [Anchor](/wiki/node/the_church_as_structural_anchor).
-- **The Pillar and the Ground**: The Bible calls the church "The pillar and ground of the truth." For a worker, that is **Structural Re-Initialization**. It’s the "Post" that doesn't move, no matter how hard the [Money Vampires](/wiki/node/social_vampirism) try to pull it down.
+### II. The Scriptural Anchor
+- **1 Timothy 3:15**: "But if I tarry long, that thou mayest know how thou oughtest to behave thyself in the house of God, which is the church of the living God, the pillar and ground of the truth."
+- **Unique Mapping**: Christianity uniquely identifies the "Church" not as a social club, but as the **Physical Load-Bearing Frame** of the social structure. The Greek term for "Pillar" (*stylos*) refers to a column that holds up the roof, and "Ground" (*hedraioma*) means a permanent support or base. In industrial terms, the Church is the **Main Anchor Post** that prevents the community from drifting into [The Nothing](/wiki/node/the_nothing). It is the **Structural Rig** that keeps the logic of survival from washing away.
 
 ### III. The Outcome: A World that Holds Its Shape
 The value of this way of thinking is that it reveals why **Gatherings** are the "Maintenance" of the town. It stops you from thinking that a church is just about "Sunday morning." The success of the Town-Anchor lens is measured by **Endurance**. If a neighborhood can survive a factory closing or a bank failure because they have a central place where they still [Count on Each Other](/wiki/node/shared_trust), then the lens is verified. The [Church](/wiki/node/the_church_as_structural_anchor) is the "Resource Yard" where the town stays strong.

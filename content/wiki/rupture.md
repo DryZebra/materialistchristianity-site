@@ -26,11 +26,9 @@ A lot of time, our country is run by an old, crooked system. The big bosses and 
 
 We look at the **Results**. There have been moments in our history when the country was collapsing, and the people who actually did the work decided to break away from the fancy-talkers and build their own industry. The "Rupture" wasn't a tragedy; it was the only way to save the community. It resulted in a nation that was strong enough to win the biggest war in history.
 
-### II. Where it Comes From: The Great Cleaving
-We look at two simple ideas that every American worker understands:
-
-- **The Sword of Truth**: The Bible says Christ didn't come to bring "Peace," but a **Sword**. For a worker, that means he came to **Cut the Ties** that keep us slaves to the bosses. A Rupture is the "Sword" that finally separates the people who do the work from the people who just take. 
-- **The Systemic Lapse**: This is just a way of saying a "Lapse" in responsibility. A system that stops taking care of its own people is a hazard. Rupture is the mechanical "Purge" required to keep the whole town from going under when the old ways fail.
+### II. The Scriptural Anchor
+- **Matthew 27:51**: "And, behold, the veil of the temple was rent in twain from the top to the bottom; and the earth did quake, and the rocks rent;"
+- **Unique Mapping**: Christianity uniquely identifies "Rupture" as a **Structural Disclosure**. In industrial terms, the "Veil" is the [Liberal Wardrobe](/wiki/node/liberalism_as_wardrobe) that separates the consumer from the real mechanics of power and production. The "Renting" of the veil is the **Catastrophic Failure** of the old social partition during a crisis, finally revealing the material base to the [Producers](/wiki/node/the_materialist_axiom).
 
 ### III. The Goal: A Clean Start for the Town
 Our goal is to be ready when the wheels fall off. We don't hide what we're after: we want every [Reliable Man](/wiki/node/the_church_as_structural_anchor) to see the moment when the old system is shaking and step in to fix the gears. We don't want a return to the old crooked ways; we want the [Great Break](/wiki/node/rupture) that finally puts the **Producer** in charge of his own home. The [Church](/wiki/node/the_church_as_structural_anchor) is where we keep the plan for how to build back better and stronger.

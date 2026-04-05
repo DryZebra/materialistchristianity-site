@@ -21,11 +21,9 @@ When a person looks through this lens, they see the **Scam**:
 - **Transient Extraction**: People who "pass through" your town (the merchants) to take your money without ever putting in any [Moral Labor](/wiki/node/moral_labor).
 - **Spectral Gleam**: A product that "Gleams" and looks perfect but doesn't actually solve the problem of survival. It’s a "Phantom" of a real tool.
 
-### II. The Den of Thieves
-This lens relies on a simple biblical truth that any American worker understands:
-
-- **The Real Cleansing**: The Bible tells the story of Jesus driving the money-changers out of the Temple. For a worker, that means that **The Temple (the heart of the community) is not a Marketplace**. You don't "Sell" the truth, and you don't "Trade" in the bonds of brotherhood. 
-- **The Robber’s Den**: Jesus said the leaders had made the "House of Prayer" into a "Den of Thieves." For a worker, that means that **If a place is designed to take from you, it isn't your home**. It’s a "Hostage Situation" where your own needs are used as a way to plunder your family.
+### II. The Scriptural Anchor
+- **Habakkuk 2:6**: "Shall not all these take up a parable against him... and say, Woe to him that increaseth that which is not his! how long? and to him that ladeth himself with thick clay!"
+- **Unique Mapping**: Christianity uniquely identifies "Commodities" (increased wealth from labor that isn't yours) as **Thick Clay**. In industrial terms, the commodity-form is a non-productive **Inertial Load**. Lading the social machine with "Thick Clay" (debt, useless products, consumerist junk) creates **Massive Drag**, slowing the [Town Machine](/wiki/node/the_machine) until it can no longer perform the work of survival.
 
 ### III. The Outcome: A World of Real Substance
 The value of this way of thinking is that it provides a **Target**. It shows exactly what needs to be removed from a town to make it strong again: the "Market-Logic" that treats everything as a product. The success of the Buying-Your-Own-Chains lens is measured by **Substance**. If a community stops "Buying" its friendship and starts building it through [Grit](/wiki/node/rituals_of_consequence) and [Shared Trust](/wiki/node/shared_trust), then the lens is verified. The [Church](/wiki/node/the_church_as_structural_anchor) is the place where we keep the "Vampires" at the door and protect the [Real Life](/wiki/node/the_materialist_axiom) of the folks.

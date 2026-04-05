@@ -19,11 +19,9 @@ To understand this lens, you only have to look at a big diesel engine in a tract
 
 A town is exactly the same. Every person is a "Part." If we spend all our time fighting each other or hoarding our own "Oil" ([Shared Trust](/wiki/node/shared_trust)), the machine breaks down. We don't hate the "Machine"; we just want to keep it running smooth so everyone gets fed and the neighborhood stays strong.
 
-### II. The Body with Many Members
-This lens relies on a simple biblical truth that every worker understands:
-
-- **The Many Parts**: The Bible says "The body is one, and hath many members." For a worker, that is **Integrated Social Mechanics**. It means you aren't an "Individual" on your own; you are a part that is physically linked to your [Neighbors](/wiki/node/local_vs_public_trust).
-- **The Operating Manual**: We treat the [Bible](/wiki/node/the_bible_as_sediment) as the **Original Manual** for the human engine. It contains the "Repair Protocols" (like Forgiveness and the Sabbath) that keep the machine from burning out under the pressure of the [Real World](/wiki/node/the_industrial_real).
+### II. The Scriptural Anchor
+- **Ezekiel 1:16, 20**: "The appearance of the wheels and their work was like unto the colour of a beryl... and their appearance and their work was as it were a wheel in the middle of a wheel. ... for the spirit of the living creature was in the wheels."
+- **Unique Mapping**: Christianity uniquely identifies the "Living Creature" (the social body) as an **Integrated Machine**. In industrial terms, the "Wheels within wheels" are the **Iterative Protocols** of work, family, and ritual that drive the community forward. The "Spirit" is the **Operational Logic** or "Operating System" that ensures all moving parts are in sync. Christianity maps the divine directly to the **Torque of the Engine**.
 
 ### III. The Outcome: A World that Runs Smooth
 The value of this way of thinking is that it reveals why **Coordination** is more important than "Personal Freedom." It stops you from being a [Vampire](/wiki/node/social_vampirism) who only takes and never gives. The success of the Town-Machine lens is measured by **Operational Health**. If a town can keep its schools open, its roads fixed, and its people fed without a bunch of outside help, then the lens is verified. The [Church](/wiki/node/the_church_as_structural_anchor) is the "Maintenance Shop" where we keep the parts aligned and the engine running hot.

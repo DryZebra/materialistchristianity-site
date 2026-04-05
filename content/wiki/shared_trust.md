@@ -19,11 +19,9 @@ To understand this lens, you only have to look at how a real neighborhood hardwa
 
 That trust is a "Signal." It makes the town run faster and smoother. When trust is high, we can share [Tools](/wiki/node/moral_labor) and [Money](/wiki/node/moral_communism) without fear. When trust is low—when folks start being [Vampires](/wiki/node/social_vampirism) and breaking their word—it's like sand in the gears. The whole town becomes loud, slow, and expensive.
 
-### II. The Luminescence of the Beginning
-This lens relies on a simple biblical truth that every worker understands:
-
-- **The Light**: The Bible says, "Let there be light." For a worker, that is **Signal Clarity**. It is the state where you can clearly see what your neighbors are doing and what the [AEO (Action-Energy-Outcome)](/wiki/node/rituals_of_consequence) of the town is. When there is "Light" (Trust), you don't have to worry about someone stealing your tools in the dark.
-- **The Joint and the Supply**: The Bible talks about the "Joints" of the body supplying what is needed. For a worker, that is **Interdependent Mechanics**. The "Joint" is where you and your neighbor meet to do a job. The "Supply" is the [Reliability](/wiki/node/moral_labor) you provide to each other. If the trust breaks, the joint fails, and the body can't move.
+### II. The Scriptural Anchor
+- **Ephesians 4:25**: "Wherefore putting away lying, speak every man truth with his neighbour: for we are members one of another."
+- **Unique Mapping**: Christianity uniquely identifies "Trust" (Truth) not as a moral preference, but as a **Conductivity Requirement**. In industrial terms, the "Members" (Gk. *melos* - integral parts) form a **Single Social Circuit**. If a part "Lies" to its neighbor, it creates **Resistance** in the circuit, causing the social machine to overheat, lose torque, and eventually fail. Trust is the **Physical Lubricant** that allows the parts to move against each other without self-destructing.
 
 ### III. The Outcome: A World of Solid Ground
 The value of this way of thinking is that it reveals trust as the ultimate **Resilience**. It stops you from thinking that a town is just "Houses and Roads." It shows that a town is actually a **Grid of Reliability**. The success of the Counting-on-Each-Other lens is measured by **Stability in a Crisis**. If a neighborhood can survive a storm because everyone knows who to call and those people actually show up, then the lens is verified. The [Church](/wiki/node/the_church_as_structural_anchor) is the "Generator" that keeps the [Shared Trust](/wiki/node/shared_trust) charged and ready.

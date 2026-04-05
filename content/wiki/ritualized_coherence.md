@@ -19,11 +19,9 @@ To understand this lens, you only have to look at a crew of guys trying to move 
 
 That "Heave" is the synchronizer. It is a [Ritual](/wiki/node/rituals_of_consequence) that locks all the different people into a single [Force](/wiki/node/reality_as_motion). A town is the same way. If everyone follows their own private schedule and their own private rules, the community has zero [Torque](/wiki/node/behavioral_gravity). We need the "Beat" of the [Shared Gathering](/wiki/node/shared_trust) to stay strong and lift the heavy loads of life.
 
-### II. The Assembling of the Machine
-This lens relies on a simple biblical truth that every worker understands:
-
-- **The Assembly**: The Bible warns folks not to "Forsake the assembling of ourselves together." For a worker, that is **Machine Maintenance**. You bring all the parts into one place to make sure the [Signal](/wiki/node/gen_1_3) is still strong and the [Sync](/wiki/node/sub_object_resonance) hasn't drifted.
-- **The Physical Memory**: The Bible says to "Bind these words as a sign upon your hand." For a worker, that is **Structural Encoding**. It means you don't just "Think" about the rules; you make them part of your physical life and your daily habits. You make the truth [Automatic](/wiki/node/behavioral_gravity).
+### II. The Scriptural Anchor
+- **1 Corinthians 14:40**: "Let all things be done decently and in order."
+- **Unique Mapping**: Christianity uniquely identifies "Coherence" (Order) not as a religious preference, but as a **Technical Requirement for Collective Output**. In industrial terms, "Decently and in Order" is the **Standard Operating Procedure (SOP)**. Without the ritualized timing of the group (the assembly), the [Machine](/wiki/node/the_machine) enters a state of vibrational conflict and destroys its own productive capacity. Coherence is the **Phase-Locking** of the community's labor.
 
 ### III. The Outcome: A World that Moves Together
 The value of this way of thinking is that it reveals why **Gatherings** are non-negotiable. It stops you from thinking that you can "Be a Christian" by yourself in your bedroom. The success of the Keeping-the-Town-in-Sync lens is measured by **Unity of Action**. If a town can react to an emergency or build a school without a month of arguments because they are already used to moving together, then the lens is verified. The [Church](/wiki/node/the_church_as_structural_anchor) is the "Coordinator" that keeps the [Kingdom of Labor](/wiki/node/the_kingdom_of_labor) in perfect time.

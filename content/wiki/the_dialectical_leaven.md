@@ -26,11 +26,9 @@ Most people think that if "Everyone" isn’t on board, a project can’t start. 
 
 We look at the **Results**. There have been moments in our history, like in a small mining town where a few brave men decided to stand up for their rights, when the whole community was changed by that **Little Spark**. This is what we call **The Dialectical Leaven**. It just means that a little bit of truth and work makes the whole "dough" of the town rise. This resulted in the most powerful labor organizations in history. It’s what keeps the [Working Stiff](/wiki/node/the_materialist_axiom) from being overwhelmed by the [Nothing](/wiki/node/the_nothing).
 
-### II. Where it Comes From: The Practical Spark
-We look at two simple ideas that every American worker understands:
-
-- **The Real Salt**: The Bible says we are the "Salt of the Earth." For a worker, that means we are the **Flavor and the Preservative**. We are the ones who keep the town from rotting and provide the "Kick" that gets the work moving. A little bit of salt goes a long way.
-- **The Group Focus**: A lot of leaders want you to think you "Need a Crowd" before you can win. We focus on the **Reliable Few**. If the folks in your town have even five good men who can’t be bought and can’t be broken, then you have the spark you need to win.
+### II. The Scriptural Anchor
+- **Matthew 13:33**: "Another parable spake he unto them; The kingdom of heaven is like unto leaven, which a woman took, and hid in three measures of meal, till the whole was leavened."
+- **Unique Mapping**: Christianity uniquely identifies the "Dialectic" (The Kingdom) as a **Catalytic Agent**. In industrial terms, the "Leaven" is the **Active Logic** that permeates the "Meal" (the unorganized mass) until the entire body is **Transformed into Production**. It is the force that converts inertia into movement by changing the chemical state of the social dough.
 
 ### III. The Goal: Waking Up the Neighborhood
 Our goal is to be the **Sparks** for our own towns. We don't hide what we're after: we want every [Reliable Man](/wiki/node/the_church_as_structural_anchor) to see themselves as the "Leaven" that makes the [Kingdom of Labor](/wiki/node/the_kingdom_of_labor) rise. We call this the **Unity of the Spark**. A successful focus on The Little Spark is measured by one thing: if your community is stronger, more organized, and more hopeful because of the work of a few good folks, then the plan is verified. The [Church](/wiki/node/the_church_as_structural_anchor) is the place where the sparks gather.

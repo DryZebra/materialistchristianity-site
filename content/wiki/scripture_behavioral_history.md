@@ -26,11 +26,9 @@ Most people treat the Bible like a book of bedtime stories that don't have anyth
 
 We look at the **Results**. There was a time in our history, like when we were settling the frontier or building the great railroads, when every man had to know how to contribute to the mission. We didn't have time for "Feelings"; we had to have a **Plan**. This is what we call **Behavioral History**. It's the record of how our class (the [Hands](/wiki/node/the_materialist_axiom)) has successfully stood up for itself over and over again. It resulted in the first nation built by and for the producers.
 
-### II. Where it Comes From: The Worker's Data-Log
-We look at two simple ideas that every American understands:
-
-- **The Real Log-Book**: The Bible is the "Public Record" of the [Working Stiff](/wiki/node/the_materialist_axiom). It shows the [Starting Plan](/wiki/node/gen_1_1) and the moments where that plan actually worked. To a working man, it’s like a **Maintenance Manual** for a town. If we follow the manual, the machine keeps running.
-- **The Group Skills**: The "Word of God" is just the **Group Strategy**. It's the set of skills and common-sense rules that let us work together without being cheated by the Big Bosses. The Bible records how our people developed these skills over thousands of years of survival.
+### II. The Scriptural Anchor
+- **1 Corinthians 10:11**: "Now all these things happened unto them for ensamples: and they are written for our admonition, upon whom the ends of the world are come."
+- **Unique Mapping**: Christianity uniquely identifies "History" (Scripture) as a **Technical Ensample** (Gk. *typos* - pattern/blueprint). In industrial terms, the biblical narratives are the **Black Box Record** of previous social production cycles. We study them as **Post-Mortem Reports** to avoid the **Catastrophic Failures** (The "Nothing") of the past and to repeat the high-torque successes of our ancestors.
 
 ### III. The Goal: Using the Manual to Win
 Our goal is to be the best-trained crew in history. We don't hide what we're after: we want every [Reliable Man](/wiki/node/the_church_as_structural_anchor) to read the Big Log-Book as a **Blueprints for Victory**. We are looking for the examples that show how to build an independent town that can't be siphoned off by outsiders. A successful use of the Log-Book is measured by one thing: if the folks in your town are stronger, smarter, and safer because of what you've learned, then the plan is verified. The [Church](/wiki/node/the_church_as_structural_anchor) is the union hall where we study the manual.

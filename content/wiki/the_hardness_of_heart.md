@@ -19,11 +19,9 @@ To understand this lens, you only have to look at a bolt that has been sitting i
 
 A town is the same way. The "Oil" that keeps everything moving is [Shared Trust](/wiki/node/shared_trust). When a person stops trusting and starts hoarding their own time and money, they "Harden." They become a point of friction. They refuse the [Sync](/wiki/node/ritualized_coherence) of the town and start acting like they are the only person who matters. We call this "Resistance," but a worker knows it as **Being Stubborn and Stuck**.
 
-### II. The Hardened Core
-This lens relies on a simple biblical truth that every worker understands:
-
-- **The Stiff-Necked People**: The Bible speaks of people who were "Stiff-necked and uncircumcised in heart." For a worker, that is **Structural Failure**. It means you aren't "Strong"—you’re just unable to bend. A house that can't bend in the wind will fall over.
-- **Taking Away the Stone**: The Bible says God will "Take away the stony heart." For a worker, that is **Structural Softening**. It’s the process of putting [Oil](/wiki/node/shared_trust) back into the social pump so the coordination can start flowing again.
+### II. The Scriptural Anchor
+- **Ezekiel 36:26**: "A new heart also will I give you, and a new spirit will I put within you: and I will take away the stony heart out of your flesh, and I will give you an heart of flesh."
+- **Unique Mapping**: Christianity uniquely identifies "Hardness" not as strength, but as **Structural Brittleness**. In industrial terms, a "Stony Heart" is a **Seized Component** that has rusted solid and can no longer adapt to the [Directive](/wiki/node/the_biblical_baseline). The "Heart of Flesh" is the **Resilient/Flexible Core** (the new build) that allows the social organism to continue its [Motion](/wiki/node/reality_as_motion) without snapping under the pressure of the [Great Record](/wiki/node/scripture_behavioral_history).
 
 ### III. The Outcome: A World that Moves Easy
 The value of this way of thinking is that it reveals how to **Fix the Friction**. You don't fix a stiff neck with "Politeness"; you fix it with [Truth](/wiki/node/the_materialist_axiom) and [Direct Action](/wiki/node/moral_labor). The success of the Stiff-Neck lens is measured by **Operational Ease**. If a town can solve problems without a bunch of lawyers and legalistic force because the people are "Soft" (meaning they trust the [Rules](/wiki/node/the_biblical_baseline)), then the lens is verified. The [Church](/wiki/node/the_church_as_structural_anchor) is the "Resource Yard" where the stiff necks are repaired.

@@ -26,11 +26,9 @@ A lot of times, the things we count on (the factory, the neighborhood, the union
 
 We look at the **Results**. After Pearl Harbor, our country was on its back. But the American worker didn't stay down. Every man and woman woke up, went to the plant, and built the biggest machine the world has ever seen. This is what we call **Resurrection**. It's the moment when a community "Rises" and decides that the folks who build the world are going to be the ones who defend it. It resulted in a nation that was strong enough to win the biggest war in history.
 
-### II. Where it Comes From: The Common Sense Wake-up
-We look at a few simple ideas:
-
-- **The Body of Work**: The Bible says we are a "Body." For a worker, that means we are the **Machine**. Resurrection is just **Oiling the Gears** and getting the project moving again after it has stalled out.
-- **Waking Up**: To be "Dead" is just to be asleep at the wheel. It's letting the politicians tell you what to do while they hollow out your town. To "Rise" is to wake up and realize you are the one holding the tools. It's the **American Wake-up Call**.
+### II. The Scriptural Anchor
+- **Ezra 9:9**: "For we were bondmen; yet our God hath not forsaken us in our bondage... but hath extended mercy unto us... to give us a reviving, to set up the house of our God, and to repair the desolations thereof."
+- **Unique Mapping**: Christianity uniquely identifies "Resurrection" as a **Structural Re-Animation**. In industrial terms, it is the **Re-Commissioning** of a dormant production plant. "Reviving" is the process of injecting new energy and [Breath](/wiki/node/the_co_construct) into the [Capital](/wiki/node/moral_capital) so that the [Social Object](/wiki/node/the_church_as_structural_anchor) can resume its function. Resurrection is the repair of "Desolations" through the re-application of the original [Blueprints](/wiki/node/the_bible_as_sediment).
 
 ### III. The Goal: Moving from the Tomb to the Street
 Our goal is to get folks out of the "Tomb" of just feeling bad and back into the "Street" of helping each other. We don't hide what we're after: we want a world where the working man never stays down. We call this **Structural Resurrection**. It means that the plan for a better world (The [Kingdom of Labor](/wiki/node/the_kingdom_of_labor)) is so strong that even if you try to kill it, it just grows back in a new place. The [Church](/wiki/node/the_church_as_structural_anchor) is where we keep the "Trumpet" ready to wake up the neighbors when it's time to build or defend.

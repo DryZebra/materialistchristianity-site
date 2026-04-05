@@ -19,11 +19,9 @@ To understand this lens, you only have to look at any real neighborhood. A town 
 
 This pull is what keeps a community from flying apart. By providing a solid foundation—the [Work Code](/wiki/node/the_biblical_baseline), the Sabbath, and the [Shared Trust](/wiki/node/shared_trust)—a town successfully stabilizes its people against the [Nothing](/wiki/node/the_nothing). In this lens, "Morality" isn't a fancy idea; it is the name for following the pull of the truth with the least amount of wasted energy.
 
-### II. The Easy Yoke
-This lens relies on a simple biblical truth that every worker understands:
-
-- **The Real Fit**: Jesus said, "My yoke is easy, and my burden is light." For a worker, that means that **The Best Tool fits the job**. When the rules of a town match the real needs of the people, following those rules doesn't feel like a "Burden"—it feels like common sense. It’s an **Optimized Fit**.
-- **The Resistance**: When a person tries to move against the pull of his own people and his own history, he experiences friction. He gets tired and hollowed out. This is why people who "Try to be Different" just for the sake of it often end up in the [Slow Rot](/wiki/node/the_entropic_dance).
+### II. The Scriptural Anchor
+- **Job 28:25**: "To make the weight for the winds; and he weigheth the waters by measure."
+- **Unique Mapping**: Christianity uniquely identifies "Behavior" and "Atmosphere" not as choices, but as **Physical Weights**. In industrial terms, social patterns and habits have **Mass**. They exert a "Gravity" (Gk. *baros*) that pulls all neighboring components into an **Inertial Field**. To "Weight the wind" is to establish the **Baseline Resistance** of the social environment. Discipline is the act of **Structural Counter-Weighting**.
 
 ### III. The Outcome: A World of Solid Ground
 The value of this way of thinking is that it provides a **Map** for where to build. It shows where the "Mass" of a community is located—in the [Mill](/wiki/node/the_kingdom_of_labor), the [Schoolhouse](/wiki/node/the_bible_as_sediment), and the [Church](/wiki/node/the_church_as_structural_anchor). The success of the Pull-of-the-Town lens is measured by stability. If a community can endure for generations without falling into [The Nothing](/wiki/node/the_nothing), then the pull is verified. The [Church](/wiki/node/the_church_as_structural_anchor) is the "Grounding Wire" that keeps the pull consistent.

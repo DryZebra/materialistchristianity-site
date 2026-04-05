@@ -19,11 +19,9 @@ To understand this lens, you only have to look at a heavy corner post in a fence
 
 A person is the same way. In a town, your "Self" is your **Reputation**. It’s the fact that when a neighbor’s house floods at three in the morning, they know they can call you and you’ll show up. You don't live for "Your Own Truth"; you live for the **Stability of the neighborhood**. If you don't carry any weight, you don't have a [Structural Self](/wiki/node/the_structural_self)—you’re just a [Vagabond](/wiki/node/the_mark_of_cain) who is drifting through the [Nothing](/wiki/node/the_nothing).
 
-### II. The Mirror of Doing
-This lens relies on a simple biblical truth that every worker understands:
-
-- **The Man in the Glass**: The Bible speaks of a man who hears the word but doesn't do it, and then "Forgets what manner of man he was." For a worker, that is **Structural Amnesia**. It means if you aren't [Doing the Work](/wiki/node/moral_labor), you don't actually know who you are. Your "Face" is your [Material Output](/wiki/node/rituals_of_consequence).
-- **Losing Your Soul**: The Bible asks "What is a man profited if he shall gain the whole world and lose his own soul?" For a worker, the "Soul" is your **Structural Integrity**. It’s the fact that your name means something solid. If you sell out your town for [Money](/wiki/node/the_commodity_form), you've lost your "Soul"—meaning you've lost your place in the [Record](/wiki/node/the_bible_as_sediment).
+### II. The Scriptural Anchor
+- **James 1:23-24**: "For if any be a hearer of the word, and not a doer, he is like unto a man beholding his natural face in a glass: For he beholdeth himself, and goeth his way, and straightway forgetteth what manner of man he was."
+- **Unique Mapping**: Christianity uniquely identifies "Identity" (The Self) not as an internal feeling, but as **Material Output**. In industrial terms, if you are not [Doing the Work](/wiki/node/moral_labor), you are in a state of **Structural Amnesia**. Your true "Face" is the record of the [Bridges Built](/wiki/node/dignity_structural) and the [Neighbors Protected](/wiki/node/shared_trust). The "Self" is the **Integrity of the Record**.
 
 ### III. The Outcome: A World with a Name
 The value of this way of thinking is that it clears away the **Fake Identities**. It stops you from worrying about whether you "Feel" enough [Faith](/wiki/node/the_materialist_axiom) and focuses you on whether you are **Bearing the Load**. The success of the Structural-Self lens is measured by **Durability**. If a man is still standing and still helping his town after twenty years of pressure, then the lens is verified. The [Church](/wiki/node/the_church_as_structural_anchor) is the "Audit Shop" where we make sure everyone's name is still solid in the book of life.

@@ -19,11 +19,9 @@ To understand this lens, you only have to look at how you choose a mechanic. You
 
 The [Vampires](/wiki/node/social_vampirism) want to destroy this. They want you to trust a "Brand" or a "Political Party" (Public Trust) more than you trust the guy next door. Why? Because you can’t hold a brand accountable, but you *can* talk to your neighbor.
 
-### II. The Secret of the Council
-This lens relies on a simple biblical truth that every worker understands:
-
-- **The Real Council**: The Bible speaks of the "Secret of the Lord" being with those who sit together in a council. For a worker, that is **Intimate Coordination**. True power is in the small circle of folks who actually [Know your Name](/wiki/node/cognitive_continuity_rights). 
-- **The Neighbor-Audit**: Jesus told a story about a "Good Samaritan" who helped a man on the side of the road while the "Religious Leaders" walked away. For a worker, that is **Functional Proximity**. Trust is not about having the "Right Religion" or the "Right Titles"; it is about who shows up when you’re in a ditch. The Samaritan had **Local Weight** because he did the physical work.
+### II. The Scriptural Anchor
+- **1 Timothy 5:8**: "But if any provide not for his own, and specially for those of his own house, he hath denied the faith, and is worse than an infidel."
+- **Unique Mapping**: Christianity uniquely identifies the "Inner Circuit" (the House/Local Trust) as the **Core Power Source**. In industrial terms, if the **Primary Load** (the family and neighborhood) is not powered/maintained, the entire system is in a state of **Structural Infidelity**. Public Trust is a secondary "Grid" that must not be allowed to drain the local battery or blow the local fuse.
 
 ### III. The Outcome: A World of High Liability
 The value of this way of thinking is that it restores **Personal Power**. It stops you from being a "Fan" of far-away people who don't care about you and makes you a **Resident** of your own town. The success of the Knowing-Your-Neighbor lens is measured by **Shared Strength**. If a town can solve its own problems through its own [Local Fund](/wiki/node/shared_trust) and its own councils without asking for "Public Permission," then the lens is verified. The [Church](/wiki/node/the_church_as_structural_anchor) is the "Local Council" where we keep our trust close and our liabilities high.

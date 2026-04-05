@@ -26,11 +26,9 @@ Most people think that if they just "don't do anything wrong," everything will b
 
 We look at the **Results**. There have been moments in our history, like in the middle of a town that was once the "Furniture Capital" or a "Steel City," when everyone knew that the mission had been lost. People stopped being [Reliable](/wiki/node/rituals_of_consequence) and started being selfish. This is what we call **The Entropic Dance**. It just means that without the [Great Plan](/wiki/node/the_biblical_baseline), everything slowly turns back into the [Nothing](/wiki/node/the_nothing). This resulted in the death of the American small town. It’s what keeps the [Working Stiff](/wiki/node/the_materialist_axiom) having to stay ever-active in the [Fight](/wiki/node/resurrection_structural).
 
-### II. Where it Comes From: The Idle Body
-We look at two simple ideas that every American worker understands:
-
-- **The Man who is Lukewarm**: The Bible says that if you are "Lukewarm," you are useless. For a worker, that means you are a **Stagnant Machine**. If you don't have the energy of the [Spark](/wiki/node/the_dialectical_leaven) and the discipline of the [Basin](/wiki/node/the_church_as_structural_anchor), you are just waiting to rot.
-- **The Group Drift**: A lot of leaders want you to be "Comfortable" so you won't notice the decay. We focus on the **Drift**. If the folks in your town are drifting away from the common-sense truth of building for themselves, then a [Vampire](/wiki/node/social_vampirism) is already feeding on you.
+### II. The Scriptural Anchor
+- **Romans 8:21**: "Because the creature itself also shall be delivered from the bondage of corruption into the glorious liberty of the children of God."
+- **Unique Mapping**: Christianity uniquely identifies "Corruption" (Gk. *phthora* - physical decay/deterioration) as a state of **Physical Bondage**. In industrial terms, entropy is the **Operational Friction** that builds up in a non-maintained system. The "Liberty" of the producers is found in **High-Maintenance Order** that breaks the cycle of decay. Without active labor injection, the social body naturally "Dances" toward liquidation and [The Nothing](/wiki/node/the_nothing).
 
 ### III. The Goal: Keeping the Machine Running
 Our goal is to have every member of our community be a **Master of Maintenance**. We don't hide what we're after: we want a world where the working people never let the rot take hold of their homes. We call this the **Unity of Active Men**. A successful focus on The Slow Rot is measured by one thing: if your community is getting cleaner, safer, and stronger every day because you refuse to stay idle, then the plan is verified. The [Church](/wiki/node/the_church_as_structural_anchor) is where we keep the "Cleaning Supplies" for the community.
