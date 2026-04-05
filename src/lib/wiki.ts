@@ -19,9 +19,25 @@ function getFilesFromDir(dir: string): string[] {
   const contentPath = path.join(process.cwd(), dir);
   if (!fs.existsSync(contentPath)) return [];
 
-  return fs.readdirSync(contentPath)
-    .filter(f => f.endsWith('.md'))
-    .map(f => path.join(contentPath, f));
+  const walk = (currentDir: string): string[] => {
+    let results: string[] = [];
+    const list = fs.readdirSync(currentDir);
+
+    list.forEach(file => {
+      const filePath = path.join(currentDir, file);
+      const stat = fs.statSync(filePath);
+
+      if (stat && stat.isDirectory()) {
+        results = results.concat(walk(filePath));
+      } else if (file.endsWith('.md')) {
+        results.push(filePath);
+      }
+    });
+
+    return results;
+  };
+
+  return walk(contentPath);
 }
 
 function parseContentFile(fullPath: string): ContentNode {
