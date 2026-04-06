@@ -1,70 +1,40 @@
-# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+# ---------------------------------------------------------
+# WILLIAM ENGINE: STACK ISOLATION (FIXED)
+# ---------------------------------------------------------
 
-# dependencies
-/node_modules
-/.pnp
-.pnp.*
-.yarn/*
-!.yarn/patches
-!.yarn/plugins
-!.yarn/releases
-!.yarn/versions
-
-# testing
-/coverage
-
-# next.js
-/.next/
-/out/
-
-# production
-/build
-
-# misc
+# Internal Mind & Lab (IGNORE PERMANENTLY)
+william-engine/
+intelligence/
+brain/
+knowledge_db/
+backups/
+docs/
+tmp/
+scripts/
+archives/
+Bible Morph/
+Bible Translation/
+node_modules/
+.next/
+out/
+.vercel/
 .DS_Store
-*.pem
 
-# debug
+# Forensic Artifacts & Clutter
+*.docx
+*.pdf
+*.zip
+*.log
+*.ps1
+*.mjs
+*.py
+*.txt
+!llms.txt
+!robots.txt
+
+# Website Configuration
+.env*
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
-.pnpm-debug.log*
-
-# env files (can opt-in for committing if needed)
-.env*
-
-# vercel
-.vercel
-
-# typescript
-*.tsbuildinfo
-next-env.d.ts
-
-# Emergency Asset Protocol - Do NOT sync to GitHub
-/william-engine/archives/
-/William Backup Full.zip
-/William Backup Full/
-/MANAGEMENT/
-*.zip
-*.7z
-*.rar
-
-# William Engine Protection
-# We keep the brain (nodes) and scripts, but ignore the massive archives.
-/william-engine/archives/
-/william-engine/archive/
-/william-engine/scripts/tmp/
-
-# Forensic extraction artifacts
-v2_audit/
-v2_tmp/
-zip_inventory.txt
-/Bible Translation/Volume2_Context/
-
-# Source documents (keep locally, ignore for sync)
-*.docx
-*.pdf
-
-# Maintenance Backups
-backups/
-
+.vscode/
