@@ -1,0 +1,104 @@
+{
+  "essays": {
+    "the_industrial_real": {
+      "title": "The Industrial Real",
+      "path": "content/wiki/essays/the_industrial_real.md"
+    },
+    "the_kingdom_of_labor": {
+      "title": "The Kingdom of Labor",
+      "path": "content/wiki/essays/the_kingdom_of_labor.md"
+    },
+    "the_materialist_axiom": {
+      "title": "The Materialist Axiom",
+      "path": "content/wiki/essays/the_materialist_axiom.md"
+    },
+    "the_structural_self": {
+      "title": "The Structural Self",
+      "path": "content/wiki/essays/the_structural_self.md"
+    },
+    "the_survival_check": {
+      "title": "The Survival Check",
+      "path": "content/wiki/essays/the_survival_check.md"
+    },
+    "the_third_category": {
+      "title": "The Third Category",
+      "path": "content/wiki/essays/the_third_category.md"
+    },
+    "the_mark_of_cain": {
+      "title": "The Mark of Cain",
+      "path": "content/wiki/essays/the_mark_of_cain.md"
+    }
+  },
+  "nodes": {
+    "4d_time_snake": {
+      "title": "4D Time Snake",
+      "path": "content/wiki/nodes/4d_time_snake.md"
+    },
+    "antagonistic_labor": {
+      "title": "Antagonistic Labor",
+      "path": "content/wiki/nodes/antagonistic_labor.md"
+    },
+    "apostolic_motion": {
+      "title": "Apostolic Motion",
+      "path": "content/wiki/nodes/apostolic_motion.md"
+    },
+    "behavioral_gravity": {
+      "title": "Behavioral Gravity",
+      "path": "content/wiki/nodes/behavioral_gravity.md"
+    },
+    "borrowed_happiness": {
+      "title": "Borrowed Happiness",
+      "path": "content/wiki/nodes/borrowed_happiness.md"
+    },
+    "canon_as_pressure": {
+      "title": "Canon as Pressure",
+      "path": "content/wiki/nodes/canon_as_pressure.md"
+    },
+    "capital_as_vampire": {
+      "title": "Capital as Vampire",
+      "path": "content/wiki/nodes/capital_as_vampire.md"
+    },
+    "trust_as_commodity": {
+      "title": "Trust as Commodity",
+      "path": "content/wiki/nodes/trust_as_commodity.md"
+    },
+    "well_water_principle": {
+      "title": "Well Water Principle",
+      "path": "content/wiki/nodes/well_water_principle.md"
+    },
+    "the_nothing": {
+      "title": "The Nothing",
+      "path": "content/wiki/nodes/the_nothing.md"
+    },
+    "forensic_audit_method": {
+      "title": "Forensic Audit Method",
+      "path": "content/wiki/nodes/forensic_audit_method.md"
+    }
+  },
+  "bible": {
+    "gen_1_rhythm": {
+      "title": "Genesis 1:1—2:3: The Rhythm of Realization",
+      "path": "content/wiki/bible/gen_1_rhythm.md"
+    },
+    "gen_2_3_rupture": {
+      "title": "Genesis 2—3: The Rupture of Human Capital",
+      "path": "content/wiki/bible/gen_2_3_rupture.md"
+    },
+    "gen_4_11_reset": {
+      "title": "Genesis 4—11: The Mechanical Reset",
+      "path": "content/wiki/bible/gen_4_11_reset.md"
+    },
+    "gen_12_25_property": {
+      "title": "Genesis 12—25: The Territorial Anchor",
+      "path": "content/wiki/bible/gen_12_25_property.md"
+    },
+    "gen_24_27_inheritance": {
+      "title": "Genesis 24—27: The Mechanics of Continuity",
+      "path": "content/wiki/bible/gen_24_27_inheritance.md"
+    },
+    "gen_28_36_jacob_kernel": {
+      "title": "Genesis 28—36: The Jacob Machine & Orbital Infrastructure",
+      "path": "content/wiki/bible/gen_28_36_jacob_kernel.md"
+    }
+  }
+}

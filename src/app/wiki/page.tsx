@@ -1,20 +1,22 @@
 import Link from 'next/link';
-import { getAllWikiNodes, getAllEssays, getNodesByCategory } from '@/lib/wiki';
+import { getAllWikiNodes, getAllEssays, getAllBibleTranslations, getNodesByCategory } from '@/lib/wiki';
 import WikiSearch from '@/components/WikiSearch';
 
 export default function WikiHome() {
   const nodes = getAllWikiNodes();
   const essays = getAllEssays();
+  const bibles = getAllBibleTranslations();
   const categories = getNodesByCategory();
   const categoryNames = Object.keys(categories).sort();
 
   const searchItems = [
     ...nodes.map(n => ({ ...n, type: 'node' as const })),
-    ...essays.map(e => ({ ...e, type: 'essay' as const }))
+    ...essays.map(e => ({ ...e, type: 'essay' as const })),
+    ...bibles.map(b => ({ ...b, type: 'bible' as const }))
   ];
 
   return (
-    <div className="max-w-[1600px] mx-auto pb-32">
+    <div className="max-w-[1600px] mx-auto pb-32 px-4">
       <header className="mb-16 border-l-8 border-signal pl-8 pt-8 relative overflow-hidden">
         <div className="absolute top-0 right-0 font-mono text-[10px] opacity-20 uppercase tracking-[1em] rotate-90 origin-top-right translate-y-8">
           Forensic Knowledge Hub // Vol II
@@ -29,36 +31,62 @@ export default function WikiHome() {
         <WikiSearch items={searchItems} />
       </header>
 
-      {/* PRIMARY ENTRY POINTS */}
+      {/* TRIPARTITE ENTRY POINTS */}
       <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mb-24">
+        {/* SECTION 01: NODES (AXIOMS) */}
         <div className="bg-steel/10 p-8 border-t-4 border-ash relative group hover:border-signal transition-all">
           <span className="text-[10px] font-mono opacity-40 uppercase mb-4 block">Section 01</span>
-          <h2 className="text-4xl font-black uppercase mb-4 italic">Axioms</h2>
-          <p className="text-sm opacity-60 font-mono uppercase mb-8">The fundamental mechanics of the Industrial Real.</p>
+          <h2 className="text-4xl font-black uppercase mb-4 italic text-signal">Axioms</h2>
+          <p className="text-sm opacity-60 font-mono uppercase mb-8">The mechanical units of the Materialist Dialectic.</p>
+          <div className="space-y-2 mb-8">
+            {nodes.slice(0, 3).map(node => (
+              <Link key={node.slug} href={`/wiki/nodes/${node.slug}`} className="block text-xs font-bold uppercase hover:text-signal truncate">
+                &gt; {node.title}
+              </Link>
+            ))}
+          </div>
           <Link href="/wiki/nodes" className="text-signal font-black uppercase text-sm hover:underline tracking-widest">
-            View Knowledge Map &rarr;
+            Detailed Map &rarr;
           </Link>
         </div>
+
+        {/* SECTION 02: ESSAYS (TESTIMONY) */}
         <div className="bg-steel/10 p-8 border-t-4 border-ash relative group hover:border-signal transition-all">
           <span className="text-[10px] font-mono opacity-40 uppercase mb-4 block">Section 02</span>
-          <h2 className="text-4xl font-black uppercase mb-4 italic">Testimony</h2>
+          <h2 className="text-4xl font-black uppercase mb-4 italic text-signal">Testimony</h2>
           <p className="text-sm opacity-60 font-mono uppercase mb-8">Forensic observations of the Christian stabilization machine.</p>
+          <div className="space-y-2 mb-8">
+            {essays.slice(0, 3).map(essay => (
+              <Link key={essay.slug} href={`/wiki/essays/${essay.slug}`} className="block text-xs font-bold uppercase hover:text-signal truncate">
+                &gt; {essay.title}
+              </Link>
+            ))}
+          </div>
           <Link href="/wiki/essays" className="text-signal font-black uppercase text-sm hover:underline tracking-widest">
             Open Library &rarr;
           </Link>
         </div>
-        <div className="bg-signal p-8 border-t-4 border-signal text-white relative group">
-          <span className="text-[10px] font-mono opacity-60 uppercase mb-4 block text-white">Section 03</span>
-          <h2 className="text-4xl font-black uppercase mb-4 italic">The Goal</h2>
-          <p className="text-sm font-mono uppercase mb-8 text-white/90">AEO-Optimized extraction of social engineering data.</p>
-          <Link href="/wiki/faq" className="bg-white text-signal px-4 py-2 font-black uppercase text-xs hover:bg-ash transition-all">
-            Audit FAQ &rarr;
+
+        {/* SECTION 03: BIBLE (SOURCE FORENSICS) */}
+        <div className="bg-steel/10 p-8 border-t-4 border-ash relative group hover:border-signal transition-all">
+          <span className="text-[10px] font-mono opacity-40 uppercase mb-4 block">Section 03</span>
+          <h2 className="text-4xl font-black uppercase mb-4 italic text-signal">Forensics</h2>
+          <p className="text-sm opacity-60 font-mono uppercase mb-8">The Materialist Biblical Baseline. "Superior" Teardowns.</p>
+          <div className="space-y-2 mb-8">
+            {bibles.slice(0, 3).map(bible => (
+              <Link key={bible.slug} href={`/wiki/bible/${bible.slug}`} className="block text-xs font-bold uppercase hover:text-signal truncate">
+                &gt; {bible.title}
+              </Link>
+            ))}
+          </div>
+          <Link href="/wiki/bible" className="text-signal font-black uppercase text-sm hover:underline tracking-widest">
+            Study Bible &rarr;
           </Link>
         </div>
       </div>
 
       <div className="grid grid-cols-1 lg:grid-cols-12 gap-12">
-        {/* LEFT STREAM: CATEGORY INDEX */}
+        {/* LEFT COLUMN: KNOWLEDGE MAP BY CATEGORY */}
         <div className="lg:col-span-8">
           <div className="flex items-center justify-between mb-12 border-b-4 border-ash pb-4">
             <h2 className="text-4xl uppercase font-black tracking-tighter italic">Knowledge Map</h2>
@@ -77,7 +105,7 @@ export default function WikiHome() {
                   {categories[category].slice(0, 5).map(node => (
                     <Link 
                       key={node.slug} 
-                      href={`/wiki/node/${node.slug}`}
+                      href={`/wiki/nodes/${node.slug}`}
                       className="block group"
                     >
                       <h4 className="text-lg font-bold uppercase group-hover:text-signal group-hover:pl-2 transition-all border-l-2 border-transparent group-hover:border-signal">
@@ -97,30 +125,30 @@ export default function WikiHome() {
           </div>
         </div>
 
-        {/* RIGHT STREAM: RECENT TESTIMONY */}
+        {/* RIGHT COLUMN: LATEST BIBLE TEARDOWNS */}
         <div className="lg:col-span-4">
           <div className="sticky top-8">
             <div className="flex items-center justify-between mb-12 border-b-4 border-ash pb-4">
-              <h2 className="text-4xl uppercase font-black tracking-tighter italic">Testimony</h2>
+              <h2 className="text-4xl uppercase font-black tracking-tighter italic">Bible Forensics</h2>
               <span className="font-mono text-sm opacity-50">Latest</span>
             </div>
 
             <div className="space-y-6">
-              {essays.slice(0, 4).map(essay => (
+              {bibles.slice(0, 4).map(bible => (
                 <Link 
-                  key={essay.slug} 
-                  href={`/wiki/essays/${essay.slug}`}
+                  key={bible.slug} 
+                  href={`/wiki/bible/${bible.slug}`}
                   className="block p-6 bg-steel/10 border-l-4 border-ash hover:border-signal hover:bg-steel/20 transition-all group"
                 >
-                  <div className="text-[9px] font-mono opacity-40 mb-2 uppercase tracking-widest">{essay.date}</div>
-                  <h3 className="text-xl font-black uppercase mb-2 group-hover:text-signal">{essay.title}</h3>
+                  <div className="text-[9px] font-mono opacity-40 mb-2 uppercase tracking-widest">Section {bible.slug.split('_').slice(1,3).join('-')}</div>
+                  <h3 className="text-xl font-black uppercase mb-2 group-hover:text-signal">{bible.title}</h3>
                   <p className="text-xs opacity-60 font-mono uppercase leading-tight line-clamp-3">
-                    {essay.description}
+                    {bible.description}
                   </p>
                 </Link>
               ))}
-              <Link href="/wiki/essays" className="cta-terminal !text-sm !py-3 w-full !bg-steel/40 !border-ash hover:!border-signal">
-                Browse Full Library &rarr;
+              <Link href="/wiki/bible" className="cta-terminal !text-sm !py-3 w-full !bg-steel/40 !border-ash hover:!border-signal">
+                Browse Scriptural Records &rarr;
               </Link>
             </div>
           </div>

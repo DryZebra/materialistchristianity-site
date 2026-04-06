@@ -23,7 +23,7 @@ This logical chunk documents the **Abrahamic Cycle**. We reject the "Nursery Sch
 
 ### I. MORPHOLOGICAL GROUNDING (THE REBAR)
 
-We strip away the religious gloss to expose the "Applied Physics" of the text. Definitions from the [Materialist Lexicon](/wiki/node/scripts/materialist_lexicon).
+We strip away the religious gloss to expose the "Applied Physics" of the text. Definitions from the [Materialist Lexicon](/wiki/nodes/scripts/materialist_lexicon).
 
 *   **Zera (H2233)**: Seed/Capital. The absolute monopoly on generational wealth and future production.
 *   **Isha (H480)**: Structural Human Capital. The female body as a managed asset for diplomatic leverage.
@@ -76,3 +76,4 @@ In Genesis 22, the system (The Cleaver) demands the blood of the son to maintain
 
 > [!IMPORTANT]
 > **Forensic Audit**: Genesis 23 is the diagnostic for all property-based religions. Any structure that prioritizes the "Deed of Trust" or the "Grave of Ancestors" over the living proletariat is a repetition of the **Achuzat Kever**. Christ breaks the math of the vault.
+

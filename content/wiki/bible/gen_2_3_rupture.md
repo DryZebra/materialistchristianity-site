@@ -23,7 +23,7 @@ This teardown documents the formation of the **Vanguard Structure** (Adam) and t
 
 ### I. MORPHOLOGICAL GROUNDING (THE REBAR)
 
-We strip away the religious gloss to expose the "Applied Physics" of the text. Definitions from the [Materialist Lexicon](/wiki/node/scripts/materialist_lexicon).
+We strip away the religious gloss to expose the "Applied Physics" of the text. Definitions from the [Materialist Lexicon](/wiki/nodes/scripts/materialist_lexicon).
 
 *   **Adam (H121)**: The Ground-Man. A biological extension of the primary substrate (*Eretz*).
 *   **Isha (H480)**: Structural human capital. In the context of scarcity, the female body as a reproductive asset.
@@ -74,3 +74,4 @@ In Genesis 3, the Serpent uses a "Clean Technicality" to mask the material plund
 
 > [!IMPORTANT]
 > **Forensic Audit**: Genesis 2-3 is the crime scene report of the human species. The "Fall" is the moment we began treating the Real as a **Resource to be Plundered** rather than a **Rhythm to be Maintained**. Every "Possessive" structure (*Baal*) is a repetition of this original Rupture.
+

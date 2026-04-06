@@ -27,7 +27,7 @@ This teardown initiates a **System Override**. We reject the "Magic" of creation
 
 ### I. MORPHOLOGICAL GROUNDING (THE REBAR)
 
-We strip away the "Sunday School fluff" to expose the structural skeletal structure (Morphology). All definitions are anchored in the [Materialist Lexicon](/wiki/node/scripts/materialist_lexicon).
+We strip away the "Sunday School fluff" to expose the structural skeletal structure (Morphology). All definitions are anchored in the [Materialist Lexicon](/wiki/nodes/scripts/materialist_lexicon).
 
 *   **B'reshit (H7225)**: At the initial zero-point of the sequence.
 *   **Bara (H1254)**: To fatten, fill, or increase structural mass/density.
@@ -83,3 +83,4 @@ In Genesis, the *Beginning* is the injection of the Command-Signal into the Nois
 > [!IMPORTANT]
 > **Forensic Audit**: Genesis 1 proves the universe is **Logical and Partitioned**. Any ideology that seeks to dissolve these partitions (e.g., modern Gnosticism or the "Spiritualized" void) is an invitation back into the **Tehom (Abyss)**. The Beginning is the Mandatory Protocol that precedes the noise of our failure.
 lure.
+

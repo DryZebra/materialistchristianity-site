@@ -18,7 +18,7 @@ History is the record of material consequences, not abstract ideas:
 1.  **Primordiality**: Matter existed before the subject's awareness. The "Rock" of reality is prior to the stories we tell about it.
 2.  **Historical Conditions**: As Marx observed, men make history, but not in conditions of their own choosing. Christianity is the primary historical condition of the West.
 3.  **Ideological Apparatuses**: Althusser's logic of the "Subject" explains how Christianity formed the ethical baseline of the modern world, even in those who consciously reject belief (Tocqueville's Christian-formed subject).
-4.  **The Leaven**: The "Dialectical Leaven" is the historical process that transforms the raw material of human labor into the [Kingdom of Labor](/wiki/node/the_kingdom_of_labor).
+4.  **The Leaven**: The "Dialectical Leaven" is the historical process that transforms the raw material of human labor into the [Kingdom of Labor](/wiki/nodes/the_kingdom_of_labor).
 
 ## God is the Name of the Real
 
@@ -31,9 +31,10 @@ In a Pure MC context, one does not "believe" in God; one accounts for Him as the
 
 In a Pure MC analysis, one looks for the "Rupture" of the Axiom:
 
--   **Reinterpretation or Explanation?**: Does the structure claim to "re-read" the Bible, or does it explain the historical-material effect of its [Lived Truth](/wiki/node/consequence_as_truth)?
+-   **Reinterpretation or Explanation?**: Does the structure claim to "re-read" the Bible, or does it explain the historical-material effect of its [Lived Truth](/wiki/nodes/consequence_as_truth)?
 -   **The American Founding**: Can the movement trace the Christian-formed ethical baseline in figures like Paine, Adams, and Tocqueville? (The Secular Residue).
--   **The Scientific Bridge**: Is the idea a bridge to the Real, or a distraction into the [Nothing](/wiki/node/the_nothing)?
+-   **The Scientific Bridge**: Is the idea a bridge to the Real, or a distraction into the [Nothing](/wiki/nodes/the_nothing)?
 
 > [!IMPORTANT]
 > The Materialist Axiom is the only ground that cannot be "shaken." It is the starting point of the Gospel—the recognition that the "Word" became "Flesh"—that meaning became **Matter** to save us.
+

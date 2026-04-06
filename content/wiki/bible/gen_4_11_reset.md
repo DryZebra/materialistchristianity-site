@@ -23,7 +23,7 @@ This teardown documents the escalation of environmental and social **Noise** tha
 
 ### I. MORPHOLOGICAL GROUNDING (THE REBAR)
 
-We strip away the religious gloss to expose the "Applied Physics" of the text. Definitions from the [Materialist Lexicon](/wiki/node/scripts/materialist_lexicon).
+We strip away the religious gloss to expose the "Applied Physics" of the text. Definitions from the [Materialist Lexicon](/wiki/nodes/scripts/materialist_lexicon).
 
 *   **Qayin (H7014)**: Acquisition. The claim of ownership over labor; the first "Industrial" subject.
 *   **Hebel (H1891)**: Vocal Breath/Transience. The subject who moves with the rhythm of the Beginning; the non-commodifiable signal.
@@ -72,3 +72,4 @@ In Genesis 11, the species tries to build a centralized "Grid" using a "Shared N
 > [!IMPORTANT]
 > **Forensic Audit**: Genesis 4—11 documents the **Anti-Entropy Protocol**. The universe does not tolerate the "Noise" of consolidated extraction indefinitely. Every "Tower" eventually fragments, and every "Cain" eventually faces the mechanical reset of the field.
 ailure.
+

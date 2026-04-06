@@ -61,7 +61,7 @@ function parseContentFile(fullPath: string): ContentNode {
 
 // Wiki Nodes (Axioms/Mechanics)
 export function getAllWikiNodes(): ContentNode[] {
-  return getFilesFromDir('content/wiki').map(parseContentFile).sort((a, b) => a.slug.localeCompare(b.slug));
+  return getFilesFromDir('content/wiki/nodes').map(parseContentFile).sort((a, b) => a.slug.localeCompare(b.slug));
 }
 
 export function getWikiNodeBySlug(slug: string): ContentNode | null {
@@ -71,12 +71,22 @@ export function getWikiNodeBySlug(slug: string): ContentNode | null {
 
 // Essays (Testimony)
 export function getAllEssays(): ContentNode[] {
-  return getFilesFromDir('content/essays').map(parseContentFile).sort((a, b) => a.slug.localeCompare(b.slug));
+  return getFilesFromDir('content/wiki/essays').map(parseContentFile).sort((a, b) => a.slug.localeCompare(b.slug));
 }
 
 export function getEssayBySlug(slug: string): ContentNode | null {
   const essays = getAllEssays();
   return essays.find(e => e.slug === slug) || null;
+}
+
+// Bible Translations (Source Forensics)
+export function getAllBibleTranslations(): ContentNode[] {
+  return getFilesFromDir('content/wiki/bible').map(parseContentFile).sort((a, b) => a.slug.localeCompare(b.slug));
+}
+
+export function getBibleBySlug(slug: string): ContentNode | null {
+  const bibles = getAllBibleTranslations();
+  return bibles.find(b => b.slug === slug) || null;
 }
 
 export function getNodesByCategory(): Record<string, ContentNode[]> {

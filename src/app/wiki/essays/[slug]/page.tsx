@@ -2,20 +2,12 @@ import { Metadata } from 'next';
 import Link from 'next/link';
 import ReactMarkdown from 'react-markdown';
 import remarkGfm from 'remark-gfm';
-import { getAllEssays, getEssayBySlug, getWikiNodeBySlug, getAllWikiNodes } from '@/lib/wiki';
+import { getAllEssays, getEssayBySlug } from '@/lib/wiki';
 import { transformWikiLinks } from '@/lib/markdown';
 
 export async function generateStaticParams() {
   const essays = getAllEssays();
-  // Include all nodes in static params so they are all reachable via /wiki/essays/[slug]
-  const nodes = getAllWikiNodes();
-  
-  const allParams = [
-    ...essays.map(e => ({ slug: e.slug })),
-    ...nodes.map(n => ({ slug: n.slug }))
-  ];
-  
-  return allParams;
+  return essays.map(essay => ({ slug: essay.slug }));
 }
 
 export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }): Promise<Metadata> {
@@ -30,30 +22,14 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   }
 
   return {
-    title: `${essay.title} | Forensic Testimony`,
+    title: `${essay.title} | Testimony`,
     description: essay.description,
-    openGraph: {
-      title: essay.title,
-      description: essay.description,
-      type: 'article',
-      tags: essay.tags,
-    }
   };
 }
 
 export default async function EssayPage({ params }: { params: Promise<{ slug: string }> }) {
   const { slug } = await params;
-  let essay = getEssayBySlug(slug);
-  let isNodeFallback = false;
-
-  if (!essay) {
-    // Fallback to wiki nodes if not found in essays
-    const node = getWikiNodeBySlug(slug);
-    if (node) {
-      essay = node;
-      isNodeFallback = true;
-    }
-  }
+  const essay = getEssayBySlug(slug);
   
   if (!essay) {
     return (
@@ -62,82 +38,53 @@ export default async function EssayPage({ params }: { params: Promise<{ slug: st
         <p className="mt-4 font-mono uppercase opacity-60 text-xl max-w-2xl">
           Testimony [{slug}] has not yet been processed for the public record. 
         </p>
-        <Link href="/wiki" className="mt-12 cta-terminal">
-          Return to Hub Node
-        </Link>
+        <Link href="/wiki" className="mt-12 cta-terminal">Return to Hub</Link>
       </div>
     );
   }
 
-  const essaySchema = {
-    "@context": "https://schema.org",
-    "@type": "BlogPosting",
-    "headline": essay.title,
-    "description": essay.description,
-    "author": { "@type": "Person", "name": "Ezra Byrd" },
-    "publisher": { "@type": "Organization", "name": "Materialist Christianity Press" }
-  };
-
   return (
-    <article className="p-8 md:p-24 bg-concrete text-ash min-h-screen">
-      <head>
-        <script
-          type="application/ld+json"
-          dangerouslySetInnerHTML={{ __html: JSON.stringify(essaySchema) }}
-        />
-      </head>
-      
-      <nav className="mb-12 border-b-2 border-ash pb-4 flex justify-between items-center">
-        <Link href="/wiki" className="text-sm font-mono uppercase hover:text-signal transition-colors tracking-widest font-bold">
-          &larr; Return to Archive Hub
-        </Link>
-        <span className="text-xs font-mono opacity-50 uppercase tracking-tighter">Forensic Testimony // {essay.slug}</span>
+    <article className="bg-concrete text-ash min-h-screen px-4 py-12">
+      <nav className="mb-12 border-b-2 border-ash/20 pb-4 max-w-5xl mx-auto flex justify-between items-center">
+        <div className="breadcrumb">
+          <Link href="/wiki" className="hover:text-signal">Archive</Link>
+          <span className="breadcrumb-sep"></span>
+          <Link href="/wiki/essays" className="hover:text-signal">Testimony</Link>
+          <span className="breadcrumb-sep"></span>
+          <span className="text-signal">{essay.title}</span>
+        </div>
       </nav>
 
-      <header className="max-w-4xl mb-16">
-        <div className="flex gap-2 mb-4 text-xs font-mono uppercase tracking-widest opacity-50">
-          <span className="text-signal font-bold">{essay.category}</span>
-          {essay.tags.map(tag => (
-            <span key={tag} className="before:content-['#']">{tag}</span>
-          ))}
+      <header className="max-w-4xl mx-auto mb-16">
+        <div className="flex gap-2 mb-4 text-[10px] font-mono uppercase tracking-widest opacity-50 font-black">
+          TESTIMONY // {essay.category} // {essay.date}
         </div>
-        <h1 className="text-5xl md:text-8xl mb-8 leading-[0.9] uppercase font-black">{essay.title}</h1>
-        <div className="bg-ash text-concrete p-8 border-l-[12px] border-signal font-bold mb-12">
-          <span className="uppercase text-xs block mb-2 opacity-50 font-mono tracking-widest">Forensic Summary (AEO/SEO Audit):</span>
-          <p className="text-xl md:text-2xl leading-tight italic">"{essay.description}"</p>
+        <h1 className="text-5xl md:text-8xl mb-8 leading-[0.9] uppercase font-black italic tracking-tighter">
+          {essay.title}
+        </h1>
+        <div className="bg-ash text-concrete p-8 border-l-[12px] border-signal font-bold mb-12 shadow-[12px_12px_0_rgba(0,0,0,0.4)]">
+          <p className="text-xl md:text-2xl leading-tight uppercase">"{essay.description}"</p>
         </div>
       </header>
 
-      <section className="max-w-4xl text-lg md:text-2xl leading-relaxed font-serif border-b-4 border-ash pb-16 markdown-real">
+      <section className="max-w-4xl mx-auto text-lg md:text-2xl leading-relaxed markdown-real">
         <ReactMarkdown remarkPlugins={[remarkGfm]}>
           {transformWikiLinks(essay.content)}
         </ReactMarkdown>
       </section>
 
       {essay.related && essay.related.length > 0 && (
-        <section className="mt-16 max-w-4xl">
-          <h4 className="text-xl font-black uppercase mb-6 border-b-2 border-ash pb-2 text-signal">Foundational Logic</h4>
+        <section className="mt-24 max-w-4xl mx-auto border-t-4 border-ash pt-8">
+          <h4 className="text-xl font-black uppercase mb-6 text-signal">Foundational Logic</h4>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
             {essay.related.map(rel => (
-              <Link key={rel} href={`/wiki/node/${rel}`} className="brutalist-card p-4 border-signal/40 hover:border-signal text-sm uppercase font-bold">
+              <Link key={rel} href={`/wiki/nodes/${rel}`} className="brutalist-card p-4 hover:border-signal text-sm uppercase font-bold">
                 {rel.replace(/_/g, ' ')} &rarr;
               </Link>
             ))}
           </div>
         </section>
       )}
-
-      <footer className="mt-24 p-12 border-4 border-ash text-center max-w-4xl mx-auto">
-        <h2 className="text-4xl md:text-6xl mb-6 uppercase">The Work Continues</h2>
-        <p className="mb-12 opacity-70 text-lg md:text-xl font-mono uppercase tracking-tight">
-          This testimony serves as external validation of the primary manuscript.
-        </p>
-        <div className="flex flex-col md:flex-row gap-6 justify-center">
-          <a href="https://www.amazon.com/dp/B0FMN5PDZ4" className="cta-terminal">
-            Secure the Physical Record &mdash; $19.99
-          </a>
-        </div>
-      </footer>
     </article>
   );
 }
