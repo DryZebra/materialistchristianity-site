@@ -1,5 +1,7 @@
 import { Metadata } from 'next';
 import Link from 'next/link';
+import fs from 'fs';
+import path from 'path';
 import ReactMarkdown from 'react-markdown';
 import remarkGfm from 'remark-gfm';
 import { getAllWikiNodes, getWikiNodeBySlug, getLinkPath } from '@/lib/wiki';
@@ -32,13 +34,38 @@ export default async function WikiNodePage({ params }: { params: Promise<{ slug:
   const node = getWikiNodeBySlug(slug);
   
   if (!node) {
+    // Check for archived successors
+    const archiveMapPath = path.join(process.cwd(), 'william-engine/archive/map.json');
+    let successor = null;
+    let postMortem = null;
+    if (fs.existsSync(archiveMapPath)) {
+      const archiveMap = JSON.parse(fs.readFileSync(archiveMapPath, 'utf8'));
+      if (archiveMap[slug]) {
+        successor = archiveMap[slug].successor;
+        postMortem = archiveMap[slug].post_mortem;
+      }
+    }
+
     return (
       <div className="p-8 md:p-24 bg-concrete text-ash min-h-screen flex flex-col justify-center items-center text-center">
-        <h1 className="text-4xl md:text-8xl text-signal uppercase font-black mb-4">Logical Discontinuity</h1>
+        <h1 className="text-4xl md:text-8xl text-signal uppercase font-black mb-4">
+          {successor ? 'Node Sublated' : 'Logical Discontinuity'}
+        </h1>
         <p className="mt-4 font-mono uppercase opacity-60 text-xl max-w-2xl">
-          Axiom Node [{slug}] is not currently active. 
+          Axiom Node [{slug}] {successor ? 'has reached its historical terminal.' : 'is not currently active.'}
         </p>
-        <Link href="/wiki" className="mt-12 cta-terminal">Back to Hub</Link>
+        
+        {successor && (
+          <div className="mt-12 bg-steel/10 p-8 border-l-[12px] border-signal max-w-2xl">
+            <h3 className="text-2xl font-black uppercase mb-4 text-signal">Forensic Update</h3>
+            <p className="text-sm font-mono opacity-80 uppercase leading-relaxed mb-8">
+              Post-Mortem: {postMortem}
+            </p>
+            <Link href={`/wiki/nodes/${successor}`} className="cta-terminal">Access Successor: {successor} &rarr;</Link>
+          </div>
+        )}
+
+        <Link href="/wiki" className="mt-12 opacity-50 hover:opacity-100 uppercase font-mono text-sm tracking-widest border-b border-ash pb-1">Back to Hub</Link>
       </div>
     );
   }
