@@ -20,6 +20,6 @@ The **Timeline Paradox** is the materialist proof of real existence. It asserts 
 Believing in simulation leads to **Fatalistic Decay**—the assumption that effort is redundant because the script is written. The Timeline Paradox restores the weight of action: because we are first, every steering of the Time Snake has absolute, non-repeating consequence.
 
 ## IV. CONNECTIONS
-*   **Complemented By**: [[4d_time_snake]] (The moving head), [[reverse_destiny]] (The proof's anchor).
-*   **Source Document**: [[book_of_fractals]] (The original sketch).
-*   **Result**: [[conscious_responsibility]].
+*   **Complemented By**: [4d_time_snake](/wiki/wiki/nodes/4d_time_snake) (The moving head), [reverse_destiny](/wiki/wiki/nodes/reverse_destiny) (The proof's anchor).
+*   **Source Document**: [book_of_fractals](/wiki/wiki/nodes/book_of_fractals) (The original sketch).
+*   **Result**: [conscious_responsibility](/wiki/wiki/nodes/conscious_responsibility).

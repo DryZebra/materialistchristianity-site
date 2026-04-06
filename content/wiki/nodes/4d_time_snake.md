@@ -20,6 +20,6 @@ In the Materialist Christianity lens, the **4D Time Snake** is the fundamental o
 For the social species, understanding the Time Snake removes the "Paralysis of the Minute." It dissolves the dualism of mind/body and life/death. Morality becomes the ethics of **harmonious steering**: navigating your snake without thrashing in chaos or causing unnecessary friction with the trajectories of others.
 
 ## IV. CONNECTIONS
-*   **Complemented By**: [[the_entropic_dance]], [[book_of_fractals]].
-*   **Result**: [[resurrection_structural]] (Continuity of pattern through transition).
+*   **Complemented By**: [the_entropic_dance](/wiki/wiki/nodes/the_entropic_dance), [book_of_fractals](/wiki/wiki/nodes/book_of_fractals).
+*   **Result**: [resurrection_structural](/wiki/wiki/nodes/resurrection_structural) (Continuity of pattern through transition).
 *   **Biblical Anchor**: Genesis—the "Snake" in the garden as the first representation of the introduction of directional steering (choice/alienation) into the previously unconscious flow of nature.

@@ -20,7 +20,7 @@ In the Materialist Christianity lens, **The Book of Fractals** defines the struc
 For the social species, the Fractal Psychology is the mechanism of continuity. It ensures that the "Broken Thing" (the individual) can be reconstituted through the group. It defines Salvation as the process of consciously purifying the "slices" you pass along to others—refining the patterns of the species.
 
 ## IV. CONNECTIONS
-*   **Complemented By**: [[4d_time_snake]], [[the_entropic_dance]].
-*   **Mechanism**: [[sub_object_resonance]], [[social_reinvestment_loop]].
-*   **Counter-Diagnostic**: [[the_hardness_of_heart]] (the fossilization of the fractional self against communal motion).
+*   **Complemented By**: [4d_time_snake](/wiki/wiki/nodes/4d_time_snake), [the_entropic_dance](/wiki/wiki/nodes/the_entropic_dance).
+*   **Mechanism**: [sub_object_resonance](/wiki/wiki/nodes/sub_object_resonance), [social_reinvestment_loop](/wiki/wiki/nodes/social_reinvestment_loop).
+*   **Counter-Diagnostic**: [the_hardness_of_heart](/wiki/wiki/nodes/the_hardness_of_heart) (the fossilization of the fractional self against communal motion).
 *   **Biblical Anchor**: The Bread and the Wine—the literal participation (Communion) in a shared body and blood, which is the technical requirement for the survival of the Apostolic lineage.

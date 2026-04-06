@@ -13,14 +13,14 @@ In the Materialist Christianity lens, **Trust** is the universal commodity form 
 
 ## II. TECHNICAL MECHANICS
 1.  **Expected Consequence**: Trust is the "bridge" across time. It allows a subject to exert effort (labor) into a system because the system's resonance guarantees a specific return (consequence).
-2.  **The Fracture of Trust**: When the expected consequence fails to arrive (the paycheck doesn't stretch, the roof still leaks), trust fractures. This is the beginning of [[rupture]].
-3.  **Moral Currency**: Unlike Financial Capital, which siphons motion, Trust is built through [[moral_labor]]. It is the only currency that survives a systemic collapse.
+2.  **The Fracture of Trust**: When the expected consequence fails to arrive (the paycheck doesn't stretch, the roof still leaks), trust fractures. This is the beginning of [rupture](/wiki/wiki/nodes/rupture).
+3.  **Moral Currency**: Unlike Financial Capital, which siphons motion, Trust is built through [moral_labor](/wiki/wiki/nodes/moral_labor). It is the only currency that survives a systemic collapse.
 
 ## III. SURVIVAL "WHY"
 For the early social species, trust was the only technology capable of bridging the "Now" of hunger with the "Perhaps" of the harvest. Without trust, a species is trapped in the static individual "Present" (Animism); with trust, it enters the collaborative "Future" (Social Protocol).
 
 ## IV. CONNECTIONS
-*   **Built By**: [[moral_labor]], [[the_sub_object]].
-*   **Stored As**: [[moral_capital]].
-*   **Residue Of**: [[faith_as_residue]].
+*   **Built By**: [moral_labor](/wiki/wiki/nodes/moral_labor), [the_sub_object](/wiki/wiki/nodes/the_sub_object).
+*   **Stored As**: [moral_capital](/wiki/wiki/nodes/moral_capital).
+*   **Residue Of**: [faith_as_residue](/wiki/wiki/nodes/faith_as_residue).
 *   **Biblical Anchor**: The Covenants—Abraham, Isaac, Jacob—as standardized "Contracts of Trust" that guaranteed the survival of the seed under environmental pressure.

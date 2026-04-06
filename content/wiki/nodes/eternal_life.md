@@ -20,6 +20,6 @@ In Materialist Christianity, **Eternal Life** is not a post-mortem migration to 
 This diagnostic removes the "Despair of the Grave" without relying on superstition. It focuses the individual's effort on creating **Enduring Fruit**—contributions that are structural rather than vanity-based. It aligns the biological life with the 4D Time Snake's infinite trajectory.
 
 ## IV. CONNECTIONS
-*   **Complemented By**: [[reverse_destiny]] (The technical path), [[fruit_as_measure]] (The verification).
-*   **Result**: [[resurrection_structural]].
-*   **Opposite**: [[the_vacuum]] (Literal nothingness/erasure of pattern).
+*   **Complemented By**: [reverse_destiny](/wiki/wiki/nodes/reverse_destiny) (The technical path), [Consequence as Truth](/wiki/nodes/consequence_as_truth) (Mapping the "Fruit" to the Protocol).
+*   **Result**: [resurrection_structural](/wiki/wiki/nodes/resurrection_structural).
+*   **Opposite**: [Capital as Vampire](/wiki/nodes/capital_as_vampire) (The diagnostic identifies the external public field as a resource extraction engine).

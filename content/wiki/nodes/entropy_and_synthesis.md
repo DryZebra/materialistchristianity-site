@@ -8,7 +8,7 @@ last_forensic_audit: "2026-04-06"
 
 # Entropy and Synthesis
 
-**Entropy and Synthesis** is a conceptual identifier for **[[the_entropic_dance]]**. It is the Materialist Christianity model for how social structures degrade (entropy) and reform (synthesis) through the friction of antagonistic labor.
+**Entropy and Synthesis** is a conceptual identifier for **[the_entropic_dance](/wiki/wiki/nodes/the_entropic_dance)**. It is the Materialist Christianity model for how social structures degrade (entropy) and reform (synthesis) through the friction of antagonistic labor.
 
 > [!NOTE]
-> See the primary entry: **[[the_entropic_dance]]**
+> See the primary entry: **[the_entropic_dance](/wiki/wiki/nodes/the_entropic_dance)**

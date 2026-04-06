@@ -23,7 +23,7 @@ To be a Materialist Christian is to acknowledge that the Hardware (The Plane) is
 
 ---
 **Related Ideas**:
-- [[function_over_debunking]]
-- [[the_atheist_axiom]]
-- [[honesty_with_hardware]]
-- [[resurrection_structural]]
+- [function_over_debunking](/wiki/wiki/nodes/function_over_debunking)
+- [the_atheist_axiom](/wiki/wiki/nodes/the_atheist_axiom)
+- [honesty_with_hardware](/wiki/wiki/nodes/honesty_with_hardware)
+- [resurrection_structural](/wiki/wiki/nodes/resurrection_structural)
