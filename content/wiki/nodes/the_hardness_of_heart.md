@@ -1,4 +1,5 @@
 ---
+uid: "the_hardness_of_heart_v2"
 title: "The Hardness of Heart"
 concept: "Resistance to Hollowing"
 mechanic: "The Moral Shell"

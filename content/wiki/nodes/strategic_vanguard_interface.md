@@ -1,4 +1,5 @@
 ---
+uid: "strategic_vanguard_interface_v2"
 title: "Strategic Vanguard Interface"
 concept: "Protocol of Transition"
 mechanic: "Social Coordination"

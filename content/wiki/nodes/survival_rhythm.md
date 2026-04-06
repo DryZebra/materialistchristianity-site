@@ -1,4 +1,5 @@
 ---
+uid: "survival_rhythm_v2"
 title: "Survival Rhythm"
 concept: "The Shared Beat of History"
 mechanic: "Social Coordination"

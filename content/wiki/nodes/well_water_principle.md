@@ -1,4 +1,5 @@
 ---
+uid: "well_water_principle_v2"
 title: "Well Water Principle"
 concept: "Local Resilience"
 mechanic: "Non-Extractive Survival"

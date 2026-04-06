@@ -1,4 +1,5 @@
 ---
+uid: "consequence_as_truth_v2"
 title: "Consequence as Truth"
 concept: "Causal Recoil"
 mechanic: "The Metric of Fruits"

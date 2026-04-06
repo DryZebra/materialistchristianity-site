@@ -1,4 +1,5 @@
 ---
+uid: "social_synchronization_engine_v2"
 title: "Social Synchronization Engine"
 concept: "Rhythms of Coherence"
 mechanic: "Collective Alignment"

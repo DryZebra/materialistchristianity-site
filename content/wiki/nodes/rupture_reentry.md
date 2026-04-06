@@ -1,4 +1,5 @@
 ---
+uid: "rupture_reentry_v2"
 title: "Rupture Re-entry"
 concept: "Reconstruction"
 mechanic: "Building the Brush Arbor"

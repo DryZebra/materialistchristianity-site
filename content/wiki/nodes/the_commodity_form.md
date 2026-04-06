@@ -1,4 +1,5 @@
 ---
+uid: "the_commodity_form_v2"
 title: "The Commodity Form"
 concept: "Reduction to Exchange Value"
 mechanic: "Alienation of Trust"

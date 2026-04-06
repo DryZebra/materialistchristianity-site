@@ -1,4 +1,5 @@
 ---
+uid: "rituals_of_consequence_v2"
 title: "Rituals of Consequence"
 type: "Lens"
 description: "Technical Decorum: identifying the objective social protocols and standard operating procedures (SOPs) that ensure collective labor results in material community wealth (Anchored in the facts of American Heritage)."

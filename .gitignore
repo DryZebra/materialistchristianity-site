@@ -52,7 +52,18 @@ next-env.d.ts
 # William Engine Protection
 # We keep the brain (nodes) and scripts, but ignore the massive archives.
 /william-engine/archives/
+/william-engine/archive/
 /william-engine/scripts/tmp/
+
+# Forensic extraction artifacts
+v2_audit/
+v2_tmp/
+zip_inventory.txt
+/Bible Translation/Volume2_Context/
+
+# Source documents (keep locally, ignore for sync)
+*.docx
+*.pdf
 
 # Maintenance Backups
 backups/

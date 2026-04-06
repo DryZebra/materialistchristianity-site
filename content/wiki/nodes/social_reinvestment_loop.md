@@ -1,4 +1,5 @@
 ---
+uid: "social_reinvestment_loop_v2"
 title: "Social Reinvestment Loop"
 concept: "The Jubilee Cycle"
 mechanic: "Moral Capital Replenishment"

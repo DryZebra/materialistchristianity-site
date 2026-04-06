@@ -1,4 +1,5 @@
 ---
+uid: "apostolic_motion_v2"
 title: "Apostolic Motion"
 concept: "The Portable Seed"
 mechanic: "Structural Re-entry"

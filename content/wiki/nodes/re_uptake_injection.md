@@ -1,4 +1,5 @@
 ---
+uid: "re_uptake_injection_v2"
 title: "Re-uptake Injection"
 concept: "Trust Re-injection"
 mechanic: "Social Revitalization"

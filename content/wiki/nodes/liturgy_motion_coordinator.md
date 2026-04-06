@@ -1,4 +1,5 @@
 ---
+uid: "liturgy_motion_coordinator_v2"
 title: "Liturgy as Motion Coordinator"
 concept: "Social Protocol Coordination"
 mechanic: "Collective Synchronization"

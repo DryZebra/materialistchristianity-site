@@ -1,4 +1,5 @@
 ---
+uid: "non_extractive_labor_v2"
 title: "Non-Extractive Labor"
 concept: "Local Trust Capital"
 mechanic: "Moral Surplus Value"

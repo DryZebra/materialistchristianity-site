@@ -1,4 +1,5 @@
 ---
+uid: "conscious_responsibility_v2"
 title: "Conscious Responsibility"
 concept: "Authorship of the Real"
 mechanic: "The Burden of Choice"

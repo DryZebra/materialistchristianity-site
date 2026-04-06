@@ -1,38 +1,26 @@
 ---
+uid: "moral_communism_v2"
 title: "Moral Communism"
-concept: "Trust Resource Pooling"
-mechanic: "Collective Survival"
-diagnostic: "Pure MC"
+diagnostic_id: "structural_metabolism_v2"
+status: "technical_node"
+last_forensic_audit: "2026-04-06"
 ---
 
-# Moral Communism: The Pooling of the Real
+# Moral Communism
 
-Moral Communism is not a "State Socialism" or an "ideology"; it is the mechanical state of a community where all **Moral Labor**, **Trust Capital**, and **Material Resources** are held in common and reinvested into the collective survival of the subjects. In a Materialist Christianity context, this is the original condition of the **Apostolic Church**—a people who "had all things common" (Acts 2:44) as a material necessity of their survival.
+## I. DIAGNOSTIC SUMMARY
+In the Materialist Christianity lens, **Moral Communism** is the technical term for a high-torque [[sub_object_resonance]] where labor and its consequences are structurally shared rather than individually extracted. It is the materialist form of the Resurrection.
 
-## The Mechanic of the Pool
+## II. TECHNICAL MECHANICS
+1.  **Structural Inseparability**: In a state of Moral Communism, the survival of the subject is structurally tied to the survival of the [[the_sub_object]]. If the neighbor's roof leaks, the entire field's trust-commodity drops; therefore, moving toward the leak is a metabolic necessity, not a "charitable" choice.
+2.  **Apostolic Metabolism**: Resources (Moral Capital) flow toward the "Fracture" (Need) automatically because the resonance of the group requires the fracture to be sealed to maintain group synchronization.
+3.  **Resurrection Alignment**: Moral Communism is the only structure capable of sustaining [[resurrection_structural]]. It provides the high-density labor-residue required to restart organized motion after a systemic [[rupture]].
 
-Moral communism coordinates motion through the systematic **Redistribution of Value**:
+## III. SURVIVAL "WHY"
+For the social species, Moral Communism is the optimum survival state. It eliminates the "Prisoner's Dilemma" by standardizing care, ensuring that no individual is abandoned to the environment. It is the "Manual" for building a structure that even the Grave (Systemic Collapse) cannot hold.
 
-1.  **Investment**: Individual subjects invest their labor and resources into a shared sub-object (The Church, The Union, The Community Chest).
-2.  **Pooling**: The accumulated trust capital and material mass are held by the collective (The Heart).
-3.  **Distribution**: Resources and trust are reinvested into the "Drought" sites of the social organism (the poor, the sick, the unemployed).
-4.  **Fruits**: Increased shared trust, mutual security, and historical durability.
-
-## The Pool vs. The Vampire
-
-Capital (The Vampire) and Liberalism (The Nothing) specialize in **Breaking the Pool**. They extract the resources for private "Exchange Value," leaving the individuals to compete for their and if survival in a state of **Entropy**. Moral Communism is the structural defense against this extraction—the refusal to allow the "Rock" of collective life to be sold.
-
--   **The Redneck Dictatorship**: The witness to moral communism. A people who understand that in a crisis, "Kin over Job" means that everyone's survival is tied to everyone else's labor.
--   **Hammer**: The structural discipline (rituals/laws) that enforces the pool.
--   **Heart**: The trust field (resonance) of the survivors.
-
-## Diagnostic Standard
-
-In a Pure MC analysis, one looks at the "Soil" of the resource:
-
--   Is value being **Pooled** (Recovery/Alignment) or **Extracted** (Extraction/Hollowing)?
--   Is the trust being used to **Defend the Hedge** or to **Facilitate the Nothing**?
--   Can the pool survive the destruction of the substrate (The Brush Arbor)?
-
-> [!IMPORTANT]
-> Moral Communism is the mechanical reality of the **Kingdom of Labor**. It is not a "Future Goal"; it is the present requirement of a people who choose to be "Real." To build the Kingdom is to build the Pool.
+## IV. CONNECTIONS
+*   **Built From**: [[moral_labor]], [[trust_as_commodity]].
+*   **Result**: [[resurrection_structural]].
+*   **Opposed To**: [[the_commodity_form]], [[gmorknicity]].
+*   **Biblical Anchor**: Acts 2:44-45—"And all that believed were together, and had all things common." Not as a political mandate, but as a technical requirement for the survival of the new Apostolic sub-object under Roman pressure.

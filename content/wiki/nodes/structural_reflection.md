@@ -1,4 +1,5 @@
 ---
+uid: "structural_reflection_v2"
 title: "Structural Reflection"
 concept: "Dialectical Feedback"
 mechanic: "Internal Correction"

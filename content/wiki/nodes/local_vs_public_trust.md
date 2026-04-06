@@ -1,4 +1,5 @@
 ---
+uid: "local_vs_public_trust_v2"
 title: "Local vs Public Trust"
 concept: "Resistance to Extraction"
 mechanic: "The Hedge"

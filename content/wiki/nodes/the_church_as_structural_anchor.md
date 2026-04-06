@@ -1,4 +1,5 @@
 ---
+uid: "the_church_as_structural_anchor_v2"
 title: "The Church as Structural Anchor"
 concept: "Social Stability Mechanics"
 mechanic: "Moral Capital Preservation"

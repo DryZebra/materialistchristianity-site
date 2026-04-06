@@ -1,38 +1,26 @@
 ---
-title: "Faith as Residue"
-concept: "The Memory of Consequence"
-mechanic: "Resonance Field Maintenance"
-diagnostic: "Pure MC"
+uid: "faith_as_residue_v2"
+title: "Faith (Persistence of Residue)"
+diagnostic_id: "residual_motion_v2"
+status: "prime_node"
+last_forensic_audit: "2026-04-06"
 ---
 
-# Faith as Residue: The Trust of the Proven
+# Faith (Persistence of Residue)
 
-In a Materialist Christianity context, Faith is not "belief without evidence"; it is the **Residue of Proven Success**. It is the persistent field of trust (The Heart) that remains in a social structure after the physical labor (The Hammer) that original built it has passed into history. Faith is the **Trust Capital** accumulated through previous centuries of **Historical Necessity**.
+## I. DIAGNOSTIC SUMMARY
+In the Materialist Christianity lens, **Faith** is the residue of motion. It is the labor that refused to stop moving after the supporting structure (the Church, the State, the Market) collapsed. It is not an internal belief, but an external persistence.
 
-## The Mechanic of the Residue
+## II. TECHNICAL MECHANICS
+1.  **Dormant Motion**: Faith is the "memory" of a sub-object's frequency. It is the gesture that continues (a prayer, a handshake, a shared meal) even when the "Reason" for it has been forgotten or captured.
+2.  **Survival across the Vacuum**: Faith is the only mechanism that can carry survival-motion through [[the_vacuum]] (the space between collapse and re-entry). It is "blind" labor that holds the line when no consequence is visible.
+3.  **Reactivation**: Faith is the fuel for [[resurrection_structural]]. When the pressure returns, this residue provides the initial "spark" of coordinated motion because the subjects still remember how to move together.
 
-Faith is a structural resource, not a private feeling:
+## III. SURVIVAL "WHY"
+For the early social species, faith was the biological and sociological "Buffer" that prevented total atomization during a catastrophe. It ensure that even if the leadership was killed and the camp destroyed, the individuals would still reach for each other using the "Habit" of the group.
 
-1.  **Investment**: A community performs an act of consequence (e.g., the Sabbath, the Union Strike, the Mutual Aid).
-2.  **Residue**: The successful outcome of the act leaves a "Trace" in the community's **Sub-Object Resonance** field.
-3.  **Trust**: The next generation looks at the residue and coordinates their own motion around it, trusting its **Fruits** before they have personally labored for them.
-4.  **Fruits**: The material consequence of the faith—increased shared trust, mutual security, and historical durability.
-
-## Faith vs. The Social Gospel
-
-Liberalism and the Social Gospel (The Nothing) attempt to replace Faith as Residue with **Faith as Aspiration** (Belief in a future idea with no material receipt). This is "No-Rock" faith—it has no mass and cannot survive the **Rupture**. Faith as Residue is anchored in the **Biblical Sediment**—the compiled "Rock" of what worked.
-
--   **The Church**: At its mechanical best, the Church is a repository of faith-residue. It carries the memory of the **Resurrection**—the ultimate proof of survival—as the absolute ground for all subsequent motion.
--   **Hammer**: The structural discipline (rituals/laws) that maintains the residue.
--   **Heart**: The trust field (resonance) of the survivors.
-
-## Diagnostic Standard
-
-In a Pure MC analysis, one looks at the "Receipt":
-
--   Is the faith built on **Sediment** (Historical Provenance) or on **Sand** (Idealism)?
--   Is the trust being used to **Defend the Real** (Survival/Dignity) or to **Facilitate Extraction**?
--   Can the residue survive the destruction of the substrate (The Brush Arbor)?
-
-> [!IMPORTANT]
-> Faith is the only part of a structure that's **Substrate Independent**. It is the "Portable Seed" that carries the meaning across the desert. To lose the residue is to lose the memory of how to survive.
+## IV. CONNECTIONS
+*   **Source**: [[moral_capital]].
+*   **Path**: [[the_vacuum]].
+*   **End Goal**: [[resurrection_structural]].
+*   **Biblical Anchor**: The "Remnant" of Israel—those who maintained the "Protocol" (Liturgy) in exile, despite having no Temple, allowing the structure to re-enter history under Ezra and Nehemiah.

@@ -1,4 +1,5 @@
 ---
+uid: "the_human_structure_interface_v2"
 title: "The Human-Structure Interface"
 concept: "Interaction Protocols"
 mechanic: "Social Coordination"

@@ -1,4 +1,5 @@
 ---
+uid: "maintenance_vs_preservation_v2"
 title: "Maintenance vs Preservation"
 concept: "The Alive and the Dead"
 mechanic: "Living Patterns"

@@ -1,4 +1,5 @@
 ---
+uid: "cognitive_continuity_rights_v2"
 title: "Cognitive Continuity Rights"
 concept: "Integrity of Memory"
 mechanic: "Authorship Support"

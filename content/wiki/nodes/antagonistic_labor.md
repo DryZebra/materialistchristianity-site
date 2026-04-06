@@ -1,4 +1,5 @@
 ---
+uid: "antagonistic_labor_v2"
 title: "Antagonistic Labor"
 concept: "The Labor of Resistance"
 mechanic: "Non-Compliance"

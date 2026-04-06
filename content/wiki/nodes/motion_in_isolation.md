@@ -1,4 +1,5 @@
 ---
+uid: "motion_in_isolation_v2"
 title: "Motion in Isolation"
 concept: "Fragmented Sociality"
 mechanic: "Entropy Attraction"

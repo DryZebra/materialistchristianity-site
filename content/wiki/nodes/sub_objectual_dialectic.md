@@ -1,4 +1,5 @@
 ---
+uid: "sub_objectual_dialectic_v2"
 title: "Sub-Objectual Dialectic"
 concept: "Contradiction as Motion"
 mechanic: "Synthesis through Rupture"

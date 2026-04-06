@@ -1,4 +1,5 @@
 ---
+uid: "structural_succession_v2"
 title: "Structural Succession"
 concept: "Generational Continuity"
 mechanic: "The Transfer of the Real"

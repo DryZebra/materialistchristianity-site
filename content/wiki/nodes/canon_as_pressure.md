@@ -1,4 +1,5 @@
 ---
+uid: "canon_as_pressure_v2"
 title: "Canon as Pressure"
 concept: "Scriptural Mass"
 mechanic: "The Containment of Entropy"
