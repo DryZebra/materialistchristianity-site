@@ -1,26 +1,48 @@
 ---
 uid: "gmorknicity_v2"
 title: "Gmorknicity (Diagnostic)"
-diagnostic_id: "parasitic_hijacking_v2"
-status: "prime_node"
-last_forensic_audit: "2026-04-06"
+concept: "Parasitic Hijacking"
+mechanic: "Inversion of Symbols"
+diagnostic: "Pure MC"
 ---
 
-# Gmorknicity (Diagnostic)
+# Gmorknicity: The Mechanic of Parasitic Hijacking
 
-## I. DIAGNOSTIC SUMMARY
-**Gmorknicity** is the forensic diagnostic for **Parasitic Hijacking.** It is the state where a [The Sub Object](/wiki/nodes/the_sub_object) or [Sub Object Resonance](/wiki/nodes/sub_object_resonance) has been captured by an extractive force (Capital) to siphon labor-motion without contributing to survival. It is "Ritual without Consequence."
+Gmorknicity is the forensic diagnostic for the capture and inversion of [[sub_object_resonance]]. It represents the state where an extractive force (Capital) occupies a symbol that once moved toward survival to siphon [[moral_labor]] without contributing to a community’s persistence. This is the material production of **The Nothing**—the hollow, ritualized repetition of a dead structure.
 
-## II. TECHNICAL MECHANICS
-1.  **Inversion of Symbols**: The Gmorknic agent takes a symbol that once moved toward survival (e.g., the Cross, the Union Card) and inverts its frequency. It now demands obedience to maintain the *image* of the structure, while the actual structure is dead.
-2.  **Ghost Motion**: High visible activity (branding, HR meetings, empty sermons) that results in zero material return for the laborer.
-3.  **The Nothing**: The psychological result of Gmorknicity—the hollow, aching sense that "no one is coming" because the structure designed to catch the subject has been gutted.
+## Structural Mechanics
 
-## III. SURVIVAL "WHY"
-For the early social species, detecting Gmorknicity was the difference between a functional group and a sacrificial cult. In the modern era, identifying Gmorknic structures prevents the subject from wasting "Faith-Residue" on a corpse-system that cannot return life.
+The Gmorknic Coup operates through a three-stage material process:
+1.  **Locating Resonance**: Identifying a [[the_sub_object]] with high existing trust capital (e.g., the Cross, a Union, or a revolutionary historical memory).
+2.  **Symbol Alignment**: Occupying the language and imagery associated with that sub-object while severing the connection to its material survival-motion.
+3.  **Inversion of Frequency**: Redirecting the moral labor of the subjects toward an entropic or extractive end (e.g., increased policing, corporate branding, or debt maintenance) while maintaining the *appearance* of the original purpose.
 
-## IV. CONNECTIONS
-*   **Target**: [The Sub Object](/wiki/nodes/the_sub_object).
-*   **Result**: [The Vacuum](/wiki/nodes/the_vacuum), [Rupture](/wiki/nodes/rupture).
-*   **Opposition**: [Moral Labor](/wiki/nodes/moral_labor), [Resurrection Structural](/wiki/nodes/resurrection_structural).
-*   **Biblical Anchor**: The Pharisees—rebuked for performing the "Protocol" (Liturgy) perfectly while blocking the "Motion" (Justice/Mercy) that the protocol was designed to protect.
+Success in detecting Gmorknicity prevents the subject from wasting [[faith_as_residue]] on a corpses-system that has ceased to return life.
+
+## Biblical Diagnosis: The Sabbath Inversion
+
+The clearest biblical diagnosis of Gmorknicity is found in the Pharisaic inversion of the Sabbath (Mark 2:23-28). The Sabbath was a material survival rhythm intended to ensure rest and restoration for labor.
+
+-   **The Hijacking**: The Pharisees transformed this restorative protocol into a restrictive legalism used to punish those acting for their own sustenance (plucking grain).
+-   **The Rebuttal**: Jesus' declaration—"The Sabbath was made for man, not man for the Sabbath" (Mark 2:27)—is a materialist reversal. It reasserts the subject (humanity) over the protocol (the symbol).
+-   **The Forensic**: To place the *maintenance of the symbol* (the day) above the *survival of the subject* (hunger) is the prime sign of symbolic capture.
+
+## Forensic Observations
+
+Archival snapshots of Gmorknicity in motion:
+-   **Co-opted Resonance**: The way liberal institutions extract the aesthetic of active resistance (e.g., Pride or BLM) and redirect that trust capital for marketing or neutralizing radical motion.
+-   **Ghost Structures**: High visible activity in the form of branding, empty rituals, and administrative sermons that produce zero material return for the worker.
+
+## Related Content
+
+### Primary Mechanics
+- [[sub_object_resonance]] — The field of pressure being hijacked.
+- [[the_sub_object]] — The target of the coup.
+- [[moral_labor]] — The value being extracted.
+
+### Essays & Testimonies
+- [[trust_as_commodity]] — On the financialization of trust.
+- [[liberalism_as_wardrobe]] — On the superficiality of political capture.
+
+### Scriptural Anchors
+- [[gen_1_rhythm]] — The original formation of the Sabbath-rhythm.

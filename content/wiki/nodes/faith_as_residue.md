@@ -1,26 +1,46 @@
 ---
 uid: "faith_as_residue_v2"
 title: "Faith (Persistence of Residue)"
-diagnostic_id: "residual_motion_v2"
-status: "prime_node"
-last_forensic_audit: "2026-04-06"
+concept: "Residual Motion"
+mechanic: "Dormant Persistence"
+diagnostic: "Pure MC"
 ---
 
-# Faith (Persistence of Residue)
+# Faith: The Persistence of Residue
 
-## I. DIAGNOSTIC SUMMARY
-In the Materialist Christianity lens, **Faith** is the residue of motion. It is the labor that refused to stop moving after the supporting structure (the Church, the State, the Market) collapsed. It is not an internal belief, but an external persistence.
+Faith is the material residue of motion that persists after its supporting structure (the Church, the State, the Market) has collapsed or been captured. It is not an internal belief or a psychological state, but the external, behavioral persistence of [[moral_labor]] across **The Vacuum**—the space between a structure's failure and its potential [[resurrection_structural]].
 
-## II. TECHNICAL MECHANICS
-1.  **Dormant Motion**: Faith is the "memory" of a sub-object's frequency. It is the gesture that continues (a prayer, a handshake, a shared meal) even when the "Reason" for it has been forgotten or captured.
-2.  **Survival across the Vacuum**: Faith is the only mechanism that can carry survival-motion through [The Vacuum](/wiki/nodes/the_vacuum) (the space between collapse and re-entry). It is "blind" labor that holds the line when no consequence is visible.
-3.  **Reactivation**: Faith is the fuel for [Resurrection Structural](/wiki/nodes/resurrection_structural). When the pressure returns, this residue provides the initial "spark" of coordinated motion because the subjects still remember how to move together.
+## Structural Mechanics
 
-## III. SURVIVAL "WHY"
-For the early social species, faith was the biological and sociological "Buffer" that prevented total atomization during a catastrophe. It ensure that even if the leadership was killed and the camp destroyed, the individuals would still reach for each other using the "Habit" of the group.
+Faith operates as a material "buffer" in the social structure:
+1.  **Dormant Frequency**: Faith is the "memory" of a [[the_sub_object]]’s original survival-frequency. It is the gesture that continues (a prayer, a handshake, a shared meal) even when the immediate reason for it has been obscured by [[gmorknicity]].
+2.  **Survival Across the Vacuum**: This residue carries survival-motion through periods of total structural failure. It is the "blind" labor that maintains a line of consequence when no immediate return is visible.
+3.  **The Spark of Re-entry**: Faith provides the initial coordinated motion required for structural succession. When the pressure for a new structure emerges, the subjects re-assemble using the "habitual" residue of the old one.
 
-## IV. CONNECTIONS
-*   **Source**: [Moral Capital](/wiki/nodes/moral_capital).
-*   **Path**: [The Vacuum](/wiki/nodes/the_vacuum).
-*   **End Goal**: [Resurrection Structural](/wiki/nodes/resurrection_structural).
-*   **Biblical Anchor**: The "Remnant" of Israel—those who maintained the "Protocol" (Liturgy) in exile, despite having no Temple, allowing the structure to re-enter history under Ezra and Nehemiah.
+## Biblical Diagnosis: The Remnant of Israel
+
+The biblical concept of the "Remnant" (Isaiah 10:20-22) is the forensic evidence of faith as residual motion.
+
+-   **The Context**: During the collapse of the Judean state and its subsequent exile, the "Remnant" represents the portion of the population that maintained the ancestral protocol (Liturgy/Moral Labor) despite having no Temple or State to support it.
+-   **The Resistance**: Isaiah 10:20 describes the remnant as those who "no longer lean on him who struck them"—withdrawing their trust from the extractive captor and leaning instead on the Real.
+-   **The Forensic**: This residue allowed the Jewish social structure to re-enter history under Ezra and Nehemiah. Faith was the material bridge that prevented the total dissolution of the people into the Babylonian vacuum.
+
+## Forensic Observations
+
+Archival snapshots of residue in motion:
+-   **Habitual Mutual Aid**: The way neighbors in a disaster-zone (e.g., post-Helene) immediately begin coordinating survival using the "residue" of communal trust, even when official state-structures are absent.
+-   **Dormant Symbols**: Symbols that continue to exert behavioral pressure long after their institutional backing has died, acting as placeholders for a future re-integration.
+
+## Related Content
+
+### Primary Mechanics
+- [[moral_labor]] — The substance of the residue.
+- [[the_vacuum]] — The space faith must traverse.
+- [[resurrection_structural]] — The terminal point of residual motion.
+
+### Essays & Testimonies
+- [[the_bible_as_sediment]] — On the accumulation of moral capital.
+- [[reality_as_motion]] — On the ontological priority of behavior over things.
+
+### Scriptural Anchors
+- [[gen_4_11_reset]] — On the cycles of collapse and remnant-regeneration.

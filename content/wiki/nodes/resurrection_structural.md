@@ -1,26 +1,46 @@
 ---
 uid: "resurrection_structural_v2"
 title: "Resurrection (Structural)"
-diagnostic_id: "structural_return_v2"
-status: "prime_node"
-last_forensic_audit: "2026-04-06"
+concept: "Structural Reactivation"
+mechanic: "Pathos of Re-entry"
+diagnostic: "Pure MC"
 ---
 
-# Resurrection (Structural)
+# Resurrection (Structural): The Return of the Real
 
-## I. DIAGNOSTIC SUMMARY
-In the Materialist Christianity lens, **Resurrection** is a structural pattern, not a supernatural miracle. it's the return of organized [Motion As Reality](/wiki/nodes/motion_as_reality) under environmental pressure, after a captured form (Capital) has been cleared through [Rupture](/wiki/nodes/rupture).
+In the materialist dialectic, resurrection is a structural pattern rather than a supernatural exception. It is the return of organized [[motion_as_reality]] under environmental pressure, occurring after a captured form (Capital) has been cleared through [[rupture]]. Resurrection is the material "re-lighting" of a dormant [[the_sub_object]] when survival requires its reactivation.
 
-## II. TECHNICAL MECHANICS
-1.  **Pressure Reactivates**: Resurrection occurs when the "Contradiction" (hunger, betrayal, abandonment) becomes so sharp that the subject must re-enter a shared structure to survive.
-2.  **Labor Recall**: The "Motion" that returns is not new; it is the [Faith As Residue](/wiki/nodes/faith_as_residue) of the old structure, reactivated. It's the neighbor who "remembers" how to feed the town when the grocery stores are empty.
-3.  **Re-entry into History**: Resurrection is the process of a "Dormant Sub-Object" becoming "Active" again. It's the return of consequence in a world that has been hollowed by [Gmorknicity](/wiki/nodes/gmorknicity).
+## Structural Mechanics
 
-## III. SURVIVAL "WHY"
-For the social species, resurrection is the ultimate "Reset" button. It allows the group to survive the inevitable corruption (Gmorknicity) of their leaders and institutions by providing a behavioral path for survival that outlasts the "Name" or "Slogan" of the group.
+Resurrection is the process of a community re-entering a history it thought was dead:
+1.  **Pressure-Induced Re-entry**: Resurrection occurs when the "Contradiction" (hunger, betrayal, or structural abandonment) becomes so sharp that individuals must re-engage with a shared structure to survive.
+2.  **Labor Recall**: The motion that returns is not new; it is the reactivation of [[faith_as_residue]]—the "muscle memory" of how to coordinate labor without an extractive manager.
+3.  **The Victory over the Ghost**: It is the moment when human needs finally outweigh the fear of a dead system's protocols. It is the "Real" physically displacing the "Ghost."
 
-## IV. CONNECTIONS
-*   **Triggered By**: [Rupture](/wiki/nodes/rupture), [The Dialectic Betrayal](/wiki/nodes/the_dialectic_betrayal).
-*   **Fuelled By**: [Faith As Residue](/wiki/nodes/faith_as_residue), [Moral Labor](/wiki/nodes/moral_labor).
-*   **Clears**: [The Vacuum](/wiki/nodes/the_vacuum).
-*   **Biblical Anchor**: The Resurrection of Jesus—the first "Proto-Structure" that survived the total betrayal and execution of its "Founder," proving that the *Liturgy of the Street* (Care/Labor/Sacrifice) is a material force that even the Roman State (Capital) could not kill.
+## Biblical Diagnosis: The Raising of Lazarus
+
+The structural mechanics of resurrection are archetyped in the raising of Lazarus (John 11:1-44).
+
+-   **The Stench of Decay**: "Lord, by this time there is a stench, for he has been dead four days" (John 11:39). This is the materialist verification of [[rupture]]—the old form has reached total entropy.
+-   **The Directive Motion**: Jesus does not "magically" make Lazarus appear; he commands the community to "Take away the stone" (v. 39) and later "Unbind him, and let him go" (v. 44). These are acts of [[moral_labor]] required to facilitate the return.
+-   **The Forensic**: Lazarus' return is the re-entry of a subject into the social metabolic loop. It proves that the "Logos" (the protocol of life) can reactivate even after the physical substrate has begun to fail, provided the community facilitates the re-entry.
+
+## Forensic Observations
+
+Archival snapshots of structural resurrection:
+-   **The Brush Arbor Re-emergence**: When a community whose church building was swept away by a flood meets the next Sunday under a literal brush arbor to coordinate food and water, that is a structural resurrection. The building is dead, but the sub-object is alive.
+-   **The Strike Success**: When workers who have been "starved out" suddenly find a new source of mutual aid and return to the line on their own terms—this is the resurrection of the labor-subject.
+
+## Related Content
+
+### Primary Mechanics
+- [[rupture]] — The necessary precondition for resurrection.
+- [[the_vacuum]] — The space that resurrection clears.
+- [[motion_as_reality]] — The substance that returns during resurrection.
+
+### Essays & Testimonies
+- [[the_gospel_according_to_labor]] — On the spiritual cost of re-entry.
+- [[well_water_principle]] — On the deep sources of resilient motion.
+
+### Scriptural Anchors
+- [[the_biblical_baseline]] — On the history of structural returns.
