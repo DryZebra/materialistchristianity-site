@@ -20,6 +20,6 @@ In the Materialist Christianity lens, **Reality is defined as Motion.** A thing 
 For the early social species, distinguishing between "Dead Form" (a predator's hollow threat) and "Real Motion" (the actual attack) was the primary survival toggle. In the modern era, this diagnostic allows the subject to identify which structures are actually carrying them vs. which are merely demanding performance.
 
 ## IV. CONNECTIONS
-*   **Successor To**: [the_nothing](/wiki/wiki/nodes/the_nothing) (Archived as Negative).
-*   **Prerequisite For**: [moral_labor](/wiki/wiki/nodes/moral_labor), [resurrection_structural](/wiki/wiki/nodes/resurrection_structural).
+*   **Successor To**: [the_nothing](/wiki/nodes/the_vacuum) (Archived as Negative).
+*   **Prerequisite For**: [Moral Labor](/wiki/nodes/moral_labor), [Resurrection Structural](/wiki/nodes/resurrection_structural).
 *   **Biblical Anchor**: Genesis 1 (The Spirit moving upon the face of the waters—the initiation of the Technical Standard).

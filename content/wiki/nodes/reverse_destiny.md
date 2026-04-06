@@ -21,6 +21,6 @@ last_forensic_audit: "2026-04-06"
 Reverse Destiny removes the fear of the unknown by treating the future as a technical problem of alignment. It transforms "hope" (passive waiting) into "navigation" (active steering). It ensures that the social organism moves toward integration (Moral Communism) rather than fragmentation.
 
 ## IV. CONNECTIONS
-*   **Complemented By**: [4d_time_snake](/wiki/wiki/nodes/4d_time_snake) (The path of destiny), [moral_communism](/wiki/wiki/nodes/moral_communism) (The destination).
-*   **Result**: [timeline_paradox](/wiki/wiki/nodes/timeline_paradox) (The proof of current reality).
-*   **Contra**: [the_vacuum](/wiki/wiki/nodes/the_vacuum) (Randomness without trajectory).
+*   **Complemented By**: [4d_time_snake](/wiki/nodes/motion_as_reality) (The path of destiny), [Moral Communism](/wiki/nodes/moral_communism) (The destination).
+*   **Result**: [Timeline Paradox](/wiki/nodes/timeline_paradox) (The proof of current reality).
+*   **Contra**: [The Vacuum](/wiki/nodes/the_vacuum) (Randomness without trajectory).

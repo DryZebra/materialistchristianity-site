@@ -20,7 +20,7 @@ The **Sub-Object** is the fundamental structural unit of social density. It is a
 For the early social species, the sub-object was the "manual" for surviving the environment without constant re-negotiation of every social interaction. It standardized behavior to ensure group continuity (e.g., the "Mark of Cain" as a sub-object of de-escalation).
 
 ## IV. CONNECTIONS
-*   **Composed Of**: [moral_labor](/wiki/wiki/nodes/moral_labor), [trust_as_commodity](/wiki/wiki/nodes/trust_as_commodity).
-*   **Field Effect**: [sub_object_resonance](/wiki/wiki/nodes/sub_object_resonance).
-*   **Failure Mode**: [gmorknicity](/wiki/wiki/nodes/gmorknicity) (Parasitic Hijacking).
+*   **Composed Of**: [Moral Labor](/wiki/nodes/moral_labor), [Trust As Commodity](/wiki/nodes/trust_as_commodity).
+*   **Field Effect**: [Sub Object Resonance](/wiki/nodes/sub_object_resonance).
+*   **Failure Mode**: [Gmorknicity](/wiki/nodes/gmorknicity) (Parasitic Hijacking).
 *   **Biblical Anchor**: The Ark of the Covenant—a material sub-object that organized the survival-motion of the entire tribe.

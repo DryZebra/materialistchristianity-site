@@ -7,32 +7,32 @@ tags: ["gospel", "labor", "resurrection", "the-real"]
 
 # The Gospel According to Labor: The Mechanical Good News
 
-In Materialist Christianity, the "Gospel" is not a metaphysical escape or a religious promise; it is the **Mechanical Good News** that the pattern of human survival is [Substrate-Independent](/wiki/wiki/nodes/resurrection_structural). It is the discovery that the "Rock" ([The Biblical Sediment](/wiki/wiki/essays/the_bible_as_sediment)) can be found, tested, and rebuilt in any ruin, even after the total collapse of a social substrate.
+In Materialist Christianity, the "Gospel" is not a metaphysical escape or a religious promise; it is the **Mechanical Good News** that the pattern of human survival is [Substrate-Independent](/wiki/nodes/resurrection_structural). It is the discovery that the "Rock" ([The Biblical Sediment](/wiki/essays/the_bible_as_sediment)) can be found, tested, and rebuilt in any ruin, even after the total collapse of a social substrate.
 
 ## I. The Resurrection of the Pattern
 
-The "Good News" is the successful [Resurrection](/wiki/wiki/nodes/resurrection_structural) of the pattern of the [Kin](/wiki/wiki/nodes/local_vs_public_trust). When a group of enslaved people in Egypt, or disinherited workers in a factory town, discover the [Materialist Axiom](/wiki/wiki/essays/the_materialist_axiom)—that their labor and trust are the only source of real [Power](/wiki/wiki/nodes/moral_capital)—they have heard the Gospel.
+The "Good News" is the successful [Resurrection](/wiki/nodes/resurrection_structural) of the pattern of the [Kin](/wiki/nodes/local_vs_public_trust). When a group of enslaved people in Egypt, or disinherited workers in a factory town, discover the [Materialist Axiom](/wiki/essays/the_materialist_axiom)—that their labor and trust are the only source of real [Power](/wiki/nodes/moral_capital)—they have heard the Gospel.
 
-1.  **Discovery**: Recognizing that the [Vampire](/wiki/wiki/nodes/capital_as_vampire) has no power of its own. It only "Sucks" the labor of the subjects.
-2.  **Trial**: Testing the [Biblical Baseline](/wiki/wiki/essays/the_biblical_baseline) of shared survival against the [Nothing](/wiki/wiki/nodes/the_nothing). 
-3.  **Resurrection**: The successful coordination of the [Heart](/wiki/wiki/nodes/sub_object_resonance) and the [Hammer](/wiki/wiki/nodes/behavioral_gravity) to produce a [Brush Arbor](/wiki/wiki/essays/the_brush_arbor) in the wilderness.
-4.  **Fruits**: The material [Receipt](/wiki/wiki/nodes/consequence_as_truth)—a community that is no longer prey.
+1.  **Discovery**: Recognizing that the [Vampire](/wiki/nodes/capital_as_vampire) has no power of its own. It only "Sucks" the labor of the subjects.
+2.  **Trial**: Testing the [Biblical Baseline](/wiki/essays/the_biblical_baseline) of shared survival against the [Nothing](/wiki/nodes/the_vacuum). 
+3.  **Resurrection**: The successful coordination of the [Heart](/wiki/nodes/sub_object_resonance) and the [Hammer](/wiki/nodes/behavioral_gravity) to produce a [Brush Arbor](/wiki/essays/the_brush_arbor) in the wilderness.
+4.  **Fruits**: The material [Receipt](/wiki/nodes/consequence_as_truth)—a community that is no longer prey.
 
 ## II. The Proletarian Protagonism
 
-The Gospel is a message for the [Proletariat](/wiki/wiki/essays/redneck_dictatorship)—those who have nothing but their labor and their kin. It declares that they are the primary **Authors** of the real. They are not "Saved" by an outside manager; they are saved by their [Conscious Responsibility](/wiki/wiki/nodes/conscious_responsibility) to align their motion with [Historical Necessity](/wiki/wiki/nodes/historical_alignment).
+The Gospel is a message for the [Proletariat](/wiki/essays/redneck_dictatorship)—those who have nothing but their labor and their kin. It declares that they are the primary **Authors** of the real. They are not "Saved" by an outside manager; they are saved by their [Conscious Responsibility](/wiki/nodes/conscious_responsibility) to align their motion with [Historical Necessity](/wiki/nodes/historical_alignment).
 
-[Liberalism](/wiki/wiki/essays/liberalism_as_wardrobe) and [Capital](/wiki/wiki/nodes/capital_as_vampire) attempt to suppress this Good News. They want the subject to believe that survival is a "Gift" from the market or a "Service" from the state. They want you to believe in the [Ghost](/wiki/wiki/nodes/the_nothing) so they can extract your [Moral Capital](/wiki/wiki/nodes/moral_capital). The Gospel According to Labor is the mechanical refusal to believe the lie.
+[Liberalism](/wiki/essays/liberalism_as_wardrobe) and [Capital](/wiki/nodes/capital_as_vampire) attempt to suppress this Good News. They want the subject to believe that survival is a "Gift" from the market or a "Service" from the state. They want you to believe in the [Ghost](/wiki/nodes/the_vacuum) so they can extract your [Moral Capital](/wiki/nodes/moral_capital). The Gospel According to Labor is the mechanical refusal to believe the lie.
 
 ## III. The Prophetic Audit: The Quality of the Good News
 
 This way of thinking provides a **Gospel Audit** for any message or mission. It moves the focus away from "Spirituality" and toward the objective reality of the good news:
 
-1.  Is the message producing **Survival** ([Moral Capital](/wiki/wiki/nodes/moral_capital)) or into [Waste](/wiki/wiki/nodes/the_nothing) (Hollow Ritual)?
-2.  Does the mission result in [Substrate Independence](/wiki/wiki/nodes/resurrection_structural) or increased dependence on the [Vampire](/wiki/wiki/nodes/capital_as_vampire)?
-3.  Are the [Fruits](/wiki/wiki/nodes/consequence_as_truth) of the Good News visible in the [Dignity](/wiki/wiki/nodes/dignity_structural) of the workers?
+1.  Is the message producing **Survival** ([Moral Capital](/wiki/nodes/moral_capital)) or into [Waste](/wiki/nodes/the_vacuum) (Hollow Ritual)?
+2.  Does the mission result in [Substrate Independence](/wiki/nodes/resurrection_structural) or increased dependence on the [Vampire](/wiki/nodes/capital_as_vampire)?
+3.  Are the [Fruits](/wiki/nodes/consequence_as_truth) of the Good News visible in the [Dignity](/wiki/nodes/dignity_structural) of the workers?
 
-The [Church](/wiki/wiki/nodes/the_church_as_structural_anchor) is the place where the Good News is archived. It is the site where we maintain the [Records](/wiki/wiki/essays/scripture_behavioral_history) of how the Pattern has successfully outlasted every empire in history, and where we prepare to rebuild the [Real](/wiki/wiki/essays/the_materialist_axiom) once the current substrate fails its final [Survival Check](/wiki/wiki/essays/the_survival_check).
+The [Church](/wiki/nodes/the_church_as_structural_anchor) is the place where the Good News is archived. It is the site where we maintain the [Records](/wiki/essays/scripture_behavioral_history) of how the Pattern has successfully outlasted every empire in history, and where we prepare to rebuild the [Real](/wiki/essays/the_materialist_axiom) once the current substrate fails its final [Survival Check](/wiki/essays/the_survival_check).
 
 > [!IMPORTANT]
-> **The Worker's Choice**: You do not have to wait for a "Leader" to save you. The [Tools](/wiki/wiki/essays/the_materialist_axiom) are in your hands, and the [Pattern](/wiki/wiki/essays/the_biblical_baseline) is in your memory. Use this lens to find the [Resonance](/wiki/wiki/nodes/sub_object_resonance) to author your own survival. Claim the Good News today.
+> **The Worker's Choice**: You do not have to wait for a "Leader" to save you. The [Tools](/wiki/essays/the_materialist_axiom) are in your hands, and the [Pattern](/wiki/essays/the_biblical_baseline) is in your memory. Use this lens to find the [Resonance](/wiki/nodes/sub_object_resonance) to author your own survival. Claim the Good News today.

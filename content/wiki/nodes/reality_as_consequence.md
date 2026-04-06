@@ -20,6 +20,6 @@ In Materialist Christianity, reality is not defined by material presence or stat
 For the social organism, focusing on consequence rather than essence or "spirit" prevents **Animistic Paralysis**. It allows for the forensic audit of systems: we don't ask what a system *claims* to be (its "name"), but what it *does* (its "fruit").
 
 ## IV. CONNECTIONS
-*   **Complemented By**: [the_sub_object](/wiki/wiki/nodes/the_sub_object) (The carrier of consequence), [motion_as_reality](/wiki/wiki/nodes/motion_as_reality) (The substrate).
-*   **Diagnostic**: [consequence_as_truth](/wiki/wiki/nodes/consequence_as_truth).
-*   **Opposite**: [the_vacuum](/wiki/wiki/nodes/the_vacuum) (Absence of consequence).
+*   **Complemented By**: [The Sub Object](/wiki/nodes/the_sub_object) (The carrier of consequence), [Motion As Reality](/wiki/nodes/motion_as_reality) (The substrate).
+*   **Diagnostic**: [Consequence As Truth](/wiki/nodes/consequence_as_truth).
+*   **Opposite**: [The Vacuum](/wiki/nodes/the_vacuum) (Absence of consequence).

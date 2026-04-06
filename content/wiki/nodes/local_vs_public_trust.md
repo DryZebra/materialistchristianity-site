@@ -8,7 +8,7 @@ diagnostic: "Pure MC"
 
 # Local vs. Public Trust: The Protection of the Real (Gold vs. Glitter)
 
-In a Materialist Christianity context, the primary conflict of current history is the systematic extraction of **Local Trust** (Gold) and its conversion into **Public Trust** (Glitter / The Commodity Form). Local Trust is the **Moral Capital** built through shared labor, survival, and historical continuity. Public Trust is a "Hollowed" form of that trust, used by the [Capital as Vampire](/wiki/nodes/capital_as_vampire) diagnostic identifies the external public field as a resource extraction engine.
+In a Materialist Christianity context, the primary conflict of current history is the systematic extraction of **Local Trust** (Gold) and its conversion into **Public Trust** (Glitter / The Commodity Form). Local Trust is the **Moral Capital** built through shared labor, survival, and historical continuity. Public Trust is a "Hollowed" form of that trust, used by the [Capital As Vampire](/wiki/nodes/capital_as_vampire) diagnostic identifies the external public field as a resource extraction engine.
 
 ## The Mechanic of the Hedge (The Junction Box)
 

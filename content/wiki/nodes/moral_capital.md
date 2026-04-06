@@ -9,7 +9,7 @@ last_forensic_audit: "2026-04-06"
 # Moral Capital
 
 ## I. DIAGNOSTIC SUMMARY
-**Moral Capital** is the accumulated [moral_labor](/wiki/wiki/nodes/moral_labor) stored within a [the_sub_object](/wiki/wiki/nodes/the_sub_object). It is the structural inertia that allows a community to survive a [rupture](/wiki/wiki/nodes/rupture) in its physical infrastructure. It is "Trust that has become muscle memory."
+**Moral Capital** is the accumulated [Moral Labor](/wiki/nodes/moral_labor) stored within a [The Sub Object](/wiki/nodes/the_sub_object). It is the structural inertia that allows a community to survive a [Rupture](/wiki/nodes/rupture) in its physical infrastructure. It is "Trust that has become muscle memory."
 
 ## II. TECHNICAL MECHANICS
 1.  **Embedded Labor**: Every act of care (fixing a roof, feeding a neighbor) "deposits" value into the sub-objectual field. This value is not financial; it is the *certainty of response.*
@@ -20,7 +20,7 @@ last_forensic_audit: "2026-04-06"
 For the early social species, Moral Capital was the ultimate hedge against environmental volatility. It allowed the tribe to "spend" its shared trust to overcome a season of famine, preventing the isolation and collapse that would follow an extractive model.
 
 ## IV. CONNECTIONS
-*   **Built By**: [moral_labor](/wiki/wiki/nodes/moral_labor), [trust_as_commodity](/wiki/wiki/nodes/trust_as_commodity).
-*   **Outlasts**: [the_commodity_form](/wiki/wiki/nodes/the_commodity_form) (Financial).
-*   **Becomes**: [faith_as_residue](/wiki/wiki/nodes/faith_as_residue) after collapse.
+*   **Built By**: [Moral Labor](/wiki/nodes/moral_labor), [Trust As Commodity](/wiki/nodes/trust_as_commodity).
+*   **Outlasts**: [The Commodity Form](/wiki/nodes/the_commodity_form) (Financial).
+*   **Becomes**: [Faith As Residue](/wiki/nodes/faith_as_residue) after collapse.
 *   **Biblical Anchor**: Joseph's Storehouses—material moral capital that standardized Egyptian survival across the "Fracture" of the seven-year famine.

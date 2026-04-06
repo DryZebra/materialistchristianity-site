@@ -80,6 +80,6 @@ In a Pure MC analysis, one looks at the "Cost":
 
 ### Biblical Baseline: Re-digging the Wells
 As described in [Genesis 26:18](/wiki/bible/gen_24_27_inheritance), the digging of wells is a mechanical re-opening of established structural pathways. If the original protocol has been "filled with earth" by the public world (Philistines), the technician must perform a forensic excavation to restore the flow of truth.
-- **The Wells of Abraham**: The original physical infrastructure of the [Kingdom of Labor](/wiki/wiki/essays/the_kingdom_of_labor).
+- **The Wells of Abraham**: The original physical infrastructure of the [Kingdom of Labor](/wiki/essays/the_kingdom_of_labor).
 - **The Dirt of the Philistines**: The entropic "Preservation" that chokes the life out of the original truth.
 - **The Isaac-Motion**: Isaac does not find "new" water; he performs the **Maintenance of the Real** by clearing the dirt to reach the original substrate.

@@ -23,4 +23,4 @@ In the archival testimony, the transition to the Atheist Axiom is described as a
 By adopting the Atheist Axiom, Materialist Christianity is able to "Sub-Load" the sacred structures of Christianity—its rituals, its ethics, its social torque—without needing to defend the "Software" (mythology). We keep the plane (The Church) but stop arguing about whether the Pilot is an invisible spirit or an automated protocol of history.
 
 ---
-*See also: [function_over_debunking](/wiki/wiki/nodes/function_over_debunking)*
+*See also: [function_over_debunking](/wiki/nodes/function_over_debunking)*

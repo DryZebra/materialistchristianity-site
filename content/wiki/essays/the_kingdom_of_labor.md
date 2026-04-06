@@ -26,15 +26,15 @@ The **Kingdom of Labor** is not built on chance; it is the rejection of the "Luc
 2.  **The Success of Tectonic Luck**: The individual is "calloused" by trivial failure to focus on existential survival. They win the "Big Gambles"—Christianity, Communism, and the physical reconstruction of the world.
 3.  **Structural Necessity**: The Kingdom is the result of labor that must happen. Is your source of survival dependent on [Structural Resurrection](/wiki/nodes/resurrection_structural)? It is the resurrection of agency from the debt-trap of the Vampire.
 
-The [Power Plant](/wiki/essays/the_power_plant) is the "Slow Burn" of the Kingdom. It is the place where we verify that our [Social Synchronization Engine](/wiki/nodes/social_synchronization_engine) is churning to protect the local [Kin](/wiki/nodes/local_vs_public_trust), and where we refuse to allow the [Nothing](/wiki/nodes/the_nothing) to turn our [Shared Reality](/wiki/nodes/the_sub_object) into a [Slow Rot](/wiki/nodes/the_entropic_dance). Use this lens to find the [Generator](/wiki/nodes/social_reinvestment_loop) and build the Kingdom today. Check your source now.
+The [Power Plant](/wiki/essays/the_power_plant) is the "Slow Burn" of the Kingdom. It is the place where we verify that our [Social Synchronization Engine](/wiki/nodes/social_synchronization_engine) is churning to protect the local [Kin](/wiki/nodes/local_vs_public_trust), and where we refuse to allow the [Nothing](/wiki/nodes/the_vacuum) to turn our [Shared Reality](/wiki/nodes/the_sub_object) into a [Slow Rot](/wiki/nodes/rupture). Use this lens to find the [Generator](/wiki/nodes/social_reinvestment_loop) and build the Kingdom today. Check your source now.
 
 ## Diagnostic Standard
 
 The Kingdom is the diagnostic for **Structural Integrity**:
 
 -   **Tectonic Check**: Is the community relying on a "coin flip" (Small Luck) for its future, or is it building by necessity?
--   **The King's Purse**: Is the community borrowing [happiness](/wiki/nodes/borrowed_happiness) through debt?
--   **[Consequence as Truth](/wiki/nodes/consequence_as_truth)**: Mapping the "Fruit" to the Protocol.
+-   **The King's Purse**: Is the community borrowing [happiness](/wiki/nodes/trust_as_commodity) through debt?
+-   **[Consequence As Truth](/wiki/nodes/consequence_as_truth)**: Mapping the "Fruit" to the Protocol.
 -   **Support Spacing**: Applying the NEC 3-foot check—are the members physically present to support the load of the Kingdom?
 
 > [!IMPORTANT]

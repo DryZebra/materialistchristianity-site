@@ -25,6 +25,6 @@ It is the practice of standing inside a convincing illusion (The Church) without
 
 ---
 **Related Ideas**:
-- [the_atheist_axiom](/wiki/wiki/nodes/the_atheist_axiom)
-- [moral_labor](/wiki/wiki/nodes/moral_labor)
-- [the_industrial_real](/wiki/wiki/essays/the_industrial_real)
+- [the_atheist_axiom](/wiki/nodes/the_atheist_axiom)
+- [Moral Labor](/wiki/nodes/moral_labor)
+- [The Industrial Real](/wiki/essays/the_industrial_real)

@@ -31,6 +31,6 @@ If the Abrahamic cycle was about the establishment of **Property-as-Protocol**, 
 The Isaac/Jacob cycle proves that **Conflict is a Variable of Proximity**. When resources are viewed as "owned," every neighbor is a friction point. The "Israel" identity is the protocol designed to navigate this friction without being consumed by it.
 
 ## IV. Knowledge Graph Integration
-*   **Primary Node:** [The Well-Water Principle](/wiki/wiki/nodes/well_water_principle) [NEW]
-*   **Secondary Node:** [Antagonistic Labor](/wiki/wiki/nodes/antagonistic_labor)
-*   **Related Essay:** [The Kingdom of Labor](/wiki/wiki/essays/the_kingdom_of_labor)
+*   **Primary Node:** [The Well-Water Principle](/wiki/nodes/well_water_principle) [NEW]
+*   **Secondary Node:** [Antagonistic Labor](/wiki/nodes/antagonistic_labor)
+*   **Related Essay:** [The Kingdom Of Labor](/wiki/essays/the_kingdom_of_labor)

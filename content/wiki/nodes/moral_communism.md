@@ -9,18 +9,18 @@ last_forensic_audit: "2026-04-06"
 # Moral Communism
 
 ## I. DIAGNOSTIC SUMMARY
-In the Materialist Christianity lens, **Moral Communism** is the technical term for a high-torque [sub_object_resonance](/wiki/wiki/nodes/sub_object_resonance) where labor and its consequences are structurally shared rather than individually extracted. It is the materialist form of the Resurrection.
+In the Materialist Christianity lens, **Moral Communism** is the technical term for a high-torque [Sub Object Resonance](/wiki/nodes/sub_object_resonance) where labor and its consequences are structurally shared rather than individually extracted. It is the materialist form of the Resurrection.
 
 ## II. TECHNICAL MECHANICS
-1.  **Structural Inseparability**: In a state of Moral Communism, the survival of the subject is structurally tied to the survival of the [the_sub_object](/wiki/wiki/nodes/the_sub_object). If the neighbor's roof leaks, the entire field's trust-commodity drops; therefore, moving toward the leak is a metabolic necessity, not a "charitable" choice.
+1.  **Structural Inseparability**: In a state of Moral Communism, the survival of the subject is structurally tied to the survival of the [The Sub Object](/wiki/nodes/the_sub_object). If the neighbor's roof leaks, the entire field's trust-commodity drops; therefore, moving toward the leak is a metabolic necessity, not a "charitable" choice.
 2.  **Apostolic Metabolism**: Resources (Moral Capital) flow toward the "Fracture" (Need) automatically because the resonance of the group requires the fracture to be sealed to maintain group synchronization.
-3.  **Resurrection Alignment**: Moral Communism is the only structure capable of sustaining [resurrection_structural](/wiki/wiki/nodes/resurrection_structural). It provides the high-density labor-residue required to restart organized motion after a systemic [rupture](/wiki/wiki/nodes/rupture).
+3.  **Resurrection Alignment**: Moral Communism is the only structure capable of sustaining [Resurrection Structural](/wiki/nodes/resurrection_structural). It provides the high-density labor-residue required to restart organized motion after a systemic [Rupture](/wiki/nodes/rupture).
 
 ## III. SURVIVAL "WHY"
 For the social species, Moral Communism is the optimum survival state. It eliminates the "Prisoner's Dilemma" by standardizing care, ensuring that no individual is abandoned to the environment. It is the "Manual" for building a structure that even the Grave (Systemic Collapse) cannot hold.
 
 ## IV. CONNECTIONS
-*   **Built From**: [moral_labor](/wiki/wiki/nodes/moral_labor), [trust_as_commodity](/wiki/wiki/nodes/trust_as_commodity).
-*   **Result**: [resurrection_structural](/wiki/wiki/nodes/resurrection_structural).
-*   **Opposed To**: [the_commodity_form](/wiki/wiki/nodes/the_commodity_form), [gmorknicity](/wiki/wiki/nodes/gmorknicity).
+*   **Built From**: [Moral Labor](/wiki/nodes/moral_labor), [Trust As Commodity](/wiki/nodes/trust_as_commodity).
+*   **Result**: [Resurrection Structural](/wiki/nodes/resurrection_structural).
+*   **Opposed To**: [The Commodity Form](/wiki/nodes/the_commodity_form), [Gmorknicity](/wiki/nodes/gmorknicity).
 *   **Biblical Anchor**: Acts 2:44-45—"And all that believed were together, and had all things common." Not as a political mandate, but as a technical requirement for the survival of the new Apostolic sub-object under Roman pressure.

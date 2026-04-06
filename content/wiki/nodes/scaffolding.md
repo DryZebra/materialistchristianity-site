@@ -20,6 +20,6 @@ last_forensic_audit: "2026-04-06"
 Understanding Scaffolding prevents **Structural Stasis**. It allows the faithful to discard outdated dogmas without losing the core continuity of the faith. It provides a technical path for "Reformation" by identifying which parts of the system are load-bearing and which are merely temporary supports.
 
 ## IV. CONNECTIONS
-*   **Complemented By**: [rupture](/wiki/wiki/nodes/rupture) (When scaffolds break), [continuity](/wiki/wiki/nodes/continuity) (What stands after removal).
-*   **Result**: [moral_communism](/wiki/wiki/nodes/moral_communism) (The final structure without parasitism).
-*   **Diagnostic**: [maintenance_vs_preservation](/wiki/wiki/nodes/maintenance_vs_preservation).
+*   **Complemented By**: [Rupture](/wiki/nodes/rupture) (When scaffolds break), [Continuity](/wiki/nodes/continuity) (What stands after removal).
+*   **Result**: [Moral Communism](/wiki/nodes/moral_communism) (The final structure without parasitism).
+*   **Diagnostic**: [Maintenance Vs Preservation](/wiki/nodes/maintenance_vs_preservation).
