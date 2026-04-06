@@ -16,7 +16,7 @@ database_trace:
 In Materialist Christianity, the **Fractal Theory of Self** identifies the objective social property of identity as a reflection of collective needs. It rejects 'Individualism'—the claim that a 'Soul' or 'Essence' exists in a vacuum—in favor of **Social Density**: the recognition that a person achieves a stable 'shape' only by accepting [Responsibility](/wiki/nodes/conscious_responsibility) within the community frame.
 
 ### I. The Diagnostic Lens: Manufactured Identity vs. Entropic Dissolution
-The materialist dialectic recognizes that an individual without a [Station](/wiki/nodes/the_biblical_baseline) or a material load begins to dissolve into [Entropy](/wiki/nodes/the_entropic_dance). A 'Self' is manufactured through high-torque integration into the social project. A person's 'Shape' is a fractal—a repeating pattern of the community's survival logic expressed at the individual scale.
+The materialist dialectic recognizes that an individual without a [Station](/wiki/essays/the_biblical_baseline) or a material load begins to dissolve into [Entropy](/wiki/nodes/the_entropic_dance). A 'Self' is manufactured through high-torque integration into the social project. A person's 'Shape' is a fractal—a repeating pattern of the community's survival logic expressed at the individual scale.
 
 | Operational Phase | Material Requirement | Social Significance |
 | :--- | :--- | :--- |
@@ -28,9 +28,9 @@ Historical verification of the Fractal Self is found in the 'Company Town' and '
 
 ### II. Historical Mapping: The Earthen Vessel
 - **2 Corinthians 4:7**: "But we have this treasure in earthen vessels..."
-- **Materialist Interpretation**: The Biblical archive identifies the 'Body' as an **Industrial Tool** (Earthen Vessel). The 'Treasure' is identified as the [Plan](/wiki/nodes/the_biblical_baseline) or the collective mission. Who a person 'is' is the pattern of how they use that tool to assist the folks.
-- **The Non-Doer**: The scripture describes a man who looks in a mirror and immediately forgets his 'Face' because he 'is not a doer.' In industrial terms, this is **Structural Non-Existence**. Without the [Mirror of Labor](/wiki/nodes/the_materialist_axiom), the individual possesses no stable shape and begins to drift as a [Ghost](/wiki/nodes/the_haunted_object) through the social machine.
+- **Materialist Interpretation**: The Biblical archive identifies the 'Body' as an **Industrial Tool** (Earthen Vessel). The 'Treasure' is identified as the [Plan](/wiki/essays/the_biblical_baseline) or the collective mission. Who a person 'is' is the pattern of how they use that tool to assist the folks.
+- **The Non-Doer**: The scripture describes a man who looks in a mirror and immediately forgets his 'Face' because he 'is not a doer.' In industrial terms, this is **Structural Non-Existence**. Without the [Mirror of Labor](/wiki/essays/the_materialist_axiom), the individual possesses no stable shape and begins to drift as a [Ghost](/wiki/nodes/the_haunted_object) through the social machine.
 
 ### III. The Conclusion: The Mirror of the Work
-The Fractal-Theory-of-Self diagnostic providing the **Forensic Standard for Purpose**. It rejects 'Self-Discovery' in favor of **Self-Manufacture**. Success is verified by **Residency**. If a town's members are 'Dense' and 'Real' because they carry an objective [Load](/wiki/nodes/dignity_structural) for the collective, the diagnostic is verified. The [Church](/wiki/nodes/the_church_as_structural_anchor) acts as the 'Mirror Station' where the folks identify their station and refine their shape according to the [Kingdom of Labor](/wiki/nodes/the_kingdom_of_labor).
+The Fractal-Theory-of-Self diagnostic providing the **Forensic Standard for Purpose**. It rejects 'Self-Discovery' in favor of **Self-Manufacture**. Success is verified by **Residency**. If a town's members are 'Dense' and 'Real' because they carry an objective [Load](/wiki/nodes/dignity_structural) for the collective, the diagnostic is verified. The [Church](/wiki/nodes/the_church_as_structural_anchor) acts as the 'Mirror Station' where the folks identify their station and refine their shape according to the [Kingdom of Labor](/wiki/essays/the_kingdom_of_labor).
 

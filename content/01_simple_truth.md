@@ -8,15 +8,15 @@ related: ["the_materialist_axiom", "the_biblical_baseline", "the_kingdom_of_labo
 
 # The Simple Truth: A Diagnostic of the Real
 
-Materialist Christianity is not a "religion" of feelings, theories, or distant hopes. It is the **Mechanical Recognition of the Real**. It is the discovery that how we live, how we treat our neighbor, and how we coordinate our labor is not a matter of "opinion"—it is a set of [Rules that Work](/wiki/nodes/the_materialist_axiom) or [Mistakes that Cost Us](/wiki/nodes/the_nothing).
+Materialist Christianity is not a "religion" of feelings, theories, or distant hopes. It is the **Mechanical Recognition of the Real**. It is the discovery that how we live, how we treat our neighbor, and how we coordinate our labor is not a matter of "opinion"—it is a set of [Rules that Work](/wiki/essays/the_materialist_axiom) or [Mistakes that Cost Us](/wiki/nodes/the_nothing).
 
 ## I. The Materialist Axiom: The Foundation First
 
-You do not build a structure from the roof down. You start with the **Foundation** and the **Hard Work**. On this site, we recognize that the [Producers](/wiki/nodes/the_kingdom_of_labor)—those who grow the food, build the tools, and maintain the towns—are the primary eyewitnesses to the [Truth](/wiki/nodes/the_materialist_axiom). Talk is cheap; [Consequence](/wiki/nodes/consequence_as_truth) is the only valid metric. Any social plan that ignores the [Industrial Real](/wiki/nodes/the_industrial_real) is destined for [Entropy](/wiki/nodes/entropy_and_synthesis).
+You do not build a structure from the roof down. You start with the **Foundation** and the **Hard Work**. On this site, we recognize that the [Producers](/wiki/essays/the_kingdom_of_labor)—those who grow the food, build the tools, and maintain the towns—are the primary eyewitnesses to the [Truth](/wiki/essays/the_materialist_axiom). Talk is cheap; [Consequence](/wiki/nodes/consequence_as_truth) is the only valid metric. Any social plan that ignores the [Industrial Real](/wiki/essays/the_industrial_real) is destined for [Entropy](/wiki/nodes/entropy_and_synthesis).
 
 ## II. The Pressure Test: Survival as Verification
 
-Truth is not what a politician, a banker, or a "Social Gospel" expert tells you. Truth is what remains when the substrate fails and the pressure is on. If a specific behavior results in a stable family, a protected neighbor, and a [Resilient Community](/wiki/nodes/redneck_dictatorship), then that is the **Physical Fact** of truth. We do not "argue" with the world; we simply measure the [Receipts](/wiki/nodes/consequence_as_truth) of historical necessity.
+Truth is not what a politician, a banker, or a "Social Gospel" expert tells you. Truth is what remains when the substrate fails and the pressure is on. If a specific behavior results in a stable family, a protected neighbor, and a [Resilient Community](/wiki/essays/redneck_dictatorship), then that is the **Physical Fact** of truth. We do not "argue" with the world; we simply measure the [Receipts](/wiki/nodes/consequence_as_truth) of historical necessity.
 
 ---
 

@@ -14,10 +14,10 @@ Social Proximity is the term for the [Commodity](/wiki/nodes/the_commodity_form)
 
 As the [Social Vampire](/wiki/nodes/social_vampirism) drains the structural mass of a community, it creates a void of **Presence**. It then sells the simulation of that presence back to the isolated subject:
 
-1.  **Hollow out the Local**: The destruction of the [Brush Arbor](/wiki/nodes/the_brush_arbor) and the neighborhood, leaving the subject isolated.
+1.  **Hollow out the Local**: The destruction of the [Brush Arbor](/wiki/essays/the_brush_arbor) and the neighborhood, leaving the subject isolated.
 2.  **Market the Vibe**: The symbols of belonging (The Heart) are turned into digital content—pure resonance detached from physical neighborliness.
 3.  **Sell Proximity**: The subject pays for the sensation of being "close" to the source of resonance (e.g., a streamer, a brand, an influencer). 
-4.  **The Transaction**: The subject exchanges their [Labor](/wiki/nodes/the_kingdom_of_labor) (cash) for a temporary hit of [Social Capital](/wiki/nodes/moral_capital) that expires as soon as the feed stops.
+4.  **The Transaction**: The subject exchanges their [Labor](/wiki/essays/the_kingdom_of_labor) (cash) for a temporary hit of [Social Capital](/wiki/nodes/moral_capital) that expires as soon as the feed stops.
 
 ## Presence vs. Proximity: The Structural Support (NEC 344.30)
 
@@ -35,5 +35,5 @@ Social Proximity is the diagnostic used to identify an **Unsupported Structure**
 -   **The Voltage**: When the crisis hits, can the structure carry the voltage of survival? Proximity shorts out immediately; Presence is grounded.
 
 > [!CAUTION]
-> Social Proximity is a form of [Borrowed Happiness](/wiki/nodes/borrowed_happiness). It is used to mask the pain of structural isolation. To defeat it, one must reclaim **Presence** by rebuilding the [Brush Arbor](/wiki/nodes/the_brush_arbor)—the only structure that can provide off-grid support.
+> Social Proximity is a form of [Borrowed Happiness](/wiki/nodes/borrowed_happiness). It is used to mask the pain of structural isolation. To defeat it, one must reclaim **Presence** by rebuilding the [Brush Arbor](/wiki/essays/the_brush_arbor)—the only structure that can provide off-grid support.
 

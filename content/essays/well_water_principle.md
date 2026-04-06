@@ -15,13 +15,13 @@ The principle is defined by the mechanical difference between a "Well" and a "Pi
 
 1.  **The Well**: A local source of survival. It belongs to the [Kin](/wiki/nodes/local_vs_public_trust) and is maintained by the [Moral Labor](/wiki/nodes/moral_labor) of the producers. It is [Substrate Independent](/wiki/nodes/substrate_independence)—if the "Grid" fails, the well still provides.
 2.  **The Pipe**: An external connection of dependency. It is managed by the [Nothing](/wiki/nodes/the_nothing) or the [Vampire](/wiki/nodes/capital_as_vampire). It promises "Convenience" (Liberalism) in exchange for the extraction of the community's [Moral Capital](/wiki/nodes/moral_capital).
-3.  **The Refusal**: The mechanical act of cutting the pipe and re-aligning with the well. This is the first step toward [Proletarian Moral Authority](/wiki/nodes/redneck_dictatorship).
+3.  **The Refusal**: The mechanical act of cutting the pipe and re-aligning with the well. This is the first step toward [Proletarian Moral Authority](/wiki/essays/redneck_dictatorship).
 
 ## II. The Mechanics of the Commons
 
-The Well-Water Principle is the foundation of the [Kingdom of Labor](/wiki/nodes/the_kingdom_of_labor). It declares that the primary resources of life—the water, the land, the memory, and the trust—are a "Common Well" that must be defended by the [Hammer](/wiki/nodes/behavioral_gravity) of the collective. When a community allows its well to be "Privatized" or "Administered" by the [Nothing](/wiki/nodes/liberalism_as_wardrobe), it has accepted its own [Hollowing](/wiki/nodes/gmorknicity).
+The Well-Water Principle is the foundation of the [Kingdom of Labor](/wiki/essays/the_kingdom_of_labor). It declares that the primary resources of life—the water, the land, the memory, and the trust—are a "Common Well" that must be defended by the [Hammer](/wiki/nodes/behavioral_gravity) of the collective. When a community allows its well to be "Privatized" or "Administered" by the [Nothing](/wiki/essays/liberalism_as_wardrobe), it has accepted its own [Hollowing](/wiki/nodes/gmorknicity).
 
-The [Redneck Dictatorship](/wiki/nodes/redneck_dictatorship) is the primary witness to the well. They are the people who have been denied the "Pipe" and have been forced to dig their own sources of survival. Their "Common Sense" is the recognition that you only own what you can defend with your own [Labor](/wiki/nodes/moral_labor). They refuse to allow their [Shared Trust](/wiki/nodes/local_vs_public_trust) to be commodified because they know that once the well is poisoned, the town is dead.
+The [Redneck Dictatorship](/wiki/essays/redneck_dictatorship) is the primary witness to the well. They are the people who have been denied the "Pipe" and have been forced to dig their own sources of survival. Their "Common Sense" is the recognition that you only own what you can defend with your own [Labor](/wiki/nodes/moral_labor). They refuse to allow their [Shared Trust](/wiki/nodes/local_vs_public_trust) to be commodified because they know that once the well is poisoned, the town is dead.
 
 ## III. The Prophetic Audit: The Depth of the Source
 
@@ -29,7 +29,7 @@ This way of thinking provides a **Resilience Audit** for any social organization
 
 1.  Is your community's source of life **Local** ([The Well](/wiki/nodes/well_water_principle)) or **Remote** ([The Pipe](/wiki/nodes/capital_as_vampire))?
 2.  Are you being [Extracted](/wiki/nodes/trust_as_commodity) by a system that refuses to maintain the [Hedge](/wiki/nodes/local_vs_public_trust)?
-3.  Can your source of survival endure a [Survival Check](/wiki/nodes/the_survival_check) that shatters the national substrate?
+3.  Can your source of survival endure a [Survival Check](/wiki/essays/the_survival_check) that shatters the national substrate?
 
 The [Church](/wiki/nodes/the_church_as_structural_anchor) is the "Hedge-Guard" of the Well. It is the place where we verify that our [Social Synchronization Engine](/wiki/nodes/social_synchronization_engine) is churning to protect the local [Kin](/wiki/nodes/local_vs_public_trust), and where we refuse to allow the [Nothing](/wiki/nodes/the_nothing) to turn our [Shared Reality](/wiki/nodes/the_co_construct) into a product for extraction.
 

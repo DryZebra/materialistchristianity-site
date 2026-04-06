@@ -13,9 +13,9 @@ Most people approach Christianity like it is a debate in a college classroom. Th
 
 ## I. The Structural Load
 
-A community is like a building. We do not ask if a bridge "believes" in the blueprints; we ask if the bridge **holds the weight** of the trucks crossing it. For two thousand years, the [Bible](/wiki/nodes/scripture_behavioral_history) has functioned as the wiring for human social stability. It did not survive because of a magic trick; it survived because it was the only structure that could hold the load of the real. It kept families together when the world was falling apart. It provided the [Structural Anchor](/wiki/nodes/the_church_as_structural_anchor) for a people who had no other ground.
+A community is like a building. We do not ask if a bridge "believes" in the blueprints; we ask if the bridge **holds the weight** of the trucks crossing it. For two thousand years, the [Bible](/wiki/essays/scripture_behavioral_history) has functioned as the wiring for human social stability. It did not survive because of a magic trick; it survived because it was the only structure that could hold the load of the real. It kept families together when the world was falling apart. It provided the [Structural Anchor](/wiki/nodes/the_church_as_structural_anchor) for a people who had no other ground.
 
-When you strip away the "religious" talk, what remains is a **Proven Circuit**. It is the set of behaviors—honesty, hard labor, shared trust, and the [Biblical Baseline](/wiki/nodes/the_biblical_baseline)—that results in a community that survives. If a town walks away from that wiring, the house might look good for a few years, but eventually, the [Nothing](/wiki/nodes/the_nothing) sets in and the structure fails.
+When you strip away the "religious" talk, what remains is a **Proven Circuit**. It is the set of behaviors—honesty, hard labor, shared trust, and the [Biblical Baseline](/wiki/essays/the_biblical_baseline)—that results in a community that survives. If a town walks away from that wiring, the house might look good for a few years, but eventually, the [Nothing](/wiki/nodes/the_nothing) sets in and the structure fails.
 
 ## II. The Technician of the Real
 
@@ -31,7 +31,7 @@ This way of thinking provides a **Forensic Audit** for any structure. It moves t
 2.  Are the people around you [Reliable](/wiki/nodes/sub_object_resonance)?
 3.  Is the [Social Synchronization Engine](/wiki/nodes/social_synchronization_engine) producing survival or extraction?
 
-When the world is viewed as a [Kingdom of Labor](/wiki/nodes/the_kingdom_of_labor), the focus shifts to the **Fruits**—the homes built, the families fed, and the towns saved. If the current is flowing and the work is getting done, then the structure is verified. Everything else is just [Noise](/wiki/nodes/the_entropic_dance).
+When the world is viewed as a [Kingdom of Labor](/wiki/essays/the_kingdom_of_labor), the focus shifts to the **Fruits**—the homes built, the families fed, and the towns saved. If the current is flowing and the work is getting done, then the structure is verified. Everything else is just [Noise](/wiki/nodes/the_entropic_dance).
 
 > [!IMPORTANT]
-> **The Electrician's Audit**: If a way of living does not result in a better life for a family and a neighbor, it is a short-circuit. It is the victory of the Nothing. Use this lens to find the [Rock](/wiki/nodes/the_materialist_axiom) and the [Integrity](/wiki/nodes/dignity_structural) to be a load-bearing pillar in your own town. Check your wiring today.
+> **The Electrician's Audit**: If a way of living does not result in a better life for a family and a neighbor, it is a short-circuit. It is the victory of the Nothing. Use this lens to find the [Rock](/wiki/essays/the_materialist_axiom) and the [Integrity](/wiki/nodes/dignity_structural) to be a load-bearing pillar in your own town. Check your wiring today.

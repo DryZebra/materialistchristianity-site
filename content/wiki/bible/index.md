@@ -7,7 +7,7 @@ diagnostic: "Pure MC"
 
 # Materialist Christian Study Bible (MCSB)
 
-The Materialist Christian Study Bible is the forensic, sociological teardown of the [Biblical Baseline](/wiki/nodes/the_biblical_baseline). It rejects spiritualized "magic" in favor of **Applied Physics**—the documentation of the brutal, physical realities of human survival and social friction.
+The Materialist Christian Study Bible is the forensic, sociological teardown of the [Biblical Baseline](/wiki/essays/the_biblical_baseline). It rejects spiritualized "magic" in favor of **Applied Physics**—the documentation of the brutal, physical realities of human survival and social friction.
 
 ### The Algorithm of Translation
 Every text in the MCSB follows the **Pure MC Algorithm**:
@@ -30,7 +30,7 @@ Every text in the MCSB follows the **Pure MC Algorithm**:
 
 | Logical Chunk | Title | Materialist Utility |
 | :--- | :--- | :--- |
-| **Matthew 5—7** | [The Sermon on the Mount](/wiki/nodes/moral_communism) | The forensic reconstruction of the [Kingdom of Labor](/wiki/nodes/the_kingdom_of_labor). |
+| **Matthew 5—7** | [The Sermon on the Mount](/wiki/nodes/moral_communism) | The forensic reconstruction of the [Kingdom of Labor](/wiki/essays/the_kingdom_of_labor). |
 
 ---
 

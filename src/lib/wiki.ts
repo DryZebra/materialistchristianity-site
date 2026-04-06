@@ -102,3 +102,20 @@ export function getNodesByCategory(): Record<string, ContentNode[]> {
 
   return categories;
 }
+
+/**
+ * Returns the correct wiki path prefix (/wiki/nodes/ or /wiki/essays/)
+ * by checking the filesystem for the slug's existence in each category.
+ */
+export function getLinkPath(slug: string): string {
+  const nodes = getAllWikiNodes();
+  if (nodes.some(n => n.slug === slug)) return '/wiki/nodes/';
+  
+  const essays = getAllEssays();
+  if (essays.some(e => e.slug === slug)) return '/wiki/essays/';
+  
+  const bibles = getAllBibleTranslations();
+  if (bibles.some(b => b.slug === slug)) return '/wiki/bible/';
+
+  return '/wiki/nodes/'; // Default fallback
+}

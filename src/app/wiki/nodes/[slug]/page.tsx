@@ -2,7 +2,7 @@ import { Metadata } from 'next';
 import Link from 'next/link';
 import ReactMarkdown from 'react-markdown';
 import remarkGfm from 'remark-gfm';
-import { getAllWikiNodes, getWikiNodeBySlug } from '@/lib/wiki';
+import { getAllWikiNodes, getWikiNodeBySlug, getLinkPath } from '@/lib/wiki';
 import { transformWikiLinks } from '@/lib/markdown';
 
 export async function generateStaticParams() {
@@ -78,7 +78,7 @@ export default async function WikiNodePage({ params }: { params: Promise<{ slug:
           <h4 className="text-xl font-black uppercase mb-6">Related Axioms</h4>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
             {node.related.map(rel => (
-              <Link key={rel} href={`/wiki/nodes/${rel}`} className="brutalist-card p-4 hover:border-signal text-sm uppercase font-bold">
+              <Link key={rel} href={`${getLinkPath(rel)}${rel}`} className="brutalist-card p-4 hover:border-signal text-sm uppercase font-bold">
                 {rel.replace(/_/g, ' ')} &rarr;
               </Link>
             ))}

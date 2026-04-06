@@ -1,36 +1,44 @@
 import { toSlug } from './slugs';
+import { CONTENT_MAP } from './content_map';
 
 /**
  * Transforms internal references into functional markdown links.
- * 1. [[WikiLink]] or [[slug|Title]] -> [Title](/wiki/node/slug)
- * 1. [[WikiLink]] or [[slug|Title]] -> [Title](/wiki/nodes/slug)
- * 2. [Title](/wiki/nodes/Raw Path) -> [Title](/wiki/nodes/raw_path)
+ * 1. [[WikiLink]] or [[slug|Title]] -> Correct categorical path
+ * 2. Sanitize standard markdown links to correct categories
  */
 export function transformWikiLinks(content: string): string {
   if (!content) return '';
 
+  const getPath = (slug: string) => {
+    const category = CONTENT_MAP[slug];
+    if (category === 'wiki/nodes') return '/wiki/nodes/';
+    if (category === 'wiki/essays') return '/wiki/essays/';
+    if (category === 'wiki/bible') return '/wiki/bible/';
+    
+    // Fallback heuristic if not in map
+    const isEssay = slug.startsWith('01_') || slug.includes('ch');
+    return isEssay ? '/wiki/essays/' : '/wiki/nodes/';
+  };
+
   // 1. Handle [[slug|title]] - slugified
   let transformed = content.replace(/\[\[(.*?)\|(.*?)\]\]/g, (match, rawSlug, title) => {
     const slug = toSlug(rawSlug);
-    const isEssay = slug.startsWith('01_') || slug.includes('ch'); // Catching ch chapters or 01 prefix
-    const path = isEssay ? '/wiki/essays/' : '/wiki/nodes/';
+    const path = getPath(slug);
     return `[${title}](${path}${slug})`;
   });
 
   // 2. Handle [[slug]] - slugified
   transformed = transformed.replace(/\[\[(.*?)\]\]/g, (match, rawSlug) => {
     const slug = toSlug(rawSlug);
-    const isEssay = slug.startsWith('01_') || slug.includes('ch');
-    const path = isEssay ? '/wiki/essays/' : '/wiki/nodes/';
+    const path = getPath(slug);
     const displayTitle = rawSlug.replace(/_/g, ' ');
     return `[${displayTitle}](${path}${slug})`;
   });
 
   // 3. Sanitize standard markdown links [Title](/wiki/nodes/Target Name) or [Title](/essays/Target Name)
-  transformed = transformed.replace(/\[(.*?)\]\((?:\/wiki\/node\/|\/wiki\/nodes\/|\/essays\/|\/wiki\/essays\/)(.*?)\)/g, (match, title, rawPath) => {
+  transformed = transformed.replace(/\[(.*?)\]\((?:\/wiki\/node\/|\/wiki\/nodes\/|\/essays\/|\/wiki\/essays\/|\/wiki\/bible\/)(.*?)\)/g, (match, title, rawPath) => {
     const slug = toSlug(rawPath);
-    const isEssay = slug.startsWith('01_') || slug.includes('ch');
-    const path = isEssay ? '/wiki/essays/' : '/wiki/nodes/';
+    const path = getPath(slug);
     return `[${title}](${path}${slug})`;
   });
 

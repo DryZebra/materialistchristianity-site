@@ -43,7 +43,7 @@ In a Pure MC analysis, one looks at the "Cost":
 
 ### Biblical Baseline: Re-digging the Wells
 The definitive diagnostic for **Maintenance** is found in **[Genesis 26:18](/wiki/nodes/bible/gen_24_27_inheritance)**:
-- **The Wells of Abraham**: The original physical infrastructure of the [Kingdom of Labor](/wiki/nodes/the_kingdom_of_labor).
+- **The Wells of Abraham**: The original physical infrastructure of the [Kingdom of Labor](/wiki/essays/the_kingdom_of_labor).
 - **The Dirt of the Philistines**: The entropic "Preservation" that chokes the life out of the original truth.
 - **The Isaac-Motion**: Isaac does not find "new" water; he performs the **Maintenance of the Real** by clearing the dirt to reach the original substrate.
 

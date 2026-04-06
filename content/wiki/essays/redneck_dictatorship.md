@@ -13,7 +13,7 @@ The Redneck Dictatorship is the name given to the moral motion of history when t
 
 The Redneck Dictatorship does not adopt a foreign culture; it redeems its own. It follows the dialectical lessons of development:
 
-1.  **Seven League Strides (The Stalin Check)**: As Stalin observed, the proletariat does not wait for a "cultured" baseline; it takes power first and then trains the culture to meet the necessity of the [Kingdom of Labor](/wiki/nodes/the_kingdom_of_labor).
+1.  **Seven League Strides (The Stalin Check)**: As Stalin observed, the proletariat does not wait for a "cultured" baseline; it takes power first and then trains the culture to meet the necessity of the [Kingdom of Labor](/wiki/essays/the_kingdom_of_labor).
 2.  **Form vs. Essence (The Mao Check)**: Just as Mao kept "China Chinese" while making it Communist, the Redneck Dictatorship keeps the West **Christian in Form** but **Communist in Essence**. It does not sing new hymns, but the old ones with a new, scientific understanding.
 3.  **The Dialectical Cross**: The Cross is the intersection of **Vertical Tradition** (The Heart/Legacy) and **Horizontal History** (The Hammer/Labor). It is the red sign of the survivor.
 4.  **Ownership of the Story**: The class that owns the language must own the story. If the workers do not speak their own revolution, the [Vampire](/wiki/nodes/capital_as_vampire) will speak through their mouths using their own symbols.
