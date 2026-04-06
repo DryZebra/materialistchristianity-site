@@ -3,7 +3,8 @@ import { toSlug } from './slugs';
 /**
  * Transforms internal references into functional markdown links.
  * 1. [[WikiLink]] or [[slug|Title]] -> [Title](/wiki/node/slug)
- * 2. [Title](/wiki/node/Raw Path) -> [Title](/wiki/node/raw_path)
+ * 1. [[WikiLink]] or [[slug|Title]] -> [Title](/wiki/nodes/slug)
+ * 2. [Title](/wiki/nodes/Raw Path) -> [Title](/wiki/nodes/raw_path)
  */
 export function transformWikiLinks(content: string): string {
   if (!content) return '';
@@ -12,7 +13,7 @@ export function transformWikiLinks(content: string): string {
   let transformed = content.replace(/\[\[(.*?)\|(.*?)\]\]/g, (match, rawSlug, title) => {
     const slug = toSlug(rawSlug);
     const isEssay = slug.startsWith('01_') || slug.includes('ch'); // Catching ch chapters or 01 prefix
-    const path = isEssay ? '/wiki/essays/' : '/wiki/node/';
+    const path = isEssay ? '/wiki/essays/' : '/wiki/nodes/';
     return `[${title}](${path}${slug})`;
   });
 
@@ -20,16 +21,16 @@ export function transformWikiLinks(content: string): string {
   transformed = transformed.replace(/\[\[(.*?)\]\]/g, (match, rawSlug) => {
     const slug = toSlug(rawSlug);
     const isEssay = slug.startsWith('01_') || slug.includes('ch');
-    const path = isEssay ? '/wiki/essays/' : '/wiki/node/';
+    const path = isEssay ? '/wiki/essays/' : '/wiki/nodes/';
     const displayTitle = rawSlug.replace(/_/g, ' ');
     return `[${displayTitle}](${path}${slug})`;
   });
 
-  // 3. Sanitize standard markdown links [Title](/wiki/node/Target Name) or [Title](/essays/Target Name)
-  transformed = transformed.replace(/\[(.*?)\]\((?:\/wiki\/node\/|\/essays\/|\/wiki\/essays\/)(.*?)\)/g, (match, title, rawPath) => {
+  // 3. Sanitize standard markdown links [Title](/wiki/nodes/Target Name) or [Title](/essays/Target Name)
+  transformed = transformed.replace(/\[(.*?)\]\((?:\/wiki\/node\/|\/wiki\/nodes\/|\/essays\/|\/wiki\/essays\/)(.*?)\)/g, (match, title, rawPath) => {
     const slug = toSlug(rawPath);
     const isEssay = slug.startsWith('01_') || slug.includes('ch');
-    const path = isEssay ? '/wiki/essays/' : '/wiki/node/';
+    const path = isEssay ? '/wiki/essays/' : '/wiki/nodes/';
     return `[${title}](${path}${slug})`;
   });
 

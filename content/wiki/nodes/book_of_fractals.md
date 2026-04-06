@@ -21,6 +21,6 @@ For the social species, the Fractal Psychology is the mechanism of continuity. I
 
 ## IV. CONNECTIONS
 *   **Complemented By**: [[4d_time_snake]], [[the_entropic_dance]].
-*   **Mechanism**: [[sub_object_resonance]], [[fractional_id]].
-*   **Counter-Diagnostic**: [[gnostic_drift]] (the belief in the isolated, non-material soul).
+*   **Mechanism**: [[sub_object_resonance]], [[social_reinvestment_loop]].
+*   **Counter-Diagnostic**: [[the_hardness_of_heart]] (the fossilization of the fractional self against communal motion).
 *   **Biblical Anchor**: The Bread and the Wine—the literal participation (Communion) in a shared body and blood, which is the technical requirement for the survival of the Apostolic lineage.
