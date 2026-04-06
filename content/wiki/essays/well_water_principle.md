@@ -31,7 +31,7 @@ This way of thinking provides a **Resilience Audit** for any social organization
 2.  Are you being [Extracted](/wiki/nodes/trust_as_commodity) by a system that refuses to maintain the [Hedge](/wiki/nodes/local_vs_public_trust)?
 3.  Can your source of survival endure a [Survival Check](/wiki/essays/the_survival_check) that shatters the national substrate?
 
-The [Church](/wiki/nodes/the_church_as_structural_anchor) is the "Hedge-Guard" of the Well. It is the place where we verify that our [Social Synchronization Engine](/wiki/nodes/social_synchronization_engine) is churning to protect the local [Kin](/wiki/nodes/local_vs_public_trust), and where we refuse to allow the [Nothing](/wiki/nodes/the_nothing) to turn our [Shared Reality](/wiki/nodes/the_co_construct) into a product for extraction.
+The [Church](/wiki/nodes/the_church_as_structural_anchor) is the "Hedge-Guard" of the Well. It is the place where we verify that our [Social Synchronization Engine](/wiki/nodes/social_synchronization_engine) is churning to protect the local [Kin](/wiki/nodes/local_vs_public_trust), and where we refuse to allow the [Nothing](/wiki/nodes/the_nothing) to turn our [Shared Reality](/wiki/nodes/the_sub_object) into a product for extraction.
 
 > [!IMPORTANT]
 > **The Resilience Audit**: If you are drinking from a pipe you do not own, you are a [Tenant](/wiki/nodes/the_commodity_form) in your own life. You are waiting for someone else to turn off the water. Use this lens to find the [Authorship](/wiki/nodes/conscious_responsibility) to dig your own well and build the Kingdom today. Check your source now.
