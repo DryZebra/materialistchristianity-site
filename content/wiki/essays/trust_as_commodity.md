@@ -28,7 +28,7 @@ The [Redneck Dictatorship](/wiki/essays/redneck_dictatorship) is the primary sit
 
 This way of thinking provides a **Trust Audit** for any social organization. It moves the focus away from "Integrity" as a personal virtue and toward its objective role as a structural asset:
 
-1.  Is your trust building a [Rock](/wiki/essays/the_materialist_axiom) of local survival or a [Battery](/wiki/nodes/the_power_plant) for the Vampire?
+1.  Is your trust building a [Rock](/wiki/essays/the_materialist_axiom) of local survival or a [Battery](/wiki/essays/the_power_plant) for the Vampire?
 2.  Are you [Syncing](/wiki/nodes/social_synchronization_engine) with your neighbors' labor or with a [Ghostly Symbol](/wiki/essays/liberalism_as_wardrobe)?
 3.  Can your bond survive the [Rupture](/wiki/nodes/rupture) of the institutional substrate?
 
