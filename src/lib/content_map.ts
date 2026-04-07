@@ -596,7 +596,7 @@ export const CONTENT_MAP: Record<string, { title: string; category: string }> = 
     "category": "wiki/mechanics"
   },
   "the_sub_object": {
-    "title": "The ",
+    "title": "The Sub-Object: Vector of Consequence",
     "category": "wiki/mechanics"
   },
   "the_vacuum": {
