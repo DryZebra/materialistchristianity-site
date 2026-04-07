@@ -34,11 +34,16 @@ We are not here to save your soul for another world; we are here to rebuild the 
 
 ### Related Content
 
-#### Core Foundations
-- [[the_materialist_axiom]] — The physical rule.
-- [[moral_labor]] — The energy we are protecting.
+#### Foundations
+- [[the_atheist_axiom]] — The requirement for the real.
+- [[the_materialist_axiom]] — God as the Real.
+- [[action_as_truth]] — Reality expressed through motion.
+
+#### Mechanics of Truth
+- [[consequence_as_truth]] — The test of results.
+- [[honesty_with_hardware]] — Following the physical facts.
 
 #### Essays & Testimonies
-- [[the_biblical_baseline]] — The history of survival.
-- [[the_kingdom_of_labor]] — The focus of our work.
-- [[the_survival_check]] — The verification of the real.
+- [[the_atheist_axiom_and_the_machine]] — On why we must be honest about our tools.
+- [[christianity_survival_tech]] — Christianity as survival technology.
+- [[the_biblical_baseline]] — The history of facing the truth.

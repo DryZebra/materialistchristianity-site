@@ -18,3 +18,16 @@ In Materialist Christianity, **Action** is the only thing that is physically tru
 
 ## Summary
 The **Action Diagnostic** identify the evidence. To be a Materialist Christian is to prioritize the **Physical Result** over the globalist's narrative.
+
+---
+
+### Related Content
+
+#### Foundations
+- [[the_atheist_axiom]] — The requirement for the real.
+- [[the_materialist_axiom]] — God as the Real.
+- [[action_as_truth]] — Reality expressed through motion.
+
+#### Mechanics of Truth
+- [[consequence_as_truth]] — The test of results.
+- [[honesty_with_hardware]] — Following the physical facts.

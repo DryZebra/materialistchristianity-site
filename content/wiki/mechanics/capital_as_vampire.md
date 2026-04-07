@@ -28,7 +28,18 @@ This is the physical "cry" of the hollowing process itself. It is the materialis
 ## Summary
 The **Diagnostic of the Vampire** identifies the **Global Extractor (Mammon)** as the primary friction against human survival. To serve the Kingdom is to separate from this extractive cycle and return the life-motion to those who actually do the work.
 
-## Related Content
-- [[the_real_split]] — The diagnostic of who works and who takes.
-- [[moral_labor]] — The life that is being extracted.
-- [[gmorknicity]] — The nothingness Mammon leaves behind.
+### Related Content
+
+#### The Process of Decay
+- [[gmorknicity]] — The hollowing out of reality.
+- [[vampire_extraction]] — The draining of community energy.
+- [[hollowing_out_decay]] — The diagnostic of systemic failure.
+
+#### Economic Mechanics
+- [[the_commodity_form]] — Turning life into data.
+- [[capital_as_vampire]] — The extraction of the productive class.
+- [[borrowed_happiness]] — The illusion of credit.
+
+#### Historical Failures
+- [[gen_2_3_rupture]] — The first protocol failure.
+- [[writing_on_the_wall]] — Recognizing the end of the machine.

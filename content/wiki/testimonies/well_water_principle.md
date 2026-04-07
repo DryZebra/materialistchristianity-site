@@ -43,15 +43,16 @@ How secure is your neighborhood?
 
 ### Related Content
 
-#### Core Foundations
-- [[moral_labor]] — The energy that digs the well.
-- [[the_materialist_axiom]] — The ground of the rules.
+#### Infrastructure and Resilience
+- [[redneck_dictatorship]] — The authority of the worker.
+- [[well_water_principle]] — Local resources vs. globalist dependency.
+- [[christianity_survival_tech]] — Christianity as a survival manual.
 
-#### Essays & Testimonies
-- [[well_water_principle]] — On local resources.
-- [[the_industrial_real]] — Where the Generation happens.
-- [[redneck_dictatorship]] — On the authority of the worker.
-- [[the_survival_check]] — On validating our sources.
+#### Community Hubs
+- [[the_power_plant]] — The source of local energy.
+- [[the_brush_arbor]] — The off-grid coordination site.
+- [[country_store_infrastructure]] — The physical distribution node.
 
-#### Scriptural Anchors
-- [[the_biblical_baseline]] — The history of local success.
+#### Guarantees
+- [[the_sovereign_guarantee]] — The biblical baseline of protection.
+- [[trust_as_infrastructure]] — The material foundation of the neighborhood.

@@ -39,14 +39,16 @@ The Redneck Dictatorship is the physical proof that the productive class is the 
 
 ### Related Content
 
-#### Core Foundations
-- [[moral_labor]] — The substance of the work.
-- [[the_materialist_axiom]] — The ground of the authority.
+#### Infrastructure and Resilience
+- [[redneck_dictatorship]] — The authority of the worker.
+- [[well_water_principle]] — Local resources vs. globalist dependency.
+- [[christianity_survival_tech]] — Christianity as a survival manual.
 
-#### Essays & Testimonies
-- [[well_water_principle]] — On local resources.
-- [[the_industrial_real]] — Where the work happens.
-- [[the_survival_check]] — On the validation of the neighborhood.
+#### Community Hubs
+- [[the_power_plant]] — The source of local energy.
+- [[the_brush_arbor]] — The off-grid coordination site.
+- [[country_store_infrastructure]] — The physical distribution node.
 
-#### Scriptural Anchors
-- [[the_biblical_baseline]] — The history of disinherited survival.
+#### Guarantees
+- [[the_sovereign_guarantee]] — The biblical baseline of protection.
+- [[trust_as_infrastructure]] — The material foundation of the neighborhood.

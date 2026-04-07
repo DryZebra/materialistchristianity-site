@@ -35,15 +35,16 @@ We see this help in action during every crisis:
 
 ### Related Content
 
-#### Core Foundations
-- [[moral_capital]] — The strength that comes from this work.
-- [[the_sub_object]] — The "We" that this work maintains.
-- [[resurrection_structural]] — How this work brings a group back to life.
+#### The Mechanics of Motion
+- [[moral_labor]] — The energy of the neighborhood.
+- [[community_rhythms]] — Synchronizing the community.
+- [[social_synchronization_engine]] — Working as a single unit.
 
-#### Essays & Testimonies
-- [[the_kingdom_of_labor]] — On the spiritual side of work.
-- [[trust_as_commodity]] — When people try to turn our help into a product.
-- [[the_industrial_real]] — On working in the physical world.
+#### Survival Protocols
+- [[reclaiming_the_sabbath]] — The rule of rest and repair.
+- [[liturgy_motion_coordinator]] — How we move together.
+- [[survival_rhythm]] — The pace of the persistent.
 
-#### Scriptural Anchors
-- [[the_biblical_baseline]] — The history of work as our primary duty.
+#### Foundational Labor
+- [[ecclesiastes_9_hand_and_work]] — The biblical baseline of effort.
+- [[christ_in_daily_labor]] — The presence of the real in the work.

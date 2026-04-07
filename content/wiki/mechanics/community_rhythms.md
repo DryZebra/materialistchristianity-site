@@ -18,3 +18,21 @@ A productive class needs a common rhythm to synchronize its assets.
 
 ## Summary
 The **Rhythm Diagnostic** identify that our time is a shared resource. To be a Materialist Christian is to synchronize your life with your neighbors to build the **Kingdom of the Real**.
+
+---
+
+### Related Content
+
+#### The Mechanics of Motion
+- [[moral_labor]] — The energy of the neighborhood.
+- [[community_rhythms]] — Synchronizing the community.
+- [[social_synchronization_engine]] — Working as a single unit.
+
+#### Survival Protocols
+- [[reclaiming_the_sabbath]] — The rule of rest and repair.
+- [[liturgy_motion_coordinator]] — How we move together.
+- [[survival_rhythm]] — The pace of the persistent.
+
+#### Foundational Labor
+- [[ecclesiastes_9_hand_and_work]] — The biblical baseline of effort.
+- [[christ_in_daily_labor]] — The presence of the real in the work.

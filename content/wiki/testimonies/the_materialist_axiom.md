@@ -37,11 +37,15 @@ The **Neighborhood Church** is the laboratory where we verify our work, ensuring
 
 ### Related Content
 
-#### Core Foundations
-- [[the_atheist_axiom_and_the_machine]] — The requirement for the real.
-- [[moral_labor]] — The energy we are protecting.
+#### Foundations
+- [[the_atheist_axiom]] — The requirement for the real.
+- [[the_materialist_axiom]] — God as the Real.
+- [[action_as_truth]] — Reality expressed through motion.
 
-#### Essays & Historical Context
+#### Mechanics of Truth
+- [[consequence_as_truth]] — The test of results.
+- [[honesty_with_hardware]] — Following the physical facts.
+
+#### Archival Context
 - [[the_bible_as_sediment]] — The historical record of survival.
 - [[the_industrial_real]] — Where the work actually happens.
-- [[liberalism_as_wardrobe]] — The empty hollow of the ghost.

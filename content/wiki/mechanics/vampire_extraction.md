@@ -18,3 +18,21 @@ Globalist finance is the primary vampire.
 
 ## Summary
 The **Vampire Diagnostic** identify the predator. To be a Materialist Christian is to reclaim your labor and ensure that every drop of your sweat stays in the **Kingdom of Labor**.
+
+---
+
+### Related Content
+
+#### The Process of Decay
+- [[gmorknicity]] — The hollowing out of reality.
+- [[vampire_extraction]] — The draining of community energy.
+- [[hollowing_out_decay]] — The diagnostic of systemic failure.
+
+#### Economic Mechanics
+- [[the_commodity_form]] — Turning life into data.
+- [[capital_as_vampire]] — The extraction of the productive class.
+- [[borrowed_happiness]] — The illusion of credit.
+
+#### Historical Failures
+- [[gen_2_3_rupture]] — The first protocol failure.
+- [[writing_on_the_wall]] — Recognizing the end of the machine.

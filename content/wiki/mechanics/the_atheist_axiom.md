@@ -35,12 +35,16 @@ We see this honesty every day:
 
 ### Related Content
 
-#### Core Foundations
-- [[the_materialist_axiom]] — The ground of the rules.
-- [[motion_as_reality]] — Why action is the only truth.
-- [[the_vacuum]] — The empty space where truth starts.
+#### Foundations
+- [[the_atheist_axiom]] — The requirement for the real.
+- [[the_materialist_axiom]] — God as the Real.
+- [[action_as_truth]] — Reality expressed through motion.
 
-#### Essays & Testimonies
+#### Mechanics of Truth
+- [[consequence_as_truth]] — The test of results.
+- [[honesty_with_hardware]] — Following the physical facts.
+
+#### Archival Context
 - [[the_atheist_axiom_and_the_machine]] — On why we must be honest about our tools.
 - [[the_industrial_real]] — On working in the real world.
 - [[the_biblical_baseline]] — The history of facing the truth.

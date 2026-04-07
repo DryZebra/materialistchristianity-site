@@ -48,15 +48,16 @@ The full "how"—the technical protocols for rebuilding a community on the ruins
 
 ### Related Content
 
-#### Core Foundations
-- [[the_materialist_axiom]] — The ground of the authority.
-- [[the_atheist_axiom_and_the_machine]] — On the digital extraction.
+#### Infrastructure and Resilience
 - [[redneck_dictatorship]] — The authority of the worker.
+- [[well_water_principle]] — Local resources vs. globalist dependency.
+- [[christianity_survival_tech]] — Christianity as a survival manual.
 
-#### Technical Tools
-- [[community_rhythms]] — On synchronization.
-- [[structural_dignity]] — The integrity of the productive class.
-- [[honest_hardware]] — The logic of the real.
+#### Community Hubs
+- [[the_power_plant]] — The source of local energy.
+- [[the_brush_arbor]] — The off-grid coordination site.
+- [[country_store_infrastructure]] — The physical distribution node.
 
-#### The Record
-- [[the_bible_as_sediment]] — The historical record of survival.
+#### Guarantees
+- [[the_sovereign_guarantee]] — The biblical baseline of protection.
+- [[trust_as_infrastructure]] — The material foundation of the neighborhood.

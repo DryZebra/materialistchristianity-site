@@ -23,11 +23,16 @@ The **Hollowing-Out Rule** helps us identify that extractive systems leave nothi
 
 ### Related Content
 
-#### Core Foundations
-- [[social_vampirism]] — The theft that causes the hollowing.
-- [[the_nothing]] — The emptiness that follows.
-- [[moral_labor]] — The energy needed for restoration.
+#### The Process of Decay
+- [[gmorknicity]] — The hollowing out of reality.
+- [[vampire_extraction]] — The draining of community energy.
+- [[hollowing_out_decay]] — The diagnostic of systemic failure.
 
-#### Essays & Testimonies
-- [[the_survival_check]] — On testing for hollowing.
-- [[well_water_principle]] — On protecting the depth of the neighborhood.
+#### Economic Mechanics
+- [[the_commodity_form]] — Turning life into data.
+- [[capital_as_vampire]] — The extraction of the productive class.
+- [[borrowed_happiness]] — The illusion of credit.
+
+#### Historical Failures
+- [[gen_2_3_rupture]] — The first protocol failure.
+- [[writing_on_the_wall]] — Recognizing the end of the machine.
