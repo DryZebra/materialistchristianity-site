@@ -22,6 +22,6 @@ Materialist Christianity is necessary because it reveals that the **Result** is 
 
 ---
 **Related Nodes:**
-- [[the_atheist_axiom_and_the_machine]]
-- [[internal_truth_pathway]]
-- [[audit_of_fruits]]
+- [[the_atheist_axiom]]
+- [[consequence_as_truth]]
+- [[the_final_audit]]

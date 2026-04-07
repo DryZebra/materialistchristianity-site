@@ -23,5 +23,6 @@ Materialist Christianity is necessary because it treats the Bible as a **Hardwar
 ---
 **Related Nodes:**
 - [[the_atheist_axiom]]
-- [[acts_church_synchronization]]
-- [[historical_materialism_explained]]
+- [[consequence_as_truth]]
+- [[the_final_audit]]
+- [[historical_alignment]]

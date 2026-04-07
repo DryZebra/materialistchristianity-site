@@ -10,7 +10,7 @@ Unitarian Universalism (UU) is celebrated for its radical inclusion and lack of 
 
 ### The Forensic Divergence
 *   **Unitarian Universalism is a Space of Permission**: It allows each individual to hold whatever "Spirit" or "Truth" they choose. It has no mechanism for **Synchronization**. It is "Inclusive" because it has no common floor that must be maintained.
-*   **Materialist Christianity is a Space of Discipline**: It recognizes that for a community to survive a hostile material environment (The Drift), it must have **Total Structural Synchronization**. Every part must agree on the ledgers, the distribution, and the truth-pathways. It is "Narrow" because a 15-man shop cannot survive if five members have a different "truth" about the budget.
+*   **Materialist Christianity is a Space of Discipline**: It recognizes that for a community to survive a hostile material environment (The Drift), it must have **Total Structural Synchronization**. Every part must agree on the ledgers, the distribution, and the truth-pathways.
 
 ### Common Ground
 Both reject Creedal tests of faith. Both see the historical value of multiple religious traditions in the arc of human development. Both believe that every human life is of equal inherent worth.
@@ -22,6 +22,6 @@ Materialist Christianity is necessary because it reveals that the **narrow gate*
 
 ---
 **Related Nodes:**
-- [[bible_as_historical_record]]
-- [[the_book_that_resurrects]]
-- [[function_over_debunking]]
+- [[strategic_vanguard_interface]]
+- [[acts_church_synchronization]]
+- [[consequence_as_truth]]
