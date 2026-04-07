@@ -9,6 +9,7 @@ interface SearchItem {
   description: string;
   category: string;
   type: 'node' | 'essay' | 'bible';
+  url: string;
 }
 
 interface WikiSearchProps {
@@ -59,11 +60,7 @@ export default function WikiSearch({ items }: WikiSearchProps) {
           {filteredItems.map(item => (
             <Link 
               key={`${item.type}-${item.slug}`}
-              href={
-                item.type === 'node' ? `/wiki/nodes/${item.slug}` : 
-                item.type === 'essay' ? `/wiki/essays/${item.slug}` : 
-                `/wiki/bible/${item.slug}`
-              }
+              href={item.url}
               onClick={() => setQuery('')}
               className="block p-4 border-b-2 border-ash/10 hover:bg-steel/30 hover:border-signal group transition-all"
             >

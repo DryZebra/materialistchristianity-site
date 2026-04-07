@@ -9,10 +9,11 @@ export default function WikiHome() {
   const categories = getNodesByCategory();
   const categoryNames = Object.keys(categories).sort();
 
+  const totalCount = nodes.length + essays.length + bibles.length;
   const searchItems = [
-    ...nodes.map(n => ({ ...n, type: 'node' as const })),
-    ...essays.map(e => ({ ...e, type: 'essay' as const })),
-    ...bibles.map(b => ({ ...b, type: 'bible' as const }))
+    ...nodes.map(n => ({ ...n, type: 'node' as const, url: `/wiki/mechanics/${n.slug}` })),
+    ...essays.map(e => ({ ...e, type: 'essay' as const, url: `/wiki/testimonies/${e.slug}` })),
+    ...bibles.map(b => ({ ...b, type: 'bible' as const, url: `/wiki/bible/${b.slug}` }))
   ];
 
   return (
@@ -90,7 +91,10 @@ export default function WikiHome() {
         <div className="lg:col-span-8">
           <div className="flex items-center justify-between mb-12 border-b-4 border-ash pb-4">
             <h2 className="text-4xl uppercase font-black tracking-tighter italic">Knowledge Map</h2>
-            <span className="font-mono text-sm opacity-50">[{nodes.length} Axioms Indexed]</span>
+            <div className="flex items-baseline gap-2">
+               <span className="font-mono text-sm opacity-50 underline decoration-signal decoration-2">Total Archive: {totalCount}</span>
+               <span className="font-mono text-[10px] opacity-40">[{nodes.length} Axioms // {essays.length} Testimonies]</span>
+            </div>
           </div>
           
           <div className="grid grid-cols-1 md:grid-cols-2 gap-12">
@@ -101,22 +105,24 @@ export default function WikiHome() {
                   <div className="h-[2px] flex-grow bg-ash/10"></div>
                   <span className="font-mono text-[10px] opacity-40">[{categories[category].length}]</span>
                 </div>
-                <div className="space-y-3">
-                  {categories[category].slice(0, 5).map(node => (
+                <div className="space-y-4">
+                  {categories[category].slice(0, 8).map(node => (
                     <Link 
                       key={node.slug} 
                       href={`/wiki/mechanics/${node.slug}`}
                       className="block group"
                     >
-                      <h4 className="text-lg font-bold uppercase group-hover:text-signal group-hover:pl-2 transition-all border-l-2 border-transparent group-hover:border-signal">
+                      <h4 className="text-sm font-black uppercase group-hover:text-signal group-hover:pl-2 transition-all border-l-2 border-transparent group-hover:border-signal">
                         {node.title}
                       </h4>
-                      <p className="text-[10px] opacity-40 font-mono uppercase line-clamp-1 group-hover:opacity-60">{node.description}</p>
+                      <p className="text-[9px] opacity-30 font-mono uppercase group-hover:opacity-60 transition-opacity">
+                        Forensic Tag: {node.slug.slice(0, 8)}...
+                      </p>
                     </Link>
                   ))}
-                  {categories[category].length > 5 && (
-                    <Link href="/wiki/mechanics" className="text-[10px] font-mono uppercase opacity-40 hover:opacity-100 hover:text-signal font-black pt-2 block">
-                      + View {categories[category].length - 5} more in {category}
+                  {categories[category].length > 8 && (
+                    <Link href="/wiki/mechanics" className="text-[10px] font-mono uppercase opacity-40 hover:opacity-100 hover:text-signal font-black pt-2 block border-t border-ash/10">
+                      + Access {categories[category].length - 8} deeper nodes
                     </Link>
                   )}
                 </div>
