@@ -10,6 +10,7 @@ tags: ["christianity", "survival", "technology", "mechanics"]
 If you’ve spent your life on a shop floor, in a truck, or on a job site, you know the difference between a tool that works and a theory that just sounds good. You’ve likely been told by the "moderns"—the managers, the academics, and the digital extractors—that your faith is "backwards" or "outdated."
 
 **They are wrong.** They are looking at the label; we are looking at the **Hardware**.
+
 Christianity is the most successful way of organizing a community in Western history. It isn't just about "feelings" or "luck"; it is because the principles of the Bible are the most durable set of **Survival Rules** ever built. It is the only pattern that successfully survived the total collapse of the Roman Empire and rebuilt its strength in the wilderness that followed.
 
 ## "He Who is Not Against Us is For Us" (Mark 9:38)
