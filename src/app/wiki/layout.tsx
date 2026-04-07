@@ -42,7 +42,7 @@ export default function WikiLayout({ children }: { children: React.ReactNode }) 
                   {categories[category].map(node => (
                     <Link 
                       key={node.slug} 
-                      href={`/wiki/node/${node.slug}`} 
+                      href={`/wiki/nodes/${node.slug}`} 
                       className="category-item"
                     >
                       {node.title}

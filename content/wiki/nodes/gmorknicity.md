@@ -1,6 +1,6 @@
 ---
-uid: "gmorknicity_v2"
-title: "Gmorknicity (Diagnostic)"
+uid: "gmorknicity_v3"
+title: "Gmorknicity"
 concept: "Parasitic Hijacking"
 mechanic: "Inversion of Symbols"
 diagnostic: "Pure MC"
@@ -8,41 +8,42 @@ diagnostic: "Pure MC"
 
 # Gmorknicity: The Mechanic of Parasitic Hijacking
 
-Gmorknicity is the forensic diagnostic for the capture and inversion of [[sub_object_resonance]]. It represents the state where an extractive force (Capital) occupies a symbol that once moved toward survival to siphon [[moral_labor]] without contributing to a community’s persistence. This is the material production of **The Nothing**—the hollow, ritualized repetition of a dead structure.
+In the materialist dialectic, **Gmorknicity** is the forensic diagnostic for the capture and inversion of [[sub_object_resonance]]. It represents a specific failure state where an extractive force (typically Capital or the Gentry class) occupies a high-torque symbol that once coordinated human survival, siphoning the [[moral_labor]] of subjects without providing metabolic return. This process is the material production of **The Nothing**—the hollow, ritualized repetition of a dead structure that coordinates extraction rather than persistence.
 
 ## Structural Mechanics
 
-The Gmorknic Coup operates through a three-stage material process:
-1.  **Locating Resonance**: Identifying a [[the_sub_object]] with high existing trust capital (e.g., the Cross, a Union, or a revolutionary historical memory).
-2.  **Symbol Alignment**: Occupying the language and imagery associated with that sub-object while severing the connection to its material survival-motion.
-3.  **Inversion of Frequency**: Redirecting the moral labor of the subjects toward an entropic or extractive end (e.g., increased policing, corporate branding, or debt maintenance) while maintaining the *appearance* of the original purpose.
+The Gmorknic Coup operates through a consistent terminal process:
+1.  **Resonance Identification**: The highlighting of a [[the_sub_object]] with significant existing trust capital (e.g., the Cross, a historical union, or a revolutionary memory).
+2.  **Symbolic Sequestration**: The occupation of the linguistic and rhythmic layer of the sub-object while systematically severing its connection to the material motion of the collective.
+3.  **Frequency Inversion**: The redirection of the subjects' labor toward an entropic or extractive end while maintaining the external appearance of the original communal purpose. Successful detection of Gmorknicity allows the [[the_functional_pilot]] to cease the expenditure of [[faith_as_residue]] on a hollowed structure.
 
-Success in detecting Gmorknicity prevents the subject from wasting [[faith_as_residue]] on a corpses-system that has ceased to return life.
+## Biblical Diagnosis: The Pharisaic Inversion
 
-## Biblical Diagnosis: The Sabbath Inversion
+The most rigorous diagnosis of Gmorknicity is documented in the forensic observation of the Sabbath Inversion (Mark 2:23-28).
 
-The clearest biblical diagnosis of Gmorknicity is found in the Pharisaic inversion of the Sabbath (Mark 2:23-28). The Sabbath was a material survival rhythm intended to ensure rest and restoration for labor.
-
--   **The Hijacking**: The Pharisees transformed this restorative protocol into a restrictive legalism used to punish those acting for their own sustenance (plucking grain).
--   **The Rebuttal**: Jesus' declaration—"The Sabbath was made for man, not man for the Sabbath" (Mark 2:27)—is a materialist reversal. It reasserts the subject (humanity) over the protocol (the symbol).
--   **The Forensic**: To place the *maintenance of the symbol* (the day) above the *survival of the subject* (hunger) is the prime sign of symbolic capture.
+-   **The Original Rhythm**: The Sabbath was a material survival protocol designed to ensure the periodic restoration of labor and the prevention of terminal burnout.
+-   **The Hijacking**: The symbolic class (the Pharisees) inverted this rest-protocol into a restrictive legalism. They used the "Day of Rest" as a hammer to punish the hungry for the act of sustenance (the plucking of grain), effectively placing the *maintenance of the symbol* above the *survival of the subject*.
+-   **The Forensic Rebuttal**: The Christ's diagnostic—"The Sabbath was made for man, not man for the Sabbath"—is the terminal materialist reversal. It restores the forensic priority of the survival of the substrate over the extraction of the symbol.
 
 ## Forensic Observations
 
-Archival snapshots of Gmorknicity in motion:
--   **Co-opted Resonance**: The way liberal institutions extract the aesthetic of active resistance (e.g., Pride or BLM) and redirect that trust capital for marketing or neutralizing radical motion.
--   **Ghost Structures**: High visible activity in the form of branding, empty rituals, and administrative sermons that produce zero material return for the worker.
+Synthesized archival snapshots of Gmorknicity in operation:
+-   **Institutional Co-option**: Observations of liberal institutions extracting the aesthetic resonance of active resistance (e.g., labor traditions or civil rights movements) and hollowing them out for corporate branding. The "Symbol" remains, but its material ability to coordinate a strike or a boycott has been neutralized.
+-   **Ritual Stasis**: The observation of communities that maintain high-frequency religious or political rituals that return zero material survival data. The energy expended in the ritual is consumed by the "Ghost" of the institution, leaving the [[moral_capital]] of the people in a state of terminal depletion.
 
 ## Related Content
 
 ### Primary Mechanics
-- [[sub_object_resonance]] — The field of pressure being hijacked.
-- [[the_sub_object]] — The target of the coup.
-- [[moral_labor]] — The value being extracted.
+- [[sub_object_resonance]] — The energy source targeting for hijacking.
+- [[the_sub_object]] — The vehicle of the capture.
+- [[moral_labor]] — The substance being siphoned.
+- [[the_nothing]] — The outcome of successful Gmorknicity.
 
 ### Essays & Testimonies
-- [[trust_as_commodity]] — On the financialization of trust.
-- [[liberalism_as_wardrobe]] — On the superficiality of political capture.
+- [[liberalism_as_wardrobe]] — On the superficiality of symbolic capture.
+- [[trust_as_commodity]] — On the financialization of community resonance.
+- [[the_gospel_according_to_labor]] — On the non-extractive alternative.
 
 ### Scriptural Anchors
-- [[gen_1_rhythm]] — The original formation of the Sabbath-rhythm.
+- [[the_biblical_baseline]] — On the history of structural integrity.
+- [[the_final_audit]] — On the detection of metabolic extraction.

@@ -79,7 +79,7 @@ export default function MobileNav({ categories }: MobileNavProps) {
                       {categories[category].map(node => (
                         <Link 
                           key={node.slug} 
-                          href={`/wiki/node/${node.slug}`}
+                          href={`/wiki/nodes/${node.slug}`}
                           onClick={() => setIsOpen(false)}
                           className="text-xl font-bold uppercase py-1 border-b border-ash/5 hover:text-signal hover:pl-4 transition-all"
                         >
