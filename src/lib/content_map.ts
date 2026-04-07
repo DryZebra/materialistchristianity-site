@@ -679,6 +679,10 @@ export const CONTENT_MAP: Record<string, { title: string; category: string }> = 
     "title": "Christianity: The Strongest Form of Survival",
     "category": "wiki/testimonies"
   },
+  "christianity_survival_tech": {
+    "title": "Christianity: The Survival Manual of the Productive Class",
+    "category": "wiki/testimonies"
+  },
   "fractal_theory_of_self": {
     "title": "The Structural Self: You are a Reflection of Your Neighborhood",
     "category": "wiki/testimonies"
