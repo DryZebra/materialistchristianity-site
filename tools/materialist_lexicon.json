@@ -1,0 +1,268 @@
+{
+  "project": "Materialist Christianity Study Bible",
+  "version": "1.0.0",
+  "lexicon": {
+    "1254": {
+      "lemma": "bara",
+      "root": "B-R-A",
+      "literal": "To fatten, fill, or shape",
+      "materialist_utility": "Shaping the Field",
+      "pure_mc_definition": "The act of increasing the structural mass of a field/substrate; reduction of environmental noise into high-density mandatory protocol.",
+      "tags": ["substrate", "shaping", "protocol"]
+    },
+    "430": {
+      "lemma": "elohim",
+      "root": "A-Y-L",
+      "literal": "Pillar of strength; Mighty ones",
+      "materialist_utility": "Subject-Independent Law",
+      "pure_mc_definition": "The sum of physical and social forces—gravity, friction, necessity—that do not depend on human belief to exert pressure.",
+      "tags": ["law", "force", "necessity"]
+    },
+    "7307": {
+      "lemma": "ruwach",
+      "root": "R-W-CH",
+      "literal": "Wind, breath, expansion",
+      "materialist_utility": "The Expansion",
+      "pure_mc_definition": "A physical displacement of space; the initial signal or kinetic pressure moving across the substrate.",
+      "tags": ["signal", "motion", "energy"]
+    },
+    "7673": {
+      "lemma": "shabbat",
+      "root": "SH-B-T",
+      "literal": "To stop, halt, or cease",
+      "materialist_utility": "Structural Cessation",
+      "pure_mc_definition": "The mechanical halt that establishes a rhythmic cycle; the first mandatory protocol of the Real.",
+      "tags": ["rhythm", "protocol", "order"]
+    },
+    "216": {
+      "lemma": "or",
+      "root": "A-W-R",
+      "literal": "Light, energy",
+      "materialist_utility": "Signal Propagation",
+      "pure_mc_definition": "The activation of the field; the movement of information and energy across the shaped substrate.",
+      "tags": ["energy", "signal", "activation"]
+    },
+    "7549": {
+      "lemma": "raqia",
+      "root": "R-Q-A",
+      "literal": "Stamping, expansion, gird",
+      "materialist_utility": "Structural Hardening",
+      "pure_mc_definition": "The 'Beating out' of a boundary; the hardening of structural divisions (girders) to carry load.",
+      "tags": ["boundary", "hardening", "division"]
+    },
+    "776": {
+      "lemma": "eretz",
+      "root": "A-R-TZ",
+      "literal": "Ground, firmness",
+      "materialist_utility": "The Primary Substrate",
+      "pure_mc_definition": "The literal ground of labor and metabolic input; the final destination of meaning (where the Word becomes Flesh).",
+      "tags": ["substrate", "ground", "labor"]
+    },
+    "121": {
+      "lemma": "adam",
+      "root": "A-D-M",
+      "literal": "Man, ground-ling",
+      "materialist_utility": "The Ground-Man",
+      "pure_mc_definition": "The biological extension of the primary substrate (Eretz); the human structure as a literal piece of the earth tasked with coordination.",
+      "tags": ["structure", "vanguard", "labor"]
+    },
+    "5731": {
+      "lemma": "eden",
+      "root": "A-D-N",
+      "literal": "Delight, luxury, pleasure",
+      "materialist_utility": "The Incubator",
+      "pure_mc_definition": "A controlled boundary condition (Laboratory) for structural development; the artificial ceiling before the entry into historical entropy.",
+      "tags": ["simulation", "substrate", "boundary"]
+    },
+    "5175": {
+      "lemma": "nachash",
+      "root": "N-CH-SH",
+      "literal": "Serpent, whisperer, snake",
+      "materialist_utility": "The Inversion Signal",
+      "pure_mc_definition": "The entropic whisper of inversion; the diagnostic for Simulacrum—an agent that offers a 'rereading' of the Law to facilitate extraction.",
+      "tags": ["inversion", "gmorknicity", "entropy"]
+    },
+    "398": {
+      "lemma": "akhal",
+      "root": "A-K-L",
+      "literal": "To eat, consume, extract",
+      "materialist_utility": "The Act of Extraction",
+      "pure_mc_definition": "The prioritize metabolic 'Relief' (Consumption) over structural 'Joy' (Maintenance); the first motion of Gmorknicity.",
+      "tags": ["consumption", "extraction", "relief"]
+    },
+    "4641": {
+      "lemma": "sklerokardia",
+      "root": "SKLEROS / KARDIA",
+      "literal": "Hardness of heart",
+      "materialist_utility": "Structural Inflexibility",
+      "pure_mc_definition": "A diagnostic for the calcification of the species; the inability of the subject to move with the original protocol of the Beginning.",
+      "tags": ["entropy", "decay", "maintenance"]
+    },
+    "7014": {
+      "lemma": "qayin",
+      "root": "Q-Y-N",
+      "literal": "Acquisition, spear, possession",
+      "materialist_utility": "The Claim of Ownership",
+      "pure_mc_definition": "The diagnostic for the first attempt to 'own' the results of labor; the transition from moving with the field to extracting from it.",
+      "tags": ["possession", "extraction", "labor"]
+    },
+    "1891": {
+      "lemma": "hebel",
+      "root": "H-B-L",
+      "literal": "Vapor, breath, transience",
+      "materialist_utility": "The Transient Subject",
+      "pure_mc_definition": "The subject who moves with the rhythm of the Beginning; the 'Vocal' signal that cannot be commodified or owned by the Acquisition.",
+      "tags": ["vocal", "rhythm", "signals"]
+    },
+    "5146": {
+      "lemma": "noach",
+      "root": "N-W-CH",
+      "literal": "Rest, comfort, quiet",
+      "materialist_utility": "Structural Maintenance",
+      "pure_mc_definition": "Derived from the Shabbat logic; the subject or mechanism that maintains the pattern (pattern-memory) through a period of substrate reset.",
+      "tags": ["maintenance", "rhythm", "reset"]
+    },
+    "3999": {
+      "lemma": "mabbul",
+      "root": "Y-B-L",
+      "literal": "Flood, destruction, wipe",
+      "materialist_utility": "The Primary Substrate Reset",
+      "pure_mc_definition": "The mechanical necessity of wiping the field when the 'Noise' (violence and structural corruption) becomes unsurmountable; a high-torque anti-entropy protocol.",
+      "tags": ["reset", "entropy", "substrate"]
+    },
+    "894": {
+      "lemma": "babel",
+      "root": "B-L-L",
+      "literal": "Confusion, to mix, to hollow",
+      "materialist_utility": "Fragmentation of Signal",
+      "pure_mc_definition": "The diagnostic for the fragmentation of the Mother Tongue; the mechanical failure of a global shared language when used to build a central Grid.",
+      "tags": ["confusion", "language", "grid"]
+    },
+    "480": {
+      "lemma": "isha",
+      "root": "A-N-SH",
+      "literal": "Woman, individual",
+      "materialist_utility": "Structural Human Capital",
+      "pure_mc_definition": "In the context of patriarchal scarcity, the female body as a managed asset; the reproductive engine utilized for tribal survival and diplomatic leverage.",
+      "nt_wire": "Galatians 3:28 (The dissolution of gendered capital hierarchies in the new social substrate).",
+      "tags": ["capital", "asset", "patriarchy"]
+    },
+    "1167": {
+      "lemma": "baal",
+      "root": "B-A-L",
+      "literal": "Owner, master, husband",
+      "materialist_utility": "The Possession Protocol",
+      "pure_mc_definition": "The root of private property; the linguistic claim of ownership applied to fields, oxen, and human subjects. The opposite of rhythmic coordination.",
+      "nt_wire": "Matthew 6:24 (The mechanical impossibility of dual mastery).",
+      "tags": ["ownership", "mastery", "property"]
+    },
+    "5030": {
+      "lemma": "navi",
+      "root": "N-B-A",
+      "literal": "Spokesman, prophet",
+      "materialist_utility": "Sociopolitical Mediator",
+      "pure_mc_definition": "A specialized agent who leverages systemic sanctions against centralized power; the man with his hand on the lever of an opposing tribe's economic collapse.",
+      "nt_wire": "Revelation 11 (The systemic sanctions against the global administrative state).",
+      "tags": ["mediator", "leverage", "sanctions"]
+    },
+    "1644": {
+      "lemma": "garash",
+      "root": "G-R-SH",
+      "literal": "Drive out, cast away",
+      "materialist_utility": "Labor Liquidation",
+      "pure_mc_definition": "The forcible expulsion of redundant labor from the social ledger to protect elite inheritance and consolidate wealth.",
+      "nt_wire": "John 9:34 (The expulsion of the truth-teller; Christ as the scavenger of the liquidated).",
+      "tags": ["expulsion", "liquidation", "inheritance"]
+    },
+    "519": {
+      "lemma": "amat",
+      "root": "A-M-M",
+      "literal": "Maidservant, female slave",
+      "materialist_utility": "Disposable Labor Unit",
+      "pure_mc_definition": "A female laborer whose value is strictly reproductive or utilitarian; a human component discarded once its utility is exhausted.",
+      "nt_wire": "Luke 1:48 (The elevation of the low-estate laborer).",
+      "tags": ["labor", "utility", "disposable"]
+    },
+    "3899": {
+      "lemma": "lechem",
+      "root": "L-CH-M",
+      "literal": "Bread, food",
+      "materialist_utility": "Caloric Survival Unit",
+      "pure_mc_definition": "The non-negotiable measurement of a worker's life in daily fuel. To withhold lechem is to execute the laborer via caloric insufficiency.",
+      "nt_wire": "John 6:35 (Christ as the Bread of Life; the end of calorie-based extortion).",
+      "tags": ["survival", "calories", "labor"]
+    },
+    "4057": {
+      "lemma": "midbar",
+      "root": "D-B-R",
+      "literal": "Wilderness, desert",
+      "materialist_utility": "Zone of Zero Resources",
+      "pure_mc_definition": "The geographic representation of absolute economic alienation; the space outside the camp where the rejected stone is built.",
+      "nt_wire": "Hebrews 13:13 (Exiting the camp into the midbar).",
+      "tags": ["alienation", "exclusion", "wilderness"]
+    },
+    "2233": {
+      "lemma": "zera",
+      "root": "Z-R-A",
+      "literal": "Seed, offspring",
+      "materialist_utility": "Means of Future Production",
+      "pure_mc_definition": "The absolute monopoly on generational wealth and capital; the biological lineage protected via the expulsion of competitors.",
+      "nt_wire": "Matthew 3:9 (The demolition of biological lineage).",
+      "tags": ["capital", "inheritance", "seed"]
+    },
+    "5254": {
+      "lemma": "nisa",
+      "root": "N-S-H",
+      "literal": "Test, prove",
+      "materialist_utility": "Structural Loyalty Audit",
+      "pure_mc_definition": "The measurement of tensile strength in a subject's loyalty to the system; the demand to surrender one's own future capital to the overarching authority.",
+      "nt_wire": "Matthew 4 (The audit of the Logos).",
+      "tags": ["audit", "loyalty", "measurement"]
+    },
+    "5930": {
+      "lemma": "olah",
+      "root": "A-L-H",
+      "literal": "Burnt offering",
+      "materialist_utility": "Systemic Extraction",
+      "pure_mc_definition": "The ritualized extraction of value (blood/life) to sustain the ideological cohesion and social order of the tribe.",
+      "nt_wire": "Hebrews 10 (The bankruptcy of the extraction economy).",
+      "tags": ["extraction", "sacrifice", "order"]
+    },
+    "3979": {
+      "lemma": "ma'akhet",
+      "root": "A-K-L",
+      "literal": "Knife, meat-eater",
+      "materialist_utility": "The Butcher's Cleaver",
+      "pure_mc_definition": "The physical implement of the state monopoly on violence; the agricultural tool used for the extraction of life from the vulnerable.",
+      "nt_wire": "Matthew 26:52 (The rejection of the lethal extraction implement).",
+      "tags": ["violence", "extraction", "tool"]
+    },
+    "1616": {
+      "lemma": "ger",
+      "root": "G-W-R",
+      "literal": "Stranger, sojourner",
+      "materialist_utility": "The Stateless Subject",
+      "pure_mc_definition": "A landless actor existing outside the protection of tribal property; the most vulnerable participant in a private property economy.",
+      "nt_wire": "Matthew 8:20 (The stateless Son of Man).",
+      "tags": ["stateless", "vulnerability", "nomad"]
+    },
+    "3701": {
+      "lemma": "kesef",
+      "root": "K-S-F",
+      "literal": "Silver, money",
+      "materialist_utility": "Mathematical Transaction Tool",
+      "pure_mc_definition": "Commerical silver used to circumvent social reciprocity and obligation; the conversion of human relationships into cold, unalienable property.",
+      "nt_wire": "Matthew 26:15 (The final transaction of the old economy).",
+      "tags": ["money", "capital", "transaction"]
+    },
+    "272": {
+      "lemma": "achuzah",
+      "root": "A-CH-Z",
+      "literal": "Possession, landed property",
+      "materialist_utility": "Primitive Accumulation",
+      "pure_mc_definition": "The possession of a permanent foothold (often starting with a grave) to secure private real estate and institutional legacy housing the dead.",
+      "nt_wire": "Luke 24 (The empty grave; the refusal to occupy dead property).",
+      "tags": ["property", "accumulation", "legacy"]
+    }
+  }
+}

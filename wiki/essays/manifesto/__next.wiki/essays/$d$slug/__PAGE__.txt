@@ -1,6 +1,0 @@
-1:"$Sreact.fragment"
-2:I[22016,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0ka051yepewro.js"],""]
-3:I[97367,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
-4:"$Sreact.suspense"
-0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"p-8 md:p-24 bg-concrete text-ash min-h-screen flex flex-col justify-center items-center text-center","children":[["$","h1",null,{"className":"text-4xl md:text-8xl text-signal uppercase font-black mb-4","children":"Logical Discontinuity"}],["$","p",null,{"className":"mt-4 font-mono uppercase opacity-60 text-xl max-w-2xl","children":["Archival Node [","$undefined","] is not currently active in the public record."]}],["$","div",null,{"className":"mt-12 flex flex-col md:flex-row gap-6","children":[["$","$L2",null,{"href":"/wiki","className":"cta-terminal border-ash hover:bg-ash hover:text-concrete","children":"Back to Hub Node"}],["$","$L2",null,{"href":"/","className":"cta-terminal","children":"Return to Sales Terminal"}]]}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/0ka051yepewro.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"fYedKa7i2BHxVI2NesPgS"}
-5:null

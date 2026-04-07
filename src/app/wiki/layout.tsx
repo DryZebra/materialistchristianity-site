@@ -42,8 +42,8 @@ export default function WikiLayout({ children }: { children: React.ReactNode }) 
                   {categories[category].map(node => (
                     <Link 
                       key={node.slug} 
-                      href={`/wiki/nodes/${node.slug}`} 
-                      className="category-item"
+                      href={`/wiki/mechanics/${node.slug}`} 
+                      className="block px-4 py-2 text-xs font-bold uppercase transition-all duration-200 border-l-2 border-transparent hover:border-signal hover:bg-signal/5 hover:text-signal"
                     >
                       {node.title}
                     </Link>

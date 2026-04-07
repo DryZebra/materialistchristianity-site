@@ -40,7 +40,7 @@ export default function WikiHome() {
           <p className="text-sm opacity-60 font-mono uppercase mb-8">The mechanical units of the Materialist Dialectic.</p>
           <div className="space-y-2 mb-8">
             {nodes.slice(0, 3).map(node => (
-              <Link key={node.slug} href={`/wiki/nodes/${node.slug}`} className="block text-xs font-bold uppercase hover:text-signal truncate">
+              <Link key={node.slug} href={`/wiki/mechanics/${node.slug}`} className="block text-xs font-bold uppercase hover:text-signal truncate">
                 &gt; {node.title}
               </Link>
             ))}
@@ -57,7 +57,7 @@ export default function WikiHome() {
           <p className="text-sm opacity-60 font-mono uppercase mb-8">Forensic observations of the Christian stabilization machine.</p>
           <div className="space-y-2 mb-8">
             {essays.slice(0, 3).map(essay => (
-              <Link key={essay.slug} href={`/wiki/essays/${essay.slug}`} className="block text-xs font-bold uppercase hover:text-signal truncate">
+              <Link key={essay.slug} href={`/wiki/testimonies/${essay.slug}`} className="block text-xs font-bold uppercase hover:text-signal truncate">
                 &gt; {essay.title}
               </Link>
             ))}
@@ -105,7 +105,7 @@ export default function WikiHome() {
                   {categories[category].slice(0, 5).map(node => (
                     <Link 
                       key={node.slug} 
-                      href={`/wiki/nodes/${node.slug}`}
+                      href={`/wiki/mechanics/${node.slug}`}
                       className="block group"
                     >
                       <h4 className="text-lg font-bold uppercase group-hover:text-signal group-hover:pl-2 transition-all border-l-2 border-transparent group-hover:border-signal">

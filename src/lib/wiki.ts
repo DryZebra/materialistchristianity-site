@@ -61,7 +61,7 @@ function parseContentFile(fullPath: string): ContentNode {
 
 // Wiki Nodes (Axioms/Mechanics)
 export function getAllWikiNodes(): ContentNode[] {
-  return getFilesFromDir('content/wiki/nodes').map(parseContentFile).sort((a, b) => a.slug.localeCompare(b.slug));
+  return getFilesFromDir('content/wiki/mechanics').map(parseContentFile).sort((a, b) => a.slug.localeCompare(b.slug));
 }
 
 export function getWikiNodeBySlug(slug: string): ContentNode | null {
@@ -71,7 +71,7 @@ export function getWikiNodeBySlug(slug: string): ContentNode | null {
 
 // Essays (Testimony)
 export function getAllEssays(): ContentNode[] {
-  return getFilesFromDir('content/wiki/essays').map(parseContentFile).sort((a, b) => a.slug.localeCompare(b.slug));
+  return getFilesFromDir('content/wiki/testimonies').map(parseContentFile).sort((a, b) => a.slug.localeCompare(b.slug));
 }
 
 export function getEssayBySlug(slug: string): ContentNode | null {
@@ -104,18 +104,18 @@ export function getNodesByCategory(): Record<string, ContentNode[]> {
 }
 
 /**
- * Returns the correct wiki path prefix (/wiki/nodes/ or /wiki/essays/)
+ * Returns the correct wiki path prefix (/wiki/mechanics/ or /wiki/testimonies/)
  * by checking the filesystem for the slug's existence in each category.
  */
 export function getLinkPath(slug: string): string {
   const nodes = getAllWikiNodes();
-  if (nodes.some(n => n.slug === slug)) return '/wiki/nodes/';
+  if (nodes.some(n => n.slug === slug)) return '/wiki/mechanics/';
   
   const essays = getAllEssays();
-  if (essays.some(e => e.slug === slug)) return '/wiki/essays/';
+  if (essays.some(e => e.slug === slug)) return '/wiki/testimonies/';
   
   const bibles = getAllBibleTranslations();
   if (bibles.some(b => b.slug === slug)) return '/wiki/bible/';
-
-  return '/wiki/nodes/'; // Default fallback
+ 
+  return '/wiki/mechanics/'; // Default fallback
 }
