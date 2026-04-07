@@ -447,6 +447,38 @@ export const CONTENT_MAP: Record<string, { title: string; category: string }> = 
     "title": "Trust: Our Shared Guarantee",
     "category": "wiki/mechanics"
   },
+  "vanguard_christian_atheism": {
+    "title": "Materialist Christianity vs. Christian Atheism",
+    "category": "wiki/mechanics"
+  },
+  "vanguard_christian_materialism": {
+    "title": "Materialist Christianity vs. Christian Materialism",
+    "category": "wiki/mechanics"
+  },
+  "vanguard_christian_scientific": {
+    "title": "Materialist Christianity vs. Christian Scientific",
+    "category": "wiki/mechanics"
+  },
+  "vanguard_christian_socialism": {
+    "title": "Materialist Christianity vs. Christian Socialism",
+    "category": "wiki/mechanics"
+  },
+  "vanguard_liberation_theology": {
+    "title": "Materialist Christianity vs. Liberation Theology",
+    "category": "wiki/mechanics"
+  },
+  "vanguard_non_denominational": {
+    "title": "Materialist Christianity vs. Non-Denominationalism",
+    "category": "wiki/mechanics"
+  },
+  "vanguard_secular_humanism": {
+    "title": "Materialist Christianity vs. Secular Humanism",
+    "category": "wiki/mechanics"
+  },
+  "vanguard_unitarian_universalist": {
+    "title": "Materialist Christianity vs. Unitarian Universalism",
+    "category": "wiki/mechanics"
+  },
   "what_you_carry": {
     "title": "What You Carry",
     "category": "wiki/mechanics"
