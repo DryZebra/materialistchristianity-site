@@ -20,7 +20,7 @@ export default function EssaysLibrary() {
         {essays.map((essay) => (
           <Link 
             key={essay.slug} 
-            href={`/wiki/essays/${essay.slug}`} 
+            href={`/wiki/testimonies/${essay.slug}`} 
             className="brutalist-card group !bg-ash/5 hover:!bg-ash/10"
           >
             <div className="text-[10px] uppercase font-mono opacity-40 mb-4 tracking-widest border-b border-ash/10 pb-2">

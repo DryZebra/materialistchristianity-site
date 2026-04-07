@@ -49,7 +49,7 @@ export default async function EssayPage({ params }: { params: Promise<{ slug: st
         <div className="breadcrumb">
           <Link href="/wiki" className="hover:text-signal">Archive</Link>
           <span className="breadcrumb-sep"></span>
-          <Link href="/wiki/essays" className="hover:text-signal">Testimony</Link>
+          <Link href="/wiki/testimonies" className="hover:text-signal">Testimony</Link>
           <span className="breadcrumb-sep"></span>
           <span className="text-signal">{essay.title}</span>
         </div>

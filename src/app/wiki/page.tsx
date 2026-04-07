@@ -45,7 +45,7 @@ export default function WikiHome() {
               </Link>
             ))}
           </div>
-          <Link href="/wiki/nodes" className="text-signal font-black uppercase text-sm hover:underline tracking-widest">
+          <Link href="/wiki/mechanics" className="text-signal font-black uppercase text-sm hover:underline tracking-widest">
             Detailed Map &rarr;
           </Link>
         </div>
@@ -62,7 +62,7 @@ export default function WikiHome() {
               </Link>
             ))}
           </div>
-          <Link href="/wiki/essays" className="text-signal font-black uppercase text-sm hover:underline tracking-widest">
+          <Link href="/wiki/testimonies" className="text-signal font-black uppercase text-sm hover:underline tracking-widest">
             Open Library &rarr;
           </Link>
         </div>
@@ -115,7 +115,7 @@ export default function WikiHome() {
                     </Link>
                   ))}
                   {categories[category].length > 5 && (
-                    <Link href="/wiki/nodes" className="text-[10px] font-mono uppercase opacity-40 hover:opacity-100 hover:text-signal font-black pt-2 block">
+                    <Link href="/wiki/mechanics" className="text-[10px] font-mono uppercase opacity-40 hover:opacity-100 hover:text-signal font-black pt-2 block">
                       + View {categories[category].length - 5} more in {category}
                     </Link>
                   )}

@@ -10,14 +10,16 @@ export function transformWikiLinks(content: string): string {
   if (!content) return '';
 
   const getPath = (slug: string) => {
-    const category = CONTENT_MAP[slug];
-    if (category === 'wiki/nodes') return '/wiki/nodes/';
-    if (category === 'wiki/essays') return '/wiki/essays/';
-    if (category === 'wiki/bible') return '/wiki/bible/';
+    const entry = CONTENT_MAP[slug];
+    if (entry) {
+      if (entry.category === 'wiki/mechanics') return '/wiki/mechanics/';
+      if (entry.category === 'wiki/testimonies') return '/wiki/testimonies/';
+      if (entry.category === 'wiki/bible') return '/wiki/bible/';
+    }
     
     // Fallback heuristic if not in map
     const isEssay = slug.startsWith('01_') || slug.includes('ch');
-    return isEssay ? '/wiki/essays/' : '/wiki/nodes/';
+    return isEssay ? '/wiki/testimonies/' : '/wiki/mechanics/';
   };
 
   // 1. Handle [[slug|title]] - slugified
@@ -35,8 +37,8 @@ export function transformWikiLinks(content: string): string {
     return `[${displayTitle}](${path}${slug})`;
   });
 
-  // 3. Sanitize standard markdown links [Title](/wiki/nodes/Target Name) or [Title](/essays/Target Name)
-  transformed = transformed.replace(/\[(.*?)\]\((?:\/wiki\/node\/|\/wiki\/nodes\/|\/essays\/|\/wiki\/essays\/|\/wiki\/bible\/)(.*?)\)/g, (match, title, rawPath) => {
+  // 3. Sanitize standard markdown links [Title](/wiki/mechanics/Target Name) or [Title](/wiki/testimonies/Target Name)
+  transformed = transformed.replace(/\[(.*?)\]\((?:\/wiki\/node\/|\/wiki\/nodes\/|\/essays\/|\/wiki\/essays\/|\/wiki\/bible\/|\/wiki\/mechanics\/|\/wiki\/testimonies\/)(.*?)\)/g, (match, title, rawPath) => {
     const slug = toSlug(rawPath);
     const path = getPath(slug);
     return `[${title}](${path}${slug})`;

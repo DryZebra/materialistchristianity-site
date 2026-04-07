@@ -79,7 +79,7 @@ export default async function BiblePage({ params }: { params: Promise<{ slug: st
           <h4 className="text-xl font-black uppercase mb-6 text-signal italic">Mechanical Axioms Activated</h4>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
             {bible.related.map(rel => (
-              <Link key={rel} href={`/wiki/nodes/${rel}`} className="brutalist-card p-4 hover:border-signal text-sm uppercase font-bold">
+              <Link key={rel} href={`/wiki/mechanics/${rel}`} className="brutalist-card p-4 hover:border-signal text-sm uppercase font-bold">
                 {rel.replace(/_/g, ' ')} &rarr;
               </Link>
             ))}
