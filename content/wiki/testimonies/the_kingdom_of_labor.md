@@ -21,7 +21,7 @@ The Kingdom is not built on "Luck" or "Chance"; it is the mechanical rejection o
 The technical nature of the Kingdom is documented in Matthew 6:33.
 
 -   **The Instruction**: "Seek ye first the kingdom of God, and his righteousness; and all these things shall be added unto you."
--   **The Mechanical Bypass**: This is not a "Moral Command," but a technical shortcut. "The Kingdom" is the high-torque social coordination of the producers. "His Righteousness" (the Right-Wayness) is the alignment with the [[the_technical_standard]]. 
+-   **The Mechanical Bypass**: This is not a "Moral Command," but a technical shortcut. "The Kingdom" is the high-torque social coordination of the producers. "His Righteousness" (the Right-Wayness) is the alignment with the [[the_atheist_axiom_and_the_machine]]. 
 -   **The Forensic Outcome**: If you prioritize the coordination (the Kingdom), the "Things" (the metabolic requirements—food, shelter, safety) are the automatic mechanical byproduct. They are "Added" as a consequence of the functional machine.
 
 ## Forensic Case Study: The Reconstruction Protocol

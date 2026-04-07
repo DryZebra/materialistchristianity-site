@@ -1,19 +1,6 @@
-# ---------------------------------------------------------
-# WILLIAM ENGINE: STACK ISOLATION (FIXED)
-# ---------------------------------------------------------
-
-# Internal Mind & Lab (IGNORE PERMANENTLY)
-william-engine/
-intelligence/
-brain/
+# Private Operational Core (IGNORE PERMANENTLY)
+_william/
 knowledge_db/
-backups/
-docs/
-tmp/
-scripts/
-archives/
-Bible Morph/
-Bible Translation/
 node_modules/
 .next/
 out/

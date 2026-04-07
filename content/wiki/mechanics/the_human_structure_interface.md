@@ -36,7 +36,7 @@ Synthesized archival snapshots of the human-structure interface:
 ### Primary Mechanics
 - [[the_sub_object]] — The structure being interfaced with.
 - [[moral_labor]] — The energy transferred through the interface.
-- [[the_technical_standard]] — The metric of the interaction.
+- [[the_atheist_axiom_and_the_machine]] — The metric of the interaction.
 
 ### Essays & Testimonies
 - [[well_water_principle]] — On the local portability of the interface.

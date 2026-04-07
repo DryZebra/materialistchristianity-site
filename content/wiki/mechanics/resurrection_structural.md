@@ -39,7 +39,7 @@ Archival snapshots of structural resurrection:
 - [[motion_as_reality]] — The substance that returns during resurrection.
 
 ### Essays & Testimonies
-- [[the_gospel_according_to_labor]] — On the spiritual cost of re-entry.
+-  — On the spiritual cost of re-entry.
 - [[well_water_principle]] — On the deep sources of resilient motion.
 
 ### Scriptural Anchors

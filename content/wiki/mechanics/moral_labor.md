@@ -39,7 +39,7 @@ Archival snapshots of moral labor:
 - [[resurrection_structural]] — The reactivation of labor-patterns.
 
 ### Essays & Testimonies
-- [[the_gospel_according_to_labor]] — On the spiritual dimension of non-extractive work.
+-  — On the spiritual dimension of non-extractive work.
 - [[trust_as_commodity]] — On how Capital attempts to financialize moral labor.
 
 ### Scriptural Anchors

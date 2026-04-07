@@ -43,4 +43,4 @@ Archival snapshots of residue in motion:
 - [[reality_as_motion]] — On the ontological priority of behavior over things.
 
 ### Scriptural Anchors
-- [[gen_4_11_reset]] — On the cycles of collapse and remnant-regeneration.
+-  — On the cycles of collapse and remnant-regeneration.

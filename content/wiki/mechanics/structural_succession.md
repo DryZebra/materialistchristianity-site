@@ -13,7 +13,7 @@ In the materialist dialectic, structural succession is the mechanical transmissi
 ## Structural Mechanics
 
 Succession functions as the replication protocol of the collective:
-1.  **The Mantle of Instruction**: Succession is not a "Title"; it is a set of physical requirements. The successor must demonstrate the ability to operate the "Hardware" of the community according to the established [[the_technical_standard]].
+1.  **The Mantle of Instruction**: Succession is not a "Title"; it is a set of physical requirements. The successor must demonstrate the ability to operate the "Hardware" of the community according to the established [[the_atheist_axiom_and_the_machine]].
 2.  **The Handover of the Real**: The succession is the material site where the "Keys" (the access to the local [[well_water_principle]]) are transferred. It is a technical apprenticeship in the maintenance of the the [[the_power_plant]].
 3.  **Resistance to Entropy**: A successful succession prevents the [[gmorknicity]] of the young. It ensures that the next generation is anchored in the [[the_biblical_baseline]] rather than the entropic trends of the "Ghost."
 
@@ -28,7 +28,7 @@ The forensic nature of succession is documented in 2 Kings 2:1-15 (The Mantle Pr
 ## Forensic Observations
 
 Synthesized archival snapshots of structural succession:
--   **The Apprentice's Receipt**: Observations of master craftsmen handing over their tools to an apprentice. The succession is complete not when the papers are signed, but when the apprentice produces a part that meets the [[the_technical_standard]] of the shop.
+-   **The Apprentice's Receipt**: Observations of master craftsmen handing over their tools to an apprentice. The succession is complete not when the papers are signed, but when the apprentice produces a part that meets the [[the_atheist_axiom_and_the_machine]] of the shop.
 -   **The Kinship Legacy**: During the total collapse of a local substrate (e.g., a mine closure), succession is observed in the children who continue to maintain the [[well_water_principle]] of their parents. They have "Succeeded" to the pattern of survival even when the jobs that originated it have vanished.
 
 ## Related Content

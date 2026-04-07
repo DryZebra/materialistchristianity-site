@@ -37,7 +37,7 @@ Synthesized archival snapshots of corrupted memory in operation:
 ### Primary Mechanics
 - [[the_materialist_axiom]] — The base protocol being erased.
 - [[moral_labor]] — The substance removed from the memory.
-- [[the_technical_standard]] — The metric of historical truth.
+- [[the_atheist_axiom_and_the_machine]] — The metric of historical truth.
 
 ### Essays & Testimonies
 - [[the_bible_as_sediment]] — On the record of the real.

@@ -43,4 +43,4 @@ Archival snapshots of sub-objects in the real:
 - [[reality_as_motion]] — On why behavior precedes things.
 
 ### Scriptural Anchors
-- [[gen_2_3_rupture]] — The origin of the space where sub-objects are born.
+-  — The origin of the space where sub-objects are born.

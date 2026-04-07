@@ -43,4 +43,4 @@ Archival snapshots of motion-as-reality:
 - [[the_materialist_axiom]] — On the foundational requirement of physical truth.
 
 ### Scriptural Anchors
-- [[gen_1_rhythm]] — The origin of motion within the vacuum.
+-  — The origin of motion within the vacuum.

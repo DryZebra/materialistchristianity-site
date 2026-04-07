@@ -34,14 +34,14 @@ In archival observations of agricultural and industrial successions, the "Law of
 
 ## The Absolute Standard
 
-The Biblical Baseline is the final judge of the [[the_technical_standard]]. It is the source of the [[well_water_principle]]—the recognition that truth must be re-excavated in every generation to clear the entropic dirt of the public world. To align with the baseline is to ensure that your house is built on the Rock, capable of surviving the causal storms of history.
+The Biblical Baseline is the final judge of the [[the_atheist_axiom_and_the_machine]]. It is the source of the [[well_water_principle]]—the recognition that truth must be re-excavated in every generation to clear the entropic dirt of the public world. To align with the baseline is to ensure that your house is built on the Rock, capable of surviving the causal storms of history.
 
 ### Related Content
 
 #### Core Foundations
 - [[the_materialist_axiom]] — The ground of the baseline.
 - [[reality_as_consequence]] — The judge of the baseline.
-- [[the_technical_standard]] — The metric of the baseline.
+- [[the_atheist_axiom_and_the_machine]] — The metric of the baseline.
 
 #### Essays & Testimonies
 - [[the_bible_as_sediment]] — On the nature of the archive.

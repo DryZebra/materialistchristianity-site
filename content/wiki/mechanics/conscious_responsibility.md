@@ -13,7 +13,7 @@ In the materialist dialectic, conscious responsibility is the technical recognit
 ## Structural Mechanics
 
 Responsibility functions as the internal governor of the social machine:
-1.  **The Ownership of Recoil**: The pilot understands that they cannot outsource the causal "Recoil" of their actions. If the machine fails, the pilot does not blame the "System"; they audit their own alignment with the [[the_technical_standard]].
+1.  **The Ownership of Recoil**: The pilot understands that they cannot outsource the causal "Recoil" of their actions. If the machine fails, the pilot does not blame the "System"; they audit their own alignment with the [[the_atheist_axiom_and_the_machine]].
 2.  **The Rejection of Deferral**: Conscious responsibility is the refusal to hide behind "Orders" or "Bureaucracy." It is the awareness that "I am the one doing this," even inside a mass coordination.
 3.  **The Torque of Dignity**: Taking responsibility generates immediate [[moral_capital]]. It is the transition from being a passive "Object" of history to being the "Author" (the Subject) of the [[resurrection_structural]].
 
@@ -36,7 +36,7 @@ Synthesized archival snapshots of conscious responsibility:
 ### Primary Mechanics
 - [[the_functional_pilot]] — The subject of responsibility.
 - [[reality_as_consequence]] — The judge of responsibility.
-- [[the_technical_standard]] — The metric of responsibility.
+- [[the_atheist_axiom_and_the_machine]] — The metric of responsibility.
 
 ### Essays & Testimonies
 - [[the_materialist_axiom]] — On the ground of authorship.

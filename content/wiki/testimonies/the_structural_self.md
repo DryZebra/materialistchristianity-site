@@ -14,7 +14,7 @@ In the materialist dialectic, the "Self" is not an abstract "Soul" or a private 
 
 The Self is built through the alignment of rhythmic motions:
 1.  **Refraction**: The subject adopts the protocols of their primary structures. They do not "Find" themselves; they "Constitute" themselves by walking the patterns of their people.
-2.  **Structural Density**: As the subject repeats the rhythms (the [[the_technical_standard]]), their "Weight" increases. They move from being a "Drifting Ghost" (an atomized consumer) to being a "Structural Anchor" (a functional pilot).
+2.  **Structural Density**: As the subject repeats the rhythms (the [[the_atheist_axiom_and_the_machine]]), their "Weight" increases. They move from being a "Drifting Ghost" (an atomized consumer) to being a "Structural Anchor" (a functional pilot).
 3.  **Substrate Independence**: The Structural Self is the part of the person that survives the destruction of their symbolic possessions. It is the "Social DNA" that allows the subject to rebuild the [[the_brush_arbor]] after a total [[rupture]].
 
 ## Biblical Diagnosis: The Temple of the Body

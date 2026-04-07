@@ -28,7 +28,7 @@ The forensic nature of the leaven is documented in Matthew 13:33.
 ## Forensic Observations
 
 Synthesized archival snapshots of dialectical leaven:
--   **The Union Cell**: Observations of labor organizing where a single "Leavened" worker (one who is [[honesty_with_hardware]] and committed to the [[the_technical_standard]]) can change the metabolic state of an entire shop floor. Their presence creates a "Handle" for the other workers to grasp their own historical motion.
+-   **The Union Cell**: Observations of labor organizing where a single "Leavened" worker (one who is [[honesty_with_hardware]] and committed to the [[the_atheist_axiom_and_the_machine]]) can change the metabolic state of an entire shop floor. Their presence creates a "Handle" for the other workers to grasp their own historical motion.
 -   **The Recovery Leaven**: In post-disaster scenarios, a single household that maintains the [[well_water_principle]] acts as a leaven for the street. Their stability communicates itself to the panicked neighbors, who eventually begin to coordinate their own survival around the established resilient pattern.
 
 ## Related Content

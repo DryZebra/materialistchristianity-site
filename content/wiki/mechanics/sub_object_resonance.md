@@ -13,7 +13,7 @@ In the materialist dialectic, "Sub-Object Resonance" is the forensic diagnostic 
 ## Structural Mechanics
 
 Resonance functions as the metabolic energy of the collective:
-1.  **Collective Vibration**: When subjects repeat the same patterns (the [[the_technical_standard]]), they begin to resonate at the same frequency. This reduces the friction of coordination and increases the output of the [[the_power_plant]].
+1.  **Collective Vibration**: When subjects repeat the same patterns (the [[the_atheist_axiom_and_the_machine]]), they begin to resonate at the same frequency. This reduces the friction of coordination and increases the output of the [[the_power_plant]].
 2.  **Torque Generation**: Resonance creates a "Pull" (the [[behavioral_gravity]]) that makes it easier for new subjects to join the pattern and harder for existing subjects to drift.
 3.  **Metabolic Efficiency**: A resonant system is one where trust is established and verified. It produces maximum survival-mitigation with minimum administrative waste.
 

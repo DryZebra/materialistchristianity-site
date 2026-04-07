@@ -35,7 +35,7 @@ Synthesized archival snapshots of pilot coordination:
 
 ### Primary Mechanics
 - [[sub_object_resonance]] — The frequency the pilot maintains.
-- [[the_technical_standard]] — The metrics the pilot follows.
+- [[the_atheist_axiom_and_the_machine]] — The metrics the pilot follows.
 - [[social_synchronization_engine]] — The machine the pilot commands.
 
 ### Essays & Testimonies

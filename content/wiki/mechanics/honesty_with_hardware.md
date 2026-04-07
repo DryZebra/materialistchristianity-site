@@ -28,14 +28,14 @@ The forensic nature of hardware honesty is documented in the Parable of the Two 
 ## Forensic Observations
 
 Synthesized archival snapshots of hardware honesty:
--   **The Shop Floor Baseline**: Observations of high-discipline machine shops where the "Hardware" is the final judge. A worker may "Believe" their part is correct, but if the micrometer (the [[the_technical_standard]]) says otherwise, the hardware wins. Honesty with the hardware is the only path to a functional machine.
+-   **The Shop Floor Baseline**: Observations of high-discipline machine shops where the "Hardware" is the final judge. A worker may "Believe" their part is correct, but if the micrometer (the [[the_atheist_axiom_and_the_machine]]) says otherwise, the hardware wins. Honesty with the hardware is the only path to a functional machine.
 -   **The Disaster Atheist**: During a total collapse of the social substrate, a "Hardware Honest" pilot emerges. They do not waste energy in prayer for an external rescue; they immediately begin calculating the range of their batteries and the depth of their well. Their "Atheism" is the engine of their survival.
 
 ## Related Content
 
 ### Primary Mechanics
 - [[the_materialist_axiom]] — The ground of the hardware.
-- [[the_technical_standard]] — The metric of the hardware.
+- [[the_atheist_axiom_and_the_machine]] — The metric of the hardware.
 - [[reality_as_consequence]] — The judge of the hardware.
 
 ### Essays & Testimonies

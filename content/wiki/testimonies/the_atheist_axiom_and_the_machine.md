@@ -39,7 +39,7 @@ We are not here to save your soul for another world; we are here to rebuild the 
 
 #### Core Foundations
 - [[the_materialist_axiom]] — On the protocol of the machine.
-- [[the_technical_standard]] — On the metric of the torque.
+- [[the_atheist_axiom_and_the_machine]] — On the metric of the torque.
 - [[moral_labor]] — On the energy of the engine.
 
 #### Essays & Testimonies

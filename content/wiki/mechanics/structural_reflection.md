@@ -28,7 +28,7 @@ The materialist nature of reflection is archetyped in Proverbs 27:19.
 ## Forensic Observations
 
 Synthesized archival snapshots of structural reflection:
--   **The Machine Shop Hub**: Observations of high-discipline machine shops where the quality of the individual's part is immediately reflected in the assembly of the whole. If the whole machine fails the [[the_technical_standard]], every individual must reflect on their own labor to find the divergence.
+-   **The Machine Shop Hub**: Observations of high-discipline machine shops where the quality of the individual's part is immediately reflected in the assembly of the whole. If the whole machine fails the [[the_atheist_axiom_and_the_machine]], every individual must reflect on their own labor to find the divergence.
 -   **The Disaster Response Mirror**: During a total grid collapse, the "Reflection" is immediate. If you have not invested in [[moral_labor]], your neighbor's inability to help you is a direct reflection of your own failure to participate in the [[well_water_principle]].
 
 ## Related Content

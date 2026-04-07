@@ -35,7 +35,7 @@ Synthesized archival snapshots of the final audit:
 
 ### Primary Mechanics
 - [[consequence_as_truth]] — The basis of the audit.
-- [[the_technical_standard]] — The metric of the audit.
+- [[the_atheist_axiom_and_the_machine]] — The metric of the audit.
 - [[structural_reflection]] — The goal of the audit.
 
 ### Essays & Testimonies

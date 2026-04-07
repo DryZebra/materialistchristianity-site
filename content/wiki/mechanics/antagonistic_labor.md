@@ -40,8 +40,8 @@ Archival snapshots of antagonistic labor in motion:
 - [[the_brush_arbor]] — The terminal point for redirected labor.
 
 ### Essays & Testimonies
-- [[the_gospel_according_to_labor]] — On the spiritual dimension of resistance.
+-  — On the spiritual dimension of resistance.
 - [[the_kingdom_of_labor]] — On the ultimate goal of non-extractive systems.
 
 ### Scriptural Anchors
-- [[gen_1_rhythm]] — The origin of the Sabbath-rhythm that was later hijacked.
+-  — The origin of the Sabbath-rhythm that was later hijacked.

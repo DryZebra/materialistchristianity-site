@@ -42,7 +42,7 @@ Synthesized archival snapshots of Gmorknicity in operation:
 ### Essays & Testimonies
 - [[liberalism_as_wardrobe]] — On the superficiality of symbolic capture.
 - [[trust_as_commodity]] — On the financialization of community resonance.
-- [[the_gospel_according_to_labor]] — On the non-extractive alternative.
+-  — On the non-extractive alternative.
 
 ### Scriptural Anchors
 - [[the_biblical_baseline]] — On the history of structural integrity.

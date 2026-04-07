@@ -28,14 +28,14 @@ The forensic nature of consequence-as-truth is documented in 1 Kings 18:21-39 (T
 ## Forensic Observations
 
 Synthesized archival snapshots of consequence-as-truth:
--   **The Shop Floor Receipt**: Observations of machine-shop operations where "Truth" is determined by the fit of the part. A worker is "True" not when they use the correct terminology, but when their part meets the [[the_technical_standard]] of the gauge. The gauge is the judge of the truth.
--   **The Disaster Audit**: During a total collapse of the local substrate (e.g., a mine closure), the "Truth" of the town's social synchronization is revealed. If the residents immediately begin the [[the_gospel_according_to_labor]] protocol, their community is "True." If they immediately devolve into atomized panic, their previous claim of community was a symbolic lie.
+-   **The Shop Floor Receipt**: Observations of machine-shop operations where "Truth" is determined by the fit of the part. A worker is "True" not when they use the correct terminology, but when their part meets the [[the_atheist_axiom_and_the_machine]] of the gauge. The gauge is the judge of the truth.
+-   **The Disaster Audit**: During a total collapse of the local substrate (e.g., a mine closure), the "Truth" of the town's social synchronization is revealed. If the residents immediately begin the  protocol, their community is "True." If they immediately devolve into atomized panic, their previous claim of community was a symbolic lie.
 
 ## Related Content
 
 ### Primary Mechanics
 - [[reality_as_consequence]] — The ground of the truth.
-- [[the_technical_standard]] — The metric of the truth.
+- [[the_atheist_axiom_and_the_machine]] — The metric of the truth.
 - [[moral_labor]] — The motion that reveals the truth.
 
 ### Essays & Testimonies
