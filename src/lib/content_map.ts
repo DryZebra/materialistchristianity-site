@@ -39,6 +39,14 @@ export const CONTENT_MAP: Record<string, { title: string; category: string }> = 
     "title": "The 4D Time Snake (The Physics of Being)",
     "category": "wiki/mechanics"
   },
+  "abiogenesis_flesh_origin": {
+    "title": "Abiogenesis: The Flesh Origin",
+    "category": "wiki/mechanics"
+  },
+  "action_as_truth": {
+    "title": "Action as Truth",
+    "category": "wiki/mechanics"
+  },
   "acts_church_synchronization": {
     "title": "Acts Church Synchronization",
     "category": "wiki/mechanics"
@@ -55,24 +63,16 @@ export const CONTENT_MAP: Record<string, { title: string; category: string }> = 
     "title": "Atheism and Historical Truth",
     "category": "wiki/mechanics"
   },
-  "batch_3_norm_nodes": {
-    "title": "Reclaiming the Sabbath",
-    "category": "wiki/mechanics"
-  },
-  "batch_3_norm_nodes_part_2": {
-    "title": "Writing on the Wall: Systemic Rupture",
-    "category": "wiki/mechanics"
-  },
-  "batch_4_norm_nodes": {
-    "title": "Local First: Neighborhood Infrastructure",
-    "category": "wiki/mechanics"
-  },
-  "batch_4_norm_nodes_part_2": {
-    "title": "Entropy and Restoration",
+  "atheist_floor_axiom": {
+    "title": "The Atheist Floor",
     "category": "wiki/mechanics"
   },
   "behavioral_gravity": {
     "title": "The Weight of Habit: Behavioral Gravity",
+    "category": "wiki/mechanics"
+  },
+  "betrayal_and_extractor": {
+    "title": "Betrayal and the Extractor",
     "category": "wiki/mechanics"
   },
   "bible_as_historical_record": {
@@ -107,8 +107,16 @@ export const CONTENT_MAP: Record<string, { title: string; category: string }> = 
     "title": "Capital as Vampire",
     "category": "wiki/mechanics"
   },
+  "christian_materialism_explained": {
+    "title": "Christian Materialism Explained",
+    "category": "wiki/mechanics"
+  },
   "christ_in_daily_labor": {
     "title": "Christ in Daily Labor",
+    "category": "wiki/mechanics"
+  },
+  "church_physical_hub": {
+    "title": "The Church as a Physical Hub",
     "category": "wiki/mechanics"
   },
   "cognitive_continuity_rights": {
@@ -117,6 +125,14 @@ export const CONTENT_MAP: Record<string, { title: string; category: string }> = 
   },
   "collapsing_timelines": {
     "title": "Collapsing Timelines",
+    "category": "wiki/mechanics"
+  },
+  "community_momentum": {
+    "title": "Community Momentum",
+    "category": "wiki/mechanics"
+  },
+  "community_rhythms": {
+    "title": "Community Rhythms",
     "category": "wiki/mechanics"
   },
   "conscious_responsibility": {
@@ -135,8 +151,20 @@ export const CONTENT_MAP: Record<string, { title: string; category: string }> = 
     "title": "Corrupted Memory",
     "category": "wiki/mechanics"
   },
+  "country_store_infrastructure": {
+    "title": "The Country Store as Infrastructure",
+    "category": "wiki/mechanics"
+  },
+  "credit_as_borrowed_happiness": {
+    "title": "Credit as Happiness",
+    "category": "wiki/mechanics"
+  },
   "dignity_structural": {
     "title": "Dignity (Structural)",
+    "category": "wiki/mechanics"
+  },
+  "ecclesiastes_9_hand_and_work": {
+    "title": "Ecclesiastes 9: Hand and Work",
     "category": "wiki/mechanics"
   },
   "emergent_self_and_algorithm": {
@@ -151,8 +179,24 @@ export const CONTENT_MAP: Record<string, { title: string; category: string }> = 
     "title": "Entropy and Synthesis (Diagnostic)",
     "category": "wiki/mechanics"
   },
+  "entropy_restoration": {
+    "title": "Entropy and Restoration",
+    "category": "wiki/mechanics"
+  },
   "eternal_life": {
     "title": "Eternal Life (Materialist)",
+    "category": "wiki/mechanics"
+  },
+  "everything_price_point": {
+    "title": "Everything as a Price-Point",
+    "category": "wiki/mechanics"
+  },
+  "extractive_layer": {
+    "title": "The Extractive Layer",
+    "category": "wiki/mechanics"
+  },
+  "faith_as_proof": {
+    "title": "Faith as Proof",
     "category": "wiki/mechanics"
   },
   "faith_as_residue": {
@@ -191,16 +235,56 @@ export const CONTENT_MAP: Record<string, { title: string; category: string }> = 
     "title": "The Hollowing Out: Recognizing Decay",
     "category": "wiki/mechanics"
   },
+  "hardness_of_heart": {
+    "title": "The Hardness of Heart",
+    "category": "wiki/mechanics"
+  },
+  "hebrews_11_reality_requirement": {
+    "title": "Hebrews 11: The Reality Requirement",
+    "category": "wiki/mechanics"
+  },
   "historical_alignment": {
     "title": "Historical Alignment",
+    "category": "wiki/mechanics"
+  },
+  "historical_truth": {
+    "title": "Historical Truth",
+    "category": "wiki/mechanics"
+  },
+  "hollowing_out_decay": {
+    "title": "The Hollowing Out (Decay)",
     "category": "wiki/mechanics"
   },
   "honesty_with_hardware": {
     "title": "Honesty with the Tools: Following the Facts",
     "category": "wiki/mechanics"
   },
+  "honesty_with_tools": {
+    "title": "Honesty with Your Tools",
+    "category": "wiki/mechanics"
+  },
+  "jacob_physical_struggle": {
+    "title": "Jacob: The Physical Struggle",
+    "category": "wiki/mechanics"
+  },
+  "jesus_adam_continuity": {
+    "title": "Jesus Walking with Adam: Materialist Continuity",
+    "category": "wiki/mechanics"
+  },
+  "jesus_failure_of_sin": {
+    "title": "Jesus on the Failure of Sin",
+    "category": "wiki/mechanics"
+  },
   "john_6_the_materialist_bread": {
     "title": "John 6: The Bread of Life",
+    "category": "wiki/mechanics"
+  },
+  "jonah_hostile_neighbor": {
+    "title": "Jonah: The Hostile Neighbor",
+    "category": "wiki/mechanics"
+  },
+  "leadership_allied_owner": {
+    "title": "Leadership: The Role of the Allied Owner",
     "category": "wiki/mechanics"
   },
   "let_the_dead_move": {
@@ -215,12 +299,28 @@ export const CONTENT_MAP: Record<string, { title: string; category: string }> = 
     "title": "Shared Rhythms: How We Move Together",
     "category": "wiki/mechanics"
   },
+  "local_first_infrastructure": {
+    "title": "Local First: Neighborhood Infrastructure",
+    "category": "wiki/mechanics"
+  },
   "local_vs_public_trust": {
     "title": "Neighborhood Trust vs. Official Trust",
     "category": "wiki/mechanics"
   },
+  "long_term_planning": {
+    "title": "Long-term Planning",
+    "category": "wiki/mechanics"
+  },
   "lot_s_wife_the_danger_of_idealistic_drift": {
     "title": "Lot’s Wife: The Danger of Idealistic Drift",
+    "category": "wiki/mechanics"
+  },
+  "machine_and_self": {
+    "title": "The Machine and the Self",
+    "category": "wiki/mechanics"
+  },
+  "maintenance_for_survival": {
+    "title": "Maintenance for Survival",
     "category": "wiki/mechanics"
   },
   "maintenance_vs_preservation": {
@@ -231,8 +331,20 @@ export const CONTENT_MAP: Record<string, { title: string; category: string }> = 
     "title": "Mark of the Beast Explained",
     "category": "wiki/mechanics"
   },
+  "materialist_awakening": {
+    "title": "The Materialist Awakening",
+    "category": "wiki/mechanics"
+  },
   "materialist_christianity_overview": {
     "title": "Materialist Christianity Overview",
+    "category": "wiki/mechanics"
+  },
+  "materialist_christian_creed": {
+    "title": "The Materialist Christian Creed",
+    "category": "wiki/mechanics"
+  },
+  "materialist_icons_visuals": {
+    "title": "Materialist Icons and Visuals",
     "category": "wiki/mechanics"
   },
   "money_mammon_and_christ": {
@@ -259,52 +371,60 @@ export const CONTENT_MAP: Record<string, { title: string; category: string }> = 
     "title": "Motion in Isolation",
     "category": "wiki/mechanics"
   },
+  "moving_after_collapse": {
+    "title": "Moving After a Collapse",
+    "category": "wiki/mechanics"
+  },
+  "neighborly_distance_proximity": {
+    "title": "Neighborly Distance",
+    "category": "wiki/mechanics"
+  },
   "non_extractive_labor": {
     "title": "Non-Extractive Labor",
     "category": "wiki/mechanics"
   },
-  "normalization_wave_1": {
-    "title": "Social Synchronization: The 15-man Shop",
-    "category": "wiki/mechanics"
-  },
-  "normalization_wave_2": {
-    "title": "Planning for the Future",
-    "category": "wiki/mechanics"
-  },
-  "normalization_wave_3": {
-    "title": "The Weight of Canon",
-    "category": "wiki/mechanics"
-  },
-  "normalization_wave_4": {
-    "title": "Reality over Debunking",
-    "category": "wiki/mechanics"
-  },
-  "normalization_wave_5": {
-    "title": "Systemic Collapse (Rupture)",
-    "category": "wiki/mechanics"
-  },
-  "normalization_wave_6": {
-    "title": "The Church as a Physical Hub",
-    "category": "wiki/mechanics"
-  },
-  "normalization_wave_7": {
-    "title": "Credit as Happiness",
+  "nothingness_the_void": {
+    "title": "Nothingness (The Void)",
     "category": "wiki/mechanics"
   },
   "now_what_living_it": {
     "title": "Now What? Living It",
     "category": "wiki/mechanics"
   },
+  "particular_and_general": {
+    "title": "The Particular and the General",
+    "category": "wiki/mechanics"
+  },
+  "patterns_of_survival_fractals": {
+    "title": "Patterns of Survival",
+    "category": "wiki/mechanics"
+  },
   "personality_vs_performance": {
     "title": "Personality vs Performance",
+    "category": "wiki/mechanics"
+  },
+  "planning_for_future": {
+    "title": "Planning for the Future",
     "category": "wiki/mechanics"
   },
   "protestant_catholic_split_forensics": {
     "title": "Protestant Catholic Split Forensics",
     "category": "wiki/mechanics"
   },
+  "proverbs_25_audit": {
+    "title": "Proverbs 25: The Forensic Audit",
+    "category": "wiki/mechanics"
+  },
   "reality_as_consequence": {
     "title": "Reality As Consequence",
+    "category": "wiki/mechanics"
+  },
+  "reality_over_debunking": {
+    "title": "Reality over Debunking",
+    "category": "wiki/mechanics"
+  },
+  "reclaiming_the_sabbath": {
+    "title": "Reclaiming the Sabbath",
     "category": "wiki/mechanics"
   },
   "resurrection_structural": {
@@ -321,6 +441,10 @@ export const CONTENT_MAP: Record<string, { title: string; category: string }> = 
   },
   "re_uptake_injection": {
     "title": "Re-uptake Injection",
+    "category": "wiki/mechanics"
+  },
+  "right_to_focus_memory": {
+    "title": "The Right to Focus and Memory",
     "category": "wiki/mechanics"
   },
   "rituals_of_consequence": {
@@ -347,6 +471,10 @@ export const CONTENT_MAP: Record<string, { title: string; category: string }> = 
     "title": "Social Reinvestment Loop",
     "category": "wiki/mechanics"
   },
+  "social_synchronization_15man": {
+    "title": "Social Synchronization: The 15-man Shop",
+    "category": "wiki/mechanics"
+  },
   "social_synchronization_engine": {
     "title": "Working as One: The 15-Man Shop",
     "category": "wiki/mechanics"
@@ -357,6 +485,10 @@ export const CONTENT_MAP: Record<string, { title: string; category: string }> = 
   },
   "strategic_vanguard_interface": {
     "title": "Neighborhood Leadership: The Way We Organize",
+    "category": "wiki/mechanics"
+  },
+  "structural_dignity": {
+    "title": "Structural Dignity",
     "category": "wiki/mechanics"
   },
   "structural_reflection": {
@@ -377,6 +509,26 @@ export const CONTENT_MAP: Record<string, { title: string; category: string }> = 
   },
   "survival_rhythm": {
     "title": "Survival Rhythm",
+    "category": "wiki/mechanics"
+  },
+  "systemic_collapse_rupture": {
+    "title": "Systemic Collapse (Rupture)",
+    "category": "wiki/mechanics"
+  },
+  "systemic_reinvestment": {
+    "title": "Systemic Re-investment",
+    "category": "wiki/mechanics"
+  },
+  "systemic_restoration": {
+    "title": "Systemic Restoration",
+    "category": "wiki/mechanics"
+  },
+  "systemic_void_vacuum": {
+    "title": "The Systemic Void",
+    "category": "wiki/mechanics"
+  },
+  "temporary_infrastructure_scaffolding": {
+    "title": "Temporary Infrastructure",
     "category": "wiki/mechanics"
   },
   "the_atheist_axiom": {
@@ -443,8 +595,24 @@ export const CONTENT_MAP: Record<string, { title: string; category: string }> = 
     "title": "The Timeline Paradox",
     "category": "wiki/mechanics"
   },
+  "tools_you_carry_capability": {
+    "title": "The Tools You Carry",
+    "category": "wiki/mechanics"
+  },
+  "tool_and_worker": {
+    "title": "The Tool and the Worker",
+    "category": "wiki/mechanics"
+  },
   "trust_as_commodity": {
     "title": "Trust: Our Shared Guarantee",
+    "category": "wiki/mechanics"
+  },
+  "trust_as_infrastructure": {
+    "title": "Trust as Infrastructure",
+    "category": "wiki/mechanics"
+  },
+  "vampire_extraction": {
+    "title": "The Vampire (Extraction)",
     "category": "wiki/mechanics"
   },
   "vanguard_christian_atheism": {
@@ -479,8 +647,20 @@ export const CONTENT_MAP: Record<string, { title: string; category: string }> = 
     "title": "Materialist Christianity vs. Unitarian Universalism",
     "category": "wiki/mechanics"
   },
+  "weight_of_canon": {
+    "title": "The Weight of Canon",
+    "category": "wiki/mechanics"
+  },
+  "weight_of_habit": {
+    "title": "The Weight of Habit",
+    "category": "wiki/mechanics"
+  },
   "what_you_carry": {
     "title": "What You Carry",
+    "category": "wiki/mechanics"
+  },
+  "writing_on_the_wall": {
+    "title": "Writing on the Wall: Systemic Rupture",
     "category": "wiki/mechanics"
   },
   "01_simple_truth": {
