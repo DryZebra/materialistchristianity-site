@@ -243,6 +243,10 @@ export const CONTENT_MAP: Record<string, { title: string; category: string }> = 
     "title": "Hebrews 11: The Reality Requirement",
     "category": "wiki/mechanics"
   },
+  "hell_total_separation": {
+    "title": "The Mechanism of Finality: Hell",
+    "category": "wiki/mechanics"
+  },
   "historical_alignment": {
     "title": "Historical Alignment",
     "category": "wiki/mechanics"
@@ -347,6 +351,10 @@ export const CONTENT_MAP: Record<string, { title: string; category: string }> = 
     "title": "Materialist Icons and Visuals",
     "category": "wiki/mechanics"
   },
+  "material_heaven": {
+    "title": "The Mechanism of the General: Material Heaven",
+    "category": "wiki/mechanics"
+  },
   "money_mammon_and_christ": {
     "title": "Money, Mammon, and Christ",
     "category": "wiki/mechanics"
@@ -405,6 +413,10 @@ export const CONTENT_MAP: Record<string, { title: string; category: string }> = 
   },
   "planning_for_future": {
     "title": "Planning for the Future",
+    "category": "wiki/mechanics"
+  },
+  "prayer_mechanical_purpose": {
+    "title": "The Unified Manifestation of Care: Prayer",
     "category": "wiki/mechanics"
   },
   "protestant_catholic_split_forensics": {
