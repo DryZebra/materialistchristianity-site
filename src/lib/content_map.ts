@@ -75,6 +75,10 @@ export const CONTENT_MAP: Record<string, { title: string; category: string }> = 
     "title": "The Weight of Habit: Behavioral Gravity",
     "category": "wiki/mechanics"
   },
+  "bible_as_historical_record": {
+    "title": "Bible as Historical Record",
+    "category": "wiki/mechanics"
+  },
   "biblical_fasting_explained": {
     "title": "Biblical Fasting Explained",
     "category": "wiki/mechanics"
@@ -88,7 +92,7 @@ export const CONTENT_MAP: Record<string, { title: string; category: string }> = 
     "category": "wiki/mechanics"
   },
   "bypassing_objective_subjective_theory": {
-    "title": "Bypassing Objective and Subjective Theory",
+    "title": "Bypassing Objective Subjective Theory",
     "category": "wiki/mechanics"
   },
   "canon_as_pressure": {
@@ -136,7 +140,7 @@ export const CONTENT_MAP: Record<string, { title: string; category: string }> = 
     "category": "wiki/mechanics"
   },
   "emergent_self_and_algorithm": {
-    "title": "Emergent Self and the Algorithm",
+    "title": "Emergent Self and Algorithm",
     "category": "wiki/mechanics"
   },
   "engaging_boys_the_daniel_method": {
@@ -223,6 +227,10 @@ export const CONTENT_MAP: Record<string, { title: string; category: string }> = 
     "title": "Maintenance vs Preservation",
     "category": "wiki/mechanics"
   },
+  "mark_of_the_beast_explained": {
+    "title": "Mark of the Beast Explained",
+    "category": "wiki/mechanics"
+  },
   "materialist_christianity_overview": {
     "title": "Materialist Christianity Overview",
     "category": "wiki/mechanics"
@@ -285,6 +293,10 @@ export const CONTENT_MAP: Record<string, { title: string; category: string }> = 
   },
   "now_what_living_it": {
     "title": "Now What? Living It",
+    "category": "wiki/mechanics"
+  },
+  "personality_vs_performance": {
+    "title": "Personality vs Performance",
     "category": "wiki/mechanics"
   },
   "protestant_catholic_split_forensics": {
@@ -369,6 +381,10 @@ export const CONTENT_MAP: Record<string, { title: string; category: string }> = 
   },
   "the_atheist_axiom": {
     "title": "The Atheist Axiom: Facing the Real World",
+    "category": "wiki/mechanics"
+  },
+  "the_book_that_resurrects": {
+    "title": "The Book That Resurrects",
     "category": "wiki/mechanics"
   },
   "the_church_as_structural_anchor": {
