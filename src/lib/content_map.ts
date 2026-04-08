@@ -35,9 +35,29 @@ export const CONTENT_MAP: Record<string, { title: string; category: string }> = 
     "title": "Materialist Christian Study Bible",
     "category": "wiki/bible"
   },
+  "borrowed_happiness": {
+    "title": "Borrowed Happiness (Diagnostic)",
+    "category": "wiki/diagnostics"
+  },
+  "corrupted_memory": {
+    "title": "Corrupted Memory",
+    "category": "wiki/diagnostics"
+  },
+  "the_entropic_dance": {
+    "title": "The Entropic Dance",
+    "category": "wiki/mechanics"
+  },
   "4d_time_snake": {
     "title": "The 4D Time Snake (The Physics of Being)",
     "category": "wiki/mechanics"
+  },
+  "mark_of_the_beast_explained": {
+    "title": "Mark of the Beast Explained",
+    "category": "wiki/history"
+  },
+  "the_mark_of_cain": {
+    "title": "The Mark of Cain: The Rule of Protection",
+    "category": "wiki/history"
   },
   "abiogenesis_flesh_origin": {
     "title": "Abiogenesis: The Flesh Origin",
@@ -79,16 +99,8 @@ export const CONTENT_MAP: Record<string, { title: string; category: string }> = 
     "title": "Bible as Historical Record",
     "category": "wiki/mechanics"
   },
-  "biblical_fasting_explained": {
-    "title": "Biblical Fasting Explained",
-    "category": "wiki/mechanics"
-  },
   "book_of_fractals": {
     "title": "The Book of Fractals (The Psychology of Self)",
-    "category": "wiki/mechanics"
-  },
-  "borrowed_happiness": {
-    "title": "Borrowed Happiness (Diagnostic)",
     "category": "wiki/mechanics"
   },
   "bypassing_objective_subjective_theory": {
@@ -145,10 +157,6 @@ export const CONTENT_MAP: Record<string, { title: string; category: string }> = 
   },
   "continuity": {
     "title": "Continuity (Diagnostic)",
-    "category": "wiki/mechanics"
-  },
-  "corrupted_memory": {
-    "title": "Corrupted Memory",
     "category": "wiki/mechanics"
   },
   "country_store_infrastructure": {
@@ -221,10 +229,6 @@ export const CONTENT_MAP: Record<string, { title: string; category: string }> = 
   },
   "final_node_overwrites_batch_5": {
     "title": "Credit as Happiness",
-    "category": "wiki/mechanics"
-  },
-  "forensic_audit_method": {
-    "title": "Forensic Audit Method\r",
     "category": "wiki/mechanics"
   },
   "function_over_debunking": {
@@ -331,10 +335,6 @@ export const CONTENT_MAP: Record<string, { title: string; category: string }> = 
     "title": "Maintenance vs Preservation",
     "category": "wiki/mechanics"
   },
-  "mark_of_the_beast_explained": {
-    "title": "Mark of the Beast Explained",
-    "category": "wiki/mechanics"
-  },
   "materialist_awakening": {
     "title": "The Materialist Awakening",
     "category": "wiki/mechanics"
@@ -433,10 +433,6 @@ export const CONTENT_MAP: Record<string, { title: string; category: string }> = 
   },
   "reality_over_debunking": {
     "title": "Reality over Debunking",
-    "category": "wiki/mechanics"
-  },
-  "reclaiming_the_sabbath": {
-    "title": "Reclaiming the Sabbath",
     "category": "wiki/mechanics"
   },
   "resurrection_structural": {
@@ -567,10 +563,6 @@ export const CONTENT_MAP: Record<string, { title: string; category: string }> = 
     "title": "The Broken Contract",
     "category": "wiki/mechanics"
   },
-  "the_entropic_dance": {
-    "title": "The Entropic Dance: The Performance of Decay",
-    "category": "wiki/testimonies"
-  },
   "the_final_audit": {
     "title": "The Final Audit",
     "category": "wiki/mechanics"
@@ -675,6 +667,30 @@ export const CONTENT_MAP: Record<string, { title: string; category: string }> = 
     "title": "Writing on the Wall: Systemic Rupture",
     "category": "wiki/mechanics"
   },
+  "apprentice_protocol": {
+    "title": "The Apprentice Protocol: Applied Structural Succession",
+    "category": "wiki/praxis"
+  },
+  "bleeding_the_voltage": {
+    "title": "Bleeding the Voltage: Handling the Hostile Neighbor",
+    "category": "wiki/praxis"
+  },
+  "forensic_audit_method": {
+    "title": "Forensic Audit Method\r",
+    "category": "wiki/praxis"
+  },
+  "non_extractive_pooling": {
+    "title": "Non-Extractive Pooling: Material Mutual Aid",
+    "category": "wiki/praxis"
+  },
+  "sabbath_shut_off": {
+    "title": "Reclaiming the Sabbath",
+    "category": "wiki/praxis"
+  },
+  "stress_testing_fasting": {
+    "title": "Biblical Fasting Explained",
+    "category": "wiki/praxis"
+  },
   "01_simple_truth": {
     "title": "The Simple Truth: A Technical Audit of the Real",
     "category": "wiki/testimonies"
@@ -723,10 +739,6 @@ export const CONTENT_MAP: Record<string, { title: string; category: string }> = 
     "title": "Scripture as Behavioral History",
     "category": "wiki/testimonies"
   },
-  "the_4d_time_snake": {
-    "title": "The Path of Your Actions: The Persistence of Who You Are",
-    "category": "wiki/testimonies"
-  },
   "the_atheist_axiom_and_the_machine": {
     "title": "The Atheist Axiom and the Forensic Faith",
     "category": "wiki/testimonies"
@@ -753,10 +765,6 @@ export const CONTENT_MAP: Record<string, { title: string; category: string }> = 
   },
   "the_kingdom_of_labor": {
     "title": "The Kingdom of Labor",
-    "category": "wiki/testimonies"
-  },
-  "the_mark_of_cain": {
-    "title": "The Mark of Cain: The Rule of Protection",
     "category": "wiki/testimonies"
   },
   "the_materialist_axiom": {

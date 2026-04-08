@@ -59,9 +59,28 @@ function parseContentFile(fullPath: string): ContentNode {
 }
 
 
-// Wiki Nodes (Axioms/Mechanics)
+// Wiki Nodes (Axioms/Mechanics/Praxis/Diagnostics/History)
 export function getAllWikiNodes(): ContentNode[] {
-  return getFilesFromDir('content/wiki/mechanics').map(parseContentFile).sort((a, b) => a.slug.localeCompare(b.slug));
+  // Scan all folders in content/wiki EXCEPT testimonies and bible (which are separate types)
+  const baseDir = path.join(process.cwd(), 'content/wiki');
+  const items = fs.readdirSync(baseDir, { withFileTypes: true });
+  
+  let allNodes: ContentNode[] = [];
+  
+  items.forEach(item => {
+    if (item.isDirectory() && item.name !== 'testimonies' && item.name !== 'bible' && !item.name.startsWith('_')) {
+      allNodes = allNodes.concat(getFilesFromDir(`content/wiki/${item.name}`).map(parseContentFile));
+    }
+  });
+
+  // Also include the legacy mechanics folder if any files remain there
+  const legacyMechanics = getFilesFromDir('content/wiki/mechanics').map(parseContentFile);
+  allNodes = allNodes.concat(legacyMechanics);
+
+  // Return unique slugs only (favoring newer organization if duplicates exist)
+  const uniqueNodes = Array.from(new Map(allNodes.map(node => [node.slug, node])).values());
+
+  return uniqueNodes.sort((a, b) => a.slug.localeCompare(b.slug));
 }
 
 export function getWikiNodeBySlug(slug: string): ContentNode | null {

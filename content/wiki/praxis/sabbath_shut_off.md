@@ -1,6 +1,6 @@
 ---
 title: "Reclaiming the Sabbath"
-category: "Mechanics"
+category: "Praxis"
 core: "BRIDGE Discussion"
 status: "Final"
 archival_id: "68839022-8b0c-8327-a28a-a5c0df51f30b"

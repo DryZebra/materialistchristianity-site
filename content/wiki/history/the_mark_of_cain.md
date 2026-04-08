@@ -1,7 +1,7 @@
 ---
 title: "The Mark of Cain: The Rule of Protection"
 description: "A technical analysis of the first rules for stopping the cycle of revenge and protecting the survival of the community."
-category: "Foundational Essay"
+category: "Historical Records"
 tags: ["cain", "protection", "rules", "history"]
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "The Entropic Dance: The Performance of Decay"
 description: "A hollowed-out community doesn't just sit still; it performs a frantic simulation of life to hide its internal breakdown."
-category: "Forensic Diagnostic"
+category: "Diagnostics"
 tags: ["entropy", "decay", "performance", "the-real"]
 ---
 

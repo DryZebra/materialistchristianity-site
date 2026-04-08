@@ -34,28 +34,28 @@ export default function WikiHome() {
 
       {/* TRIPARTITE ENTRY POINTS */}
       <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mb-24">
-        {/* SECTION 01: NODES (AXIOMS) */}
-        <div className="bg-steel/10 p-8 border-t-4 border-ash relative group hover:border-signal transition-all">
-          <span className="text-[10px] font-mono opacity-40 uppercase mb-4 block">Section 01</span>
-          <h2 className="text-4xl font-black uppercase mb-4 italic text-signal">Axioms</h2>
-          <p className="text-sm opacity-60 font-mono uppercase mb-8">The mechanical units of the Materialist Dialectic.</p>
+        {/* SECTION 01: PRAXIS (THE WORK) */}
+        <div className="bg-steel/10 p-8 border-t-4 border-signal relative group hover:border-signal transition-all shadow-[8px_8px_0_rgba(0,163,255,0.1)]">
+          <span className="text-[10px] font-mono opacity-40 uppercase mb-4 block">Section 01 // Shop Floor</span>
+          <h2 className="text-4xl font-black uppercase mb-4 italic text-signal">Praxis</h2>
+          <p className="text-sm opacity-60 font-mono uppercase mb-8 font-bold">Applied mechanics for stable social reproduction.</p>
           <div className="space-y-2 mb-8">
-            {nodes.slice(0, 3).map(node => (
+            {nodes.filter(n => n.category === 'Praxis').slice(0, 3).map(node => (
               <Link key={node.slug} href={`/wiki/mechanics/${node.slug}`} className="block text-xs font-bold uppercase hover:text-signal truncate">
                 &gt; {node.title}
               </Link>
             ))}
           </div>
           <Link href="/wiki/mechanics" className="text-signal font-black uppercase text-sm hover:underline tracking-widest">
-            Detailed Map &rarr;
+            Execution Manuals &rarr;
           </Link>
         </div>
 
         {/* SECTION 02: ESSAYS (TESTIMONY) */}
         <div className="bg-steel/10 p-8 border-t-4 border-ash relative group hover:border-signal transition-all">
-          <span className="text-[10px] font-mono opacity-40 uppercase mb-4 block">Section 02</span>
+          <span className="text-[10px] font-mono opacity-40 uppercase mb-4 block">Section 02 // Observations</span>
           <h2 className="text-4xl font-black uppercase mb-4 italic text-signal">Testimony</h2>
-          <p className="text-sm opacity-60 font-mono uppercase mb-8">Forensic observations of the Christian stabilization machine.</p>
+          <p className="text-sm opacity-60 font-mono uppercase mb-8">Forensic observations of the stabilization machine.</p>
           <div className="space-y-2 mb-8">
             {essays.slice(0, 3).map(essay => (
               <Link key={essay.slug} href={`/wiki/testimonies/${essay.slug}`} className="block text-xs font-bold uppercase hover:text-signal truncate">
@@ -70,9 +70,9 @@ export default function WikiHome() {
 
         {/* SECTION 03: BIBLE (SOURCE FORENSICS) */}
         <div className="bg-steel/10 p-8 border-t-4 border-ash relative group hover:border-signal transition-all">
-          <span className="text-[10px] font-mono opacity-40 uppercase mb-4 block">Section 03</span>
+          <span className="text-[10px] font-mono opacity-40 uppercase mb-4 block">Section 03 // Records</span>
           <h2 className="text-4xl font-black uppercase mb-4 italic text-signal">Forensics</h2>
-          <p className="text-sm opacity-60 font-mono uppercase mb-8">The Materialist Biblical Baseline. "Superior" Teardowns.</p>
+          <p className="text-sm opacity-60 font-mono uppercase mb-8">Historical records and biblical maintenance logs.</p>
           <div className="space-y-2 mb-8">
             {bibles.slice(0, 3).map(bible => (
               <Link key={bible.slug} href={`/wiki/bible/${bible.slug}`} className="block text-xs font-bold uppercase hover:text-signal truncate">
@@ -93,7 +93,7 @@ export default function WikiHome() {
             <h2 className="text-4xl uppercase font-black tracking-tighter italic">Knowledge Map</h2>
             <div className="flex items-baseline gap-2">
                <span className="font-mono text-sm opacity-50 underline decoration-signal decoration-2">Total Archive: {totalCount}</span>
-               <span className="font-mono text-[10px] opacity-40">[{nodes.length} Axioms // {essays.length} Testimonies]</span>
+               <span className="font-mono text-[10px] opacity-40">[{nodes.length} Mechanics // {essays.length} Testimonies]</span>
             </div>
           </div>
           

@@ -2,7 +2,7 @@
 uid: "forensic_audit_method_v2"
 title: Forensic Audit Method
 description: The primary mechanical lens for Materialist Christianity. Reverse-engineering scriptural symbols into their material social-machine counterparts.
-category: Methodology
+category: "Praxis"
 tags: [forensics, methodology, materialist_dialectic, audit]
 related: [the_materialist_axiom, behavioral_gravity, apostolic_motion]
 ---

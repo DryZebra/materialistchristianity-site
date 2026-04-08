@@ -1,7 +1,7 @@
 ---
 title: "The Path of Your Actions: The Persistence of Who You Are"
 description: "You are not just a single moment in time; you are the physical result of every choice and every act of labor you've ever done."
-category: "Forensic Diagnostic"
+category: "Historical Records"
 tags: ["time", "trajectory", "consequence", "the-real"]
 ---
 
