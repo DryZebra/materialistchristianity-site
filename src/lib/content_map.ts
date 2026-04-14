@@ -43,6 +43,10 @@ export const CONTENT_MAP: Record<string, { title: string; category: string }> = 
     "title": "Corrupted Memory",
     "category": "wiki/diagnostics"
   },
+  "judas_mechanic": {
+    "title": "The Judas Mechanic (Systemic Betrayal)",
+    "category": "wiki/diagnostics"
+  },
   "the_entropic_dance": {
     "title": "The Entropic Dance",
     "category": "wiki/mechanics"
@@ -50,6 +54,14 @@ export const CONTENT_MAP: Record<string, { title: string; category: string }> = 
   "4d_time_snake": {
     "title": "The 4D Time Snake (The Physics of Being)",
     "category": "wiki/mechanics"
+  },
+  "american_christian_republic": {
+    "title": "American Christian Republic (Territorial Forensics)",
+    "category": "wiki/history"
+  },
+  "forensic_registry_acts_1": {
+    "title": "Acts 1:15-20: The Forensic Registry",
+    "category": "wiki/history"
   },
   "mark_of_the_beast_explained": {
     "title": "Mark of the Beast Explained",
@@ -675,8 +687,16 @@ export const CONTENT_MAP: Record<string, { title: string; category: string }> = 
     "title": "Bleeding the Voltage: Handling the Hostile Neighbor",
     "category": "wiki/praxis"
   },
+  "fifteen_man_shop": {
+    "title": "Small-Scale Coordination (The 15-Man Shop)",
+    "category": "wiki/praxis"
+  },
   "forensic_audit_method": {
     "title": "Forensic Audit Method\r",
+    "category": "wiki/praxis"
+  },
+  "materialist_christian_labor": {
+    "title": "Materialist Christian Labor (Class Consciousness)",
     "category": "wiki/praxis"
   },
   "non_extractive_pooling": {

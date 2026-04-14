@@ -14,8 +14,8 @@ In the materialist dialectic, **Corrupted Memory** is the mechanical **Hollowing
 
 Memory is corrupted through the systematic **Separation of the Real**:
 1.  **Selective Sampling**: Highlighting the symbolic surface of past successes while ignoring the material labor and metabolic sacrifice that fueled them.
-2.  **Narrative Hollowing**: Replacing **Historical Necessity** with abstract "Ideology" ([[liberalism_as_wardrobe]]). This convinces subjects that symbols move the world, rather than human motion.
-3.  **Extractive Re-branding**: Once a memory is hollowed, its residual resonance is occupied by [[gmorknicity]] to legitimize an extractive structure (Capital) that returns zero survival data to the subject. 
+2.  **Narrative Hollowing**: Replacing **Historical Necessity** with abstract "Ideology" ([[liberalism_as_wardrobe]]). This convinces subjects that symbols generate reality, blinding them to the physical friction and human motion actually bearing the load.
+3.  **Extractive Re-branding**: Once a memory is hollowed, its residual resonance is occupied by [[gmorknicity]] to legitimize an extractive hierarchy that consumes moral capital while returning zero survival data to the subject. 
 4.  **Feedback Failure**: The subjects lose the ability to recognize the patterns of their own disinheritance because their "History" has been replaced by a simulation.
 
 ## Biblical Diagnosis: The Memory of the Rock
@@ -29,7 +29,7 @@ The forensic necessity of uncorrupted memory is documented in the command to the
 ## Forensic Observations
 
 Synthesized archival snapshots of corrupted memory in operation:
--   **The Industrial Erasure**: Observations of communities where the history of labor struggles and mutual aid has been replaced by corporate "HR" histories. The memory of how the ancestors survived a strike is replaced by the hollow ritual of "Labor Day" branding.
+-   **The Industrial Erasure**: Observations of communities where the history of labor struggles and coordinated survival mechanics has been replaced by corporate "HR" histories. The memory of how the ancestors survived a strike is replaced by the hollow ritual of "Labor Day" branding.
 -   **The Social Gospel Hollow**: The observation of religious structures that use the symbols of the Christ (The Heart) to promote an administrative "Message" while systematically removing the structural discipline (the hammer) required for material survival. The memory is hollowed into a "Feeling," leaving the subjects vulnerable to extraction.
 
 ## Related Content
