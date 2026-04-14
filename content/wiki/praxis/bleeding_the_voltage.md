@@ -41,4 +41,4 @@ If you don't bleed the voltage, the heat will eventually melt the connections of
 #### Diagnostics
 - [[the_entropic_dance]] — Why neighbors break under pressure.
 - [[vampire_extraction]] — Identifying those who only pull.
-- [[the_posture_of_the_cross]] — The historical forensic baseline for grounding.
+- [[resurrection_structural]] — The historical forensic baseline for grounding.

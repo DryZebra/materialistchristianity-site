@@ -36,6 +36,6 @@ To build a Materialist Christian society, we do not build "Big Institutions." We
 
 **See Also**:
 - [[Apprentice_Protocol]]
-- [[Non-Extractive_Pooling]]
-- [[Acts_1:15-20:_The_Forensic_Registry]]
-- [[The_Judas_Mechanic]]
+- [[non_extractive_pooling]]
+- [[forensic_registry_acts_1]]
+- [[judas_mechanic]]

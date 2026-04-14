@@ -33,7 +33,7 @@ The insistence on exactly 12 nodes is not numerical superstition; it is the main
 ---
 
 **See Also**:
-- [[The_Judas_Mechanic]]
+- [[judas_mechanic]]
 - [[Fifteen_Man_Shop]]
 - [[Apprentice_Protocol]]
 - [[Behavioral_Gravity]]

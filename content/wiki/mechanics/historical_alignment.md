@@ -1,38 +1,41 @@
 ---
-uid: "historical_alignment_v2"
-title: "Historical Alignment"
-concept: "Predictive Trajectories"
-mechanic: "Sediment Navigation"
-diagnostic: "Pure MC"
+uid: "historical_alignment_v3"
+title: "Historical Alignment: Checking the Compass"
+description: "Choosing a path based on what the historical record proves will actually survive."
+category: "Mechanics"
+status: "Final"
 ---
 
-# Historical Alignment: Navigation by Sediment
+# Historical Alignment: Checking the Compass
 
-Historical Alignment is the mechanical process of choosing a trajectory (for a person, a church, or a nation) that aligns with the "Rock" of historical necessity. It is the act of anchoring collective motion in what has been proven to work—the **Biblical Sediment**—to survive the inevitable **Causal Recoil** of false paths.
+In Materialist Christianity, **Historical Alignment** is the practical process of choosing a direction (for your family, your church, or your town) that lines up with what has already been proven to work. It is the act of anchoring your decisions in the historical baseline rather than chasing the current cultural trend.
 
 ## The Mechanic of the Trajectory
 
-Alignment is not about "following a trend"; it is about predicting the "Fruits" of a motion based on the historical record:
+Alignment means looking at the physical results of an action before you take it.
 
-1.  **Analysis**: Identifying the current soil and the underlying sediment.
-2.  **Calculation**: Measuring the "Weight" (Behavioral Gravity) of the existing structures and the force of their contradictions.
-3.  **Adjustment**: The structural discipline (The Hammer) to change course and align with the trajectory of survival and trust.
-4.  **Proof**: The material consequence (The Fruits) that confirms the alignment is "Real."
+1.  **Analysis**: Looking closely at your current situation and the history of how your ancestors handled it.
+2.  **Calculation**: Measuring the strength of your community's habits against the new ideas being pushed by corporate or state media.
+3.  **Adjustment**: Having the discipline to change course when your current path is leading to debt, isolation, or decay, and realigning with the proven rules of survival.
 
-## The True North of the Rock
+## The True North
 
-In a Pure MC context, the Bible is the "True North" of historical alignment. It is the compilation of trajectories that have successfully carried humanity through rupture. To align with the Gospel is to align with the only path that can survive the "Vampire" of Capital and the "Nothing" of Liberalism.
-
--   **Hammer**: The structural discipline of the Law and the Prophets.
--   **Heart**: The trust field (resonance) of the Resurrection.
+The Bible is the "True North" of historical alignment. It is the ultimate compilation of decisions that have successfully carried humanity through famines, wars, and imperial collapse. To align with the Gospel is to align with the only path that has survived every empire that tried to destroy it.
 
 ## Diagnostic Standard
 
-One identifies alphabetical Alignment by its durability:
+You can identify if a movement is aligned with history by its durability:
 
--   Is the structure still moving after the "Funding" or the "Trend" has vanished?
--   Is the structure producing survivors (dignity/trust)?
--   Is the structure capable of **Substrate Independence** (portable across rupture)?
+-   Is the group still functioning and helping its neighbors after the initial hype or funding has vanished?
+-   Are they producing capable, dignified workers and strong families?
+-   Can their way of life survive if they are forced to move to a new town or lose their digital infrastructure?
 
-> [!IMPORTANT]
-> Historical alignment is not a matter of "belief"; it is a matter of survival. To align with the Rock is to build a house that can stand when the floods come. To misalign is to be washed away by the causal recoil of history.
+## Summary
+
+Historical alignment is not a matter of "belief"; it is a matter of survival. To align with the historical baseline is to build a house that can stand when the floods come. To misalign is to be washed away by the inevitable consequences of bad decisions.
+
+---
+
+### Related Content
+- [[planning_for_the_future]] — How a community looks ahead.
+- [[the_book_that_resurrects]] — The archive of successful alignments.

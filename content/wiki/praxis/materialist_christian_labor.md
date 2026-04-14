@@ -32,7 +32,7 @@ If you are working 60 hours a week to pay interest to a bank that produces nothi
 ---
 
 **See Also**:
-- [[Sabbath_Shut-Off]]
+- [[sabbath_shut_off]]
 - [[Behavioral_Gravity]]
 - [[The_Entropic_Dance]]
-- [[Non-Extractive_Pooling]]
+- [[non_extractive_pooling]]

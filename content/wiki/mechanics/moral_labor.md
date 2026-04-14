@@ -18,6 +18,6 @@ In the American historical continuum, this mechanism of moral labor served as th
 ## Forensic References
 
 - **KJV**: [Matthew 20:1-16](https://www.kingjamesbibleonline.org/Matthew-Chapter-20/)
-- **Marxist Proof**: Joseph Stalin - [Socialist Emulation (1929)](https://www.marxists.org/reference/archive/stalin/works/1929/05/22.htm)
-- **American Continuity**: Alexander Hamilton - [Report on Manufactures (1791)](https://founders.archives.gov/documents/Hamilton/01-10-02-0001-0007)
-- **Archival Context**: [Materialist Christianity EBook](file:///c:/Users/ezrab/OneDrive%20-%20Durham%20Technical%20Community%20College/Desktop/MCS/materialistchristianity-site/_william/sources/Materialist%20Christianity%20EBook.md)
+- **Marxist Proof**: Joseph Stalin - <a href="https://www.marxists.org/reference/archive/stalin/works/1929/05/22.htm">Socialist Emulation (1929)</a>
+- **American Continuity**: Alexander Hamilton - <a href="https://founders.archives.gov/documents/Hamilton/01-10-02-0001-0007">Report on Manufactures (1791)</a>
+- **Archival Context**: [[materialist_christianity_overview]]

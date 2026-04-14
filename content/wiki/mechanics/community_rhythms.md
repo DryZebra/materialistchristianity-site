@@ -29,7 +29,7 @@ The **Rhythm Diagnostic** identify that our time is a shared resource. To be a M
 - [[social_synchronization_engine]] — Working as a single unit.
 
 #### Survival Protocols
-- [[reclaiming_the_sabbath]] — The rule of rest and repair.
+- [[sabbath_shut_off]] — The rule of rest and repair.
 - [[liturgy_motion_coordinator]] — How we move together.
 - [[survival_rhythm]] — The pace of the persistent.
 

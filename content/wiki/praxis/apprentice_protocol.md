@@ -34,5 +34,5 @@ Knowledge decay happens when "The Rule" becomes a slogan instead of a motion. If
 
 #### Core Foundations
 - [[moral_labor]] — The energy being transferred.
-- [[sub_object]] — What the apprentice eventually becomes part of.
-- [[the_living_archive]] — The record the apprentice will one day contribute to.
+- [[the_sub_object]] — What the apprentice eventually becomes part of.
+- [[the_book_that_resurrects]] — The record the apprentice will one day contribute to.

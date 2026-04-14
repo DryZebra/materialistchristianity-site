@@ -1,39 +1,33 @@
 ---
-uid: "cognitive_continuity_rights_v2"
-title: "Cognitive Continuity Rights"
+uid: "focus_and_memory_v3"
+title: "Focus and Memory: Protecting Your Mind"
 concept: "Integrity of Memory"
-mechanic: "Authorship Support"
-diagnostic: "Pure MC"
+category: "Mechanics"
+status: "Final"
 ---
 
-# Cognitive Continuity Rights: The Integrity of Memory
+# Focus and Memory: Protecting Your Mind
 
-Cognitive Continuity Rights are not "intellectual property" or "privacy" rights; they are the mechanical rights of a subject to maintain their **Structural Self** and their **Historical Memory** across the "Entropy" of any social environment. It is the right to **Authorship** (Responsibility) and the refusal to allow a trajectory (a person's 4D Time Snake) to be "Hollowed Out" by an outside force (The Nothing/Capital).
+In Materialist Christianity, your **Focus and Memory** are physical assets, just like your tools or your truck. They are the hardware of your mind, and they must be protected from being stripped or scrambled by outside forces.
 
-## The Mechanic of Continuity
+## The Assault on Attention
 
-Continuity is the structural requirement for stable **Structural Dignity**:
+We live in an environment where massive corporate algorithms are designed specifically to harvest your attention. 
+1.  **The Harvesting of Focus**: Every notification, endless scroll, and manufactured outrage is taking the metabolic energy you could be using to fix your house or help your neighbor, and redirecting it into a screen for someone else's profit.
+2.  **The Loss of Memory**: When a person is constantly bombarded with new, disconnected information every five seconds, they lose the ability to remember where they came from or what they are building. They forget the history of their own town.
 
-1.  **Authorship**: The subject's right to remain the primary architect of their own motion and consequence.
-2.  **Memory Integrity**: The right to access a continuous, uncorrupted historical record (The Bible as Sediment/The Local Kin) to navigate the present.
-3.  **Non-Extraction**: The right to refuse the conversion of one's **Moral Labor** and **Trust Capital** into a commodity (The Vampire).
-4.  **Fruits**: Increased shared trust, mutual security, and historical durability.
+## Taking Back the Hardware
 
-## The Violation of the Right
+You have the absolute right and requirement to protect your own mind.
+- **The Shut-Off**: This is why the [[sabbath_shut_off]] is so critical. By physically turning off the screens and the noise, you allow your brain to heal and remember how to focus on the real world.
+- **Defending the Record**: A community must keep its own records and tell its own stories, otherwise the Extractor will re-write their history. When you remember who you are and what your people have built, you cannot be easily manipulated.
 
-Capital (The Vampire) and Liberalism (The Nothing) specialize in **Breaking Continuity**. They use the "Trend" and the "Market" to disrupt the subject's connection to their own past, making them easier to extract. When a people lose their "Rock" (The Sediment/The Memory), they lose their right to **Cognitive Continuity**—they become "Leaves" in the wind of history.
+## Summary
 
--   **The North Carolina Proletariat**: A witness to the right. A people who have been disinherited and promised "Progress" while their memory and dignity were drained.
--   **Hammer**: The structural discipline (rituals/laws) that defends the right.
--   **Heart**: The trust field (resonance) of the survivors.
+Focus and memory are not just "mental states"; they are the physical prerequisites for doing any real work. If the Extractor owns your attention, they own your labor. Protect your mind as fiercely as you protect your property.
 
-## Diagnostic Standard
+---
 
-In a Pure MC analysis, one looks at the "Soil" of the memory:
-
--   Is the memory being **Maintained** (Alignment) or **Corrupted** (Entropy/Extraction)?
--   Is the subject taking **Authorship** (Responsibility) or **Deferring** it to the "Vampire"?
--   Can the continuity survive the destruction of the substrate (The Brush Arbor)?
-
-> [!IMPORTANT]
-> To lose your memory is to lose your **Structural Self**. To defend the real is to defend the **Right to Continue**. To build the Kingdom is to build what **cannot be forgotten**.
+### Related Content
+- [[sabbath_shut_off]] — The physical act of turning off the machine.
+- [[engaging_boys_the_daniel_method]] — Teaching children to keep their focus.

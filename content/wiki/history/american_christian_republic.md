@@ -34,5 +34,5 @@ The Republic is currently suffering from **Scale Failure** and **Extractive Para
 **See Also**:
 - [[Behavioral_Gravity]]
 - [[Materialist_Christian_Labor]]
-- [[Small-Scale_Coordination]]
+- [[fifteen_man_shop]]
 - [[The_Entropic_Dance]]

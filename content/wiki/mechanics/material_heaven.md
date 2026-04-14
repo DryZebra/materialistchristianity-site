@@ -36,9 +36,9 @@ Heaven is the **Archive of the General**. It is where we store the value of the 
 ### Related Content
 
 #### Continuity and Rupture
-- [[continuity_vs_rupture]] — The core dialectic of survival.
+- [[rupture]] — The core dialectic of survival.
 - [[the_materialist_axiom]] — God as the Real/General.
-- [[survival_check]] — Validating our social structures.
+- [[survival_rhythm]] — Validating our social structures.
 
 #### Anthropological Tools
 - [[prayer_mechanical_purpose]] — Syncing with the general.

@@ -32,7 +32,7 @@ The diagnostic of Hell allows a community to move on from collapse. It is the "M
 ### Related Content
 
 #### Finality and Rupture
-- [[continuity_vs_rupture]] — The core dialectic.
+- [[rupture]] — The core dialectic.
 - [[gmorknicity]] — The hollowing out of reality.
 - [[vampire_extraction]] — The result of choosing the void.
 

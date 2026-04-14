@@ -33,7 +33,7 @@ The mechanical repair for a Judas Mechanic is not "forgiveness" (in the sentimen
 ---
 
 **See Also**:
-- [[Forensic_Registry_Acts_1]]
-- [[Synthesis_Fallacy]]
+- [[forensic_registry_acts_1]]
+- [[entropy_and_synthesis]]
 - [[Corrupted_Memory]]
 - [[The_Entropic_Dance]]
