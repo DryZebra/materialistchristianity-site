@@ -1,5 +1,5 @@
 ---
-uid: "work_that_matters_v3"
+
 title: "Work That Matters"
 type: "Lens"
 description: "Identifying the real habits and routines that actually result in physical community wealth, rather than just putting on a show."
@@ -9,7 +9,7 @@ tags: ["praxis", "ritual", "consequence", "common-sense", "american"]
 
 # Work That Matters
 
-In Materialist Christianity, **Work That Matters** (previously called Rituals of Consequence) is any social habit or routine that results in a real, physical outcome for the community. It rejects 'Hollow Rituals'—actions performed for symbolic display or emotional gratification—in favor of synchronized habits that build structural dignity and protect the neighborhood.
+ **Work That Matters** (previously called Rituals of Consequence) is any social habit or routine that results in a real, physical outcome for the community. It rejects 'Hollow Rituals'—actions performed for symbolic display or emotional gratification—in favor of synchronized habits that build structural dignity and protect the neighborhood.
 
 ## The Diagnostic Tool: Real Habit vs. Symbolic Display
 

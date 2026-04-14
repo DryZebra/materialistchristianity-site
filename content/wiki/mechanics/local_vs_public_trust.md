@@ -8,7 +8,7 @@ related: [moral_capital, social_vampirism, the_nothing]
 
 # Neighborhood Trust vs. Official Trust: Protecting the Real
 
-In Materialist Christianity, trust is a real-world resource that we only have so much of. The main struggle in the modern world is that our **Neighborhood Trust** (the real strength we build with each other) is being stolen and turned into **Official Trust** (something that big corporations and governments use for their own profit). Neighborhood trust is the fuel for **Neighborhood Coordination**; official trust is what allows **Social Vampirism** (theft from the community) to happen.
+ trust is a real-world resource that we only have so much of. The main struggle in the modern world is that our **Neighborhood Trust** (the real strength we build with each other) is being stolen and turned into **Official Trust** (something that big corporations and governments use for their own profit). Neighborhood trust is the fuel for **Neighborhood Coordination**; official trust is what allows **Social Vampirism** (theft from the community) to happen.
 
 ## How Trust Works
 

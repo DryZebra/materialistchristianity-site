@@ -7,7 +7,7 @@ tags: ["sacrament", "matter", "work", "community"]
 
 # Sacramental Materialism: Truth You Can Touch
 
-**Sacramental Materialism** is not a "spiritual" or "mystical" idea. It is the technical recognition that meaning and trust only become **Real** when they are physically done. In Materialist Christianity, a Sacrament (like the Sabbath, Communion, or the Helping of a Neighbor) is a way of acting that has been proven over thousands of years to keep a community alive. It is the truth made accessible to our hands.
+**Sacramental Materialism** is not a "spiritual" or "mystical" idea. It is the technical recognition that meaning and trust only become **Real** when they are physically done.  a Sacrament (like the Sabbath, Communion, or the Helping of a Neighbor) is a way of acting that has been proven over thousands of years to keep a community alive. It is the truth made accessible to our hands.
 
 ## How a Sacrament Works
 

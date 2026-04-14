@@ -1,14 +1,14 @@
 ---
 title: "The Mechanism of the General: Material Heaven"
 category: "Mechanics"
-core: "Forensic Anthropology"
+
 status: "Final"
 tags: ["heaven", "mourning", "continuity", "rupture"]
 ---
 
 # The Mechanism of the General: Material Heaven
 
-In Materialist Christianity, **Heaven** is the structural mechanism used to manage the **Rupture** of individual death. It is the technical solution to the problem of **Accelerated Mourning**, allowing the community to re-insert the value of lost labor into the ongoing social structure.
+ **Heaven** is the structural mechanism used to manage the **Rupture** of individual death. It is the technical solution to the problem of **Accelerated Mourning**, allowing the community to re-insert the value of lost labor into the ongoing social structure.
 
 ## The Problem: The Rupture of the Particular
 

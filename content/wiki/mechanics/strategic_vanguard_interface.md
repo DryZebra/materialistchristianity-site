@@ -1,5 +1,5 @@
 ---
-uid: "neighborhood_leadership_v4"
+
 title: "Neighborhood Leadership: Stepping Up"
 description: "How practical leaders step up in a town without needing a corporate title."
 category: "Mechanics"
@@ -8,7 +8,7 @@ status: "Final"
 
 # Neighborhood Leadership: Stepping Up
 
-In Materialist Christianity, **Neighborhood Leadership** is not about having a fancy title or a corner office. It is the physical reality of the person who knows what needs to be done and organizes the folks around them to do it.
+ **Neighborhood Leadership** is not about having a fancy title or a corner office. It is the physical reality of the person who knows what needs to be done and organizes the folks around them to do it.
 
 ## The Action of Leading
 
@@ -26,5 +26,5 @@ Leadership is not a privilege; it is a heavy burden. The leader takes responsibi
 
 ### Related Content
 - [[redneck_dictatorship]] — The localized authority of competence.
-- [[working_together]] — The 15-man shop in action.
+- [[social_synchronization_engine]] — The 15-man shop in action.
 - [[moral_labor]] — The foundational work of the leader.

@@ -1,5 +1,5 @@
 ---
-uid: "motion_in_isolation_v2"
+
 title: "Motion in Isolation"
 concept: "Fragmented Sociality"
 mechanic: "Entropy Attraction"
@@ -8,7 +8,7 @@ diagnostic: "Pure MC"
 
 # Motion in Isolation: The Lone Snake of Entropy
 
-Motion in Isolation is the mechanical state of a human subject whose **Social Synchronization Engine** has been fractured or destroyed. It is the condition of moving without a **Co-construct** (Shared Reality)—lacking the shared rituals, rhythms, and trust of a community (Kin/Union/Church). In a Materialist Christianity context, this is the state of the "Liberal Subject"—a person who is easily extracted and consumed by the **Vampire** of Capital precisely because they have no "Rock" beyond their own internal narrative.
+Motion in Isolation is the mechanical state of a human subject whose **Social Synchronization Engine** has been fractured or destroyed. It is the condition of moving without a **Co-construct** (Shared Reality)—lacking the shared rituals, rhythms, and trust of a community (Kin/Union/Church). In the real world, this is the state of the "Liberal Subject"—a person who is easily extracted and consumed by the **Vampire** of Capital precisely because they have no "Rock" beyond their own internal narrative.
 
 ## The Mechanic of the Fragmentation
 

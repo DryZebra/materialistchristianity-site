@@ -7,7 +7,7 @@ tags: ["transformation", "kingdom", "leaven", "the-real"]
 
 # The Dialectical Leaven: Changing the Town from Within
 
-In Materialist Christianity, the **Dialectical Leaven** is not a "metaphor" for feelings; it is the technical property of the **Kingdom** (The Real) as a force that folds into a community to change its direction. It is the high-strength, high-discipline pattern of **Survival Wisdom** that, once introduced, begins to coordinate the neighborhood around it.
+ the **Dialectical Leaven** is not a "metaphor" for feelings; it is the technical property of the **Kingdom** (The Real) as a force that folds into a community to change its direction. It is the high-strength, high-discipline pattern of **Survival Wisdom** that, once introduced, begins to coordinate the neighborhood around it.
 
 ## How the Leaven Folds
 

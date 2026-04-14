@@ -1,5 +1,5 @@
 ---
-uid: "sovereign_guarantee_v1"
+
 title: "The Sovereign Guarantee"
 description: "The materialist recognition that the hardware of reality (creation) is sufficient for survival when unhindered by extractive monopolies."
 category: "Mechanics"
@@ -8,7 +8,7 @@ status: "Final"
 
 # The Sovereign Guarantee
 
-In Materialist Christianity, **The Sovereign Guarantee** is the baseline assurance that the structure of reality is designed to support life. When a community or individual disconnects from an extractive, globalist system, they do not fall into a void; they land on the foundational floor of reality, which guarantees a return on honest labor.
+ **The Sovereign Guarantee** is the baseline assurance that the structure of reality is designed to support life. When a community or individual disconnects from an extractive, globalist system, they do not fall into a void; they land on the foundational floor of reality, which guarantees a return on honest labor.
 
 ## The Floor Beneath the Market
 

@@ -1,16 +1,16 @@
 ---
 title: "The Tools You Carry"
 category: "Mechanics"
-core: "BRIDGE Discussion"
+
 status: "Final"
-archival_id: "6850d4df-9e04-8003-8887-17e9cb6de01e"
+
 ---
 
 # The Tools You Carry
 
-In Materialist Christianity, **The Tools You Carry** is the forensic recognition that your physical capability is your primary technical identity. It identifies that the Kingdom is built by those who are **Ready to Move**.
+ **The Tools You Carry** is the forensic recognition that your physical capability is your primary technical identity. It identifies that the Kingdom is built by those who are **Ready to Move**.
 
-## Forensic Analysis: Physical Capability
+##  Physical Capability
 Wealth is not what you have in the bank; it is what you can **Do with Your Hands**.
 1.  **The Ready Worker**: A man with a truck and a welder is a **Mobile Asset** for the Kingdom. He can synchronize with his neighbors immediately. 
 2.  **The Defense of Skill**: Your skill is a resource that the globalist cannot easily extract unless he "Buys" your time. Protect your skill as your **Primary Infrastructure**. 

@@ -1,16 +1,16 @@
 ---
 title: "Long-term Planning"
 category: "Mechanics"
-core: "BRIDGE Discussion"
+
 status: "Final"
-archival_id: "6822109e-711c-8003-9f8e-d4618222f11a"
+
 ---
 
 # Long-term Planning
 
-In Materialist Christianity, **Long-term Planning** is the forensic recognition that the Kingdom requires a vision beyond the next "Price-Point." It is the technical act of looking down-range to ensure the reproduction of our community.
+ **Long-term Planning** is the forensic recognition that the Kingdom requires a vision beyond the next "Price-Point." It is the technical act of looking down-range to ensure the reproduction of our community.
 
-## Forensic Analysis: Beyond the Spreadsheet
+##  Beyond the Spreadsheet
 The globalist monopoly only thinks in 3-month cycles.
 1.  **The Extraction of the Future**: Globalists hollow out the future by forcing us into debt today. They want us focused on the "Now" of consumption. 
 2.  **The Generational View**: Long-term planning identifies that our sons and daughters need a **Productive World**. We build houses, shops, and trust that will last 100 years. 

@@ -1,5 +1,5 @@
 ---
-uid: "the_church_as_structural_anchor_v3"
+
 title: "The Anchor: Staying Strong Together"
 description: "The technical rule that the church is the place where a neighborhood stores and protects its shared trust and resources."
 category: Foundations
@@ -9,7 +9,7 @@ related: [moral_capital, resurrection_structural, the_nothing]
 
 # The Anchor: Staying Strong Together
 
-The **Church** is the primary place where a neighborhood stores, protects, and uses its **Shared Trust** and the wisdom of past generations. In Materialist Christianity, the church is not defined by its building or its fancy religious words, but by its physical job as a "Structural Anchor"—the place that helps a neighborhood **Come Back to Life** after the big systems around it have failed.
+The **Church** is the primary place where a neighborhood stores, protects, and uses its **Shared Trust** and the wisdom of past generations.  the church is not defined by its building or its fancy religious words, but by its physical job as a "Structural Anchor"—the place that helps a neighborhood **Come Back to Life** after the big systems around it have failed.
 
 ## How the Anchor Works
 

@@ -8,7 +8,7 @@ related: [moral_labor, the_vacuum, resurrection_structural]
 
 # Faith: The Habits that Stay
 
-In Materialist Christianity, **Faith** is the name for the good habits and trust that stay in a neighborhood even after the big organizations (like the Church, the Government, or the Market) have failed. It is not just an "opinion" or a feeling inside your head; it is the physical way people keep doing their **Hard Work** and helping each other during **Hard Times**—the space between when an old system fails and when a new one is built.
+ **Faith** is the name for the good habits and trust that stay in a neighborhood even after the big organizations (like the Church, the Government, or the Market) have failed. It is not just an "opinion" or a feeling inside your head; it is the physical way people keep doing their **Hard Work** and helping each other during **Hard Times**—the space between when an old system fails and when a new one is built.
 
 ## How Faith Works
 

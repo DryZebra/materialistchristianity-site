@@ -1,16 +1,16 @@
 ---
 title: "Materialist Icons and Visuals"
 category: "Mechanics"
-core: "BRIDGE Discussion"
+
 status: "Final"
-archival_id: "68896ceb-0cc8-8331-a269-e46075a135ec"
+
 ---
 
 # Materialist Icons and Visuals
 
-In Materialist Christianity, **Icons** are not mystical objects; they are **physical markers** that remind the community of the **Real**. They represent the technical victory of the **Flesh** over the **Ghost**.
+ **Icons** are not mystical objects; they are **physical markers** that remind the community of the **Real**. They represent the technical victory of the **Flesh** over the **Ghost**.
 
-## The Forensic Analysis: Visual Reminders of the Real
+##  Visual Reminders of the Real
 The human mind needs physical markers to stay focused on the material world.
 1.  **The Icon as Anchor**: In a world full of digital abstractions and globalist narratives, an icon (like a cross or a local symbol of a worker) acts as an anchor for our **Attention (The Forehead)**. it pulls us back from the "Ghost-Theory" to the physical environment. 
 2.  **The Materialist Proof**: An icon is a physical thing—wood, paint, metal. Its existence identifies that our faith is **Material**. It is the refusal to let our beliefs stay "Subjective."

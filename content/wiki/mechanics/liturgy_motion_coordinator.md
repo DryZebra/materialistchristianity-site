@@ -8,7 +8,7 @@ related: [social_synchronization_engine, the_sub_object, moral_labor]
 
 # Shared Rhythms: How We Move Together
 
-In Materialist Christianity, **Shared Rhythms** (technically called Liturgy) are the rules for how a large group of people moves together. They are the "instructions" for **Neighborhood Coordination**—providing the shared timing, language, and habits that allow thousands of different people to coordinate their **Hard Work** as a single community. These rhythms aren't just about what you believe; they are about the reality of working together.
+ **Shared Rhythms** (technically called Liturgy) are the rules for how a large group of people moves together. They are the "instructions" for **Neighborhood Coordination**—providing the shared timing, language, and habits that allow thousands of different people to coordinate their **Hard Work** as a single community. These rhythms aren't just about what you believe; they are about the reality of working together.
 
 ## How Shared Rhythms Work
 

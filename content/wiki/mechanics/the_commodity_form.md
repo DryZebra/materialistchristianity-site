@@ -8,7 +8,7 @@ related: [social_vampirism, moral_capital, trust_as_commodity]
 
 # Turning Real Life into Products: The Commodity Form
 
-In Materialist Christianity, the **Commodity Form** (or simply "Turning Life into a Product") is the process of making something "abstract" so it can be sold. It is the error of taking a real-world relationship, a survival habit, or a neighborhood group and turning it into a unit of money. This is how **Social Vampirism** works—it takes the "Rock" (something useful for survival) and turns it into a "Thing" (something to be sold for profit).
+ the **Commodity Form** (or simply "Turning Life into a Product") is the process of making something "abstract" so it can be sold. It is the error of taking a real-world relationship, a survival habit, or a neighborhood group and turning it into a unit of money. This is how **Social Vampirism** works—it takes the "Rock" (something useful for survival) and turns it into a "Thing" (something to be sold for profit).
 
 ## How Life Becomes a Product
 

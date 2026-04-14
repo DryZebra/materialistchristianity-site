@@ -1,16 +1,16 @@
 ---
 title: "Honesty with Your Tools"
 category: "Mechanics"
-core: "BRIDGE Discussion"
+
 status: "Final"
-archival_id: "6835c91d-e59c-8003-9bb8-9f3e4c419eb2"
+
 ---
 
 # Honesty with Your Tools
 
-In Materialist Christianity, **Honesty with Your Tools** is the forensic recognition that physical reality does not lie. It is the materialist floor for **Integrity**—the rejection of "Hollow Work."
+ **Honesty with Your Tools** is the forensic recognition that physical reality does not lie. It is the materialist floor for **Integrity**—the rejection of "Hollow Work."
 
-## Forensic Analysis: The Truth of the Hardware
+##  The Truth of the Hardware
 A tool (a welder, a saw, a truck) has its own **Forensic Voice**. 
 1.  **Hardware Honesty**: You cannot "Lie" to a piece of metal. If the weld is bad, it will fail. This is the **Logic of the Real**. 
 2.  **The Hollowing of Skill**: The globalist extractor wants you to "Perform" your job through a digital interface that hides the actual result. This is a theft of your integrity. 

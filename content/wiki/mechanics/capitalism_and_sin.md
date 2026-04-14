@@ -1,16 +1,16 @@
 ---
 title: "Capitalism and Sin"
 category: "Mechanics"
-core: "BRIDGE Discussion"
+
 status: "Final"
-archival_id: "6848d255-b4bc-8003-8512-4204e04a4458"
+
 ---
 
 # Capitalism and Sin: The Diagnostic of Deviation
 
-In Materialist Christianity, **Sin** is not a moral "bad feeling" or a minor mistake; it is a **mechanical deviation** from the task of reproducing social life. **Capitalism** is the structural system that encourages this deviation for the benefit of the **Global Extractor** (Mammon).
+ **Sin** is not a moral "bad feeling" or a minor mistake; it is a **mechanical deviation** from the task of reproducing social life. **Capitalism** is the structural system that encourages this deviation for the benefit of the **Global Extractor** (Mammon).
 
-## The Forensic Analysis: Deviation from the Real
+##  Deviation from the Real
 Sin is the materialist act of separating your effort from reality.
 1.  **The Goal of Work**: The human *species essence* is to interact with the world and build the Kingdom of God. This is the **Productive Motion** of the "Redneck" and the "Allied Owner."
 2.  **The Capitalism Diagnostic**: Capitalism is the system that re-orders your work to serve **Equivalence** instead of **Life**. It asks you to deviate from what is needed by your neighbor and instead do what is "profitable" for the extractor. 

@@ -1,14 +1,14 @@
 ---
-uid: "reverse_destiny_v2"
+
 title: "Reverse Destiny"
-diagnostic_id: "teleological_materialism_v2"
-status: "prime_node"
-last_forensic_audit: "2026-04-06"
+
+status: "Final"
+
 ---
 
 # Reverse Destiny
 
-## I. DIAGNOSTIC SUMMARY
+## 
 **Reverse Destiny** is the materialist reframing of teleology. It posits that the future exists not as a metaphysical script or supernatural inevitability, but as a material expectation—history collapsing toward a necessary outcome based on the current motion of all material systems.
 
 ## II. TECHNICAL MECHANICS

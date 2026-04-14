@@ -8,7 +8,7 @@ related: [moral_capital, gmorknicity, the_nothing]
 
 # Social Vampirism: Identifying Common Theft
 
-In Materialist Christianity, **Social Vampirism** is the name we give to systems that steal the resources of a community. It describes any social or economic group that takes the **Trust** and the **Labor-Time** of its neighbors without putting anything back into the neighborhood’s survival. The "Vampire" (usually a globalist monopoly or a predatory government) stays strong by hollowing out the towns it occupies.
+ **Social Vampirism** is the name we give to systems that steal the resources of a community. It describes any social or economic group that takes the **Trust** and the **Labor-Time** of its neighbors without putting anything back into the neighborhood’s survival. The "Vampire" (usually a globalist monopoly or a predatory government) stays strong by hollowing out the towns it occupies.
 
 ## How Vampirism Works
 

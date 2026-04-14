@@ -1,14 +1,14 @@
 ---
 title: "The Mechanism of Finality: Hell"
 category: "Mechanics"
-core: "Forensic Anthropology"
+
 status: "Final"
 tags: ["hell", "separation", "finality", "rupture"]
 ---
 
 # The Mechanism of Finality: Hell
 
-In Materialist Christianity, **Hell** is the mechanical protocol for dealing with **Total Separation**. It is the recognition of a rupture that cannot be repaired and a "Particular" that can no longer be integrated into the "General" (God/The Real).
+ **Hell** is the mechanical protocol for dealing with **Total Separation**. It is the recognition of a rupture that cannot be repaired and a "Particular" that can no longer be integrated into the "General" (God/The Real).
 
 ## The Utility of Separation
 

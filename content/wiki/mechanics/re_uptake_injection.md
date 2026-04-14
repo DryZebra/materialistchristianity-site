@@ -8,7 +8,7 @@ related: [sub_object_resonance, moral_labor]
 
 # Re-uptake Injection: Bringing Life Back to the Neighborhood
 
-In Materialist Christianity, **Re-uptake Injection** is the technical process of re-filling a **Decaying Organization** with new, vital **Real-World Work**. It is the rule for "injecting" reality back into a group (like a church or a union) that has become hollow and ineffective, so it can once again help the neighbors survive.
+ **Re-uptake Injection** is the technical process of re-filling a **Decaying Organization** with new, vital **Real-World Work**. It is the rule for "injecting" reality back into a group (like a church or a union) that has become hollow and ineffective, so it can once again help the neighbors survive.
 
 ## How the Injection Works
 

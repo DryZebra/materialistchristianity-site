@@ -1,9 +1,9 @@
 title: "Bible as Historical Record"
 description: "The Bible is a forensic archive of historical field reports documenting the development and survival of human social technology."
 category: "Mechanics"
-core: "BRIDGE Discussion"
+
 status: "Final"
-archival_id: "68401907-3c18-8003-9728-736787ed96d6"
+
 ---
 
 # Bible as Historical Record

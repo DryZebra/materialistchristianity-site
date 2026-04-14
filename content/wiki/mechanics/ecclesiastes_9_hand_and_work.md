@@ -1,16 +1,16 @@
 ---
 title: "Ecclesiastes 9: Hand and Work"
 category: "Mechanics"
-core: "BRIDGE Discussion"
+
 status: "Final"
-archival_id: "689a04bd-701c-832a-b324-764db5bfaa9c"
+
 ---
 
 # Ecclesiastes 9: Hand and Work
 
-In Materialist Christianity, **Ecclesiastes 9:10** is the forensic definition of the **Human Nature as Worker**. It identifies the materialist reality that labor is the only thing that moves the world.
+ **Ecclesiastes 9:10** is the forensic definition of the **Human Nature as Worker**. It identifies the materialist reality that labor is the only thing that moves the world.
 
-## The Forensic Analysis: The Logic of the Hand
+##  The Logic of the Hand
 "Whatsoever thy hand findeth to do, do it with thy might."
 1.  **The Priority of the Hand**: The "Hand" is the tool of survival. This command identifies that **Action** is the only thing that matters. 
 2.  **The Refusal of Idealism**: The scripture doesn't say "think about what you could do" or "interpret your dream." It says **Do It**. 

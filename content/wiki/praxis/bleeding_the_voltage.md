@@ -3,7 +3,7 @@ title: "Bleeding the Voltage: Handling the Hostile Neighbor"
 description: "The material manual for absorbing kinetic friction (The Posture of the Cross) without structural failure."
 category: "Praxis"
 tags: ["praxis", "neighbor", "conflict", "contract"]
-status: "Load-Bearing"
+status: "Final"
 ---
 
 # Bleeding the Voltage: Handling the Hostile Neighbor

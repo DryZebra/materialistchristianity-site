@@ -1,5 +1,5 @@
 ---
-uid: "canon_as_pressure_v3"
+
 title: "The Weight of the Book"
 description: "How the Bible acts as a physical boundary that keeps a community from falling apart under pressure."
 category: "Mechanics"
@@ -8,7 +8,7 @@ status: "Final"
 
 # The Weight of the Book
 
-In Materialist Christianity, the Bible (The Canon) is not viewed simply as a set of spiritual opinions; it is the mechanical application of **Pressure** to human behavior. It is the compiled record of 2000 years of survival that acts as a containment vessel for a community, preventing them from scattering when things get hard.
+ the Bible (The Canon) is not viewed simply as a set of spiritual opinions; it is the mechanical application of **Pressure** to human behavior. It is the compiled record of 2000 years of survival that acts as a containment vessel for a community, preventing them from scattering when things get hard.
 
 ## The Mechanic of Containment
 

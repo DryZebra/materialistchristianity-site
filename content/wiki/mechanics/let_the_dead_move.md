@@ -1,16 +1,16 @@
 ---
 title: "Let the Dead Move"
 category: "Mechanics"
-core: "BRIDGE Discussion"
+
 status: "Final"
-archival_id: "682511f6-3144-8003-b882-f0ba9152c4ed"
+
 ---
 
 # Let the Dead Move: The Reality of Dead Labor
 
-In Materialist Christianity, history is a pile of **Dead Labor**. It is the roads, the houses, the power lines, and the tools that were built by people who are now in the grave. The "Ghost-Infrastructure" of the world is purely passive; it only moves when it is activated by **Living Labor**. 
+ history is a pile of **Dead Labor**. It is the roads, the houses, the power lines, and the tools that were built by people who are now in the grave. The "Ghost-Infrastructure" of the world is purely passive; it only moves when it is activated by **Living Labor**. 
 
-## The Forensic Analysis: Dead vs. Living Infrastructure
+##  Dead vs. Living Infrastructure
 The world we live in is a museum of dead ritual. 
 1.  **Ghost-Infrastructure**: This is the built environment that has been captured by the **Global Extractor** (Mammon). It includes the hollowed-out towns and the paper-debt that claims ownership of the world's work. 
 2.  **Living Labor**: This is the **Productive Class** (the "Rednecks" and the allied owners). They are the only ones capable of "re-starting" the world. 

@@ -1,5 +1,5 @@
 ---
-uid: "rupture_reentry_v2"
+
 title: "Rupture Re-entry"
 concept: "Reconstruction"
 mechanic: "Building the Brush Arbor"
@@ -15,7 +15,7 @@ Rupture Re-entry is the mechanical process of re-establishing a stable, moral tr
 Recovery does not happen through "hope" or "messaging"; it happens through the **Labor of the Hands**:
 
 1.  **Isolation**: The period of waiting and observation (The Brush Arbor) where the old patterns are tested to see if they can survive without the permissions of the dead state.
-2.  **Re-planting**: Re-introducing the "Portable Seed" (Substrate Independence) of core behaviors—shared trust, mutual aid, and literal survival rituals.
+2.  **Re-planting**: Re-introducing the "Portable Seed" (the ability to survive collapse) of core behaviors—shared trust, mutual aid, and literal survival rituals.
 3.  **Alignment**: Re-aligning with the **Biblical Sediment** to ensure the new structure is built on Rock, not on the sand of the next "Vampire" (Capital).
 4.  **Consolidation**: The transition from improvisation back to structure. The birth of a new, resilient **Co-construct** (Shared Reality).
 

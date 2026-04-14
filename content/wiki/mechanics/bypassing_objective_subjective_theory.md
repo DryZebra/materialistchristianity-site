@@ -2,9 +2,9 @@
 title: "Bypassing Objective Subjective Theory"
 description: "Truth is the physical result of an action, regardless of the internal feelings of the observer or the abstract theories of the designer."
 category: "Mechanics"
-core: "BRIDGE Discussion"
+
 status: "Final"
-archival_id: "67f57825-d6dc-8003-a71d-8200aff45d60"
+
 ---
 
 # Bypassing Objective Subjective Theory

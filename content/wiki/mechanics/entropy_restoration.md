@@ -1,20 +1,27 @@
 ---
-title: "Entropy and Restoration"
+title: "Fixing the Broken Thing"
 category: "Mechanics"
-core: "BRIDGE Discussion"
 status: "Final"
-archival_id: "688152e9-c60c-832c-b480-76dc3f3c7768"
 ---
 
-# Entropy and Restoration: The Work of Christ
+# Fixing the Broken Thing
 
-In Materialist Christianity, **Entropy** (the natural process of decay) is the physical enemy of the Kingdom. **Restoration** is the technical acts of labor that reverse this decay. It is the forensic analysis of Christ as the **Master Fixer**.
+Entropy is the physical law that everything left to itself will eventually break down, rust, and fall apart. Restoration is the back-breaking, physical labor required to reverse that decay. 
 
-## The Forensic Analysis: Decay as Friction
-Everything in the material world tends toward hollowing out.
-1.  **The Extraction of Time**: Entropy is the slow extraction of value from a structure. A house or a road will hollow out and collapse if it is not maintained. 
-2.  **The Restoration Work**: Christ's work is the technical restoration of the **Flesh**. He didn't just "talk about" fixing things; he physically restored the blind, the lame, and the dead. This is the **Resurrection-Motion**. 
-3.  **The Technical Command**: We are commanded to be restorers. This is not a "metaphor." It is the instruction to physically maintain the neighborhood and the community against the decay of the extractor's "Hollow Economy."
+## The Work of Christ
+
+We do not view Christ merely as a spiritual teacher; we view Him as the master restorer. He stepped directly into the rot of a failing society, touched the sick, confronted the corrupt authorities, and did the physical work of fixing the broken thing.
+
+1. **Decay as the Enemy**: The broken axle, the flooded basement, and the fractured neighborhood are all forms of entropy. They are not random bad luck; they are the baseline reality of the earth.
+2. **The Refusal to Walk Away**: The definition of a good man is someone who looks at the disaster and refuses to walk away. He picks up the tools and starts repairing what the entropy destroyed.
+3. **The Proof of the Faith**: Your faith is proven by what you can fix. If your theology is perfect but your roof is leaking and your neighbor is starving, your faith is a lie.
 
 ## Summary
-The **Restoration Diagnostic** identify that the Kingdom is built on maintenance and repair. To be a Materialist Christian is to recognize that we are the technical support for the world's survival.
+
+The Kingdom is not built by standing around talking about how bad things are. It is built by grabbing a shovel and pushing back the decay one square foot at a time.
+
+---
+
+### Related Content
+- [[moral_labor]] — The energy required to fix it.
+- [[christ_in_daily_labor]] — Meeting God in the dirt.

@@ -1,16 +1,16 @@
 ---
 title: "Protestant Catholic Split Forensics"
 category: "Mechanics"
-core: "BRIDGE Discussion"
+
 status: "Final"
-archival_id: "68495267-47ec-8003-ad14-9cb9a8d25015"
+
 ---
 
 # Protestant Catholic Split: The Forensics of Division
 
-In Materialist Christianity, the **Protestant-Catholic Split** is not primarily a theological debate; it is a **forensic diagnostic** of the division of the productive class. It identifies the mechanical way that **Mammon** (the system of equivalence) uses "Ghost-Structures" to prevent unified resistance.
+ the **Protestant-Catholic Split** is not primarily a theological debate; it is a **forensic diagnostic** of the division of the productive class. It identifies the mechanical way that **Mammon** (the system of equivalence) uses "Ghost-Structures" to prevent unified resistance.
 
-## The Forensic Analysis: Competing Ghost-Structures
+##  Competing Ghost-Structures
 The historical split has been hollowed out into a competition of symbols.
 1.  **The Catholic Structure**: Often used as a centralized "Ghost" of authority and tradition. It can capture the **Forehead (Metapon)** of the productive class by redirecting their attention to the performance of rituals that have been hollowed out by the extractor. 
 2.  **The Protestant Structure**: Often used as an individualized "Ghost" of subjective belief. It can capture the **Forehead** by redirecting attention to private feelings and personal success, allowing the extractor to command the material world. 

@@ -1,5 +1,5 @@
 ---
-uid: "planning_for_the_future_v3"
+
 title: "Planning for the Future: The Long View"
 status: "Final"
 category: "Mechanics"
@@ -7,7 +7,7 @@ category: "Mechanics"
 
 # Planning for the Future: The Long View
 
-In Materialist Christianity, **Planning for the Future** is the physical ability to see past the immediate crisis or the next paycheck. Instead of living merely in the "now" (which is the goal of consumer debt and advertising), the worker must build infrastructure that lasts for their children.
+ **Planning for the Future** is the physical ability to see past the immediate crisis or the next paycheck. Instead of living merely in the "now" (which is the goal of consumer debt and advertising), the worker must build infrastructure that lasts for their children.
 
 ## Moving Past the Immediate
 

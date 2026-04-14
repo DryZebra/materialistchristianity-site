@@ -3,7 +3,7 @@ title: "The Apprentice Protocol: Applied Structural Succession"
 description: "How moral labor and 'Honesty with the Tools' is transferred from journeyman to apprentice without knowledge decay."
 category: "Praxis"
 tags: ["praxis", "apprenticeship", "succession", "labor"]
-status: "Load-Bearing"
+status: "Final"
 ---
 
 # The Apprentice Protocol: Applied Structural Succession

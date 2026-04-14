@@ -1,15 +1,15 @@
 ---
-uid: "money_mammon_v2"
+
 title: "Money, Mammon, and Christ"
-core: "Materialist"
+
 status: "Final"
 ---
 
 # Money, Mammon, and Christ: The Diagnostic of Price
 
-In Materialist Christianity, **Money** is not a real asset; it is **Dead Information**. It is the signal of labor that has been hollowed out and turned into a price-point. **Mammon** is the structural god of this system.
+ **Money** is not a real asset; it is **Dead Information**. It is the signal of labor that has been hollowed out and turned into a price-point. **Mammon** is the structural god of this system.
 
-## The Forensic Analysis: Prices vs. Productive Labor
+##  Prices vs. Productive Labor
 The split between the Kingdom of God and the Kingdom of Mammon (Matthew 6:24) is a technical irreconcilability:
 1.  **Serving Christ (The Real)**: This is the use of tools and community-trust to fix the neighbor's roof or feed the town. It is the work of **Being Human**. This labor has no "equivalent price" because it reproduces social life directly. 
 2.  **Serving Mammon (The Price)**: This is looking at the world through **Credit Cards**, **Debt**, and **Interest**. When you serve Mammon, you prioritize the **Price-Signal** over the **Life-Signal**. You treat your labor as a spreadsheet entry.

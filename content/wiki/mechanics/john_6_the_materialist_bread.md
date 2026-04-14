@@ -1,15 +1,15 @@
 ---
-uid: "john_6_v2"
+
 title: "John 6: The Bread of Life"
-core: "Materialist"
+
 status: "Final"
 ---
 
 # John 6: The Bread of Life
 
-In Materialist Christianity, the "Bread of Life" is the materialist alternative to the globalist market. It is a forensic diagnostic of the sustenance required for the productive class—the food that exists outside the extraction-cycle of the globalists.
+ the "Bread of Life" is the materialist alternative to the globalist market. It is a forensic diagnostic of the sustenance required for the productive class—the food that exists outside the extraction-cycle of the globalists.
 
-## The Forensic Analysis: Real Sustenance vs. Hollowed-Out Products
+##  Real Sustenance vs. Hollowed-Out Products
 The "Bread" is the technical proof of a community's own metabolism.
 1.  **Hollowed-Out Products**: These are the goods produced by globalist monopolies. They are built with cheap, extracted labor and designed to be sold on **Credit Cards** and through **Debt**. You buy them, but they don't provide lasting survival for your community. 
 2.  **The Living Bread (The Flesh)**: Christ identifies himself as the bread "which cometh down from heaven." In a materialist sense, this is the **Productive Energy** that sustains a community. It is the materialist foundation that allows the "Redneck" population to keep moving even when the global supply-lines fail.

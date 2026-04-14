@@ -1,9 +1,9 @@
 title: "The Book That Resurrects"
 description: "Scripture is a technical manual of survival protocols that 'resurrects' the historical successes of past generations into the active labor of the current community."
 category: "Mechanics"
-core: "BRIDGE Discussion"
+
 status: "Final"
-archival_id: "683a1bdb-86cc-8003-bc2f-c035299c52c9"
+
 ---
 
 # The Book That Resurrects
@@ -11,7 +11,7 @@ archival_id: "683a1bdb-86cc-8003-bc2f-c035299c52c9"
 Scripture is a technical manual of survival protocols that "resurrects" the historical successes of past generations into the active labor of the current community.
 
 ## The Technical Reality: How it Works
-In Materialist Christianity, "Resurrection" is the restoration of **Functional Motion**. The Bible is the "Book That Resurrects" because it preserves the exact mechanics of how a community survives the death of an empire (e.g., the transition from Rome to the Middle Ages). 
+ "Resurrection" is the restoration of **Functional Motion**. The Bible is the "Book That Resurrects" because it preserves the exact mechanics of how a community survives the death of an empire (e.g., the transition from Rome to the Middle Ages). 
 
 When a 15-man shop or a neighborhood starts following the **Sabbath Protocol** (preventing labor-exhaustion) or the **Final Audit Protocol** (Matthew 25), they are "Resurrecting" a social structure that has been proven to work throughout history. The Book is the **Archival Backup** for human civilization. It brings the "Dead Data" of past survivors back into the functional hands of current workers.
 

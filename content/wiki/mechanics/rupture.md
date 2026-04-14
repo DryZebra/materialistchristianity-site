@@ -1,5 +1,5 @@
 ---
-uid: "rupture_v3"
+
 title: "Total Breakdown: When Things Fall Apart"
 description: "The technical rule for the moment a system or a group stops working and is forced to face the real world and start over."
 category: Foundations
@@ -9,7 +9,7 @@ related: [the_sub_object, gmorknicity, the_vacuum, resurrection_structural]
 
 # Total Breakdown: When Things Fall Apart
 
-In Materialist Christianity, a **Total Breakdown** (technically called a Rupture) is the sudden, physical failure of a system or a group that has been taken over by others. It is the moment when all the fancy words and empty promises can no longer hide the fact that the system is not actually helping anyone survive.
+ a **Total Breakdown** (technically called a Rupture) is the sudden, physical failure of a system or a group that has been taken over by others. It is the moment when all the fancy words and empty promises can no longer hide the fact that the system is not actually helping anyone survive.
 
 ## How a Breakdown Happens
 

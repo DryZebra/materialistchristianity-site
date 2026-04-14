@@ -1,20 +1,28 @@
 ---
-title: "Everything as a Price-Point"
+title: "The Price Tag on Life"
+description: "The moment when real life is turned into a consumer product."
 category: "Mechanics"
-core: "BRIDGE Discussion"
 status: "Final"
-archival_id: "6842d4df-9e04-8003-8887-17e9cb6de09b"
 ---
 
-# Everything as a Price-Point (Commodity Form)
+# The Price Tag on Life
 
-In Materialist Christianity, the "Commodity Form" is the forensic diagnosis of the moment when **Real Life** is turned into a **Price-Point**. It is the analytical tool for detecting the extraction of value from the "Flesh."
+There is a moment in every dying culture when real, physical life is turned into a consumer product with a price tag. This happens when Wall Street and global corporations stop building things that last, and instead figure out how to charge you rent for simply existing.
 
-## Forensic Analysis: Rebranding Life
-The globalist monopoly wants to turn everything into a "Sale." 
-1.  **Hollowing the Neighbor**: When you look at your neighbor and see a "Customer" or an "Employee," the social trust is being extracted. The relationship has been turned into a **Price-Signal (Mammon)**. 
-2.  **The Extraction of Value**: A globalist doesn't care if a house is good; he only cares if it can be sold. This is the **Commodity Form**. 
-3.  **The Materialist Fix**: To fix the neighbor's roof for free is to reject the price-point. It is the technical act of **Restoring the Real**.
+## Recognizing the Trap
+
+The globalist system expands by turning every free, normal human activity into something you have to buy.
+
+-   **The Death of the Neighborhood**: Instead of walking down the street to borrow a tool from your neighbor, you are forced to rent one from a corporate mega-store. You lose the relationship and the money simultaneously.
+-   **Monetizing Attention**: Even your private thoughts and free time are turned into a commodity. Social media algorithms harvest your anger and your attention, selling it to advertisers while leaving you exhausted and angry.
+-   **The Pushback**: The only way to survive this is to recognize when a piece of your life is being slapped with a price tag, and physically opt out. Build the thing yourself. Fix it yourself. Help your neighbor for free. 
 
 ## Summary
-The **Price-Point Diagnostic** identifies the extraction. To be a Materialist Christian is to prioritize the **Flesh and the Need** over the globalist's price.
+
+When you help your neighbor without asking for a corporate contract, you break the power of the extractor. The Kingdom is built on trust, not on turning every interaction into a financial transaction.
+
+---
+
+### Related Content
+- [[capital_as_vampire]] — The entity doing the extracting.
+- [[money_mammon_and_christ]] — The reality of credit and debt.

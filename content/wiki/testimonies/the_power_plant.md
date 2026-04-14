@@ -7,7 +7,7 @@ tags: ["power-plant", "momentum", "coordination", "strength"]
 
 # The Power Plant: The Source of Community Strength
 
-In Materialist Christianity, a community is not just a group of people who share the same beliefs; it is an energy generator. It survives not through "hope," but through the systematic coordination of its people. The **Power Plant** is the forensic name for the social structures—churches, local shops, and families—that turn our **Labor** into a single, high-strength motion for survival.
+ a community is not just a group of people who share the same beliefs; it is an energy generator. It survives not through "hope," but through the systematic coordination of its people. The **Power Plant** is the forensic name for the social structures—churches, local shops, and families—that turn our **Labor** into a single, high-strength motion for survival.
 
 ## The Center of the Neighborhood
 

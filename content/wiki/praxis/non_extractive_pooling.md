@@ -3,7 +3,7 @@ title: "Non-Extractive Pooling: Material Mutual Aid"
 description: "The mechanical defense against Capital extraction: building local trust capital through shared resources."
 category: "Praxis"
 tags: ["praxis", "mutual-aid", "pooling", "capital"]
-status: "Load-Bearing"
+status: "Final"
 ---
 
 # Non-Extractive Pooling: Material Mutual Aid

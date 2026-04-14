@@ -1,16 +1,16 @@
 ---
 title: "Jesus Walking with Adam: Materialist Continuity"
 category: "Mechanics"
-core: "BRIDGE Discussion"
+
 status: "Final"
-archival_id: "68797781-d710-8003-81c2-178b6705911a"
+
 ---
 
 # Jesus Walking with Adam: Materialist Continuity
 
-In Materialist Christianity, there is a technical continuity between the first worker (Adam) and the Master of the Real (Christ). It identifies that the focus of the faith has always been the **Flesh and the Work**.
+ there is a technical continuity between the first worker (Adam) and the Master of the Real (Christ). It identifies that the focus of the faith has always been the **Flesh and the Work**.
 
-## The Forensic Analysis: The First Job
+##  The First Job
 Adam was a worker before he was anything else.
 1.  **The Job in the Garden**: Adam's first command was to "dress and keep" the garden. This is the **Species Essence**—to interact with and maintain the environment. This labor was not a "Curse"; it was the original metabolism of the human. 
 2.  **The Master of the Real**: Christ is the fulfillment of this vision. He is the **Perfect Worker** who restores the world by hand. He identifies that our focus must remain on the **Physicality of Survival**. 

@@ -1,16 +1,16 @@
 ---
 title: "Lot’s Wife: The Danger of Idealistic Drift"
 category: "Mechanics"
-core: "BRIDGE Discussion"
+
 status: "Final"
-archival_id: "6846ffdc-9e04-8003-b60a-75e867dbd10b"
+
 ---
 
 # Lot’s Wife: The Danger of Idealistic Drift
 
-In Materialist Christianity, **Lot’s Wife** is the forensic archetype of the **Capture of the Metapon**. She identifies the materialist danger of "looking back" at the hollowed-out city (The Ghost-Structure) and consequently becoming **Dead Matter**.
+ **Lot’s Wife** is the forensic archetype of the **Capture of the Metapon**. She identifies the materialist danger of "looking back" at the hollowed-out city (The Ghost-Structure) and consequently becoming **Dead Matter**.
 
-## The Forensic Analysis: The Backward Glance
+##  The Backward Glance
 The story of Sodom and Gomorrah is a diagnostic of systemic collapse. 
 1.  **The Hollowed-Out City**: Sodom was a system of extraction that had become **Systemically Obsolete**. It was a "Ghost-Architecture" that no longer reproduced life. 
 2.  **The Command to Move**: The angels (The Signal) commanded the family to move into the **Real World** (The Mountains). 

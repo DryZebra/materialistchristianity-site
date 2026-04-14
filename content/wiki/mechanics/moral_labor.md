@@ -1,8 +1,8 @@
 ---
 title: "Moral Labor"
 category: "Mechanics"
-status: "Williamized"
-archival_id: "688419ef-a170-8326-b866-2f3e050c5029"
+status: "Final"
+
 ---
 
 # Moral Labor

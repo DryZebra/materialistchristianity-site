@@ -2,14 +2,14 @@
 title: "The Sub-Object: Vector of Consequence"
 description: "The technical name for the resonance field of labor and memory that compels structural behavior."
 category: "Mechanics"
-core: "Sub-Object Resonance"
+
 status: "Final"
 tags: ["sub-object", "resonance", "consequence", "vector"]
 ---
 
 # The Sub-Object: Vector of Consequence
 
-In Materialist Christianity, a **Sub-Object** is not a "collective identity" or a group label. It is the technical name for the **Resonance Field** of labor, memory, and contradiction that surrounds an object, a person, or a ritual. 
+ a **Sub-Object** is not a "collective identity" or a group label. It is the technical name for the **Resonance Field** of labor, memory, and contradiction that surrounds an object, a person, or a ritual. 
 
 It is the **Invisible Architecture of Pressure** that makes people move toward shared survival even when no one is watching.
 

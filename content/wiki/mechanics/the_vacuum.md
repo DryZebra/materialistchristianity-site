@@ -1,5 +1,5 @@
 ---
-uid: "the_vacuum_v3"
+
 title: "The Empty Space: The Time Between"
 description: "The technical rule for the period after an old system fails but before a new neighborhood group has been fully built."
 category: Foundations
@@ -9,7 +9,7 @@ related: [rupture, resurrection_structural, faith_as_residue]
 
 # The Empty Space: The Time Between
 
-In Materialist Christianity, the **Empty Space** (technically called the Vacuum) is the time between when an old, broken system fails (a **Total Breakdown**) and when a new, healthy one is born (**Coming Back to Life**). It is the "Wilderness" where people are still working and moving, but they are no longer being organized by a shared "We." In this empty space, the "Ghost" of the old system might still demand that you follow its rules, but those rules no longer provide any **Real-World Help**.
+ the **Empty Space** (technically called the Vacuum) is the time between when an old, broken system fails (a **Total Breakdown**) and when a new, healthy one is born (**Coming Back to Life**). It is the "Wilderness" where people are still working and moving, but they are no longer being organized by a shared "We." In this empty space, the "Ghost" of the old system might still demand that you follow its rules, but those rules no longer provide any **Real-World Help**.
 
 ## How the Empty Space Works
 

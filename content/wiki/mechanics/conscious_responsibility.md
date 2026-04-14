@@ -1,5 +1,5 @@
 ---
-uid: "conscious_responsibility_v3"
+
 title: "Conscious Responsibility"
 concept: "Causal Authorship"
 mechanic: "Consequence Ownership"

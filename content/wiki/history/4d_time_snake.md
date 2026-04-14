@@ -7,7 +7,7 @@ tags: ["time", "trajectory", "consequence", "the-real"]
 
 # The Path of Your Actions: The Persistence of Who You Are
 
-In Materialist Christianity, a person—or a neighborhood—is not just a single "point" in time. We don't exist only in the present moment. Instead, we are the **Physical Result** of our entire history of labor, choices, and consequences from the beginning to the end. This is the material reality of who we are—the **Structural Self**.
+ a person—or a neighborhood—is not just a single "point" in time. We don't exist only in the present moment. Instead, we are the **Physical Result** of our entire history of labor, choices, and consequences from the beginning to the end. This is the material reality of who we are—the **Structural Self**.
 
 ## How the Path Works
 

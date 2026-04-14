@@ -1,16 +1,16 @@
 ---
 title: "The Vampire (Extraction)"
 category: "Mechanics"
-core: "BRIDGE Discussion"
+
 status: "Final"
-archival_id: "6825c91d-e59c-8003-9bb8-9f3e4c419eb2"
+
 ---
 
 # The Vampire (Extraction)
 
-In Materialist Christianity, **The Vampire** is the forensic archetype of the extractive layer. It identifies any system that pulls "Flesh" (life and labor) from the neighborhood without returning anything real.
+ **The Vampire** is the forensic archetype of the extractive layer. It identifies any system that pulls "Flesh" (life and labor) from the neighborhood without returning anything real.
 
-## Forensic Analysis: Sucking the Town Dry
+##  Sucking the Town Dry
 Globalist finance is the primary vampire.
 1.  **Interests and Fees**: Every dollar of interest paid to a global bank is a drop of "Blood" pulled from your town. It is **Non-Productive Extraction**. 
 2.  **The Hollowing Out**: A community under the vampire's command becomes "Hollow." The people work more, but they have less. They are tired, distracted, and dependent. 

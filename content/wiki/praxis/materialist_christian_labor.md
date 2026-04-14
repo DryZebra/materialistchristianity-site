@@ -2,7 +2,7 @@
 title: "Materialist Christian Labor (Class Consciousness)"
 description: "The forensic status of human exertion within the coordination machine. The Cross as the ultimate Refusal of Labor."
 category: "Praxis"
-status: "Load-Bearing"
+status: "Final"
 ---
 
 # Materialist Christian Labor

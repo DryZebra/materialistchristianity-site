@@ -1,14 +1,14 @@
 ---
 title: "Atheism and Historical Truth"
 category: "Mechanics"
-core: "BRIDGE Discussion"
+
 status: "Final"
-archival_id: "68659335-e1e8-8003-8f4b-1a8da3fb368c"
+
 ---
 
 # Atheism and Historical Truth: The Forensic Floor
 
-In Materialist Christianity, the **Atheist Axiom** is not a denial of God; it is a **forensic diagnostic** of historical reality. It is the materialist "floor" that allows the productive class to identify the real mechanics of history beneath the layers of idealistic cover-ups.
+ the **Atheist Axiom** is not a denial of God; it is a **forensic diagnostic** of historical reality. It is the materialist "floor" that allows the productive class to identify the real mechanics of history beneath the layers of idealistic cover-ups.
 
 ## The Forensic Split: Fact vs. Interpretation
 The Atheist Axiom is the technical tool for identifying the **Ghost-Theory** of history.

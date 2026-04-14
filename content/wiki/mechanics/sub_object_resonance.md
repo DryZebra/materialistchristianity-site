@@ -8,7 +8,7 @@ related: [the_sub_object, moral_labor]
 
 # Neighborhood Trust: The Strength of the "We"
 
-In Materialist Christianity, **Neighborhood Trust** (technically called Sub-Object Resonance) is the strength created when people work together. It is the power generated when neighbors align their **Real Labor** around a shared goal (the "We"). This trust is the way a community converts individual efforts into a single, unified force for survival.
+ **Neighborhood Trust** (technically called Sub-Object Resonance) is the strength created when people work together. It is the power generated when neighbors align their **Real Labor** around a shared goal (the "We"). This trust is the way a community converts individual efforts into a single, unified force for survival.
 
 ## How Trust Works
 

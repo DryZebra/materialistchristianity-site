@@ -8,7 +8,7 @@ related: [sub_object_resonance, reality_as_consequence]
 
 # Structural Reflection: The Mirror of the Neighborhood
 
-In Materialist Christianity, **Structural Reflection** is the name for how a community shows you the results of your own actions. It is the technical rule that allows you to see your own behavior reflected in the condition of the people around you. This is a vital check-and-balance for a strong neighborhood. Without it, a community stays blind to its own problems until everything eventually breaks down.
+ **Structural Reflection** is the name for how a community shows you the results of your own actions. It is the technical rule that allows you to see your own behavior reflected in the condition of the people around you. This is a vital check-and-balance for a strong neighborhood. Without it, a community stays blind to its own problems until everything eventually breaks down.
 
 ## How the Reflection Works
 

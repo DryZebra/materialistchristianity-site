@@ -8,7 +8,7 @@ related: [rupture, the_vacuum, motion_as_reality]
 
 # Resurrection: Coming Back to Life
 
-In Materialist Christianity, **Resurrection** (technically called Structural Resurrection) is a natural way for a group to restart. It is not just a one-time miracle; it is the physical return of a community’s **Rules and Habits** when they are needed for survival. It happens after a fake or broken system (like a globalist corporation) has been cleared away by a **Total Breakdown**.
+ **Resurrection** (technically called Structural Resurrection) is a natural way for a group to restart. It is not just a one-time miracle; it is the physical return of a community’s **Rules and Habits** when they are needed for survival. It happens after a fake or broken system (like a globalist corporation) has been cleared away by a **Total Breakdown**.
 
 ## How Resurrection Works
 

@@ -1,9 +1,9 @@
 ---
 title: "What You Carry"
 category: "Mechanics"
-core: "BRIDGE"
-status: "Draft"
-archival_id: "6822483b-270c-8003-91de-2b93c3c9c0a6"
+
+status: "Final"
+
 ---
 
 # What You Carry

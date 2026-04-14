@@ -1,15 +1,15 @@
 ---
-uid: "capital_as_vampire_v2"
+
 title: "Capital as Vampire"
-core: "Materialist"
+
 status: "Final"
 ---
 
 # Capital as Vampire: The Diagnostic of Extraction
 
-In Materialist Christianity, calling capital a "vampire" is not a moral insult or a poetic metaphor; it is a **forensic diagnostic** of how the system of global extraction (**Mammon**) actually functions. It describes a structure that has no independent "Life" and can only achieve motion by hollowing out the real, productive work of the nation.
+ calling capital a "vampire" is not a moral insult or a poetic metaphor; it is a **forensic diagnostic** of how the system of global extraction (**Mammon**) actually functions. It describes a structure that has no independent "Life" and can only achieve motion by hollowing out the real, productive work of the nation.
 
-## The Forensic Analysis: Living vs. Dead Labor
+##  Living vs. Dead Labor
 The "Vampiric" nature of extraction is the technical reason for the hollowing out of communities.
 1.  **Living Labor**: This is the "Working Class" in the materialist sense—the people whose physical and intellectual effort actually reproduces social life. They provide the living motion that builds, repairs, and maintains the world.
 2.  **Dead Labor (The Vampire)**: Karl Marx identified capital as "Dead Labor" that, vampire-like, only lives by sucking living labor. In the **Professional Materialist** lens, this is accurate. **Mammon** is a pile of "Ghost-Labor" (accumulated profit, credit, debt) that commands the living to move for its benefit.

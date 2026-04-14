@@ -8,7 +8,7 @@ related: [sub_object_resonance, the_nothing, moral_labor]
 
 # The Hardness of Heart: Protecting the Neighborhood
 
-In Materialist Christianity, **Hardness of Heart** is a technical way of protecting a community. It is not a "bad feeling"; it is a hard outer layer that a person or a neighborhood uses to keep out **Empty Talk** and fake promises. It is the practice of refusing to let outside systems take the **Trust** and the **Work** of your local people.
+ **Hardness of Heart** is a technical way of protecting a community. It is not a "bad feeling"; it is a hard outer layer that a person or a neighborhood uses to keep out **Empty Talk** and fake promises. It is the practice of refusing to let outside systems take the **Trust** and the **Work** of your local people.
 
 ## How Hardening Works
 

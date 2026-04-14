@@ -1,16 +1,16 @@
 ---
 title: "The Materialist Awakening"
 category: "Mechanics"
-core: "BRIDGE Discussion"
+
 status: "Final"
-archival_id: "68815cf5-6c44-832a-809b-abbdf26a7660"
+
 ---
 
 # The Materialist Awakening: The Moment of the Real
 
-In Materialist Christianity, the **Awakening** is the moment a worker or an "Allied Owner" realizes that the faith was built on **Labor and Survival**, not on the "Ghost-Theories" of the liberal church. 
+ the **Awakening** is the moment a worker or an "Allied Owner" realizes that the faith was built on **Labor and Survival**, not on the "Ghost-Theories" of the liberal church. 
 
-## The Forensic Analysis: The Shift in Focus
+##  The Shift in Focus
 The awakening is the technical shift in your **Forehead (Focus)**.
 1.  **The Hollowing Out**: Before the awakening, people focus on the "Ghost" of private feelings and globalist narratives. They are easily managed and extracted. 
 2.  **The Pulse of the Real**: The awakening occurs when you recognize the **Flesh of the Real**. You see that the Kingdom is in the 15-man shop, the local street, and the neighbor’s needs. 

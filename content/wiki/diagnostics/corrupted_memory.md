@@ -1,5 +1,5 @@
 ---
-uid: "corrupted_memory_v3"
+
 title: "Corrupted Memory"
 concept: "The Hollowing of the Historical Record"
 mechanic: "Social Disruption"

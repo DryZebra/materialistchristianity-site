@@ -8,7 +8,7 @@ related: [motion_as_reality, consequence_as_truth]
 
 # Reality As Consequence: How We Prove What is Real
 
-In Materialist Christianity, reality is not defined by "ideas" or claims, but by **consequence**. A rule, an idea, or a group is "Real" only to the extent that it produces a physical result in the world. Truth is a simple feedback loop: if a group claims to help people survive but only takes their money, then the "help" is a lie and the "theft" is the reality.
+ reality is not defined by "ideas" or claims, but by **consequence**. A rule, an idea, or a group is "Real" only to the extent that it produces a physical result in the world. Truth is a simple feedback loop: if a group claims to help people survive but only takes their money, then the "help" is a lie and the "theft" is the reality.
 
 ## How We Measure Reality
 

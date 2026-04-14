@@ -1,26 +1,27 @@
 ---
-title: "Christian Materialism Explained"
+title: "What is Materialist Christianity?"
 category: "Mechanics"
-core: "BRIDGE Discussion"
 status: "Final"
-archival_id: "68a212ff-5ce4-8331-88d7-16064f43110c"
 ---
 
-# Christian Materialism Explained
+# What is Materialist Christianity?
 
-**Christian Materialism** is the recovery of the physical and social reality of the Christian faith. It is not an academic mission; it is the technical recognition of the **Kingdom of God** as the infrastructure of the productive class.
+Materialist Christianity is not a new religion or a spiritual philosophy. It is the practical recovery of the physical, working-class roots of the Christian faith. It is the recognition that the Kingdom of God is not an imaginary place in the clouds; it is the physical survival network of the productive class.
 
-## The Forensic Analysis: What We Do
-We analyze the world as it really is.
-1.  **We Identify the Extractor**: We recognize that globalist monopolies are hollow systems that live off our sweat and skill. 
-2.  **We Identify the Worker**: We recognize the "Redneck" population and the allied shop owners as the real engine of the nation. 
-3.  **We Reclaim the Real**: We choose the **Flesh** (real work, neighborhood trust, physical tools) over the **Ghost** (credit cards, debt, globalist narratives).
+## What We Do
 
-## The Technical Reality: Normal Faith
-This is a normal faith for normal people.
-- It is the belief that the Kingdom of God is a **Physical Reality** you build by hand. 
-- it is the belief that helping each other out is the only technical way to survive a crisis.
-- it is the belief that Christ is not a "Feeling" in your head, but the **Master of the Real** who commands us to take care of the neighbor.
+We analyze the world exactly as it is:
 
-## Summary
-**Christian Materialism** is the diagnostic of survival. To be a Materialist Christian is to live in the **Real World**, build the **Real Kingdom**, and tell the **Globalist Ghost** to pack its bags.
+-   **Physical Action Over Words**: We do not care about a man's feelings or his spiritual opinions. We look at what he actually builds and the physical consequences of his actions. If your theology doesn't feed your neighbor or protect your town, it is completely useless.
+-   **Identifying the Parasite**: We recognize that the global financial and corporate system (the Extractor) is actively draining the life, the attention, and the resources from our hometowns. 
+-   **The 15-Man Shop**: The solution to this extraction is not protesting in the streets or waiting for a politician. The solution is fixing the broken things directly with the men in your neighborhood. We drop the political nonsense and just start building the well.
+
+## Conclusion
+
+Materialist Christianity takes the commands of Christ absolutely literally in the physical world. It focuses on debt, tools, labor, and hardware, knowing that a strong, unbroken community is the only way to survive the coming collapse.
+
+---
+
+### Related Content
+- [[everything_price_point]] — Why the system relies on extracting your life.
+- [[engaging_boys_the_daniel_method]] — How to raise young men to be strong enough to resist.

@@ -8,7 +8,7 @@ related: [reality_as_consequence, moral_labor, resurrection_structural]
 
 # Action is Real: What You Do is the Truth
 
-In Materialist Christianity, reality is defined by **Action**. A thing is "Real" only as long as it is moving or causing something to happen in the real world. Empty traditions, dead habits, and fancy corporate branding are "dead"—they might take up space and demand your money, but they do not produce anything that helps you or your neighbors stay alive. To be "Real" is to have a physical effect on history.
+ reality is defined by **Action**. A thing is "Real" only as long as it is moving or causing something to happen in the real world. Empty traditions, dead habits, and fancy corporate branding are "dead"—they might take up space and demand your money, but they do not produce anything that helps you or your neighbors stay alive. To be "Real" is to have a physical effect on history.
 
 ## How Action Measures Reality
 

@@ -8,7 +8,7 @@ related: [consequence_as_truth, structural_reflection]
 
 # The Final Audit: The Test of Results
 
-In Materialist Christianity, the **Final Audit** is the physical confirmation that a community is strong. It is the moment when all the "talk" is stripped away and the neighborhood is forced to stand on its own. It is the realization that this wiki is not a collection of "ideas," but a set of rules for **Neighborhood Coordination** that can actually keep people alive when the globalist world fails.
+ the **Final Audit** is the physical confirmation that a community is strong. It is the moment when all the "talk" is stripped away and the neighborhood is forced to stand on its own. It is the realization that this wiki is not a collection of "ideas," but a set of rules for **Neighborhood Coordination** that can actually keep people alive when the globalist world fails.
 
 ## How the Audit Works
 

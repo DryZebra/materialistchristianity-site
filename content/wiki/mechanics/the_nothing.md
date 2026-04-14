@@ -8,7 +8,7 @@ related: [the_vacuum, gmorknicity, moral_labor]
 
 # The Nothing: The Rule of Emptiness
 
-In Materialist Christianity, **The Nothing** is the technical name for being completely cut off from the real world. It is not just an empty space; it is an active state where a person is forced to work but receives zero benefit for their own life or their neighborhood. It is the final stage of being **Hollowed Out**, where globalist "ghosts" (like debt, brands, and empty promises) have completely replaced real life, work, and cooperation.
+ **The Nothing** is the technical name for being completely cut off from the real world. It is not just an empty space; it is an active state where a person is forced to work but receives zero benefit for their own life or their neighborhood. It is the final stage of being **Hollowed Out**, where globalist "ghosts" (like debt, brands, and empty promises) have completely replaced real life, work, and cooperation.
 
 ## How the Nothing Works
 

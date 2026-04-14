@@ -7,7 +7,7 @@ tags: ["bible", "history", "trust", "survival"]
 
 # The Bible as the Record of Our History
 
-In Materialist Christianity, the Bible is not just a book of ideas or "spiritual" stories; it is the **Record of Our History**. It is the compressed result of thousands of years of human work and survival. Each story is a physical "receipt" of what worked and what failed when our ancestors were under pressure.
+ the Bible is not just a book of ideas or "spiritual" stories; it is the **Record of Our History**. It is the compressed result of thousands of years of human work and survival. Each story is a physical "receipt" of what worked and what failed when our ancestors were under pressure.
 
 ## How the Record Works
 

@@ -1,16 +1,16 @@
 ---
 title: "Now What? Living It"
 category: "Mechanics"
-core: "BRIDGE Discussion"
+
 status: "Final"
-archival_id: "6841e590-8944-8003-a5d8-95a87a8f2767"
+
 ---
 
 # Now What? Living It: The Technical Reclaim
 
-In Materialist Christianity, the transition from **theory** to **practice** is not a "spiritual growth." It is a technical reclaim of your **Species Essence**. It is the moment you stop paying attention to the extractor’s ghost-logic and start moving within the **Flesh of the Real**. 
+ the transition from **theory** to **practice** is not a "spiritual growth." It is a technical reclaim of your **Species Essence**. It is the moment you stop paying attention to the extractor’s ghost-logic and start moving within the **Flesh of the Real**. 
 
-## The Forensic Analysis: Transition from Ghost to Flesh
+##  Transition from Ghost to Flesh
 Living the faith is a professional forensic effort.
 1.  **The Withdrawal of Attention (The Forehead)**: The first step is to pull your **Metapon** (Attention) away from the extractor's "Idealistic Performance." Stop chasing the metrics and price-signals of **Mammon**. 
 2.  **The Reclamation of the Hand**: Return your **Right Hand** (Work) to its proper task. Apply your labor only to the reproduction of social life and the protection of your community. 

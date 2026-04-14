@@ -1,14 +1,14 @@
 ---
 title: "The Unified Manifestation of Care: Prayer"
 category: "Mechanics"
-core: "Social Synchronization"
+
 status: "Final"
 tags: ["prayer", "biomechanics", "synchronization", "simulated-other"]
 ---
 
 # The Unified Manifestation of Care: Prayer
 
-In Materialist Christianity, **Prayer** is the forensic recognition of the biomechanical and social utility of voicing thoughts to an internalized "Other." It is not a metaphysical request for magic; it is a technical protocol for the **Social Reproduction of Belonging**.
+ **Prayer** is the forensic recognition of the biomechanical and social utility of voicing thoughts to an internalized "Other." It is not a metaphysical request for magic; it is a technical protocol for the **Social Reproduction of Belonging**.
 
 ## The Biomechanical Utility: Voicing the Internal
 

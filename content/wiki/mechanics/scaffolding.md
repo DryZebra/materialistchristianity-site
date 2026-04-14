@@ -1,14 +1,14 @@
 ---
-uid: "scaffolding_v2"
+
 title: "Scaffolding"
-diagnostic_id: "doctrinal_structure_v2"
-status: "prime_node"
-last_forensic_audit: "2026-04-06"
+
+status: "Final"
+
 ---
 
 # Scaffolding
 
-## I. DIAGNOSTIC SUMMARY
+## 
 **Scaffolding** refers to the temporary forms, doctrines, and institutional structures that hold moral and social truth in place until that truth can stand on its own in the material world. Scaffolding is functional but not essential; it is a means to an enduring end.
 
 ## II. TECHNICAL MECHANICS

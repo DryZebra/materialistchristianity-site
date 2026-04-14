@@ -1,14 +1,14 @@
 ---
-uid: "dignity_structural_v2"
+
 title: "Dignity (Structural)"
-diagnostic_id: "structural_value_v2"
-status: "prime_node"
-last_forensic_audit: "2026-04-06"
+
+status: "Final"
+
 ---
 
 # Dignity (Structural)
 
-## I. DIAGNOSTIC SUMMARY
+## 
 In the Materialist Christianity lens, **Dignity** is not an inherent human right or a moral quality, but a structural property. It is the measure of a subject's [Motion As Reality](/wiki/mechanics/motion_as_reality) within a [Sub Object Resonance](/wiki/mechanics/sub_object_resonance). It is built through [Moral Labor](/wiki/mechanics/moral_labor).
 
 ## II. TECHNICAL MECHANICS

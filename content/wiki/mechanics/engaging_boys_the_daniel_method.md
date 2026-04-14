@@ -1,16 +1,16 @@
 ---
 title: "Engaging Boys: The Daniel Method"
 category: "Mechanics"
-core: "BRIDGE Discussion"
+
 status: "Final"
-archival_id: "6856c253-6acc-8003-a8a3-1821bcd28eb8"
+
 ---
 
 # Engaging Boys: The Daniel Method
 
-In Materialist Christianity, **The Daniel Method** is the technical program for training the next generation of the productive class. It is the pedagogical forensic of how to resist the **Ghost-Food** and the **Idealistic Capture** of the extractive empire. 
+ **The Daniel Method** is the technical program for training the next generation of the productive class. It is the pedagogical forensic of how to resist the **Ghost-Food** and the **Idealistic Capture** of the extractive empire. 
 
-## The Forensic Analysis: Resisting the King's Meat
+##  Resisting the King's Meat
 In **Daniel 1**, the "King's Meat" is the materialist archetype of the **Global Extractor's** supply-line. 
 1.  **The Extraction of Youth**: The King (The Extractor) wants to capture the brightest of the youth, hollow out their **Species Essence**, and turn them into "Ghost-Managers" (Bureaucrats) through a 3-year "Idealistic Training." 
 2.  **The Ghost-Food**: The "King’s Meat" is the consumption-cycle of the empire. It is designed to make the boys dependent on the extractor’s table, hollowing out their physical and spiritual resilience (the "Flesh"). 

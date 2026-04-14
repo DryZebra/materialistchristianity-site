@@ -1,14 +1,14 @@
 ---
-uid: "timeline_paradox_v2"
+
 title: "The Timeline Paradox"
-diagnostic_id: "epistemic_verification_v2"
-status: "prime_node"
-last_forensic_audit: "2026-04-06"
+
+status: "Final"
+
 ---
 
 # The Timeline Paradox
 
-## I. DIAGNOSTIC SUMMARY
+## 
 The **Timeline Paradox** is the materialist proof of real existence. It asserts that we are not living in a closed simulation because we observe the emergence of genuine novelty—"brain-blasts" and conceptual breakthroughs that transcend the parameters of any pre-recorded or deterministic system.
 
 ## II. TECHNICAL MECHANICS

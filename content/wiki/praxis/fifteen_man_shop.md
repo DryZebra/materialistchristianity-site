@@ -2,7 +2,7 @@
 title: "Small-Scale Coordination (The 15-Man Shop)"
 description: "The mechanical limit of high-trust social coordination. Why the 12-15 man unit is the stable transformer of the social grid."
 category: "Praxis"
-status: "Load-Bearing"
+status: "Final"
 ---
 
 # Small-Scale Coordination (The 15-Man Shop)

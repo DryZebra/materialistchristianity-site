@@ -7,7 +7,7 @@ tags: ["liberalism", "mask", "institution", "materialism"]
 
 # Liberalism as a Mask: The Hollow Institution
 
-In Materialist Christianity, "Liberalism" is the name we give to the empty shell of an institution. It is like a **Mask** that a group wears to hide the fact that they have no real-world results. It is the "Social Gospel" that has been separated from the actual work of survival. It uses the symbols of faith to hide the fact that the group is just spending money instead of building a neighborhood.
+ "Liberalism" is the name we give to the empty shell of an institution. It is like a **Mask** that a group wears to hide the fact that they have no real-world results. It is the "Social Gospel" that has been separated from the actual work of survival. It uses the symbols of faith to hide the fact that the group is just spending money instead of building a neighborhood.
 
 ## How the Mask Works
 

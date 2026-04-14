@@ -1,16 +1,16 @@
 ---
 title: "Writing on the Wall: Systemic Rupture"
 category: "Mechanics"
-core: "BRIDGE Discussion"
+
 status: "Final"
-archival_id: "68b080ce-da94-8003-b7b7-3d50961d5898"
+
 ---
 
 # Writing on the Wall: Systemic Rupture
 
-In Materialist Christianity, the **Writing on the Wall** (Daniel 5) is the forensic diagnostic of a **Systemic Rupture**. It is the moment when a hollowed-out system no longer provides survival for its members and is superseded by a more efficient, material reality.
+ the **Writing on the Wall** (Daniel 5) is the forensic diagnostic of a **Systemic Rupture**. It is the moment when a hollowed-out system no longer provides survival for its members and is superseded by a more efficient, material reality.
 
-## The Forensic Analysis: Markers of Collapse
+##  Markers of Collapse
 A system doesn't collapse all at once; it hollows out first.
 1.  **MENE, MENE**: "God hath numbered thy kingdom, and finished it." This is the diagnostic that a system’s time of extraction is over. It has run out of real-world "Credit."
 2.  **TEKEL**: "Thou art weighed in the balances, and art found wanting." This is the materialist verification of **Hollowed-Out Labor**. The system looks large and impressive (like a corporate HQ), but it has no weight. It provides no survival.

@@ -1,5 +1,5 @@
 ---
-uid: "survival_rhythm_v2"
+
 title: "Survival Rhythm"
 concept: "The Shared Beat of History"
 mechanic: "Social Coordination"
@@ -8,7 +8,7 @@ diagnostic: "Pure MC"
 
 # Survival Rhythm: The Coordination of the Real
 
-A Survival Rhythm is the mechanical coordination of a people's **Material Survival** across time. In a Materialist Christianity context, this is the most primal form of the **Social Synchronization Engine**—it is the shared "Beat" or "Protocol" (The Liturgy/The Sabbath/The Seasons) that allows a community to move as one, even in the middle of a **Rupture**.
+A Survival Rhythm is the mechanical coordination of a people's **Material Survival** across time. In the real world, this is the most primal form of the **Social Synchronization Engine**—it is the shared "Beat" or "Protocol" (The Liturgy/The Sabbath/The Seasons) that allows a community to move as one, even in the middle of a **Rupture**.
 
 ## The Mechanic of the Beat
 

@@ -8,7 +8,7 @@ related: [reality_as_consequence, the_atheist_axiom_and_the_machine, moral_labor
 
 # The Test of Results: Consequence as Truth
 
-In Materialist Christianity, **Truth** is not a collection of nice words or symbols; it is a system of physical results. Truth is what happens when you actually put your ideas to the test in the real world. It is the "Physical Proof" of your work—the measurable, repeatable result that shows whether you are following the rules or have lost your way. The biblical standard—"By their fruits ye shall know them" (Matthew 7:20)—is the ultimate rule for what is real.
+ **Truth** is not a collection of nice words or symbols; it is a system of physical results. Truth is what happens when you actually put your ideas to the test in the real world. It is the "Physical Proof" of your work—the measurable, repeatable result that shows whether you are following the rules or have lost your way. The biblical standard—"By their fruits ye shall know them" (Matthew 7:20)—is the ultimate rule for what is real.
 
 ## How Results Measure Truth
 

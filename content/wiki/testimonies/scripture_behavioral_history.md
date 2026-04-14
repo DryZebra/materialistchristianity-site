@@ -7,7 +7,7 @@ tags: ["scripture", "history", "authority", "survival"]
 
 # Scripture as Behavioral History: The Record of Success
 
-The Bible is not a collection of abstract metaphors or "religious opinions"; it is the physical record of human survival. It is the **Database of Proven Success**—the compilation of behaviors and social rules that survived the test of history and carried our ancestors through crisis. In Materialist Christianity, the Bible is the **Solid Ground** of what actually works.
+The Bible is not a collection of abstract metaphors or "religious opinions"; it is the physical record of human survival. It is the **Database of Proven Success**—the compilation of behaviors and social rules that survived the test of history and carried our ancestors through crisis.  the Bible is the **Solid Ground** of what actually works.
 
 ## How a Rule Becomes Scripture
 
@@ -20,7 +20,7 @@ In our history, a behavior (a way of acting) becomes "Scripture" when it is prov
 
 ## The Bible vs. The Theory
 
-In Materialist Christianity, the Bible is the primary test for how a neighborhood should be run. It is the "True North" of our history. To ignore this record is to build on sand—trying to reinvent how to live without looking at the thousands of years of physical data we already have.
+ the Bible is the primary test for how a neighborhood should be run. It is the "True North" of our history. To ignore this record is to build on sand—trying to reinvent how to live without looking at the thousands of years of physical data we already have.
 
 -   **The Work**: The shared discipline (rituals and laws) practiced by our ancestors.
 -   **The Neighbor**: The trust and coordination of the survivors.

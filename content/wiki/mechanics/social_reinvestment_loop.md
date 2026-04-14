@@ -1,5 +1,5 @@
 ---
-uid: "social_reinvestment_loop_v2"
+
 title: "Social Reinvestment Loop"
 concept: "The Jubilee Cycle"
 mechanic: "Moral Capital Replenishment"
@@ -8,7 +8,7 @@ diagnostic: "Pure MC"
 
 # Social Reinvestment Loop: The Replenishment of the Real
 
-A Social Reinvestment Loop is the mechanical process by which a social structure reinvests its accumulated **Moral Capital** (trust, labor, memory) back into its own "Soil"—the subjects who built it. In a Materialist Christianity context, this is represented by the **Jubilee Cycle** and the **Tithes of the Church**—mechanisms designed to prevent the extraction of moral labor by an outside "Vampire."
+A Social Reinvestment Loop is the mechanical process by which a social structure reinvests its accumulated **Moral Capital** (trust, labor, memory) back into its own "Soil"—the subjects who built it. In the real world, this is represented by the **Jubilee Cycle** and the **Tithes of the Church**—mechanisms designed to prevent the extraction of moral labor by an outside "Vampire."
 
 ## The Mechanic of the Loop
 

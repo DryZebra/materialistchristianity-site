@@ -8,7 +8,7 @@ related: [the_functional_pilot, moral_capital, resurrection_structural]
 
 # Passing Down the Rules: Structural Succession
 
-In Materialist Christianity, **Structural Succession** is how a community's way of living is passed from one generation to the next. It is the specific process of handing over the instructions for **Neighborhood Coordination**. This success ensures that the new generation doesn't have to "reinvent the wheel" every time there is a crisis, allowing the neighborhood's **Trust and Strength** to grow over decades.
+ **Structural Succession** is how a community's way of living is passed from one generation to the next. It is the specific process of handing over the instructions for **Neighborhood Coordination**. This success ensures that the new generation doesn't have to "reinvent the wheel" every time there is a crisis, allowing the neighborhood's **Trust and Strength** to grow over decades.
 
 ## How Succession Works
 

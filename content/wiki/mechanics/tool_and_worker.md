@@ -1,16 +1,16 @@
 ---
 title: "The Tool and the Worker"
 category: "Mechanics"
-core: "BRIDGE Discussion"
+
 status: "Final"
-archival_id: "6822fc9b-2cc8-8003-a269-e46075a135ec"
+
 ---
 
 # The Tool and the Worker
 
-In Materialist Christianity, **The Tool and the Worker** is the forensic analysis of the physical interaction between humanity and nature. It identifies that there is no "Subjective Soul" separate from the work we do.
+ **The Tool and the Worker** is the forensic analysis of the physical interaction between humanity and nature. It identifies that there is no "Subjective Soul" separate from the work we do.
 
-## Forensic Analysis: The Honesty of Hardware
+##  The Honesty of Hardware
 A tool does not care about your "Feelings." It only cares about the physical truth.
 1.  **Interaction with the Real**: When a worker uses a tool, he is engaging in the **Materialist Dialectic**. The tool changes the wood, and the wood changes the worker. 
 2.  **The Refusal of Idealism**: Globalist managers want to separate "Thinking" from "Doing." The materialist reality is that **Doing is Thinking**. The wisdom is in the fingers and the eye.

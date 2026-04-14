@@ -1,5 +1,5 @@
 ---
-uid: "resistance_v2"
+
 title: "Resistance: Stopping the Extraction"
 description: "The material act of saying no to systems that drain your community."
 category: "Mechanics"
@@ -8,7 +8,7 @@ status: "Final"
 
 # Resistance: Stopping the Extraction
 
-In Materialist Christianity, **Resistance** is the physical act of refusing to apply your labor to a system that no longer provides for your survival. It is the moment a worker recognizes a rule as pointless and extractive, and chooses to simply say "no."
+ **Resistance** is the physical act of refusing to apply your labor to a system that no longer provides for your survival. It is the moment a worker recognizes a rule as pointless and extractive, and chooses to simply say "no."
 
 ## Stopping the Drain
 

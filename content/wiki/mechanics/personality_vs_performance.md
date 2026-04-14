@@ -1,9 +1,9 @@
 title: "Personality vs Performance"
 description: "Your material value is defined by your technical performance within the community structure, not by the curated personality you present to the market."
 category: "Mechanics"
-core: "BRIDGE Discussion"
+
 status: "Final"
-archival_id: "6813567c-c500-8003-9e20-6ae06c5d2c86"
+
 ---
 
 # Personality vs Performance

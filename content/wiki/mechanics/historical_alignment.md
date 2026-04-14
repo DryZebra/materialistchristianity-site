@@ -1,5 +1,5 @@
 ---
-uid: "historical_alignment_v3"
+
 title: "Historical Alignment: Checking the Compass"
 description: "Choosing a path based on what the historical record proves will actually survive."
 category: "Mechanics"
@@ -8,7 +8,7 @@ status: "Final"
 
 # Historical Alignment: Checking the Compass
 
-In Materialist Christianity, **Historical Alignment** is the practical process of choosing a direction (for your family, your church, or your town) that lines up with what has already been proven to work. It is the act of anchoring your decisions in the historical baseline rather than chasing the current cultural trend.
+ **Historical Alignment** is the practical process of choosing a direction (for your family, your church, or your town) that lines up with what has already been proven to work. It is the act of anchoring your decisions in the historical baseline rather than chasing the current cultural trend.
 
 ## The Mechanic of the Trajectory
 
@@ -37,5 +37,5 @@ Historical alignment is not a matter of "belief"; it is a matter of survival. To
 ---
 
 ### Related Content
-- [[planning_for_the_future]] — How a community looks ahead.
+- [[planning_for_future]] — How a community looks ahead.
 - [[the_book_that_resurrects]] — The archive of successful alignments.

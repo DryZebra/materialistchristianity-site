@@ -1,14 +1,14 @@
 ---
-uid: "collapsing_timelines_v2"
+
 title: "Collapsing Timelines"
 concept: "Present Consequence"
-mechanic: "Causal Recoil"
+mechanic: "inevitable consequence"
 diagnostic: "Pure MC"
 ---
 
 # Collapsing Timelines: The Weight of the Receipt
 
-In a Materialist Christianity context, Collapsing Timelines is the mechanical moment when the future consequence (the Fruits) of a behavior "Collapses" into the present. It is the **Reality Check** of the **4D Time Snake**—the moment where the subject's trajectory can no longer hide from its own **Causal Recoil**.
+In the real world, Collapsing Timelines is the mechanical moment when the future consequence (the Fruits) of a behavior "Collapses" into the present. It is the **Reality Check** of the **4D Time Snake**—the moment where the subject's trajectory can no longer hide from its own **inevitable consequence**.
 
 ## The Mechanic of the Collapse
 

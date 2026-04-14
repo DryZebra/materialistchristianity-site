@@ -1,5 +1,5 @@
 ---
-uid: "hollowing_out_v3"
+
 title: "The Empty Town: Understanding Decay"
 description: "How to identify when a town or group has lost its real strength and become hollowed out by extractive forces."
 category: "Mechanics"
@@ -8,7 +8,7 @@ status: "Final"
 
 # The Empty Town: Understanding Decay
 
-In Materialist Christianity, **The Empty Town** is how we recognize systemic decay. It is the moment when a community, a workshop, or a neighborhood loses its physical strength and becomes "hollow"—meaning it is no longer producing real life or helping its neighbors survive, but is instead just a shell being harvested by outside forces.
+ **The Empty Town** is how we recognize systemic decay. It is the moment when a community, a workshop, or a neighborhood loses its physical strength and becomes "hollow"—meaning it is no longer producing real life or helping its neighbors survive, but is instead just a shell being harvested by outside forces.
 
 ## How to Spot the Decay
 

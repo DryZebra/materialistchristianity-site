@@ -1,15 +1,15 @@
 ---
-uid: "biblical_fasting_v2"
+
 title: "Biblical Fasting Explained"
-core: "Materialist"
+
 status: "Final"
 ---
 
 # Biblical Fasting: The Technical Withdrawal
 
-In Materialist Christianity, **Fasting** is not a religious "performance" or a spiritual feeling. It is a **Technical Act of Resistance**—the physical withdrawal of your time, biology, and money from the globalist market. It is the proof that you are not just a "customer base" for the extractor.
+ **Fasting** is not a religious "performance" or a spiritual feeling. It is a **Technical Act of Resistance**—the physical withdrawal of your time, biology, and money from the globalist market. It is the proof that you are not just a "customer base" for the extractor.
 
-## Forensic Analysis: Withdrawing Nutrition and Time
+##  Withdrawing Nutrition and Time
 The globalist monopoly wants you to spend every dollar on credit-floated junk food and every minute on their algorithm.
 1.  **Reclaiming the Budget**: When you fast, you stop buying what the globalist sells. You withdraw your money from their extraction-cycle. This is a materialist audit of your own survival—it identifies that you can live without their "convenience." 
 2.  **Reclaiming the Time**: Eating in the modern world is a time-sink of "Consumer Performance." Fasting identifies that your time is your own. It pulls your **Attention** (The Forehead) away from the algorithm and back to the neighborhood. 

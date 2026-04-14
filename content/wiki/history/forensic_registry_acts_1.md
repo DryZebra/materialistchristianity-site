@@ -2,7 +2,7 @@
 title: "Acts 1:15-20: The Forensic Registry"
 description: "The scriptural precedent for mechanical maintenance. The replacement of failed coordination units."
 category: "Historical Records"
-status: "Load-Bearing"
+status: "Final"
 ---
 
 # Acts 1:15-20: The Forensic Registry

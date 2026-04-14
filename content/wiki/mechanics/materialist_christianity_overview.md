@@ -1,9 +1,9 @@
 ---
 title: "Materialist Christianity Overview"
 category: "Mechanics"
-core: "BRIDGE Discussion"
+
 status: "Final"
-archival_id: "67d9328b-c244-8003-8761-fba401556e8c"
+
 ---
 
 # Materialist Christianity: A Technical Overview

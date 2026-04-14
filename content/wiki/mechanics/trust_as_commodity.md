@@ -1,5 +1,5 @@
 ---
-uid: "trust_as_commodity_v3"
+
 title: "Trust: Our Shared Guarantee"
 description: "The technical rule that trust is a real-world resource that allows neighbors to work together today because they know it will help them survive tomorrow."
 category: Foundations
@@ -9,7 +9,7 @@ related: [moral_labor, the_sub_object, moral_capital, faith_as_residue, rupture]
 
 # Trust: Our Shared Guarantee
 
-In Materialist Christianity, **Trust** is the most important resource a neighborhood has. It is not just a "nice feeling" or a religious word; it is the physical foundation for working together. It is the guarantee that the **Hard Work** you do for a neighbor today will return to help you survive tomorrow.
+ **Trust** is the most important resource a neighborhood has. It is not just a "nice feeling" or a religious word; it is the physical foundation for working together. It is the guarantee that the **Hard Work** you do for a neighbor today will return to help you survive tomorrow.
 
 ## How Trust Works
 

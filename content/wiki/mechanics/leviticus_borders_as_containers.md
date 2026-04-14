@@ -1,16 +1,16 @@
 ---
 title: "Leviticus: Borders as Containers"
 category: "Mechanics"
-core: "BRIDGE Discussion"
+
 status: "Final"
-archival_id: "6848c7e1-2c0c-8003-a748-37f39dd68806"
+
 ---
 
 # Leviticus: Borders as Containers
 
-In Materialist Christianity, **Borders** in the Levitical sense are not "racist" or "reactionary" abstractions; they are **materialist containers** of labor. They are technical requirements for the protection and reproduction of the productive class against the hollowing out caused by **Global Extraction** (Mammon).
+ **Borders** in the Levitical sense are not "racist" or "reactionary" abstractions; they are **materialist containers** of labor. They are technical requirements for the protection and reproduction of the productive class against the hollowing out caused by **Global Extraction** (Mammon).
 
-## The Forensic Analysis: Containers of Labor
+##  Containers of Labor
 A border is the physical limit of the group’s shared responsibility. 
 1.  **Shared Responsibility**: Within a border, the community has a material commitment to synchronize its survival assets. This is the structural foundation of [[moral_communism]]. 
 2.  **Protection Against Extraction**: The **Global Extractor** (Mammon) wants a borderless world because it allows him to move capital and labor around as abstract "Ghost-Signals" to find the cheapest price. A border is a physical friction that identifies and protects the **Living Labor** of the community. 

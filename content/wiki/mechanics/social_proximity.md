@@ -1,5 +1,5 @@
 ---
-uid: "social_proximity_v2"
+
 title: "Social Proximity"
 concept: "Commodity Belonging"
 mechanic: "Simulation of Presence"

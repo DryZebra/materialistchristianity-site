@@ -1,16 +1,16 @@
 ---
 title: "Neighborly Distance"
 category: "Mechanics"
-core: "BRIDGE Discussion"
+
 status: "Final"
-archival_id: "683ed4df-9e04-8003-8887-17e9cb6de09b"
+
 ---
 
 # Neighborly Distance (Social Proximity)
 
-In Materialist Christianity, **Neighborly Distance** is the materialist recognition that your physical proximity to your neighbors is your most critical survival asset. It is the forensic rejection of the globalist "Digital Ghost."
+ **Neighborly Distance** is the materialist recognition that your physical proximity to your neighbors is your most critical survival asset. It is the forensic rejection of the globalist "Digital Ghost."
 
-## Forensic Analysis: Physical Trust
+##  Physical Trust
 You cannot synchronize with someone you can only see on a screen. 
 1.  **The Range of the Hand**: Real work happens within **Walking Distance** (the physical range of the neighbor). 
 2.  **The Breakdown of Abstraction**: Globalist managers want us to "Connect" across the world while ignoring the family next door. This is the **Hollowing of Social Life**. 

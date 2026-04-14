@@ -8,7 +8,7 @@ related: [moral_labor, the_sub_object, faith_as_residue]
 
 # Trust Capital: Neighborhood Strength
 
-In Materialist Christianity, **Trust Capital** (technically called Moral Capital) is the amount of trust and **Hard Work** stored up in a neighborhood. It is the "staying power" that allows a community to survive a **Total Breakdown** in the power grid or the economy. It is the physical reservoir of certainty that a neighbor will look out for the group instead of just themselves during a crisis.
+ **Trust Capital** (technically called Moral Capital) is the amount of trust and **Hard Work** stored up in a neighborhood. It is the "staying power" that allows a community to survive a **Total Breakdown** in the power grid or the economy. It is the physical reservoir of certainty that a neighbor will look out for the group instead of just themselves during a crisis.
 
 ## How Trust Capital Works
 

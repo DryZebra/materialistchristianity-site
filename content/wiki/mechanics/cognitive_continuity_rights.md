@@ -1,5 +1,5 @@
 ---
-uid: "focus_and_memory_v3"
+
 title: "Focus and Memory: Protecting Your Mind"
 concept: "Integrity of Memory"
 category: "Mechanics"
@@ -8,7 +8,7 @@ status: "Final"
 
 # Focus and Memory: Protecting Your Mind
 
-In Materialist Christianity, your **Focus and Memory** are physical assets, just like your tools or your truck. They are the hardware of your mind, and they must be protected from being stripped or scrambled by outside forces.
+ your **Focus and Memory** are physical assets, just like your tools or your truck. They are the hardware of your mind, and they must be protected from being stripped or scrambled by outside forces.
 
 ## The Assault on Attention
 

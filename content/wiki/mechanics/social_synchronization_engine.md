@@ -1,5 +1,5 @@
 ---
-uid: "working_together_v3"
+
 title: "Working Together: The 15-Man Shop"
 description: "How a small group of neighbors coordinate their efforts to get a job done without outside managers."
 category: "Mechanics"
@@ -8,7 +8,7 @@ status: "Final"
 
 # Working Together: The 15-Man Shop
 
-In Materialist Christianity, **Working Together** (the 15-man shop) is the physical act of getting a group to move in the same direction. It is the real-world way a construction crew, a workshop, or a neighborhood street works together to survive without needing a manager from far away.
+ **Working Together** (the 15-man shop) is the physical act of getting a group to move in the same direction. It is the real-world way a construction crew, a workshop, or a neighborhood street works together to survive without needing a manager from far away.
 
 ## How to Coordinate Locally
 

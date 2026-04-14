@@ -1,9 +1,9 @@
 ---
-uid: "borrowed_happiness_v2"
+
 title: "Borrowed Happiness (Diagnostic)"
-diagnostic_id: "moral_capital"
+
 status: "synonym_node"
-last_forensic_audit: "2026-04-06"
+
 ---
 
 # Borrowed Happiness

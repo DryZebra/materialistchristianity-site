@@ -1,9 +1,9 @@
 ---
 title: "The Materialist Christian Creed"
 category: "Mechanics"
-core: "BRIDGE Discussion"
+
 status: "Final"
-archival_id: "6884e9bf-d7c8-8331-adf6-0316b093a07e"
+
 ---
 
 # The Materialist Christian Creed

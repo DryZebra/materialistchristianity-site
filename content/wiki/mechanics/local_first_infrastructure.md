@@ -1,16 +1,16 @@
 ---
 title: "Local First: Neighborhood Infrastructure"
 category: "Mechanics"
-core: "BRIDGE Discussion"
+
 status: "Final"
-archival_id: "68777e85-71e8-8003-802c-b1dd91b78d61"
+
 ---
 
 # Local First: Neighborhood Infrastructure
 
-In Materialist Christianity, **Local First** is the technical priority of the neighborhood over the globalist machine. It is the forensic recognition that your survival depends on your neighbors and your local shop owners, not on a global supply-chain or a spreadsheet in a distant office.
+ **Local First** is the technical priority of the neighborhood over the globalist machine. It is the forensic recognition that your survival depends on your neighbors and your local shop owners, not on a global supply-chain or a spreadsheet in a distant office.
 
-## The Forensic Analysis: Infrastructure of the Real
+##  Infrastructure of the Real
 The globalists want you to focus on the "Global" because that is where they have the most control.
 1.  **Globalist Abstraction**: The idea that "the economy" is a series of distant numbers. This is a **Ghost-Theory** that allows monopolies to hollow out your town while you pay attention to the news. 
 2.  **Neighborhood Fact**: The physical reality of your street, your local hardware store, and your neighbors' skills. This is the **Flesh of the Real**. 

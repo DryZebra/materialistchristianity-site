@@ -1,13 +1,13 @@
 ---
-uid: "revelation_13_v2"
+
 title: "Revelation 13: The Mechanical Mark"
-core: "Materialist"
+
 status: "Final"
 ---
 
 # Revelation 13: The Mechanical Mark
 
-In Materialist Christianity, the "Mark of the Beast" in Revelation 13 is a forensic diagnostic of the capture of human attention (the **Forehead**) and human work (the **Hand**) by the system of globalist finance.
+ the "Mark of the Beast" in Revelation 13 is a forensic diagnostic of the capture of human attention (the **Forehead**) and human work (the **Hand**) by the system of globalist finance.
 
 ## The Morphology of the Mark
 The placement of the mark is technically significant based on the ancient Greek morphology:

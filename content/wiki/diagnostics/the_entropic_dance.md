@@ -7,7 +7,7 @@ tags: ["entropy", "decay", "performance", "the-real"]
 
 # The Entropic Dance: The Performance of Decay
 
-In Materialist Christianity, the **Entropic Dance** is the technical name for how a **Hollowed-Out Community** behaves. When a neighborhood or a church has lost its physical strength and trust, it often performs a frantic simulation of life to hide the fact that it is breaking down. It is a "Dance of the False Promise"—a lot of noise, slogans, and projects that produce no real result for the people.
+ the **Entropic Dance** is the technical name for how a **Hollowed-Out Community** behaves. When a neighborhood or a church has lost its physical strength and trust, it often performs a frantic simulation of life to hide the fact that it is breaking down. It is a "Dance of the False Promise"—a lot of noise, slogans, and projects that produce no real result for the people.
 
 ## How the Dance Happens
 

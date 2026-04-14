@@ -1,5 +1,5 @@
 ---
-uid: "maintenance_vs_preservation_v3"
+
 title: "Maintenance vs Preservation"
 concept: "Metabolic Vitality"
 mechanic: "Kinetic Reinvestment"

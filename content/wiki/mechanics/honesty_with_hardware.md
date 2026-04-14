@@ -8,7 +8,7 @@ related: [the_materialist_axiom, the_atheist_axiom_and_the_machine, reality_as_c
 
 # Honesty with the Tools: Following the Facts
 
-In Materialist Christianity, **Honesty with the Tools** (technically called Honesty with Hardware) is the rule for getting the facts straight. It is the commitment to measure the world as it actually is, refusing to count on "magic" or wishing for a miracle that has no physical proof. It is the requirement that the neighborhood’s way of living must produce real results even if no one is watching.
+ **Honesty with the Tools** (technically called Honesty with Hardware) is the rule for getting the facts straight. It is the commitment to measure the world as it actually is, refusing to count on "magic" or wishing for a miracle that has no physical proof. It is the requirement that the neighborhood’s way of living must produce real results even if no one is watching.
 
 ## How Honesty Works
 

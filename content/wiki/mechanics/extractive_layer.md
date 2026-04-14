@@ -1,16 +1,16 @@
 ---
 title: "The Extractive Layer"
 category: "Mechanics"
-core: "BRIDGE Discussion"
+
 status: "Final"
-archival_id: "6823c91d-e59c-8003-9bb8-9f3e4c419eb2"
+
 ---
 
 # The Extractive Layer
 
-In Materialist Christianity, **The Extractive Layer** is the technical name for the class of "Everyone Else"—those who live off the labor of the productive class without producing anything themselves. it is the forensic diagnosis of **Social Vampirism**.
+ **The Extractive Layer** is the technical name for the class of "Everyone Else"—those who live off the labor of the productive class without producing anything themselves. it is the forensic diagnosis of **Social Vampirism**.
 
-## Forensic Analysis: Who Works vs. Who Takes
+##  Who Works vs. Who Takes
 The materialist split is simple: there are those who produce social life, and those who extract from it. 
 1.  **The Producers**: The workers, the 15-man shop owners, and the neighbors who build the world. 
 2.  **The Extractors**: Globalist finance, professional managers, and "Ghost-Workers" who live off credit and debt. They provide no survival return to the community. 

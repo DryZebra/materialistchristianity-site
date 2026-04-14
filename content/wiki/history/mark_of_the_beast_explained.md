@@ -1,9 +1,9 @@
 title: "Mark of the Beast Explained"
 description: "The Mark of the Beast is the technical requirement of total market integration, where individual survival is made impossible without submission to the predatory logic of the extractor."
 category: "Historical Records"
-core: "BRIDGE Discussion"
+
 status: "Final"
-archival_id: "683bb8d3-29fc-8003-b849-0c67d9de34ef"
+
 ---
 
 # Mark of the Beast Explained
@@ -11,7 +11,7 @@ archival_id: "683bb8d3-29fc-8003-b849-0c67d9de34ef"
 The Mark of the Beast is the technical requirement of total market integration, where individual survival is made impossible without submission to the predatory logic of the extractor.
 
 ## The Technical Reality: How it Works
-In Materialist Christianity, the "Beast" is the globalist market system that seeks to hollow out local communities for profit. The "Mark" is not a physical tattoo; it is a **Protocol of Access**. To "receive the mark" is to accept the terms of the extractor in exchange for basic metabolic needs (food, housing, credit). 
+ the "Beast" is the globalist market system that seeks to hollow out local communities for profit. The "Mark" is not a physical tattoo; it is a **Protocol of Access**. To "receive the mark" is to accept the terms of the extractor in exchange for basic metabolic needs (food, housing, credit). 
 
 When a 15-man shop is forced to close because it refuses to follow the extractive rules of a national monopoly, it is experiencing the **Economic Lockout**. The Mark identifies those who have been "Updated" to be compatible with the predator. To build the Kingdom is to create a parallel metabolism where the Mark is not required for survival.
 

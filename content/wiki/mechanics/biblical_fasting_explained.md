@@ -1,5 +1,5 @@
 ---
-uid: "biblical_fasting_v1"
+
 title: "Biblical Fasting Explained"
 description: "The technical protocol for withdrawing metabolic energy and attention from an extractive system to reclaim agency."
 category: "Mechanics"
@@ -8,7 +8,7 @@ status: "Final"
 
 # Biblical Fasting Explained
 
-In Materialist Christianity, **Biblical Fasting** is not a performative religious ritual or a self-punishing diet; it is the **technical withdrawal of energy** from a system that has become extractive. It is the conscious decision to stop feeding the machine and to reclaim the sovereignty of your own metabolic hardware.
+ **Biblical Fasting** is not a performative religious ritual or a self-punishing diet; it is the **technical withdrawal of energy** from a system that has become extractive. It is the conscious decision to stop feeding the machine and to reclaim the sovereignty of your own metabolic hardware.
 
 ## The Diagnostic: Recognizing the Drain
 

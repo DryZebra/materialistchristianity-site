@@ -1,16 +1,16 @@
 ---
 title: "Christ in Daily Labor"
 category: "Mechanics"
-core: "BRIDGE Discussion"
+
 status: "Final"
-archival_id: "68484a17-977c-8003-b389-665d05bb5548"
+
 ---
 
 # Christ in Daily Labor: The Forensic Scan
 
-In Materialist Christianity, **Christ** is not a "Ghost-Figure" you think about on Sunday; he is the **Forensic Signal** of the Kingdom within the job-site. He is the physical and social infrastructure of the **Labor of the Real**.
+ **Christ** is not a "Ghost-Figure" you think about on Sunday; he is the **Forensic Signal** of the Kingdom within the job-site. He is the physical and social infrastructure of the **Labor of the Real**.
 
-## The Forensic Analysis: The Kingdom on the Site
+##  The Kingdom on the Site
 The Kingdom of God is a materialist reality that appears in the quality of the work.
 1.  **The Quality of the Weld**: Christ is in the structural integrity of the build. If you provide a hollowed-out weld to "save time" for the **Global Extractor**, you are serving **Mammon**. If you provide a "Real weld" that protects the final user, you are serving Christ.
 2.  **The Honesty of the Bill**: Christ is in the technical honesty of the transaction. A bill that reflects the real labor spent—untouched by the extractor’s "Ghost-Skimming"—is the **Flesh of the Real**. 

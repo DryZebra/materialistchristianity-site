@@ -1,16 +1,16 @@
 ---
 title: "The Particular and the General"
 category: "Mechanics"
-core: "BRIDGE Discussion"
+
 status: "Final"
-archival_id: "68b172cb-158c-8332-b80f-7e967a552fd6"
+
 ---
 
 # The Particular and the General
 
-In Materialist Christianity, the objective is to move from the **Particular** (the individual worker) to the **General** (the entire productive class). It is the forensic logic of building a synchronized nation.
+ the objective is to move from the **Particular** (the individual worker) to the **General** (the entire productive class). It is the forensic logic of building a synchronized nation.
 
-## The Forensic Analysis: Scaling the Real
+##  Scaling the Real
 A single worker is just a "Particular" instance of labor. 
 1.  **The Particular**: This is your own job, your own shop, and your own family. It is where you start the work. 
 2.  **The General**: This is the entire class of people who work for a living. It identifies our shared interest against the globalists. 

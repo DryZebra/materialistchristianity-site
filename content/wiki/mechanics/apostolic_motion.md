@@ -1,5 +1,5 @@
 ---
-uid: "apostolic_motion_v3"
+
 title: "Carrying the Fire: The Traveling Worker"
 description: "How skills, trust, and survival tactics are physically carried from a collapsing town to a new environment."
 category: "Mechanics"
@@ -8,7 +8,7 @@ status: "Final"
 
 # Carrying the Fire: The Traveling Worker
 
-In Materialist Christianity, **Carrying the Fire** (originally termed Apostolic Motion) is the physical process of taking the skills and trust of a broken community and carrying them across a collapse to a new home. It is the work of the individual or the small group who maintain the "Rock" of the Gospel when local institutions fail.
+ **Carrying the Fire** (originally termed Apostolic Motion) is the physical process of taking the skills and trust of a broken community and carrying them across a collapse to a new home. It is the work of the individual or the small group who maintain the "Rock" of the Gospel when local institutions fail.
 
 ## The Mechanic of the Messenger
 

@@ -7,7 +7,7 @@ tags: ["self", "character", "responsibility", "materialism"]
 
 # The Structural Self: The Result of Your Work
 
-In Materialist Christianity, the "Self" is not an abstract "soul" or a private "individual." You are the physical result of your actions. Who you are is shaped by the families, churches, trades, and neighborhoods you belong to. The **Structural Self** is the technical summary of your life—the physical "Hardware" that has been shaped by your work and your coordination with your neighbors.
+ the "Self" is not an abstract "soul" or a private "individual." You are the physical result of your actions. Who you are is shaped by the families, churches, trades, and neighborhoods you belong to. The **Structural Self** is the technical summary of your life—the physical "Hardware" that has been shaped by your work and your coordination with your neighbors.
 
 ## How the Self is Built
 

@@ -7,7 +7,7 @@ tags: ["motion", "work", "action", "results"]
 
 # The Reality of Work: Life as Motion
 
-In Materialist Christianity, the real world is defined not by "ideas," but by **Motion**. A neighborhood or a family only exists to the extent that it acts to produce a result. This is the simple truth: Reality is the sum total of the labor and the work that keeps our people alive. Having "beliefs" without doing the work is a failure to exist in the real world.
+ the real world is defined not by "ideas," but by **Motion**. A neighborhood or a family only exists to the extent that it acts to produce a result. This is the simple truth: Reality is the sum total of the labor and the work that keeps our people alive. Having "beliefs" without doing the work is a failure to exist in the real world.
 
 ## The Test: Movement over Theories
 

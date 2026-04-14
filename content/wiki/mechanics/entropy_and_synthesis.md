@@ -1,14 +1,11 @@
 ---
-uid: "entropy_and_synthesis_v2"
-title: "Entropy and Synthesis (Diagnostic)"
-diagnostic_id: "the_entropic_dance"
+title: "Entropy and Synthesis"
 status: "synonym_node"
-last_forensic_audit: "2026-04-06"
 ---
 
 # Entropy and Synthesis
 
-**Entropy and Synthesis** is a conceptual identifier for **[the_entropic_dance](/wiki/mechanics/rupture)**. It is the Materialist Christianity model for how social structures degrade (entropy) and reform (synthesis) through the friction of antagonistic labor.
+**Entropy and Synthesis** is a synonym for **[[rupture]]**. It describes the physical reality of how things naturally fall apart (entropy) and the hard work required to put them back together (synthesis).
 
 > [!NOTE]
-> See the primary entry: **[the_entropic_dance](/wiki/mechanics/rupture)**
+> See the primary entry at **[[rupture]]** for a full explanation of how systems break down and how capable men rebuild them.

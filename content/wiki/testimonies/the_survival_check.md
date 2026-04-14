@@ -7,7 +7,7 @@ tags: ["survival-check", "cause-and-effect", "rupture", "the-real"]
 
 # The Survival Check: The Weight of the Real
 
-In Materialist Christianity, a **Survival Check** is the technical moment when reality tests a community—a family, a church, or a neighborhood. It is the non-negotiable proof of how well our work has aligned with the **Real World**. It is a test of durability that happens when the normal "globalist systems" fail, leaving only the physical results of our previous labor and trust to keep us alive.
+ a **Survival Check** is the technical moment when reality tests a community—a family, a church, or a neighborhood. It is the non-negotiable proof of how well our work has aligned with the **Real World**. It is a test of durability that happens when the normal "globalist systems" fail, leaving only the physical results of our previous labor and trust to keep us alive.
 
 ## The Test of the Void
 

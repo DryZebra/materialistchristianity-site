@@ -1,9 +1,9 @@
 ---
-uid: "continuity_v2"
+
 title: "Continuity (Diagnostic)"
 status: "synonym_node"
-diagnostic_id: "cognitive_continuity_rights"
-last_forensic_audit: "2026-04-06"
+
+
 ---
 
 # Continuity

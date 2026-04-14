@@ -7,7 +7,7 @@ tags: ["resilience", "localism", "autonomy", "maintenance"]
 
 # The Well-Water Principle: Local Resources vs. Globalist Dependency
 
-In Materialist Christianity, the **Well-Water Principle** is the technical rule for a community’s independence. It is the recognition that any neighborhood—a family, a church, or a local group—must have its own independent source of survival (trust, money, and tools). To depend on a globalist "Pipe" (the centralized markets and systems) is to be vulnerable to being hollowed out and abandoned.
+ the **Well-Water Principle** is the technical rule for a community’s independence. It is the recognition that any neighborhood—a family, a church, or a local group—must have its own independent source of survival (trust, money, and tools). To depend on a globalist "Pipe" (the centralized markets and systems) is to be vulnerable to being hollowed out and abandoned.
 
 ## The Well vs. The Pipe
 

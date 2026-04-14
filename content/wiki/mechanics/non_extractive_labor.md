@@ -1,5 +1,5 @@
 ---
-uid: "non_extractive_labor_v2"
+
 title: "Non-Extractive Labor"
 concept: "Local Trust Capital"
 mechanic: "Moral Surplus Value"
@@ -8,7 +8,7 @@ diagnostic: "Pure MC"
 
 # Non-Extractive Labor: The Fruits of the Real
 
-Non-extractive labor is the material labor (physical effort, time, and service) that stays within the community that produces it. It is the opposite of the **Vampire** (Capital/Extraction). In a Materialist Christianity context, this is the labor of the **Kingdom**—the work of the hands and the heart that builds the "Rock" of collective survival and dignity.
+Non-extractive labor is the material labor (physical effort, time, and service) that stays within the community that produces it. It is the opposite of the **Vampire** (Capital/Extraction). In the real world, this is the labor of the **Kingdom**—the work of the hands and the heart that builds the "Rock" of collective survival and dignity.
 
 ## The Mechanic of the Fruits
 

@@ -7,7 +7,7 @@ tags: ["materialism", "living", "survival", "rules"]
 
 # The Practical Science of Living Together
 
-In Materialist Christianity, faith is not a collection of "opinions"; it is the technical study of how human beings survive. Over the last 2000 years, the Church has functioned as the primary record-keeper for this study. It has compiled thousands of years of data on what happens to people (The Results) when they follow specific rules of behavior (The Work).
+ faith is not a collection of "opinions"; it is the technical study of how human beings survive. Over the last 2000 years, the Church has functioned as the primary record-keeper for this study. It has compiled thousands of years of data on what happens to people (The Results) when they follow specific rules of behavior (The Work).
 
 ## How the Rules Work
 

@@ -2,7 +2,7 @@
 title: "The Judas Mechanic (Systemic Betrayal)"
 description: "Forensic analysis of internal system failure. The point where a coordination unit becomes a high-impedance drain."
 category: "Diagnostics"
-status: "Load-Bearing"
+status: "Final"
 ---
 
 # The Judas Mechanic
