@@ -45,7 +45,6 @@ We see these cycles all the time:
 #### Essays & Testimonies
 - [[the_materialist_axiom]] — On the ground of order.
 - [[the_entropic_dance]] — On the larger rhythm of life.
-- [[re_uptake_injection]] — Bringing a group back from the brink.
 
 #### Scriptural Anchors
 - [[the_biblical_baseline]] — The history of real change.

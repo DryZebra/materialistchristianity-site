@@ -459,10 +459,7 @@ export const CONTENT_MAP: Record<string, { title: string; category: string }> = 
     "title": "Reverse Destiny",
     "category": "wiki/mechanics"
   },
-  "re_uptake_injection": {
-    "title": "Re-uptake Injection",
-    "category": "wiki/mechanics"
-  },
+
   "right_to_focus_memory": {
     "title": "The Right to Focus and Memory",
     "category": "wiki/mechanics"
