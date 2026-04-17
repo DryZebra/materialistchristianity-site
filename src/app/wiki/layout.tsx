@@ -3,8 +3,14 @@ import { getNodesByCategory, getAllWikiNodes, getAllEssays } from '@/lib/wiki';
 import MobileNav from '@/components/MobileNav';
 
 export default function WikiLayout({ children }: { children: React.ReactNode }) {
-  const categories = getNodesByCategory();
-  const categoryNames = Object.keys(categories).sort();
+  const rawCategories = getNodesByCategory();
+  const categoryNames = Object.keys(rawCategories).sort();
+
+  // Strip content for layout payload
+  const categories: Record<string, any> = {};
+  categoryNames.forEach(cat => {
+    categories[cat] = rawCategories[cat].map(({ content, ...node }) => node);
+  });
 
   return (
     <div className="forensic-layout">

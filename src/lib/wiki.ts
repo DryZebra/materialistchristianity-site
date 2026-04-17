@@ -132,11 +132,16 @@ export function getLinkPath(slug: string): string {
     return `/${entry.category}/`;
   }
 
-  // Fallback heuristic if not in map
-  if (getFilesFromDir('content/wiki/the-blueprint-exegesis').some(f => path.basename(f, '.md') === slug)) {
-    return '/wiki/the-blueprint-exegesis/';
+  // Fallback check for Blueprint
+  try {
+    if (getFilesFromDir('content/wiki/the-blueprint-exegesis').some(f => path.basename(f, '.md') === slug)) {
+      return '/wiki/the-blueprint-exegesis/';
+    }
+  } catch (e) {
+    // Silent fail for directory check
   }
-  
+
+  console.warn(`[WIKI] Path resolution failed for slug: ${slug}. Defaulting to structural-proofs.`);
   // Default to structural-proofs if unknown
   return '/wiki/structural-proofs/';
 }

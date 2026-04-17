@@ -11,9 +11,9 @@ export default function WikiHome() {
 
   const totalCount = nodes.length + essays.length + bibles.length;
   const searchItems = [
-    ...nodes.map(n => ({ ...n, type: 'node' as const, url: `${getLinkPath(n.slug)}${n.slug}` })),
-    ...essays.map(e => ({ ...e, type: 'essay' as const, url: `${getLinkPath(e.slug)}${e.slug}` })),
-    ...bibles.map(b => ({ ...b, type: 'bible' as const, url: `${getLinkPath(b.slug)}${b.slug}` }))
+    ...nodes.map(({ content, ...n }) => ({ ...n, type: 'node' as const, url: n.url })),
+    ...essays.map(({ content, ...e }) => ({ ...e, type: 'essay' as const, url: e.url })),
+    ...bibles.map(({ content, ...b }) => ({ ...b, type: 'bible' as const, url: b.url }))
   ];
 
   return (

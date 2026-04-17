@@ -5,7 +5,7 @@ import Link from 'next/link';
 import { ContentNode } from '@/lib/wiki';
 
 interface MobileNavProps {
-  categories: Record<string, ContentNode[]>;
+  categories: Record<string, Omit<ContentNode, 'content'>[]>;
 }
 
 export default function MobileNav({ categories }: MobileNavProps) {
