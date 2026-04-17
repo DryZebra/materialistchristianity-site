@@ -2,7 +2,7 @@ import { Metadata } from 'next';
 import Link from 'next/link';
 import ReactMarkdown from 'react-markdown';
 import remarkGfm from 'remark-gfm';
-import { getAllBibleTranslations, getBibleBySlug } from '@/lib/wiki';
+import { getAllBibleTranslations, getBibleBySlug, getLinkPath } from '@/lib/wiki';
 import { transformWikiLinks } from '@/lib/markdown';
 
 export async function generateStaticParams() {
@@ -49,7 +49,7 @@ export default async function BiblePage({ params }: { params: Promise<{ slug: st
         <div className="breadcrumb">
           <Link href="/wiki" className="hover:text-signal">Archive</Link>
           <span className="breadcrumb-sep"></span>
-          <Link href="/wiki/bible" className="hover:text-signal">Bible Forensics</Link>
+          <Link href="/wiki/the-blueprint-exegesis" className="hover:text-signal">Bible Forensics</Link>
           <span className="breadcrumb-sep"></span>
           <span className="text-signal">{bible.title}</span>
         </div>
@@ -79,7 +79,7 @@ export default async function BiblePage({ params }: { params: Promise<{ slug: st
           <h4 className="text-xl font-black uppercase mb-6 text-signal italic">Mechanical Axioms Activated</h4>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
             {bible.related.map(rel => (
-              <Link key={rel} href={`/wiki/mechanics/${rel}`} className="brutalist-card p-4 hover:border-signal text-sm uppercase font-bold">
+              <Link key={rel} href={`${getLinkPath(rel)}${rel}`} className="brutalist-card p-4 hover:border-signal text-sm uppercase font-bold">
                 {rel.replace(/_/g, ' ')} &rarr;
               </Link>
             ))}

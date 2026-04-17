@@ -22,7 +22,7 @@ export default function WikiLayout({ children }: { children: React.ReactNode }) 
             <div className="text-xs font-black uppercase opacity-30 mb-4 tracking-widest border-b border-ash/10 pb-1">
               Testimony
             </div>
-            <Link href="/wiki/testimonies" className="category-item !opacity-100 !text-ash hover:!text-signal font-bold">
+            <Link href="/wiki/labor-and-torque" className="category-item !opacity-100 !text-ash hover:!text-signal font-bold">
               Testimony Library
             </Link>
           </div>
@@ -31,7 +31,7 @@ export default function WikiLayout({ children }: { children: React.ReactNode }) 
             <div className="text-xs font-black uppercase opacity-30 mb-4 tracking-widest border-b border-ash/10 pb-1">
               Knowledge Map
             </div>
-            <Link href="/wiki/mechanics" className="category-item !opacity-100 !text-ash hover:!text-signal font-bold mb-4">
+            <Link href="/wiki/structural-proofs" className="category-item !opacity-100 !text-ash hover:!text-signal font-bold mb-4">
               All Axioms
             </Link>
             
@@ -42,7 +42,7 @@ export default function WikiLayout({ children }: { children: React.ReactNode }) 
                   {categories[category].map(node => (
                     <Link 
                       key={node.slug} 
-                      href={`/wiki/mechanics/${node.slug}`} 
+                      href={node.url} 
                       className="block px-4 py-2 text-xs font-bold uppercase transition-all duration-200 border-l-2 border-transparent hover:border-signal hover:bg-signal/5 hover:text-signal"
                     >
                       {node.title}

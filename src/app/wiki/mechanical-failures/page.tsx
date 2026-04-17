@@ -33,7 +33,7 @@ export default function NodesIndex() {
               {categories[category].map((node) => (
                 <Link 
                   key={node.slug} 
-                  href={`/wiki/mechanics/${node.slug}`} 
+                  href={node.url} 
                   className="p-6 border-2 border-ash group hover:border-signal hover:bg-signal/5 transition-all flex flex-col"
                 >
                   <h3 className="text-xl md:text-2xl group-hover:text-signal uppercase mb-4 font-black leading-tight">

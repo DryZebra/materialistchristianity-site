@@ -1,6 +1,7 @@
 import fs from 'fs';
 import path from 'path';
 import matter from 'gray-matter';
+import { CONTENT_MAP } from './content_map';
 
 export interface ContentNode {
   slug: string;
@@ -12,6 +13,7 @@ export interface ContentNode {
   related: string[]; // Slugs of other nodes
   references: string[]; // Slugs of essays
   content: string;
+  url: string; // Correctly resolved URL
 }
 
 
@@ -54,7 +56,8 @@ function parseContentFile(fullPath: string): ContentNode {
     date: data.date ? new Date(data.date).toISOString().split('T')[0] : new Date().toISOString().split('T')[0],
     related: data.related || [],
     references: data.references || [],
-    content: content.trim()
+    content: content.trim(),
+    url: `${getLinkPath(slug)}${slug}`
   };
 }
 
@@ -85,9 +88,8 @@ export function getWikiNodeBySlug(slug: string): ContentNode | null {
   return nodes.find(node => node.slug === slug) || null;
 }
 
-// Essays (deprecated, merged into labor-and-torque)
+// Essays (merged into labor-and-torque)
 export function getAllEssays(): ContentNode[] {
-  // Returning empty or subset if needed, currently we just point to labor-and-torque as the essay bucket
   return getFilesFromDir('content/wiki/labor-and-torque').map(parseContentFile).sort((a, b) => a.slug.localeCompare(b.slug));
 }
 
@@ -122,17 +124,19 @@ export function getNodesByCategory(): Record<string, ContentNode[]> {
 
 /**
  * Returns the correct wiki path prefix
- * by checking the filesystem for the slug's existence.
+ * by checking the CONTENT_MAP or the filesystem.
  */
 export function getLinkPath(slug: string): string {
-  if (getFilesFromDir('content/wiki/structural-proofs').map(parseContentFile).some(n => n.slug === slug)) return '/wiki/structural-proofs/';
-  if (getFilesFromDir('content/wiki/mechanical-failures').map(parseContentFile).some(n => n.slug === slug)) return '/wiki/mechanical-failures/';
-  if (getFilesFromDir('content/wiki/labor-and-torque').map(parseContentFile).some(n => n.slug === slug)) return '/wiki/labor-and-torque/';
-  if (getFilesFromDir('content/wiki/ideological-resistance').map(parseContentFile).some(n => n.slug === slug)) return '/wiki/ideological-resistance/';
+  const entry = CONTENT_MAP[slug];
+  if (entry) {
+    return `/${entry.category}/`;
+  }
+
+  // Fallback heuristic if not in map
+  if (getFilesFromDir('content/wiki/the-blueprint-exegesis').some(f => path.basename(f, '.md') === slug)) {
+    return '/wiki/the-blueprint-exegesis/';
+  }
   
-  const bibles = getAllBibleTranslations();
-  if (bibles.some(b => b.slug === slug)) return '/wiki/the-blueprint-exegesis/';
- 
-  // Fallback
+  // Default to structural-proofs if unknown
   return '/wiki/structural-proofs/';
 }

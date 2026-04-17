@@ -1,5 +1,5 @@
 import Link from 'next/link';
-import { getAllWikiNodes, getAllEssays, getAllBibleTranslations, getNodesByCategory } from '@/lib/wiki';
+import { getAllWikiNodes, getAllEssays, getAllBibleTranslations, getNodesByCategory, getLinkPath } from '@/lib/wiki';
 import WikiSearch from '@/components/WikiSearch';
 
 export default function WikiHome() {
@@ -11,9 +11,9 @@ export default function WikiHome() {
 
   const totalCount = nodes.length + essays.length + bibles.length;
   const searchItems = [
-    ...nodes.map(n => ({ ...n, type: 'node' as const, url: `/wiki/mechanics/${n.slug}` })),
-    ...essays.map(e => ({ ...e, type: 'essay' as const, url: `/wiki/testimonies/${e.slug}` })),
-    ...bibles.map(b => ({ ...b, type: 'bible' as const, url: `/wiki/bible/${b.slug}` }))
+    ...nodes.map(n => ({ ...n, type: 'node' as const, url: `${getLinkPath(n.slug)}${n.slug}` })),
+    ...essays.map(e => ({ ...e, type: 'essay' as const, url: `${getLinkPath(e.slug)}${e.slug}` })),
+    ...bibles.map(b => ({ ...b, type: 'bible' as const, url: `${getLinkPath(b.slug)}${b.slug}` }))
   ];
 
   return (
@@ -41,12 +41,12 @@ export default function WikiHome() {
           <p className="text-sm opacity-60 font-mono uppercase mb-8 font-bold">Applied mechanics for stable social reproduction.</p>
           <div className="space-y-2 mb-8">
             {nodes.filter(n => n.category === 'Praxis').slice(0, 3).map(node => (
-              <Link key={node.slug} href={`/wiki/mechanics/${node.slug}`} className="block text-xs font-bold uppercase hover:text-signal truncate">
+              <Link key={node.slug} href={`${getLinkPath(node.slug)}${node.slug}`} className="block text-xs font-bold uppercase hover:text-signal truncate">
                 &gt; {node.title}
               </Link>
             ))}
           </div>
-          <Link href="/wiki/mechanics" className="text-signal font-black uppercase text-sm hover:underline tracking-widest">
+          <Link href="/wiki/structural-proofs" className="text-signal font-black uppercase text-sm hover:underline tracking-widest">
             Execution Manuals &rarr;
           </Link>
         </div>
@@ -58,12 +58,12 @@ export default function WikiHome() {
           <p className="text-sm opacity-60 font-mono uppercase mb-8">Forensic observations of the stabilization machine.</p>
           <div className="space-y-2 mb-8">
             {essays.slice(0, 3).map(essay => (
-              <Link key={essay.slug} href={`/wiki/testimonies/${essay.slug}`} className="block text-xs font-bold uppercase hover:text-signal truncate">
+              <Link key={essay.slug} href={`${getLinkPath(essay.slug)}${essay.slug}`} className="block text-xs font-bold uppercase hover:text-signal truncate">
                 &gt; {essay.title}
               </Link>
             ))}
           </div>
-          <Link href="/wiki/testimonies" className="text-signal font-black uppercase text-sm hover:underline tracking-widest">
+          <Link href="/wiki/labor-and-torque" className="text-signal font-black uppercase text-sm hover:underline tracking-widest">
             Open Library &rarr;
           </Link>
         </div>
@@ -75,12 +75,12 @@ export default function WikiHome() {
           <p className="text-sm opacity-60 font-mono uppercase mb-8">Historical records and biblical maintenance logs.</p>
           <div className="space-y-2 mb-8">
             {bibles.slice(0, 3).map(bible => (
-              <Link key={bible.slug} href={`/wiki/bible/${bible.slug}`} className="block text-xs font-bold uppercase hover:text-signal truncate">
+              <Link key={bible.slug} href={`${getLinkPath(bible.slug)}${bible.slug}`} className="block text-xs font-bold uppercase hover:text-signal truncate">
                 &gt; {bible.title}
               </Link>
             ))}
           </div>
-          <Link href="/wiki/bible" className="text-signal font-black uppercase text-sm hover:underline tracking-widest">
+          <Link href="/wiki/the-blueprint-exegesis" className="text-signal font-black uppercase text-sm hover:underline tracking-widest">
             Study Bible &rarr;
           </Link>
         </div>
@@ -109,7 +109,7 @@ export default function WikiHome() {
                   {categories[category].slice(0, 8).map(node => (
                     <Link 
                       key={node.slug} 
-                      href={`/wiki/mechanics/${node.slug}`}
+                      href={`${getLinkPath(node.slug)}${node.slug}`}
                       className="block group"
                     >
                       <h4 className="text-sm font-black uppercase group-hover:text-signal group-hover:pl-2 transition-all border-l-2 border-transparent group-hover:border-signal">
@@ -121,7 +121,7 @@ export default function WikiHome() {
                     </Link>
                   ))}
                   {categories[category].length > 8 && (
-                    <Link href="/wiki/mechanics" className="text-[10px] font-mono uppercase opacity-40 hover:opacity-100 hover:text-signal font-black pt-2 block border-t border-ash/10">
+                    <Link href="/wiki/structural-proofs" className="text-[10px] font-mono uppercase opacity-40 hover:opacity-100 hover:text-signal font-black pt-2 block border-t border-ash/10">
                       + Access {categories[category].length - 8} deeper nodes
                     </Link>
                   )}
@@ -143,7 +143,7 @@ export default function WikiHome() {
               {bibles.slice(0, 4).map(bible => (
                 <Link 
                   key={bible.slug} 
-                  href={`/wiki/bible/${bible.slug}`}
+                  href={`${getLinkPath(bible.slug)}${bible.slug}`}
                   className="block p-6 bg-steel/10 border-l-4 border-ash hover:border-signal hover:bg-steel/20 transition-all group"
                 >
                   <div className="text-[9px] font-mono opacity-40 mb-2 uppercase tracking-widest">Section {bible.slug.split('_').slice(1,3).join('-')}</div>
@@ -153,7 +153,7 @@ export default function WikiHome() {
                   </p>
                 </Link>
               ))}
-              <Link href="/wiki/bible" className="cta-terminal !text-sm !py-3 w-full !bg-steel/40 !border-ash hover:!border-signal">
+              <Link href="/wiki/the-blueprint-exegesis" className="cta-terminal !text-sm !py-3 w-full !bg-steel/40 !border-ash hover:!border-signal">
                 Browse Scriptural Records &rarr;
               </Link>
             </div>

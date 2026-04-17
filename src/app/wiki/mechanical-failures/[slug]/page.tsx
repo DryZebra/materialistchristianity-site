@@ -61,7 +61,7 @@ export default async function WikiNodePage({ params }: { params: Promise<{ slug:
             <p className="text-sm font-mono opacity-80 uppercase leading-relaxed mb-8">
               Post-Mortem: {postMortem}
             </p>
-            <Link href={`/wiki/mechanics/${successor}`} className="cta-terminal">Access Successor: {successor} &rarr;</Link>
+            <Link href={`${getLinkPath(successor)}${successor}`} className="cta-terminal">Access Successor: {successor} &rarr;</Link>
           </div>
         )}
 
@@ -76,7 +76,7 @@ export default async function WikiNodePage({ params }: { params: Promise<{ slug:
         <div className="breadcrumb">
           <Link href="/wiki" className="hover:text-signal">Archive</Link>
           <span className="breadcrumb-sep"></span>
-          <Link href="/wiki/mechanics" className="hover:text-signal">Axioms</Link>
+          <Link href="/wiki/mechanical-failures" className="hover:text-signal">Axioms</Link>
           <span className="breadcrumb-sep"></span>
           <span className="text-signal">{node.title}</span>
         </div>

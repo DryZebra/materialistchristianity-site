@@ -55,14 +55,14 @@ export default function MobileNav({ categories }: MobileNavProps) {
           <nav className="space-y-12 pb-32">
              <div className="grid grid-cols-1 gap-4">
                 <Link 
-                  href="/wiki/nodes" 
+                  href="/wiki/structural-proofs" 
                   onClick={() => setIsOpen(false)}
                   className="p-4 bg-steel/20 border-l-4 border-ash hover:border-signal text-2xl font-black uppercase"
                 >
                   All Axioms &rarr;
                 </Link>
                 <Link 
-                  href="/wiki/essays" 
+                  href="/wiki/labor-and-torque" 
                   onClick={() => setIsOpen(false)}
                   className="p-4 bg-steel/20 border-l-4 border-ash hover:border-signal text-2xl font-black uppercase"
                 >
@@ -79,7 +79,7 @@ export default function MobileNav({ categories }: MobileNavProps) {
                       {categories[category].map(node => (
                         <Link 
                           key={node.slug} 
-                          href={`/wiki/mechanics/${node.slug}`}
+                          href={node.url}
                           onClick={() => setIsOpen(false)}
                           className="block px-4 py-3 text-xs font-bold uppercase transition-all duration-200 border-l-2 border-transparent hover:border-signal hover:bg-signal/5 hover:text-signal"
                         >
