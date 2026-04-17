@@ -1,5 +1,5 @@
 import Link from 'next/link';
-import { getNodesByCategory, getAllWikiNodes, getAllEssays } from '@/lib/wiki';
+import { getNodesByCategory, getAllWikiNodes, getAllEssays, ContentNode } from '@/lib/wiki';
 import MobileNav from '@/components/MobileNav';
 
 export default function WikiLayout({ children }: { children: React.ReactNode }) {
@@ -7,7 +7,7 @@ export default function WikiLayout({ children }: { children: React.ReactNode }) 
   const categoryNames = Object.keys(rawCategories).sort();
 
   // Strip content for layout payload
-  const categories: Record<string, any> = {};
+  const categories: Record<string, Omit<ContentNode, 'content'>[]> = {};
   categoryNames.forEach(cat => {
     categories[cat] = rawCategories[cat].map(({ content, ...node }) => node);
   });
@@ -45,7 +45,7 @@ export default function WikiLayout({ children }: { children: React.ReactNode }) 
               <div key={category} className="mb-4">
                 <div className="text-[9px] uppercase font-mono opacity-40 mb-2">{category}</div>
                 <div className="space-y-1">
-                  {categories[category].map(node => (
+                  {categories[category].map((node: Omit<ContentNode, 'content'>) => (
                     <Link 
                       key={node.slug} 
                       href={node.url} 
