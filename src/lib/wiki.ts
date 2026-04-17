@@ -59,23 +59,20 @@ function parseContentFile(fullPath: string): ContentNode {
 }
 
 
-// Wiki Nodes (Axioms/Mechanics/Praxis/Diagnostics/History)
+// General Wiki Nodes (Structural Proofs, Mechanical Failures, Labor & Torque, Ideological Resistance)
 export function getAllWikiNodes(): ContentNode[] {
-  // Scan all folders in content/wiki EXCEPT testimonies and bible (which are separate types)
+  // Scan all folders in content/wiki EXCEPT the-blueprint-exegesis
   const baseDir = path.join(process.cwd(), 'content/wiki');
+  if (!fs.existsSync(baseDir)) return [];
   const items = fs.readdirSync(baseDir, { withFileTypes: true });
   
   let allNodes: ContentNode[] = [];
   
   items.forEach(item => {
-    if (item.isDirectory() && item.name !== 'testimonies' && item.name !== 'bible' && !item.name.startsWith('_')) {
+    if (item.isDirectory() && item.name !== 'the-blueprint-exegesis' && !item.name.startsWith('_')) {
       allNodes = allNodes.concat(getFilesFromDir(`content/wiki/${item.name}`).map(parseContentFile));
     }
   });
-
-  // Also include the legacy mechanics folder if any files remain there
-  const legacyMechanics = getFilesFromDir('content/wiki/mechanics').map(parseContentFile);
-  allNodes = allNodes.concat(legacyMechanics);
 
   // Return unique slugs only (favoring newer organization if duplicates exist)
   const uniqueNodes = Array.from(new Map(allNodes.map(node => [node.slug, node])).values());
@@ -88,9 +85,10 @@ export function getWikiNodeBySlug(slug: string): ContentNode | null {
   return nodes.find(node => node.slug === slug) || null;
 }
 
-// Essays (Testimony)
+// Essays (deprecated, merged into labor-and-torque)
 export function getAllEssays(): ContentNode[] {
-  return getFilesFromDir('content/wiki/testimonies').map(parseContentFile).sort((a, b) => a.slug.localeCompare(b.slug));
+  // Returning empty or subset if needed, currently we just point to labor-and-torque as the essay bucket
+  return getFilesFromDir('content/wiki/labor-and-torque').map(parseContentFile).sort((a, b) => a.slug.localeCompare(b.slug));
 }
 
 export function getEssayBySlug(slug: string): ContentNode | null {
@@ -98,9 +96,9 @@ export function getEssayBySlug(slug: string): ContentNode | null {
   return essays.find(e => e.slug === slug) || null;
 }
 
-// Bible Translations (Source Forensics)
+// Blueprint Exegesis (formerly Bible Translations)
 export function getAllBibleTranslations(): ContentNode[] {
-  return getFilesFromDir('content/wiki/bible').map(parseContentFile).sort((a, b) => a.slug.localeCompare(b.slug));
+  return getFilesFromDir('content/wiki/the-blueprint-exegesis').map(parseContentFile).sort((a, b) => a.slug.localeCompare(b.slug));
 }
 
 export function getBibleBySlug(slug: string): ContentNode | null {
@@ -123,18 +121,18 @@ export function getNodesByCategory(): Record<string, ContentNode[]> {
 }
 
 /**
- * Returns the correct wiki path prefix (/wiki/mechanics/ or /wiki/testimonies/)
- * by checking the filesystem for the slug's existence in each category.
+ * Returns the correct wiki path prefix
+ * by checking the filesystem for the slug's existence.
  */
 export function getLinkPath(slug: string): string {
-  const nodes = getAllWikiNodes();
-  if (nodes.some(n => n.slug === slug)) return '/wiki/mechanics/';
-  
-  const essays = getAllEssays();
-  if (essays.some(e => e.slug === slug)) return '/wiki/testimonies/';
+  if (getFilesFromDir('content/wiki/structural-proofs').map(parseContentFile).some(n => n.slug === slug)) return '/wiki/structural-proofs/';
+  if (getFilesFromDir('content/wiki/mechanical-failures').map(parseContentFile).some(n => n.slug === slug)) return '/wiki/mechanical-failures/';
+  if (getFilesFromDir('content/wiki/labor-and-torque').map(parseContentFile).some(n => n.slug === slug)) return '/wiki/labor-and-torque/';
+  if (getFilesFromDir('content/wiki/ideological-resistance').map(parseContentFile).some(n => n.slug === slug)) return '/wiki/ideological-resistance/';
   
   const bibles = getAllBibleTranslations();
-  if (bibles.some(b => b.slug === slug)) return '/wiki/bible/';
+  if (bibles.some(b => b.slug === slug)) return '/wiki/the-blueprint-exegesis/';
  
-  return '/wiki/mechanics/'; // Default fallback
+  // Fallback
+  return '/wiki/structural-proofs/';
 }
