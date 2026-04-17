@@ -9,7 +9,7 @@ related: [rupture, resurrection_structural, faith_as_residue]
 
 # The Empty Space: The Time Between
 
- the **Empty Space** (technically called the Vacuum) is the time between when an old, broken system fails (a **Total Breakdown**) and when a new, healthy one is born (**Coming Back to Life**). It is the "Wilderness" where people are still working and moving, but they are no longer being organized by a shared "We." In this empty space, the "Ghost" of the old system might still demand that you follow its rules, but those rules no longer provide any **Real-World Help**.
+The **Empty Space** (technically called the Vacuum) is the time between when an old, broken system fails (a **Total Breakdown**) and when a new, healthy one is born (**Coming Back to Life**). It is the "Wilderness" where people are still working and moving, but they are no longer being organized by a shared "We." In this empty space, the "Ghost" of the old system might still demand that you follow its rules, but those rules no longer provide any **Real-World Help**.
 
 ## How the Empty Space Works
 
@@ -23,7 +23,7 @@ The empty space is a necessary stage for a neighborhood to reset:
 The physical reality of the empty space is shown in the story of the Babylonian Exile (Psalm 137, Jeremiah 29).
 
 -   **The Disconnection**: "By the rivers of Babylon, there we sat down and wept when we remembered Zion" (Psalm 137:1). This sadness was the physical detection of the empty space—the loss of their **Anchor** (the city of Jerusalem) that previously coordinated their lives and survival.
--   **The Survival Rules**: Jeremiah 29:4-7 provides the rules for how to live in the empty space: "Build houses and live in them; plant gardens and eat their produce... seek the welfare of the city." This is the command to keep doing the **Hard Work** even when you don't have an official government or a temple to support you.
+-   **The Survival Rules**: Jeremiah 29:4-7 provides the rules for how to live in the empty space: "Build houses and live in them; plant gardens and eat their produce... Seek the welfare of the city." This is the command to keep doing the **Hard Work** even when you don't have an official government or a temple to support you.
 -   **The Physical Fact**: The empty space was where the "Slave" mindset was cleared away so that a **Surviving Few** (using the **Habits that Stay**) could form a group capable of rebuilding.
 
 ## Case Study: The Five-Day Gap

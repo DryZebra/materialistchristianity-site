@@ -14,7 +14,7 @@ The Abrahamic Cycle documents the transition from **Nomadic Reaction** to **Anch
 
 ### KJV: THE SOVEREIGN TONE
 
-The KJV’s rendering of the Abrahamic call—*"Get thee out of thy country... unto a land that I will shew thee"*—is the definitive command packet for **Systemic Migration**. The archaic resonance of the KJV establishes the "Covenant" not as a mere agreement, but as an **Absolute Legal Reality** that exists above the transient whims of local kings.
+The KJV’s rendering of the Abrahamic call—*"Get thee out of thy country... Unto a land that I will shew thee"*—is the definitive command packet for **Systemic Migration**. The archaic resonance of the KJV establishes the "Covenant" not as a mere agreement, but as an **Absolute Legal Reality** that exists above the transient whims of local kings.
 
 ---
 

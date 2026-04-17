@@ -16,7 +16,7 @@ related: [moral_labor, the_sub_object, moral_capital, faith_as_residue, rupture]
 Trust acts as a "bridge" across time:
 1.  **The Result We Count On**: Trust allows a person to put effort and **Real-World Energy** into a neighborhood system because the history of that group guarantees a specific result. You help build a neighbor's barn today because you know the neighborhood will help fix your roof tomorrow.
 2.  **When Trust Breaks**: When the results stop coming (the money doesn't buy food, the repairs don't happen, the rules are unfair), trust breaks. This is the beginning of a **Total Breakdown** (a Rupture).
-3.  **Real Strength**: Unlike regular money, which can be stolen or lose its value, Trust is built through **Hard Work for Others**. it is the only "money" that survives when the bigger systems of the world fail.
+3.  **Real Strength**: Unlike regular money, which can be stolen or lose its value, Trust is built through **Hard Work for Others**. It is the only "money" that survives when the bigger systems of the world fail.
 
 ## Why We Need Trust to Survive
 

@@ -7,7 +7,7 @@ tags: ["kingdom", "labor", "responsibility", "sovereignty", "materialism"]
 
 # The Kingdom of Labor: Reclaiming Our World
 
- the **Kingdom of Labor** is the state of a community that has taken responsibility for its own survival. It is the forensic realization that every law, every coin, and every globalist narrative is just a shadow compared to the physical work of our hands. To enter the Kingdom is to take the **Rock** of that labor seriously—to recognize that those who build and maintain the world are the only ones who can truly save it.
+The **Kingdom of Labor** is the state of a community that has taken responsibility for its own survival. It is the forensic realization that every law, every coin, and every globalist narrative is just a shadow compared to the physical work of our hands. To enter the Kingdom is to take the **Rock** of that labor seriously—to recognize that those who build and maintain the world are the only ones who can truly save it.
 
 ## The Mechanics of Foundational Strength
 

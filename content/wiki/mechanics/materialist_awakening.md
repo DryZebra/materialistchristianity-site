@@ -8,7 +8,7 @@ status: "Final"
 
 # The Materialist Awakening: The Moment of the Real
 
- the **Awakening** is the moment a worker or an "Allied Owner" realizes that the faith was built on **Labor and Survival**, not on the "Ghost-Theories" of the liberal church. 
+The **Awakening** is the moment a worker or an "Allied Owner" realizes that the faith was built on **Labor and Survival**, not on the "Ghost-Theories" of the liberal church. 
 
 ##  The Shift in Focus
 The awakening is the technical shift in your **Forehead (Focus)**.

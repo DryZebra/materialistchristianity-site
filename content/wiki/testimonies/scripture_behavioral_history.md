@@ -7,7 +7,7 @@ tags: ["scripture", "history", "authority", "survival"]
 
 # Scripture as Behavioral History: The Record of Success
 
-The Bible is not a collection of abstract metaphors or "religious opinions"; it is the physical record of human survival. It is the **Database of Proven Success**—the compilation of behaviors and social rules that survived the test of history and carried our ancestors through crisis.  the Bible is the **Solid Ground** of what actually works.
+The Bible is not a collection of abstract metaphors or "religious opinions"; it is the physical record of human survival. It is the **Database of Proven Success**—the compilation of behaviors and social rules that survived the test of history and carried our ancestors through crisis. The Bible is the **Solid Ground** of what actually works.
 
 ## How a Rule Becomes Scripture
 

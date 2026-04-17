@@ -8,7 +8,7 @@ related: [consequence_as_truth, structural_reflection]
 
 # The Final Audit: The Test of Results
 
- the **Final Audit** is the physical confirmation that a community is strong. It is the moment when all the "talk" is stripped away and the neighborhood is forced to stand on its own. It is the realization that this wiki is not a collection of "ideas," but a set of rules for **Neighborhood Coordination** that can actually keep people alive when the globalist world fails.
+The **Final Audit** is the physical confirmation that a community is strong. It is the moment when all the "talk" is stripped away and the neighborhood is forced to stand on its own. It is the realization that this wiki is not a collection of "ideas," but a set of rules for **Neighborhood Coordination** that can actually keep people alive when the globalist world fails.
 
 ## How the Audit Works
 
@@ -21,7 +21,7 @@ The Final Audit is the absolute measurement of what is real:
 
 The technical nature of the final audit is documented in Matthew 25:31-46 (the Sheep and the Goats).
 
--   **The Technical Rule**: The Judge does not ask about "beliefs," "opinions," or "labels." He performs a physical audit of the results: "For I was an hungered, and ye gave me meat: I was thirsty, and ye gave me drink... naked, and ye clothed me."
+-   **The Technical Rule**: The Judge does not ask about "beliefs," "opinions," or "labels." He performs a physical audit of the results: "For I was an hungered, and ye gave me meat: I was thirsty, and ye gave me drink... Naked, and ye clothed me."
 -   **The Division**: The "Sheep" (the Coordinated) are those whose actions produced physical survival for their neighbors ("the least of these my brethren"). The "Goats" (the Extractive) are those who took from the community but gave nothing back to the soil.
 -   **The Result**: The audit is simple and physical. The "Kingdom" is inherited by those who did the **Hard Work** of helping each other. Everyone else is left with the ruins of their own selfishness.
 

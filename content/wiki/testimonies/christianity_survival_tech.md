@@ -50,7 +50,7 @@ The full "how"—the technical protocols for rebuilding a community on the ruins
 
 #### Infrastructure and Resilience
 - [[redneck_dictatorship]] — The authority of the worker.
-- [[well_water_principle]] — Local resources vs. globalist dependency.
+- [[well_water_principle]] — Local resources vs. Globalist dependency.
 - [[christianity_survival_tech]] — Christianity as a survival manual.
 
 #### Community Hubs

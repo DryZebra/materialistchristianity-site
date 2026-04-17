@@ -14,7 +14,7 @@ status: "Final"
 "Whatsoever thy hand findeth to do, do it with thy might."
 1.  **The Priority of the Hand**: The "Hand" is the tool of survival. This command identifies that **Action** is the only thing that matters. 
 2.  **The Refusal of Idealism**: The scripture doesn't say "think about what you could do" or "interpret your dream." It says **Do It**. 
-3.  **The Finality of the Grave**: "For there is no work... in the grave, whither thou goest." This is the **Diagnostic of the Now**. We only have the physical world to work in.
+3.  **The Finality of the Grave**: "For there is no work... In the grave, whither thou goest." This is the **Diagnostic of the Now**. We only have the physical world to work in.
 
 ## The Technical Reality: Honest Labor
 Ecclesiastes is the materialist "Check" on our focus.

@@ -8,7 +8,7 @@ status: "Final"
 
 # The Right to Focus and Memory
 
- the **Right to Focus** is the technical defense of the human mind against the globalist algorithm. It identifies that your **Attention (The Forehead)** is a physical resource that the extractor is trying to hollow out.
+The **Right to Focus** is the technical defense of the human mind against the globalist algorithm. It identifies that your **Attention (The Forehead)** is a physical resource that the extractor is trying to hollow out.
 
 ##  The Extraction of Attention
 The globalist algorithm wants your constant "Attention" to serve its price-signaling.

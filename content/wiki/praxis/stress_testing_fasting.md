@@ -31,5 +31,5 @@ The **Fasting Diagnostic** identifies that our bodies and our time are not for s
 
 ## Related Content
 - [[moral_labor]] — Protecting the energy we reclaim.
-- [[the_real_split]] — Identifying our table vs. their market.
+- [[the_real_split]] — Identifying our table vs. Their market.
 - [[revelation_13_the_mechanical_mark]] — Pulling the forehead away from the mark.

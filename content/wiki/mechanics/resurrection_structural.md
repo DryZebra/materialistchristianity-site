@@ -36,7 +36,7 @@ Every time Christ predicts his death, he uses these terms to describe an inevita
 
 ### The Predictions and Old Testament Echoes:
 
-- **Matthew 16:21:** Jesus says he "must go to Jerusalem, and suffer... and be killed, and be raised (*egerthēnai*, passive: be awakened) the third day."
+- **Matthew 16:21:** Jesus says he "must go to Jerusalem, and suffer... And be killed, and be raised (*egerthēnai*, passive: be awakened) the third day."
 - **The Sign of Jonah (Matthew 12:39-40):** Christ explicitly ties his impending rupture to Jonah. In our notes, Jonah is recognized as a "failed revolution". Jonah tried to flee the contradiction, was cast into the abyss, and was forced back to deliver the message. Christ sublates this: He does not flee the contradiction; he walks directly into it (the cross), descends into the earth, and the motion is spat back out to save the world.
 - **John 2:19:** "Destroy this temple, and in three days I will raise it up (*egerō*)." Here, Jesus echoes Hosea 6:2: "After two days will he revive us: in the third day he will raise us up, and we shall live in his sight." Christ takes the collective, historical promise made to Israel—that failure and exile are not the end—and incarnates it into a single, reproducible human pattern.
 

@@ -8,7 +8,7 @@ status: "Final"
 
 # Protestant Catholic Split: The Forensics of Division
 
- the **Protestant-Catholic Split** is not primarily a theological debate; it is a **forensic diagnostic** of the division of the productive class. It identifies the mechanical way that **Mammon** (the system of equivalence) uses "Ghost-Structures" to prevent unified resistance.
+The **Protestant-Catholic Split** is not primarily a theological debate; it is a **forensic diagnostic** of the division of the productive class. It identifies the mechanical way that **Mammon** (the system of equivalence) uses "Ghost-Structures" to prevent unified resistance.
 
 ##  Competing Ghost-Structures
 The historical split has been hollowed out into a competition of symbols.
@@ -31,6 +31,6 @@ Jesus prayed that his disciples "all may be one."
 The **Diagnostic of the Split** identifies that the extractor feeds on the division. To be a Materialist Christian is to recognize that the **Flesh of the Real**—the productive motion of the work—is the only place where the class is unified. The Kingdom of God is a **Single Container** of labor.
 
 ## Related Content
-- [[the_real_split]] — The true division vs. the false division.
+- [[the_real_split]] — The true division vs. The false division.
 - [[moral_communism]] — Unified synchronization.
 - [[leviticus_borders_as_containers]] — The container of the unified class.

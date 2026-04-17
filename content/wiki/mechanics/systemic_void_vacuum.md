@@ -8,7 +8,7 @@ status: "Final"
 
 # The Systemic Void (The Vacuum)
 
- the **Systemic Void** is the forensic analysis of a world where the productive class has retreated. it identifies the "Vacuum" left behind by the globalist extractor after the town has been hollowed out.
+The **Systemic Void** is the forensic analysis of a world where the productive class has retreated. It identifies the "Vacuum" left behind by the globalist extractor after the town has been hollowed out.
 
 ##  The Return to the Real
 When a globalist monopoly leaves a town (and takes the "Ghost-Jobs"), they leave a **Void**.

@@ -8,7 +8,7 @@ status: "Final"
 
 # Writing on the Wall: Systemic Rupture
 
- the **Writing on the Wall** (Daniel 5) is the forensic diagnostic of a **Systemic Rupture**. It is the moment when a hollowed-out system no longer provides survival for its members and is superseded by a more efficient, material reality.
+The **Writing on the Wall** (Daniel 5) is the forensic diagnostic of a **Systemic Rupture**. It is the moment when a hollowed-out system no longer provides survival for its members and is superseded by a more efficient, material reality.
 
 ##  Markers of Collapse
 A system doesn't collapse all at once; it hollows out first.

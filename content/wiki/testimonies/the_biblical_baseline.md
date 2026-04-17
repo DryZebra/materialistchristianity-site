@@ -7,7 +7,7 @@ tags: ["biblical-baseline", "history", "authority", "materialism"]
 
 # The Biblical Baseline: The Metric of Social Stability
 
- the **Biblical Baseline** is the technical reference point for how a community stays alive. The Bible is not just a collection of stories; it is the **Historical Record of Human Survival**. It is the compiled data of how our ancestors interacted with the physical world and the consequences of their actions over thousands of years.
+The **Biblical Baseline** is the technical reference point for how a community stays alive. The Bible is not just a collection of stories; it is the **Historical Record of Human Survival**. It is the compiled data of how our ancestors interacted with the physical world and the consequences of their actions over thousands of years.
 
 ## The Archive of the Real
 

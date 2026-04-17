@@ -30,6 +30,6 @@ Nehemiah’s rebuilding of the wall is the archetype of the **Border-Labor**.
 The **Diagnostic of Borders** identify that without a container, the extractor will always hollow out the "Flesh" of the local community. To be a Materialist Christian is to recognize that the border is the technical protection of the **Working Class** and the **Allied Owners** against globalized Mammon.
 
 ## Related Content
-- [[the_real_split]] — The container of the worker vs. the borderless extractor.
+- [[the_real_split]] — The container of the worker vs. The borderless extractor.
 - [[moral_labor]] — The labor that is being contained.
 - [[social_proximity]] — Why the container matters for trust.

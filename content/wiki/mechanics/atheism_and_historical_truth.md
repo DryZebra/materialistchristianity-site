@@ -8,7 +8,7 @@ status: "Final"
 
 # Atheism and Historical Truth: The Forensic Floor
 
- the **Atheist Axiom** is not a denial of God; it is a **forensic diagnostic** of historical reality. It is the materialist "floor" that allows the productive class to identify the real mechanics of history beneath the layers of idealistic cover-ups.
+The **Atheist Axiom** is not a denial of God; it is a **forensic diagnostic** of historical reality. It is the materialist "floor" that allows the productive class to identify the real mechanics of history beneath the layers of idealistic cover-ups.
 
 ## The Forensic Split: Fact vs. Interpretation
 The Atheist Axiom is the technical tool for identifying the **Ghost-Theory** of history.

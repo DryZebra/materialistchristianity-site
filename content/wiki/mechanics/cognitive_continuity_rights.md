@@ -8,7 +8,7 @@ status: "Final"
 
 # Focus and Memory: Protecting Your Mind
 
- your **Focus and Memory** are physical assets, just like your tools or your truck. They are the hardware of your mind, and they must be protected from being stripped or scrambled by outside forces.
+Your **Focus and Memory** are physical assets, just like your tools or your truck. They are the hardware of your mind, and they must be protected from being stripped or scrambled by outside forces.
 
 ## The Assault on Attention
 

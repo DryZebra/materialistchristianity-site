@@ -7,7 +7,7 @@ tags: ["brush-arbor", "sequestration", "clandestine", "coordination"]
 
 # The Brush Arbor: The Off-Grid Meeting Place
 
- the **Brush Arbor** is the technical name for a secret meeting place where people coordinate their survival outside of the "Globalist Grid." Originally, it referred to the hidden structures built by enslaved people to practice a Christianity that was independent of their masters' control. Today, it describes any **Real Space** designed to help a neighborhood survive without being hollowing out by a globalist monopoly.
+The **Brush Arbor** is the technical name for a secret meeting place where people coordinate their survival outside of the "Globalist Grid." Originally, it referred to the hidden structures built by enslaved people to practice a Christianity that was independent of their masters' control. Today, it describes any **Real Space** designed to help a neighborhood survive without being hollowing out by a globalist monopoly.
 
 ## The Mechanics of Independence
 

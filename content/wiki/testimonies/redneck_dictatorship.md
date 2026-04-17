@@ -7,7 +7,7 @@ tags: ["redneck-dictatorship", "authority", "labor", "survival"]
 
 # The Redneck Dictatorship: The Authority of the Worker
 
- the **Redneck Dictatorship** is the technical recognition of the authority that comes from being the one who actually does the work. It is not a political theory; it is the physical reality of survival. It is found in communities that have been abandoned by the "Globalist Grid" (the state and the banks) and have been forced to rely on their own hands, their own tools, and their own people.
+The **Redneck Dictatorship** is the technical recognition of the authority that comes from being the one who actually does the work. It is not a political theory; it is the physical reality of survival. It is found in communities that have been abandoned by the "Globalist Grid" (the state and the banks) and have been forced to rely on their own hands, their own tools, and their own people.
 
 ## The Refusal to Wait
 
@@ -41,7 +41,7 @@ The Redneck Dictatorship is the physical proof that the productive class is the 
 
 #### Infrastructure and Resilience
 - [[redneck_dictatorship]] — The authority of the worker.
-- [[well_water_principle]] — Local resources vs. globalist dependency.
+- [[well_water_principle]] — Local resources vs. Globalist dependency.
 - [[christianity_survival_tech]] — Christianity as a survival manual.
 
 #### Community Hubs

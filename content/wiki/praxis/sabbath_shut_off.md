@@ -8,7 +8,7 @@ status: "Final"
 
 # Reclaiming the Sabbath: The Diagnostic of Rest
 
- the **Sabbath** is not a religious rule; it is a **technical requirement** for the survival of the productive class. It is the materialist act of reclaiming your time and biology from the globalist 24/7 work-cycle.
+The **Sabbath** is not a religious rule; it is a **technical requirement** for the survival of the productive class. It is the materialist act of reclaiming your time and biology from the globalist 24/7 work-cycle.
 
 ##  Reclaiming Time
 The globalist system wants your every minute.

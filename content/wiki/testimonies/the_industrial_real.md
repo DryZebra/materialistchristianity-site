@@ -7,7 +7,7 @@ tags: ["industrial-real", "labor", "tools", "consequence"]
 
 # The Industrial Real: The Site of Calibration
 
-The **Industrial Real** is the physical environment where human work meets the resistance of the world. It is not just about factories; it is the forensic definition of the space where **Real Labor** produces measurable results.  the Industrial Real is the site of calibration—the place where "Ghostly" theories are stripped away by the undeniable laws of physical consequence.
+The **Industrial Real** is the physical environment where human work meets the resistance of the world. It is not just about factories; it is the forensic definition of the space where **Real Labor** produces measurable results. The Industrial Real is the site of calibration—the place where "Ghostly" theories are stripped away by the undeniable laws of physical consequence.
 
 ## The Proof of the Tool
 

@@ -7,7 +7,7 @@ tags: ["self", "identity", "community", "the-real"]
 
 # The Structural Self: You are a Reflection of Your Neighborhood
 
- the **Fractal Theory of Self** is the technical recognition that a person is not an isolated "Individual," but a **Reflection** of the larger structures they belong to—the Family, the Church, and the Neighborhood. The pattern of your life is the same at every scale. A single person is like a "small" version of the community’s overall **Neighborhood Coordination**.
+The **Fractal Theory of Self** is the technical recognition that a person is not an isolated "Individual," but a **Reflection** of the larger structures they belong to—the Family, the Church, and the Neighborhood. The pattern of your life is the same at every scale. A single person is like a "small" version of the community’s overall **Neighborhood Coordination**.
 
 ## How the Reflection Works
 

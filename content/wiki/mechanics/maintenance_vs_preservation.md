@@ -27,7 +27,7 @@ The forensic nature of maintenance is documented in Mark 2:23-28 (The Sabbath Di
 
 ## Forensic Observations
 
-Synthesized archival snapshots of maintenance vs. preservation:
+Synthesized archival snapshots of maintenance vs. Preservation:
 -   **Re-digging the Wells**: Forensic observations of community restoration following a period of hollowing. The technician does not find "new" water; they perform the maintenance of the real by clearing the "Dirt" of entropy from the original structural pathways (Genesis 26:18).
 -   **The Museum Factory**: Observations of industrial sites that were "Preserved" as heritage landmarks while the local population suffered total metabolic breakdown. The "Preservation" of the building was a symbolic lie that masked the death of the actual [[moral_labor]] that once powered the site.
 

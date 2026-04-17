@@ -33,4 +33,4 @@ The **Daniel Method** identifies that the training of the next generation is the
 ## Related Content
 - [[biblical_fasting_explained]] — The withdrawal of energy.
 - [[moral_labor]] — The labor that Daniel protected.
-- [[the_real_split]] — Identifying the King's Table vs. the People's Table.
+- [[the_real_split]] — Identifying the King's Table vs. The People's Table.

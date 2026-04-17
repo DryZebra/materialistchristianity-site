@@ -9,7 +9,7 @@ tags: ["sub-object", "resonance", "consequence", "vector"]
 
 # The Sub-Object: Vector of Consequence
 
- a **Sub-Object** is not a "collective identity" or a group label. It is the technical name for the **Resonance Field** of labor, memory, and contradiction that surrounds an object, a person, or a ritual. 
+A **Sub-Object** is not a "collective identity" or a group label. It is the technical name for the **Resonance Field** of labor, memory, and contradiction that surrounds an object, a person, or a ritual. 
 
 It is the **Invisible Architecture of Pressure** that makes people move toward shared survival even when no one is watching.
 

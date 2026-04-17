@@ -8,7 +8,7 @@ status: "Final"
 
 # The Extractive Layer
 
- **The Extractive Layer** is the technical name for the class of "Everyone Else"—those who live off the labor of the productive class without producing anything themselves. it is the forensic diagnosis of **Social Vampirism**.
+ **The Extractive Layer** is the technical name for the class of "Everyone Else"—those who live off the labor of the productive class without producing anything themselves. It is the forensic diagnosis of **Social Vampirism**.
 
 ##  Who Works vs. Who Takes
 The materialist split is simple: there are those who produce social life, and those who extract from it. 

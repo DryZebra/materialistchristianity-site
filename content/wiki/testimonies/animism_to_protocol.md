@@ -28,7 +28,7 @@ By declaring that one singular Logic (God) established the Light, the Earth, and
 
 ### 3. The Survival Manual
 
-This transition was a **survival requirement**. the tribes that adopted the "One Logic" rule could coordinate across huge areas because they all shared the same view of the world. They were no longer reacting to a thousand fickle spirits; they were following one Law.
+This transition was a **survival requirement**. The tribes that adopted the "One Logic" rule could coordinate across huge areas because they all shared the same view of the world. They were no longer reacting to a thousand fickle spirits; they were following one Law.
 
 ### 4. Today's Context
 

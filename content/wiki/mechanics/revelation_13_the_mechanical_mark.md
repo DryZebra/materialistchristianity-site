@@ -28,6 +28,6 @@ Marx argued that the "nature of a human" is to interact with and change the worl
 The Mechanical Mark identifies the moment that the productive class surrenders its **Work** and its **Attention** to globalist finance. To be a Materialist Christian is to refuse the mark, reclaim the **Flesh of the Real**, and ensure that labor is only applied to what is needed.
 
 ## Related Content
-- [[the_real_split]] — The worker vs. the credit-floater.
+- [[the_real_split]] — The worker vs. The credit-floater.
 - [[money_mammon_and_christ]] — The god of price.
 - [[systemic_extraction]] — The hollowing out of the community.

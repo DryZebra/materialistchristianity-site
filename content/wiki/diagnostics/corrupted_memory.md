@@ -23,7 +23,7 @@ Memory is corrupted through the systematic **Separation of the Real**:
 The forensic necessity of uncorrupted memory is documented in the command to the Israelites after the crossing of the Jordan (Joshua 4).
 
 -   **The Mechanic**: The command to take twelve stones from the river and build a memorial.
--   **The Requirement**: "That this may be a sign among you... when your children ask their fathers in time to come, saying, What mean ye by these stones?" (Joshua 4:6).
+-   **The Requirement**: "That this may be a sign among you... When your children ask their fathers in time to come, saying, What mean ye by these stones?" (Joshua 4:6).
 -   **The Forensic**: The stones are not "Art"; they are a material anchor designed to prevent corrupted memory. They provide an undeniable concretion of the material reality of the crossing. To forget the stones is to forget the [[the_biblical_baseline]] of their own survival, ensuring their eventual capture by the surrounding entropic cultures.
 
 ## Forensic Observations

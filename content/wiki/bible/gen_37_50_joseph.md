@@ -14,7 +14,7 @@ The Joseph Cycle documents the **Global Administrative Phase** of the Protocol. 
 
 ### KJV: THE ADMINISTRATIVE SIGNAL
 
-The KJV’s phrasing of Joseph's summary of the entire dialectic—*"But as for you, ye thought evil against me; but God meant it unto good... to save much people alive"*—is the definitive documentation of **Systemic Teleology**. The KJV establishes that the Protocol (the "God" variable) operates through human friction (evil thoughts/actions) to produce a mandatory survival result (saving much people alive). It is the realization that the **End Result** (Species Survival) is the only valid metric of the Logic.
+The KJV’s phrasing of Joseph's summary of the entire dialectic—*"But as for you, ye thought evil against me; but God meant it unto good... To save much people alive"*—is the definitive documentation of **Systemic Teleology**. The KJV establishes that the Protocol (the "God" variable) operates through human friction (evil thoughts/actions) to produce a mandatory survival result (saving much people alive). It is the realization that the **End Result** (Species Survival) is the only valid metric of the Logic.
 
 ---
 

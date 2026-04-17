@@ -8,7 +8,7 @@ related: [the_sub_object, moral_labor]
 
 # The Way We Connect: How People and Groups Interact
 
- the **Interaction** (technically called the Human-Structure Interface) is the way a person connects with their community (the "We"). It is defined by a specific set of **Rules of Interaction**—rituals, laws, and customs—that allow the strength of the group to help the individual, and the individual to contribute their **Hard Work** to the group. The interaction is the "Handle" of the social machine.
+The **Interaction** (technically called the Human-Structure Interface) is the way a person connects with their community (the "We"). It is defined by a specific set of **Rules of Interaction**—rituals, laws, and customs—that allow the strength of the group to help the individual, and the individual to contribute their **Hard Work** to the group. The interaction is the "Handle" of the social machine.
 
 ## How the Connection Works
 

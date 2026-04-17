@@ -88,7 +88,7 @@ status: "Final"
 
 # The Atheist Floor (The Axiom)
 
- the **Atheist Floor** is the forensic recognition that **Reality is Material**. It is the rejection of all "Ghost-Theories," even in the church, in favor of what is physically and technically verifiable.
+The **Atheist Floor** is the forensic recognition that **Reality is Material**. It is the rejection of all "Ghost-Theories," even in the church, in favor of what is physically and technically verifiable.
 
 ##  The Floor of the Real
 We start by assuming that the world is **Physical and Real**.

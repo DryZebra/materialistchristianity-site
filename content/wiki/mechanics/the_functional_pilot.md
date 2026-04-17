@@ -8,7 +8,7 @@ related: [sub_object_resonance, the_atheist_axiom_and_the_machine]
 
 # The Neighborhood Leader: The Rules of Working Together
 
-The **Neighborhood Leader** (technically called the Functional Pilot) is the shared set of rules that keeps a community moving in the right direction.  the concept of "God" is understood as the leader of the community's work. This "Leader" is the shared set of instructions that ensures everyone stays focused on the **Real World**, preventing the neighborhood from falling apart into empty talk and confusion.
+The **Neighborhood Leader** (technically called the Functional Pilot) is the shared set of rules that keeps a community moving in the right direction. The concept of "God" is understood as the leader of the community's work. This "Leader" is the shared set of instructions that ensures everyone stays focused on the **Real World**, preventing the neighborhood from falling apart into empty talk and confusion.
 
 ## How the Leader Works
 

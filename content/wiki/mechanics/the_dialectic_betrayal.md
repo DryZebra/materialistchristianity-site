@@ -21,7 +21,7 @@ You can identify a broken contract by the physical results, not by what the lead
 
 The technical nature of this betrayal is shown in the critique of the "worthless shepherds" in Ezekiel 34.
 
--   **The Theft**: "You eat the fat and clothe yourselves with the wool... but you do not feed the flock" (Ezekiel 34:3). This is the clear sign of a broken contract: taking value from the people without providing food and safety in return.
+-   **The Theft**: "You eat the fat and clothe yourselves with the wool... But you do not feed the flock" (Ezekiel 34:3). This is the clear sign of a broken contract: taking value from the people without providing food and safety in return.
 -   **The Neglect**: "The sickly you have not strengthened, the diseased you have not healed..." (v. 4). The failure to do the **Real Work** of helping the members of the community.
 -   **The Physical Result**: The warning that "I am against the shepherds" is the physical law of cause and effect. An organization that betrays its neighbors will eventually be dismantled by the real world.
 

@@ -7,7 +7,7 @@ tags: ["time", "consequence", "cause-and-effect", "the-real"]
 
 # The Collapsing Timeline: The Weight of the Result
 
- the **Collapsing Timeline** is the technical name for the law of **Cause and Effect**. It is the recognition that the future is not some distant, magical realm; it is the inevitable result of the path you are walking today. Every choice you make today is "collapsing" all the possible futures into a single, physical **Result**.
+The **Collapsing Timeline** is the technical name for the law of **Cause and Effect**. It is the recognition that the future is not some distant, magical realm; it is the inevitable result of the path you are walking today. Every choice you make today is "collapsing" all the possible futures into a single, physical **Result**.
 
 ## How the Timeline Collapses
 

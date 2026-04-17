@@ -7,7 +7,7 @@ tags: ["community", "cooperation", "strength", "materialism"]
 
 # The Third Category: The Reality of the "We"
 
- the **Third Category** is the technical name for what happens when people coordinate their lives. Usually, people divide the world into **Things** (objects like tools and food) and **People** (individuals with their own thoughts). But we identify a third, equally real category: the **Neighborhood Connection**. This is the strength that exists *between* people, built through shared work and proven by results.
+The **Third Category** is the technical name for what happens when people coordinate their lives. Usually, people divide the world into **Things** (objects like tools and food) and **People** (individuals with their own thoughts). But we identify a third, equally real category: the **Neighborhood Connection**. This is the strength that exists *between* people, built through shared work and proven by results.
 
 ## The Physical Reality of Cooperation
 

@@ -31,6 +31,6 @@ Resistance is the moment the productive class recognizes a system has stopped pr
 ---
 
 ### Related Content
-- [[the_real_split]] — The worker vs. the extractor.
+- [[the_real_split]] — The worker vs. The extractor.
 - [[moral_labor]] — The energy we are protecting.
 - [[biblical_fasting_explained]] — The technical withdrawal of energy.

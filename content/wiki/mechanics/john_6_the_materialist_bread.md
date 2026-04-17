@@ -31,4 +31,4 @@ The **Diagnostic of the Bread** identify that the extractor’s market is hollow
 ## Related Content
 - [[moral_communism]] — Sharing the bread.
 - [[biblical_fasting_explained]] — Withdrawing from the hollowed-out market.
-- [[the_real_split]] — Identifying our table vs. their table.
+- [[the_real_split]] — Identifying our table vs. Their table.

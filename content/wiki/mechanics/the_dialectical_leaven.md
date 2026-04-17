@@ -8,7 +8,7 @@ related: [strategic_vanguard_interface, moral_capital]
 
 # The Dialectical Leaven: Changing the Group from Within
 
- the **Dialectical Leaven** is the name for how a strong way of living (the Kingdom) spreads through a community. It is a natural process of transformation. Unlike "propaganda" or slogans, the Leaven changes a neighborhood through personal example and shared work.
+The **Dialectical Leaven** is the name for how a strong way of living (the Kingdom) spreads through a community. It is a natural process of transformation. Unlike "propaganda" or slogans, the Leaven changes a neighborhood through personal example and shared work.
 
 ## How the Leaven Spreads
 
