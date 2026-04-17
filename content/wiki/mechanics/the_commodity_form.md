@@ -3,7 +3,7 @@ title: "Turning Real Life into Products: The Commodity Form"
 description: "The technical rule for how real-world work and neighborhood trust are turned into things that can be bought and sold for profit."
 category: Foundations
 tags: [commodity, extraction, money, neighborhood]
-related: [social_vampirism, moral_capital, trust_as_commodity]
+related: [systemic_extraction, moral_capital, trust_as_commodity]
 ---
 
 # Turning Real Life into Products: The Commodity Form
@@ -37,7 +37,7 @@ We see this everywhere today:
 ### Related Content
 
 #### Core Foundations
-- [[social_vampirism]] — The theft that uses products.
+- [[systemic_extraction]] — The theft that uses products.
 - [[moral_capital]] — The strength that is often stolen.
 - [[trust_as_commodity]] — When trust itself is sold.
 

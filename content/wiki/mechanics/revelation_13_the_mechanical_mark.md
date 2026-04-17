@@ -30,4 +30,4 @@ The Mechanical Mark identifies the moment that the productive class surrenders i
 ## Related Content
 - [[the_real_split]] — The worker vs. the credit-floater.
 - [[money_mammon_and_christ]] — The god of price.
-- [[capital_as_vampire]] — The hollowing out of the community.
+- [[systemic_extraction]] — The hollowing out of the community.

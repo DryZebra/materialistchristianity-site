@@ -7,7 +7,7 @@ tags: ["mechanics", "capitalism", "homesteading", "infrastructure"]
 
 # The Well-Water Principle: Systems and The Aquifer
 
-The **Well-Water Principle** describes the mechanical relationship between individual survival strategies and the systemic environment they occupy. Previously mischaracterized as a mandate for individual or tribal independence (such as homesteading or communes), the actual principle is a diagnostic tool for understanding layer-dependency: changing the pipes in your house does not isolate you from the aquifer.
+The **Well-Water Principle** describes the mechanical relationship between individual survival strategies and the systemic environment they occupy. Easily mischaracterized as a mandate for individual or tribal independence (such as homesteading or communes), the actual principle is a diagnostic tool for understanding layer-dependency: changing the pipes in your house does not isolate you from the aquifer.
 
 ## The Illusion of the Separate Well
 

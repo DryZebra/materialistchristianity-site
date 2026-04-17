@@ -33,4 +33,4 @@ Jesus said, "Let the dead bury their dead: but go thou and preach the kingdom of
 ## Related Content
 - [[resurrection_structural]] — The technical restarting of the world.
 - [[moral_labor]] — The labor that animates the dead infrastructure.
-- [[capital_as_vampire]] — The nature of the dead extractor.
+- [[systemic_extraction]] — The nature of the dead extractor.

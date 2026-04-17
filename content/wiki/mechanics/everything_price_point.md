@@ -24,5 +24,5 @@ When you help your neighbor without asking for a corporate contract, you break t
 ---
 
 ### Related Content
-- [[capital_as_vampire]] — The entity doing the extracting.
+- [[systemic_extraction]] — The entity doing the extracting.
 - [[money_mammon_and_christ]] — The reality of credit and debt.

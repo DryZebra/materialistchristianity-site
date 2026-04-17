@@ -3,7 +3,7 @@ title: "Neighborhood Trust vs. Official Trust"
 description: "The technical difference between trusting the person standing next to you and trusting a distant system or brand."
 category: Foundations
 tags: [trust, neighborhood, community, honesty]
-related: [moral_capital, social_vampirism, the_nothing]
+related: [moral_capital, systemic_extraction, the_nothing]
 ---
 
 # Neighborhood Trust vs. Official Trust: Protecting the Real
@@ -38,7 +38,7 @@ We see this in our own neighborhoods:
 
 #### Core Foundations
 - [[moral_capital]] — The strength we build through trust.
-- [[social_vampirism]] — The theft of our community's strength.
+- [[systemic_extraction]] — The theft of our community's strength.
 - [[the_nothing]] — The emptiness left behind by official systems.
 
 #### Essays & Testimonies

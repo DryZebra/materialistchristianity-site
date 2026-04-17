@@ -22,4 +22,4 @@ This diagnostic removes the "Despair of the Grave" without relying on superstiti
 ## IV. CONNECTIONS
 *   **Complemented By**: [Reverse Destiny](/wiki/mechanics/reverse_destiny) (The technical path), [Consequence As Truth](/wiki/mechanics/consequence_as_truth) (Mapping the "Fruit" to the Protocol).
 *   **Result**: [Resurrection Structural](/wiki/mechanics/resurrection_structural).
-*   **Opposite**: [Capital As Vampire](/wiki/mechanics/capital_as_vampire) (The diagnostic identifies the external public field as a resource extraction engine).
+*   **Opposite**: [Systemic Extraction](/wiki/mechanics/systemic_extraction) (The diagnostic identifies the external public field as a resource extraction engine).

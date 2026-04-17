@@ -19,6 +19,6 @@ When a 15-man shop is forced to close because it refuses to follow the extractiv
 **Revelation 13:16-17** ("No man might buy or sell, save he that had the mark"). This is a literal economic diagnosis of a totalizing system. It describes a state where the means of survival (buying and selling) are gated behind technical loyalty to a specific market algorithm.
 
 ## Related Content
-- [[capital_as_vampire]] — The nature of the predator.
+- [[systemic_extraction]] — The nature of the predator.
 - [[revelation_13_the_mechanical_mark]] — Further technical detail.
 - [[money_mammon_and_christ]] — The choice of metabolism.

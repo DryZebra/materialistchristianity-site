@@ -15,7 +15,7 @@ In the materialist dialectic, the distinction between maintenance and preservati
 The divergence between these two paths determines the survival of the structure:
 1.  **Maintenance (The Kinetic)**: Maintenance treats the structure as a tool for survival. When a part fails or the environment changes, the pilot performs the necessary labor to adjust the machine. It is the "Isaac-Motion" of re-digging the wells of the fathers.
 2.  **Preservation (The Entropic)**: Preservation treats the structure as an idol. It protects the image of the machine while ignoring its mechanical failure. It results in a "Museum" or "Zombie" structure that produces nothing but memory and [[the_nothing]].
-3.  **The Result**: Maintenance produces [[moral_capital]] and durable trust. Preservation facilitates [[social_vampirism]], as the hollowed-out form is easy for the "Vampire" to occupy.
+3.  **The Result**: Maintenance produces [[moral_capital]] and durable trust. Preservation facilitates [[systemic_extraction]], as the hollowed-out form is easy for the "Extractor" to occupy.
 
 ## Biblical Diagnosis: The Sabbath Override
 

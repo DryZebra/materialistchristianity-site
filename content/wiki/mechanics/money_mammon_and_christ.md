@@ -31,5 +31,5 @@ The **Diagnostic of Money** identifies that the globalist wants your attention a
 
 ## Related Content
 - [[the_real_split]] — The diagnostic of who works vs who takes.
-- [[capital_as_vampire]] — Money as the fuel for extraction.
+- [[systemic_extraction]] — Money as the fuel for extraction.
 - [[revelation_13_the_mechanical_mark]] — The morphology of this capture.

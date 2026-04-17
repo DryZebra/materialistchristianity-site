@@ -34,7 +34,7 @@ The diagnostic of Hell allows a community to move on from collapse. It is the "M
 #### Finality and Rupture
 - [[rupture]] — The core dialectic.
 - [[gmorknicity]] — The hollowing out of reality.
-- [[vampire_extraction]] — The result of choosing the void.
+- [[systemic_extraction]] — The result of choosing the void.
 
 #### Anthropological Tools
 - [[material_heaven]] — The mechanism of the general.

@@ -13,7 +13,7 @@ tags: ["redneck-dictatorship", "authority", "labor", "survival"]
 
 Globalist monopolies operate by hollowing out a town and replacing local trust with "Statements" or "Publicized Support." But when the grid fails—whether through an economic crash or a physical disaster—the people are left with nothing but what they have on their own land.
 
-The "Dictatorship" begins at the moment people refuse to wait for a distant manager to "save" them. They recognize that their own labor, their own "stupid" trucks, and their own knowledge of the local trails are the only sources of actual power. This is the transition from being a "Consumer" of globalist aid to being the **Author** of your own survival.
+The "Dictatorship" begins at the moment people refuse to wait for a distant manager to "save" them. They recognize that their own labor, their own trucks, and their own knowledge of the local trails are the only sources of actual power. This is the transition from being a "Consumer" of globalist aid to being the **Author** of your own survival.
 
 ## The Manual Override
 
@@ -28,7 +28,7 @@ When these are aligned, the community has a strength that is undeniable. It cann
 In every major disaster, like Hurricane Helene, we see the Redneck Dictatorship in action:
 
 1.  **The Failure of the Official Grid**: The state-managed emergency response—the "Authorized" response—often fails the **Survival Check** immediately. The rules are too slow, the managers are too far away, and they don't know the territory.
-2.  **The Override**: Local workers, using their own heavy machinery, "stupid" trucks, and 4-wheelers, begin clearing roads and finding the people who are cut off. They don't wait for permission; they operate on the authority of the physical requirement for survival. They know the trails, they know where the people live, and they know how to get there.
+2.  **The Override**: Local workers, using their own heavy machinery, trucks, and 4-wheelers, begin clearing roads and finding the people who are cut off. They don't wait for permission; they operate on the authority of the physical requirement for survival. They know the trails, they know where the people live, and they know how to get there.
 3.  **The Result**: These communities survive while those that wait for the "Authorized" response suffer. This is the Redneck Dictatorship: the authority of the one who actually knows how to do the work.
 
 ## The Proletarian Protagonist

@@ -38,5 +38,5 @@ By pooling resources, you create a **Buffer Zone** where the "General" rule of t
 
 #### Core Foundations
 - [[the_kingdom_of_labor]] — The goal of pooling.
-- [[vampire_extraction]] — What we are defending against.
+- [[systemic_extraction]] — What we are defending against.
 - [[moral_labor]] — The currency used to pay for the pool.

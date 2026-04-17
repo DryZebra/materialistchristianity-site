@@ -27,10 +27,10 @@ The only physical cure for this hollowing out is the **Work of Restoration**—p
 ### Related Content
 
 #### The Process of Decay
-- [[vampire_extraction]] — The draining of community energy.
+- [[systemic_extraction]] — The draining of community energy.
 - [[hollowing_out_decay]] — The diagnostic of systemic failure.
 
 #### Economic Mechanics
 - [[the_commodity_form]] — Turning life into data.
-- [[capital_as_vampire]] — The extraction of the productive class.
+- [[systemic_extraction]] — The extraction of the productive class.
 - [[credit_as_borrowed_happiness]] — The illusion of credit.

@@ -12,7 +12,7 @@ Social Proximity is the term for the [Commodity](/wiki/mechanics/the_commodity_f
 
 ## The Mechanic of the Simulation
 
-As the [Social Vampire](/wiki/mechanics/social_vampirism) drains the structural mass of a community, it creates a void of **Presence**. It then sells the simulation of that presence back to the isolated subject:
+As the [Extractive Layer](/wiki/mechanics/systemic_extraction) drains the structural mass of a community, it creates a void of **Presence**. It then sells the simulation of that presence back to the isolated subject:
 
 1.  **Hollow out the Local**: The destruction of the [Brush Arbor](/wiki/testimonies/the_brush_arbor) and the neighborhood, leaving the subject isolated.
 2.  **Market the Vibe**: The symbols of belonging (The Heart) are turned into digital content—pure resonance detached from physical neighborliness.
