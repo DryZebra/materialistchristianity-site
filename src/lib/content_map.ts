@@ -507,9 +507,13 @@ export const CONTENT_MAP: Record<string, { title: string; category: string }> = 
     "title": "The Broken Contract",
     "category": "wiki/ideological-resistance"
   },
-  "the_entropic_dance": {
-    "title": "The Entropic Dance: The Performance of Decay",
+  "fake_synchronization": {
+    "title": "Fake Synchronization: The Performance of Decay",
     "category": "wiki/mechanical-failures"
+  },
+  "the_entropic_dance": {
+    "title": "The Entropic Dance: Morality as Thermodynamic Resistance",
+    "category": "wiki/ideological-resistance"
   },
   "the_final_audit": {
     "title": "The Final Audit",
