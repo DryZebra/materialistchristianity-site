@@ -46,3 +46,7 @@ Understanding reality as the 4D Time Snake immediately shatters the illusion of 
 - [[timeline_paradox]] — The anti-simulation proof derived from the Time Snake's quantum head.
 - [[reverse_destiny]] — Steering the head to alter the trajectory's structural outcome.
 - [[collapsing_timelines]] — When the probabilistic future consequences geometrically collapse into the present.
+
+#### In-Depth Analysis & Essays
+- [4D Time Snake: Mathematical Proof](/wiki/structural-proofs/4d_time_snake_mathematical_proof) — A rigorous mathematical and relativistic derivation of the world-tube model.
+- [The Topological Dialectic: Conceptual Analysis](/wiki/structural-proofs/4d_time_snake_conceptual_analysis) — Synthesizing spacetime topology with historical materialism and Materialist Christianity.

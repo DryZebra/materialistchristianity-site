@@ -803,6 +803,14 @@ export const CONTENT_MAP: Record<string, { title: string; category: string }> = 
     "title": "Genesis 4 — 11: The Environmental Feedback Loop",
     "category": "wiki/the-blueprint-exegesis"
   },
+  "4d_time_snake_mathematical_proof": {
+    "title": "4D Time Snake: Mathematical Proof",
+    "category": "wiki/structural-proofs"
+  },
+  "4d_time_snake_conceptual_analysis": {
+    "title": "The Topological Dialectic: Conceptual Analysis",
+    "category": "wiki/structural-proofs"
+  },
   "index": {
     "title": "Materialist Christian Study Bible",
     "category": "wiki/the-blueprint-exegesis"
