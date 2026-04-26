@@ -2,6 +2,8 @@ import { Metadata } from 'next';
 import Link from 'next/link';
 import ReactMarkdown from 'react-markdown';
 import remarkGfm from 'remark-gfm';
+import remarkMath from 'remark-math';
+import rehypeKatex from 'rehype-katex';
 import { getAllBibleTranslations, getBibleBySlug, getLinkPath } from '@/lib/wiki';
 import { transformWikiLinks } from '@/lib/markdown';
 
@@ -69,7 +71,10 @@ export default async function BiblePage({ params }: { params: Promise<{ slug: st
       </header>
 
       <section className="max-w-5xl mx-auto text-lg md:text-2xl leading-relaxed markdown-real border-b-4 border-ash pb-16">
-        <ReactMarkdown remarkPlugins={[remarkGfm]}>
+        <ReactMarkdown 
+          remarkPlugins={[remarkGfm, remarkMath]}
+          rehypePlugins={[rehypeKatex]}
+        >
           {transformWikiLinks(bible.content)}
         </ReactMarkdown>
       </section>

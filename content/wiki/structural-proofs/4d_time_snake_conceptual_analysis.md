@@ -1,6 +1,8 @@
 ---
 title: "The Topological Dialectic: Conceptual Analysis"
 category: "Structural Proofs"
+description: "Synthesizing the 4D Time Snake with Materialist Christianity, exploring the topological soul, dialectical complexity, and the floor of human development."
+related: [4d_time_snake, 4d_time_snake_mathematical_proof]
 status: "Final"
 ---
 

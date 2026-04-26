@@ -4,6 +4,8 @@ import fs from 'fs';
 import path from 'path';
 import ReactMarkdown from 'react-markdown';
 import remarkGfm from 'remark-gfm';
+import remarkMath from 'remark-math';
+import rehypeKatex from 'rehype-katex';
 import { getAllWikiNodes, getWikiNodeBySlug, getLinkPath } from '@/lib/wiki';
 import { transformWikiLinks } from '@/lib/markdown';
 
@@ -95,7 +97,10 @@ export default async function WikiNodePage({ params }: { params: Promise<{ slug:
       </header>
 
       <section className="max-w-5xl mx-auto text-lg md:text-2xl leading-relaxed markdown-real">
-        <ReactMarkdown remarkPlugins={[remarkGfm]}>
+        <ReactMarkdown 
+          remarkPlugins={[remarkGfm, remarkMath]}
+          rehypePlugins={[rehypeKatex]}
+        >
           {transformWikiLinks(node.content)}
         </ReactMarkdown>
       </section>

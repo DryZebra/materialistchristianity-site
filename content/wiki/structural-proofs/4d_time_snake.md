@@ -3,7 +3,7 @@ title: "The 4D Time Snake: Continuous Geometric Reality"
 description: "The mathematical and physical modeling of a macroscopic object as an unbroken hyper-cylindrical world-tube in Minkowski spacetime, and its implications for historical materialism."
 category: "Structural Proofs"
 tags: [spacetime, geometry, relativity, thermodynamics, world-tube, physics]
-related: [timeline_paradox, the_entropic_dance, book_of_fractals]
+related: [4d_time_snake_mathematical_proof, 4d_time_snake_conceptual_analysis, timeline_paradox, the_entropic_dance, book_of_fractals]
 ---
 
 # The 4D Time Snake: Continuous Geometric Reality

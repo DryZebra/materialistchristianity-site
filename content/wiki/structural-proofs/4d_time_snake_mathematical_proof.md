@@ -1,6 +1,8 @@
 ---
 title: "4D Time Snake: Mathematical Proof"
 category: "Structural Proofs"
+description: "A rigorous mathematical derivation of the 4D Time Snake using Minkowski Spacetime, Lorentz Transformations, and General Relativity."
+related: [4d_time_snake, 4d_time_snake_conceptual_analysis]
 status: "Final"
 ---
 
