@@ -41,5 +41,5 @@ To move correctly is to embrace the dialectical subtraction, allowing the contra
 
 ### Related Content
 - [[4d_time_snake](/wiki/structural-proofs/4d_time_snake)] — The entity performing the dialectic.
-- [[the_entropic_dance]] — The thermodynamic pressure causing the Antithesis.
+- [[materialist_critique_entropic_dance]] — The thermodynamic pressure and material reality causing the Antithesis.
 - [[behavioral_gravity]] — The inherited weight of past syntheses.

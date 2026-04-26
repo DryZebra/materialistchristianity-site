@@ -291,6 +291,10 @@ export const CONTENT_MAP: Record<string, { title: string; category: string }> = 
     "title": "Materialist Christianity Overview",
     "category": "wiki/ideological-resistance"
   },
+  "materialist_critique_entropic_dance": {
+    "title": "The Materialist Critique: Demolishing the Entropic Dance",
+    "category": "wiki/ideological-resistance"
+  },
   "materialist_christian_creed": {
     "title": "The Materialist Christian Creed",
     "category": "wiki/ideological-resistance"
@@ -385,6 +389,10 @@ export const CONTENT_MAP: Record<string, { title: string; category: string }> = 
   },
   "resurrection_structural": {
     "title": "Resurrection: Coming Back to Life",
+    "category": "wiki/ideological-resistance"
+  },
+  "religion_of_the_holy_light": {
+    "title": "The Religion of the Holy Light: The Precursor Cosmology",
     "category": "wiki/ideological-resistance"
   },
   "revelation_13_the_mechanical_mark": {
