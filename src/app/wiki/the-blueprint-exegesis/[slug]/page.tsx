@@ -22,7 +22,7 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   }
 
   return {
-    title: `${bible.title} | Bible Forensics`,
+    title: `${bible.title} | The Blueprint Exegesis`,
     description: bible.description,
   };
 }
@@ -49,7 +49,7 @@ export default async function BiblePage({ params }: { params: Promise<{ slug: st
         <div className="breadcrumb">
           <Link href="/wiki" className="hover:text-signal">Archive</Link>
           <span className="breadcrumb-sep"></span>
-          <Link href="/wiki/the-blueprint-exegesis" className="hover:text-signal">Bible Forensics</Link>
+          <Link href="/wiki/the-blueprint-exegesis" className="hover:text-signal">The Blueprint Exegesis</Link>
           <span className="breadcrumb-sep"></span>
           <span className="text-signal">{bible.title}</span>
         </div>
@@ -57,7 +57,7 @@ export default async function BiblePage({ params }: { params: Promise<{ slug: st
 
       <header className="max-w-4xl mx-auto mb-16">
         <div className="flex gap-2 mb-4 text-[10px] font-mono uppercase tracking-widest text-signal font-black">
-          SOURCE FORENSICS // {bible.category}
+          THE BLUEPRINT EXEGESIS // {bible.category}
         </div>
         <h1 className="text-5xl md:text-8xl mb-8 leading-[0.9] uppercase font-black italic tracking-tighter">
           {bible.title}

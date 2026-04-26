@@ -8,14 +8,14 @@ diagnostic: "Pure MC"
 
 # Collapsing Timelines: The Weight of the Receipt
 
-In the real world, Collapsing Timelines is the mechanical moment when the future consequence (the Fruits) of a behavior "Collapses" into the present. It is the **Reality Check** of the **4D Time Snake**—the moment where the subject's trajectory can no longer hide from its own **inevitable consequence**.
+In the real world, Collapsing Timelines is the mechanical moment when the future consequence (the Fruits) of a behavior geometrically "Collapses" into the present. It is the **Reality Check** of the **[4D Time Snake](/wiki/structural-proofs/4d_time_snake)**—the moment where the subject's trajectory can no longer hide from the inevitable condensation of its probabilistic future.
 
 ## The Mechanic of the Collapse
 
 Timelines collapse when a structure's internal motion (The Slogan) meets the material impossibility of its presence:
 
 1.  **Projection**: A subject or a nation moves in a trajectory that ignores the **Biblical Sediment** (The Rock).
-2.  **Accumulation**: The "Entropy" of the false path builds up in the future segments of the 4D Time Snake.
+2.  **Accumulation**: The unresisted "Entropy" of the false path mathematically builds up in the future geometric segments of the Time Snake.
 3.  **Rupture**: An external pressure is applied (The Shaking), and the future "Receipt" is delivered instantly to the present.
 4.  **Ignition**: The subject must account for the **Real**—accepting the "Fruits" of their trajectory without the ability to "Defer" the cost to a future substrate.
 

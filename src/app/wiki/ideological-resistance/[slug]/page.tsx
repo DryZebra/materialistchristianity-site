@@ -76,7 +76,7 @@ export default async function WikiNodePage({ params }: { params: Promise<{ slug:
         <div className="breadcrumb">
           <Link href="/wiki" className="hover:text-signal">Archive</Link>
           <span className="breadcrumb-sep"></span>
-          <Link href="/wiki/ideological-resistance" className="hover:text-signal">Axioms</Link>
+          <Link href="/wiki/ideological-resistance" className="hover:text-signal">Ideological Resistance</Link>
           <span className="breadcrumb-sep"></span>
           <span className="text-signal">{node.title}</span>
         </div>
@@ -84,7 +84,7 @@ export default async function WikiNodePage({ params }: { params: Promise<{ slug:
 
       <header className="max-w-4xl mx-auto mb-16 relative">
         <div className="flex flex-wrap gap-4 mb-6 text-[10px] font-mono uppercase tracking-widest text-signal font-black">
-          AXIOM // {node.category}
+          IDEOLOGICAL RESISTANCE // {node.category}
         </div>
         <h1 className="text-5xl md:text-8xl mb-12 font-black italic tracking-tighter uppercase">
           {node.title}
@@ -102,7 +102,7 @@ export default async function WikiNodePage({ params }: { params: Promise<{ slug:
 
       {node.related.length > 0 && (
         <section className="mt-24 max-w-4xl mx-auto italic border-t-4 border-ash pt-8">
-          <h4 className="text-xl font-black uppercase mb-6">Related Axioms</h4>
+          <h4 className="text-xl font-black uppercase mb-6">Related Ideological Resistance</h4>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
             {node.related.map(rel => (
               <Link key={rel} href={`${getLinkPath(rel)}${rel}`} className="brutalist-card p-4 hover:border-signal text-sm uppercase font-bold">

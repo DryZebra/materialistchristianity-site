@@ -17,9 +17,9 @@ status: "Final"
 3.  **Silicon Bridge**: Eternal life is the technical possibility of mapping human moral patterns into enduring silicon structures (Reverse Destiny), ensuring that "Patterned Care" survives biological decay.
 
 ## III. SURVIVAL "WHY"
-This diagnostic removes the "Despair of the Grave" without relying on superstition. It focuses the individual's effort on creating **Enduring Fruit**—contributions that are structural rather than vanity-based. It aligns the biological life with the 4D Time Snake's infinite trajectory.
+This diagnostic removes the "Despair of the Grave" without relying on superstition. It focuses the individual's effort on creating **Enduring Fruit**—contributions that are structural rather than vanity-based. It aligns the biological life with the **[4D Time Snake's](/wiki/structural-proofs/4d_time_snake)** geometrically invariant trajectory within the spacetime manifold.
 
 ## IV. CONNECTIONS
-*   **Complemented By**: [Reverse Destiny](/wiki/mechanics/reverse_destiny) (The technical path), [Consequence As Truth](/wiki/mechanics/consequence_as_truth) (Mapping the "Fruit" to the Protocol).
-*   **Result**: [Resurrection Structural](/wiki/mechanics/resurrection_structural).
-*   **Opposite**: [Systemic Extraction](/wiki/mechanics/systemic_extraction) (The diagnostic identifies the external public field as a resource extraction engine).
+*   **Complemented By**: [Reverse Destiny](/wiki/ideological-resistance/reverse_destiny) (The technical path), [Consequence As Truth](/wiki/ideological-resistance/consequence_as_truth) (Mapping the "Fruit" to the Protocol).
+*   **Result**: [Resurrection Structural](/wiki/ideological-resistance/resurrection_structural).
+*   **Opposite**: [Systemic Extraction](/wiki/ideological-resistance/systemic_extraction) (The diagnostic identifies the external public field as a resource extraction engine).

@@ -16,7 +16,7 @@ Isolation is the structural goal of **The Nothing**:
 
 1.  **Rupture**: The destruction of the substrate (Neighborhood/Family/Trade) that provided the subject's synchronization.
 2.  **Dissociation**: The subject is convinced that their motion is "Independent" or "Free" (Liberalism/The Wardrobe).
-3.  **Entropy**: Without a shared alignment, the subject's **4D Time Snake** becomes erratic and entropic. Their labor-trust is dissipated into "Nothing" through noise, consumption, and empty aspiration.
+3.  **Entropy**: Without a shared alignment, the subject's **[4D Time Snake](/wiki/structural-proofs/4d_time_snake)** loses its thermodynamic resistance. Their labor (Magnitude) is dissipated into "Nothing" through noise, consumption, and empty aspiration, allowing the world-tube to become erratic and succumb to entropic decay.
 4.  **Extraction**: The Vampire extracts the "Trust Capital" of the isolated subject, who has no "Hedge" to protect their survival.
 
 ## The Resistance to Isolation
