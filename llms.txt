@@ -2,7 +2,7 @@
 
 ## Core Repositories
 - `/src`: Next.js 16 application source code (Brutalist logic).
-- `/content/wiki`: Authority database containing 61 forensic logic nodes.
+- `/content/wiki`: Authority database containing 210+ forensic logic nodes across categories including Structural Proofs, Mechanical Failures, Labor & Torque, Ideological Resistance, and Agentic Forensics.
 - `/docs/sources`: Master manuscripts and authority documents (EBooks, STRATEGY_ARCHITECTURE.md).
 - `/scripts`: Industrial maintenance and conversion utilities.
 - `/backups`: Local archives (ignored by git).

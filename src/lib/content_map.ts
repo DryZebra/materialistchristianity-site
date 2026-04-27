@@ -3,9 +3,9 @@
  * Run 'node tools/toolkit.mjs --map' to update.
  */
 export const CONTENT_MAP: Record<string, { title: string; category: string }> = {
-  "4d_time_snake": {
-    "title": "The Path of Your Actions: The Persistence of Who You Are",
-    "category": "wiki/structural-proofs"
+  "ai_cult_panic": {
+    "title": "The AI Cult Panic: Digital Folie à Deux, Spiralism, and the Structural Mechanics of the L-H-C Architecture",
+    "category": "wiki/agentic-forensics"
   },
   "abiogenesis_flesh_origin": {
     "title": "Abiogenesis: The Flesh Origin",
@@ -52,7 +52,7 @@ export const CONTENT_MAP: Record<string, { title: string; category: string }> = 
     "category": "wiki/ideological-resistance"
   },
   "book_of_fractals": {
-    "title": "The Multi-Generational Self",
+    "title": "The Book of Fractals: The Dialectic of Complexity",
     "category": "wiki/ideological-resistance"
   },
   "bypassing_objective_subjective_theory": {
@@ -61,6 +61,10 @@ export const CONTENT_MAP: Record<string, { title: string; category: string }> = 
   },
   "canon_as_pressure": {
     "title": "The Weight of the Book",
+    "category": "wiki/ideological-resistance"
+  },
+  "capitalism_and_bible_translation_critique": {
+    "title": "The Political Economy of the Biblical Text: A Materialist Critique",
     "category": "wiki/ideological-resistance"
   },
   "capitalism_and_sin": {
@@ -184,8 +188,8 @@ export const CONTENT_MAP: Record<string, { title: string; category: string }> = 
     "category": "wiki/ideological-resistance"
   },
   "gmorknicity": {
-    "title": "The Empty Town: Understanding Decay",
-    "category": "wiki/ideological-resistance"
+    "title": "Gmorknicity: The Architecture of Systemic Narrative Decay",
+    "category": "wiki/mechanical-failures"
   },
   "hardness_of_heart": {
     "title": "The Hardness of Heart",
@@ -239,20 +243,16 @@ export const CONTENT_MAP: Record<string, { title: string; category: string }> = 
     "title": "Jonah: The Hostile Neighbor",
     "category": "wiki/ideological-resistance"
   },
+  "kjv_precapitalist_artifact": {
+    "title": "The KJV as a Pre-Capitalist Artifact",
+    "category": "wiki/ideological-resistance"
+  },
   "leadership_allied_owner": {
     "title": "Leadership: The Role of the Allied Owner",
     "category": "wiki/ideological-resistance"
   },
   "let_the_dead_move": {
     "title": "Let the Dead Move",
-    "category": "wiki/ideological-resistance"
-  },
-  "kjv_precapitalist_artifact": {
-    "title": "The KJV as a Pre-Capitalist Artifact",
-    "category": "wiki/ideological-resistance"
-  },
-  "capitalism_and_bible_translation_critique": {
-    "title": "The Political Economy of the Biblical Text: A Materialist Critique",
     "category": "wiki/ideological-resistance"
   },
   "leviticus_borders_as_containers": {
@@ -299,12 +299,12 @@ export const CONTENT_MAP: Record<string, { title: string; category: string }> = 
     "title": "Materialist Christianity Overview",
     "category": "wiki/ideological-resistance"
   },
-  "materialist_critique_entropic_dance": {
-    "title": "The Materialist Critique: Demolishing the Entropic Dance",
-    "category": "wiki/ideological-resistance"
-  },
   "materialist_christian_creed": {
     "title": "The Materialist Christian Creed",
+    "category": "wiki/ideological-resistance"
+  },
+  "materialist_critique_entropic_dance": {
+    "title": "The Materialist Critique: Demolishing the Entropic Dance",
     "category": "wiki/ideological-resistance"
   },
   "materialist_icons_visuals": {
@@ -395,12 +395,12 @@ export const CONTENT_MAP: Record<string, { title: string; category: string }> = 
     "title": "Reality over Debunking",
     "category": "wiki/ideological-resistance"
   },
-  "resurrection_structural": {
-    "title": "Resurrection: Coming Back to Life",
-    "category": "wiki/ideological-resistance"
-  },
   "religion_of_the_holy_light": {
     "title": "The Religion of the Holy Light: The Precursor Cosmology",
+    "category": "wiki/ideological-resistance"
+  },
+  "resurrection_structural": {
+    "title": "Resurrection: Coming Back to Life",
     "category": "wiki/ideological-resistance"
   },
   "revelation_13_the_mechanical_mark": {
@@ -408,7 +408,7 @@ export const CONTENT_MAP: Record<string, { title: string; category: string }> = 
     "category": "wiki/ideological-resistance"
   },
   "reverse_destiny": {
-    "title": "Reverse Destiny",
+    "title": "Reverse Destiny: The Mechanics of Navigational Sovereignty",
     "category": "wiki/ideological-resistance"
   },
   "right_to_focus_memory": {
@@ -523,12 +523,8 @@ export const CONTENT_MAP: Record<string, { title: string; category: string }> = 
     "title": "The Broken Contract",
     "category": "wiki/ideological-resistance"
   },
-  "fake_synchronization": {
-    "title": "Fake Synchronization: The Performance of Decay",
-    "category": "wiki/mechanical-failures"
-  },
   "the_entropic_dance": {
-    "title": "The Entropic Dance: Morality as Thermodynamic Resistance",
+    "title": "The Entropic Dance: A Historical Transition",
     "category": "wiki/ideological-resistance"
   },
   "the_final_audit": {
@@ -568,7 +564,7 @@ export const CONTENT_MAP: Record<string, { title: string; category: string }> = 
     "category": "wiki/ideological-resistance"
   },
   "timeline_paradox": {
-    "title": "The Timeline Paradox",
+    "title": "The Timeline Paradox: The Anti-Simulation Proof",
     "category": "wiki/ideological-resistance"
   },
   "tools_you_carry_capability": {
@@ -775,9 +771,25 @@ export const CONTENT_MAP: Record<string, { title: string; category: string }> = 
     "title": "Corrupted Memory",
     "category": "wiki/mechanical-failures"
   },
+  "fake_synchronization": {
+    "title": "Fake Synchronization: The Performance of Decay",
+    "category": "wiki/mechanical-failures"
+  },
   "judas_mechanic": {
     "title": "The Judas Mechanic (Systemic Betrayal)",
     "category": "wiki/mechanical-failures"
+  },
+  "4d_time_snake": {
+    "title": "The 4D Time Snake: Continuous Geometric Reality",
+    "category": "wiki/structural-proofs"
+  },
+  "4d_time_snake_conceptual_analysis": {
+    "title": "The Topological Dialectic: Conceptual Analysis",
+    "category": "wiki/structural-proofs"
+  },
+  "4d_time_snake_mathematical_proof": {
+    "title": "4D Time Snake: Mathematical Proof",
+    "category": "wiki/structural-proofs"
   },
   "american_christian_republic": {
     "title": "The Framework of the Republic",
@@ -789,6 +801,10 @@ export const CONTENT_MAP: Record<string, { title: string; category: string }> = 
   },
   "mark_of_the_beast_explained": {
     "title": "Mark of the Beast Explained",
+    "category": "wiki/structural-proofs"
+  },
+  "sub_object_forensic_scripture": {
+    "title": "The Mechanics of the Sub-Object and Forensic Scripture",
     "category": "wiki/structural-proofs"
   },
   "the_mark_of_cain": {
@@ -822,14 +838,6 @@ export const CONTENT_MAP: Record<string, { title: string; category: string }> = 
   "gen_4_11_reset": {
     "title": "Genesis 4 — 11: The Environmental Feedback Loop",
     "category": "wiki/the-blueprint-exegesis"
-  },
-  "4d_time_snake_mathematical_proof": {
-    "title": "4D Time Snake: Mathematical Proof",
-    "category": "wiki/structural-proofs"
-  },
-  "4d_time_snake_conceptual_analysis": {
-    "title": "The Topological Dialectic: Conceptual Analysis",
-    "category": "wiki/structural-proofs"
   },
   "index": {
     "title": "Materialist Christian Study Bible",
