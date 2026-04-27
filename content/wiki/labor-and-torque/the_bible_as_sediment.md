@@ -23,6 +23,14 @@ The record of our history is most visible in stories like the rebuilding of Jeru
 -   **The Action**: They looked into their history and found the rules for the Sabbath, helping their neighbors, and defending their city. 
 -   **The Physical Result**: The wall was rebuilt not because of some "new idea," but because the physical discipline of their ancestors was put to work in their own hands.
 
+## The Commodification of the Record
+
+Because the record is meant to be a survival manual, it is constantly under threat of extraction by systems of capital. [[capitalism_and_bible_translation_critique|Modern Bible translations]] are frequently owned by secular media conglomerates and operate as intellectual property. 
+
+By translating for "readability" and "marketability," these corporate translations pacify the materialist friction of the ancient texts. They replace concrete terminology of debt, extraction, and labor with abstract concepts of "sin" and "spiritual indulgence." When the Bible is treated as a highly capitalized commodity, it ceases to be a manual for structural resistance and becomes a pacified product designed for mass consumption.
+
+This is why Materialist Christianity relies on [pre-capitalist artifacts like the KJV](/wiki/ideological-resistance/kjv_precapitalist_artifact), which preserve the raw, un-alienated material friction of the early Church's survival.
+
 ## Forensic Audit: How We Use the Record
 
 Viewing the Bible as our history allows us to test how it is currently being used:
@@ -45,3 +53,4 @@ The **Neighborhood Church** is the site where this history is put into action. I
 - [[well_water_principle]] — On the source of our strength.
 - [[the_brush_arbor]] — Where the record is put to work.
 - [[the_survival_check]] — Validating our history.
+- [[kjv_precapitalist_artifact]] — Retrieving the un-alienated record.

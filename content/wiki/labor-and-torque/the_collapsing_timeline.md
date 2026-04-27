@@ -38,3 +38,10 @@ The **Neighborhood Church** is where we read the "Schedule of Consequence." It i
 
 > [!CAUTION]
 > **The Future is Inevitable**: You cannot "fudge" history. Reality is the ultimate auditor. Use this lens to take **Responsibility** for your own path and build something that is load-bearing in your own town. Check your schedule today.
+
+---
+
+### Related Content
+
+#### Diagnostics
+- [[gmorknicity]] — The systemic narrative decay and semantic entropy that results from infinite progress illusions.

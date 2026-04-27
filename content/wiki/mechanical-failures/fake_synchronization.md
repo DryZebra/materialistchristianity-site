@@ -41,6 +41,7 @@ The **Neighborhood Church** is where we stop the performance. It is the site whe
 #### Core Foundations
 - [[moral_labor]] — The energy of our work.
 - [[the_materialist_axiom]] — The ground of the rules.
+- [[gmorknicity]] — The theoretical architecture behind systemic narrative decay and hollowed-out performance.
 
 #### Essays & Testimonies
 - [[well_water_principle]] — On local resources.

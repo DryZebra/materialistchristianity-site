@@ -247,6 +247,14 @@ export const CONTENT_MAP: Record<string, { title: string; category: string }> = 
     "title": "Let the Dead Move",
     "category": "wiki/ideological-resistance"
   },
+  "kjv_precapitalist_artifact": {
+    "title": "The KJV as a Pre-Capitalist Artifact",
+    "category": "wiki/ideological-resistance"
+  },
+  "capitalism_and_bible_translation_critique": {
+    "title": "The Political Economy of the Biblical Text: A Materialist Critique",
+    "category": "wiki/ideological-resistance"
+  },
   "leviticus_borders_as_containers": {
     "title": "Leviticus: Borders as Containers",
     "category": "wiki/ideological-resistance"

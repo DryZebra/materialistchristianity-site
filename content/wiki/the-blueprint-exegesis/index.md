@@ -22,7 +22,7 @@ Every text in the MCSB follows the **Pure MC Algorithm**:
 | Logical Chunk | Title | Materialist Utility |
 | :--- | :--- | :--- |
 | Genesis 1:1—2:3 | [The Seventh Day Protocol](/wiki/bible/gen_1_rhythm) | Establishing the Coordinate System and the Mandatory Rhythm. |
-| Genesis 2:4—3:24 | [The Rupture of the Substrate](/wiki/bible/gen_2_3_rupture) | The Birth of Gmorknicity and the Hardened Heart. |
+| Genesis 2:4—3:24 | [The Rupture of the Substrate](/wiki/bible/gen_2_3_rupture) | The Birth of [[gmorknicity]] and the Hardened Heart. |
 | Genesis 4 — 11 | [The Accumulation of Noise and the Reset](/wiki/bible/gen_4_11_reset) | Forensic Mapping of the first Substrate Wipe and Signal Fragmentation. |
 | Genesis 12—25 | [The Covenant as Property](/wiki/bible/gen_12_25_property) | Securing the **Hedge** thru the migration of nomadic capital. |
 

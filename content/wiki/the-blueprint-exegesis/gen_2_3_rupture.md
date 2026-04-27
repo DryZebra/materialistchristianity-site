@@ -46,7 +46,7 @@ The "Fall" is a **Resource Misallocation**.
 #### 3. The Documentation of Friction (3:14-24)
 The "Curses" are not punishments from a vengeful deity; they are the **Audit Logs of a High-Friction Environment** resulting from **Sub-Objectual Betrayal**. 
 *   **Labor Friction**: "In the sweat of thy face shalt thou eat bread." Direct labor replaces the structural synergy of the logic.
-*   **Interfacial Friction (3:16)**: "Thy desire shall be to thy husband, and he shall rule over thee." This is the sublation of the coordinate lateral partner into a parasite/host relationship. The **Sub-Object of Marriage/Union** is hijacked by power-patterns (Gmorknicity), leading to systematic unearned capture.
+*   **Interfacial Friction (3:16)**: "Thy desire shall be to thy husband, and he shall rule over thee." This is the sublation of the coordinate lateral partner into a parasite/host relationship. The **Sub-Object of Marriage/Union** is hijacked by power-patterns ([[gmorknicity]]), leading to systematic unearned capture.
 *   **THE WHY**: The social creature needed to understand that the pain of their existence was a consequence of the **Protocol Breach**. If you try to run the social machine on "Private Logic," the sub-objects meant for support (Scaffolding) become shackles that produce "thorns and thistles" (friction).
 
 ---
