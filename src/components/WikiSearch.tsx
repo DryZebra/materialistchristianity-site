@@ -2,6 +2,8 @@
 
 import { useState, useMemo, useEffect } from 'react';
 import Link from 'next/link';
+import { useRouter } from 'next/navigation';
+import Fuse from 'fuse.js';
 
 interface SearchItem {
   slug: string;
@@ -20,6 +22,17 @@ export default function WikiSearch({ items }: WikiSearchProps) {
   const [query, setQuery] = useState('');
   const [pagefindResults, setPagefindResults] = useState<any[]>([]);
   const [isPagefindLoaded, setIsPagefindLoaded] = useState(false);
+  const router = useRouter();
+
+  // Initialize Fuse.js for fuzzy matching
+  const fuse = useMemo(() => {
+    return new Fuse(items, {
+      keys: ['title', 'description', 'category'],
+      threshold: 0.3,
+      includeMatches: true,
+      ignoreLocation: true
+    });
+  }, [items]);
 
   // Initialize Pagefind (Production only)
   useEffect(() => {
@@ -37,7 +50,7 @@ export default function WikiSearch({ items }: WikiSearchProps) {
           setIsPagefindLoaded(true);
         }
       } catch (e) {
-        console.warn('Pagefind not available (Development mode). Falling back to metadata search.');
+        console.warn('Pagefind not available (Development mode). Falling back to Fuse.js fuzzy search.');
       }
     }
     initPagefind();
@@ -55,24 +68,25 @@ export default function WikiSearch({ items }: WikiSearchProps) {
       if (window.__pagefind__ && isPagefindLoaded) {
         // @ts-ignore
         const search = await window.__pagefind__.search(query);
-        // Pagefind provides result objects that need to be "loaded" to get data
-        const results = await Promise.all(search.results.slice(0, 8).map((r: any) => r.data()));
+        const results = await Promise.all(search.results.slice(0, 6).map((r: any) => r.data()));
         setPagefindResults(results);
       }
     }
     doSearch();
   }, [query, isPagefindLoaded]);
 
-  // Fallback Filtering (Metadata only)
+  // Fallback Filtering (Fuse.js)
   const fallbackItems = useMemo(() => {
-    if (!query || isPagefindLoaded && pagefindResults.length > 0) return [];
-    const lowerQuery = query.toLowerCase();
-    return items.filter(item => 
-      item.title.toLowerCase().includes(lowerQuery) || 
-      item.description.toLowerCase().includes(lowerQuery) ||
-      item.category.toLowerCase().includes(lowerQuery)
-    ).slice(0, 8);
-  }, [query, items, isPagefindLoaded, pagefindResults]);
+    if (!query || (isPagefindLoaded && pagefindResults.length > 0)) return [];
+    return fuse.search(query).slice(0, 6).map(result => result.item);
+  }, [query, fuse, isPagefindLoaded, pagefindResults]);
+
+  const handleKeyDown = (e: React.KeyboardEvent) => {
+    if (e.key === 'Enter' && query) {
+      router.push(`/wiki/search?q=${encodeURIComponent(query)}`);
+      setQuery('');
+    }
+  };
 
   return (
     <div className="relative w-full max-w-2xl mx-auto mb-12">
@@ -89,6 +103,7 @@ export default function WikiSearch({ items }: WikiSearchProps) {
           className="w-full p-4 bg-transparent outline-none font-black uppercase text-xl placeholder:opacity-30"
           value={query}
           onChange={(e) => setQuery(e.target.value)}
+          onKeyDown={handleKeyDown}
         />
         {query && (
           <button 
@@ -124,7 +139,7 @@ export default function WikiSearch({ items }: WikiSearchProps) {
           ))}
 
           {/* Fallback Results */}
-          {pagefindResults.length === 0 && fallbackItems.map(item => (
+          {pagefindResults.length === 0 && fallbackItems.map((item, i) => (
             <Link 
               key={`${item.type}-${item.slug}`}
               href={item.url}
@@ -133,20 +148,36 @@ export default function WikiSearch({ items }: WikiSearchProps) {
             >
               <div className="flex justify-between items-start mb-1">
                 <span className="text-[10px] font-mono text-signal font-black uppercase tracking-widest bg-signal/10 px-2 py-0.5">
-                  {item.type} // {item.category}
+                  Fuzzy Match {i + 1} // {item.type}
                 </span>
               </div>
               <h4 className="text-lg font-black uppercase group-hover:text-signal">{item.title}</h4>
               <p className="text-xs opacity-50 font-mono uppercase line-clamp-1">{item.description}</p>
             </Link>
           ))}
+
+          {/* View All Results Footer */}
+          <Link 
+            href={`/wiki/search?q=${encodeURIComponent(query)}`}
+            onClick={() => setQuery('')}
+            className="block p-4 bg-signal text-white text-center font-black uppercase hover:bg-signal/90 transition-colors"
+          >
+            Access Full Forensic Report &rarr;
+          </Link>
         </div>
       )}
 
       {query && pagefindResults.length === 0 && fallbackItems.length === 0 && (
         <div className="absolute top-full left-0 right-0 z-[100] mt-1 bg-concrete border-4 border-ash p-8 text-center shadow-[12px_12px_0_rgba(0,0,0,0.8)]">
           <p className="font-black uppercase text-xl text-signal">Logical Discontinuity</p>
-          <p className="font-mono opacity-50 uppercase text-xs">No matching forensic data found for "{query}"</p>
+          <p className="font-mono opacity-50 uppercase text-xs mb-4">No matching forensic data found for "{query}"</p>
+          <Link 
+            href={`/wiki/search?q=${encodeURIComponent(query)}`}
+            onClick={() => setQuery('')}
+            className="inline-block px-6 py-2 border-2 border-signal text-signal font-black uppercase hover:bg-signal hover:text-white transition-all"
+          >
+            Try Extended Search
+          </Link>
         </div>
       )}
     </div>

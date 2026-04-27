@@ -37,7 +37,7 @@ export default function WikiHome() {
         {/* SECTION 01: PRAXIS (THE WORK) */}
         <div className="bg-steel/10 p-8 border-t-4 border-signal relative group hover:border-signal transition-all shadow-[8px_8px_0_rgba(0,163,255,0.1)]">
           <span className="text-[10px] font-mono opacity-40 uppercase mb-4 block">Section 01 // Shop Floor</span>
-          <h2 className="text-4xl font-black uppercase mb-4 italic text-signal">Praxis</h2>
+          <h2 className="text-3xl xl:text-4xl font-black uppercase mb-4 italic text-signal no-wrap">Praxis</h2>
           <p className="text-sm opacity-60 font-mono uppercase mb-8 font-bold">Applied mechanics for stable social reproduction.</p>
           <div className="space-y-2 mb-8">
             {nodes.filter(n => n.category === 'Praxis').slice(0, 3).map(node => (
@@ -54,7 +54,7 @@ export default function WikiHome() {
         {/* SECTION 02: ESSAYS (TESTIMONY) */}
         <div className="bg-steel/10 p-8 border-t-4 border-ash relative group hover:border-signal transition-all">
           <span className="text-[10px] font-mono opacity-40 uppercase mb-4 block">Section 02 // Observations</span>
-          <h2 className="text-4xl font-black uppercase mb-4 italic text-signal">Testimony</h2>
+          <h2 className="text-3xl xl:text-4xl font-black uppercase mb-4 italic text-signal no-wrap">Testimony</h2>
           <p className="text-sm opacity-60 font-mono uppercase mb-8">Forensic observations of the stabilization machine.</p>
           <div className="space-y-2 mb-8">
             {essays.slice(0, 3).map(essay => (
@@ -71,7 +71,7 @@ export default function WikiHome() {
         {/* SECTION 03: BIBLE (SOURCE FORENSICS) */}
         <div className="bg-steel/10 p-8 border-t-4 border-ash relative group hover:border-signal transition-all">
           <span className="text-[10px] font-mono opacity-40 uppercase mb-4 block">Section 03 // Records</span>
-          <h2 className="text-4xl font-black uppercase mb-4 italic text-signal">Forensics</h2>
+          <h2 className="text-3xl xl:text-4xl font-black uppercase mb-4 italic text-signal no-wrap">Forensics</h2>
           <p className="text-sm opacity-60 font-mono uppercase mb-8">Historical records and biblical maintenance logs.</p>
           <div className="space-y-2 mb-8">
             {bibles.slice(0, 3).map(bible => (

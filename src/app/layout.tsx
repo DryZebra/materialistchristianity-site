@@ -82,7 +82,7 @@ export default function RootLayout({
       <body
         className={`${inter.variable} ${baskerville.variable} antialiased selection:bg-signal selection:text-white font-sans`}
       >
-        <div className="max-w-7xl mx-auto border-x border-black min-h-screen">
+        <div className="min-h-screen">
           {children}
         </div>
       </body>
