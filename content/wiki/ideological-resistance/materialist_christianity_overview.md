@@ -20,6 +20,7 @@ Because Christianity developed as the language for human communities attempting 
 
 - **The Forensic Record**: The Bible is the historical data log of working people discovering the absolute material constraints of social reproduction and the mechanics of human solidarity.
 - **The Only Available Language**: Theological concepts (Mechanical Failure, grace, Behavioral Vector, salvation) were the industrial and diagnostic terminology of their era. They describe observable, mechanical realities regarding labor, debt, survival, and the consequences of systemic extraction.
+- **Salvation as Right Motion**: In this mechanistic framework, salvation is characterized strictly and exclusively as **"right motion, not belief."** Biological subjects are not "saved" by internal cognitive assent, but by their daily, lived behavior joining the **"motion of Christ"**—the actual physical labor and social structure capable of surviving systemic collapse. For more, see [[sub_object_forensic_scripture]].
 - **The Rejection of Idealism**: Treating Christianity as an individual, immaterial preference strips it of its diagnostic power. Materialist Christianity restores its function as a material system of collective survival.
 
 ## The Core Thesis

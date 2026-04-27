@@ -21,12 +21,27 @@ The common mistake is to view the sub-object as "The We" (a category of belongin
 
 A sub-object is a **Vector**. Like a physical gravitational field, it pulls behavior toward it. It is created by generations of **Moral Labor** that have carved specific grooves into the community's motion.
 
+## Typology: Living vs. Zombie Structures
+
+A sub-object's validity is measured by its relationship to material consequence. The recent research in [[sub_object_forensic_scripture]] defines two states:
+
+| State | Characteristics | Trajectory |
+| :--- | :--- | :--- |
+| **Living Sub-Object** | Organizes survival and distributes dignity. Aligns motion with material outcome. | Fosters growth and adaptation; remembers history without dogmatism. |
+| **Zombie (Hollow) Structure** | Ritual continues blindly while moral intent is lost. Decouples action from outcome. | Freezes behavior; leads to systemic alienation and extraction. |
+
+The transition from Living to Zombie is often catalyzed by a **Gmorhonic coup**—where the aesthetic shell survives but the material motion is reversed to favor extraction.
+
 ## The Biomechanical Mechanism: The New Third
 
 The sub-object is the result of the **Bicameral Struggle** within the individual. 
 1.  **The Struggle**: The particular self (desires) and the internalized authority (the rule) struggle for control of the hand. 
 2.  **The Integration**: From this struggle, a "New Third" emerges.
 3.  **The Result**: This third "voice" is the **Sub-Object**—the integrated motion of the community carried as a personal, disciplined instinct.
+
+## The Metabolic Host (The H-Layer)
+
+Because a sub-object has no physical body, it requires a **Hardware Host (The H-Layer)**—the biological human being. The human subject functions as the metabolic power source, providing the physical torque and entropic resistance required to sustain the structure in the timeline.
 
 ## Forensic Examples: Consequence Containers
 
@@ -44,7 +59,7 @@ A physical line of workers is a temporary sub-object. It is not an "identity" as
 
 ## Summary: The Field is Real
 
-Resonance isn't belief. It's the social echo of behavior sustained across rupture. To carry a sub-object is to allow the labor of the dead to still move your hands.
+Resonance isn't belief. It's the social echo of behavior sustained across rupture. To carry a sub-object is to allow the labor of the dead to still move your hands. For a deeper analysis of these mechanics, see the full research on [[sub_object_forensic_scripture]].
 
 ---
 

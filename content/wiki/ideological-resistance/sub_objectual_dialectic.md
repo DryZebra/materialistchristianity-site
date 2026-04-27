@@ -17,6 +17,16 @@ The loop operates as a self-sustaining process:
 2.  **Return (Group → Person)**: The community returns a result that makes your future work easier by setting clear expectations and providing a shared identity. You aren't just working alone anymore; you are part of a team.
 3.  **Hardening the Structure**: Over time, this loop becomes solid. You become the kind of person the community needs, and the community becomes the carrier of your own history and efforts.
 
+## The Dialectic of the Particular and the General
+
+The Connection Loop operates across both localized and universal scales. This is explained through the **Dialectic of the Particular and the General**.
+
+- **The Particular**: History is experienced in the particular—a specific instance of suffering, labor, or solidarity on the factory floor.
+- **Successive Abstraction**: As these particular survival protocols are repeated across time and across different crises, they undergo a process of "Successive Abstraction." The hyper-specific historical details are smoothed out, leaving behind a core, universalized diagnostic.
+- **The General (God)**: Over centuries, these abstracted protocols crystallize into the general moral law. In the forensic lens, "God" is the name for the generalized, accumulated consciousness of billions of people moving toward survival and justice.
+
+For a deeper dive into the computational mechanics of this process, see [[sub_object_forensic_scripture]].
+
 ## Biblical Diagnosis: The Tree and the River
 
 The physical loop of nourishment is shown in the description of a successful man in Psalm 1.

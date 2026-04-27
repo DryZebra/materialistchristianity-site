@@ -22,7 +22,7 @@ You aren't "found"—you are **Built** through the repetition of your daily work
 The technical nature of the Structural Self is documented in 1 Corinthians 6:19-20.
 
 -   **The Hardware**: "What? know ye not that your body is the temple of the Holy Spirit which is in you...?"
--   **The Presence**: The "Body" is the physical site (the Hardware). The "Holy Spirit" is the high-strength coordination of the community (the Work). The "Self" is where the rules of the community move the physical body.
+-   **The Presence**: The "Body" is the physical site (the Hardware). The **Holy Spirit** is the incredibly stable, palpable motion of collective consciousness—the precise moment when the working class achieves absolute unity with its historical purpose. The "Self" is where the rules of the community move the physical body. For further study, see [[sub_object_forensic_scripture]].
 -   **The Price**: "For ye are bought with a price..." In materialist terms, the "Price" is the hard work of your ancestors that built the neighborhood you live in. You belong to the community's history, not just to yourself.
 
 ## Case Study: The Master Mechanic

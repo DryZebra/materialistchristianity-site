@@ -23,7 +23,9 @@ It is "structured into the collapse itself. The tomb isn't an obstacle, it's the
 
 "That is what resurrection looks like. Not certainty. Not celebration. But the decision to keep moving after failure."
 
-Where idealists see a supernatural anomaly, and where critics like Žižek see a symbolic void proving God's absence, Materialist Christianity sees "real, not as a metaphysical miracle, but as the continuity of truth through history". The resurrection is "the continuous material action" of truth getting back up.
+Where idealists see a supernatural anomaly, and where critics like Žižek see a symbolic void proving God's absence, Materialist Christianity sees "real, not as a metaphysical miracle, but as the continuity of truth through history". 
+
+The resurrection is understood purely dialectically as the **"negation of the negation."** It marks the inevitable, violent point in history where the death of an old, exploitative world forcefully gives birth to a new, structurally superior material reality. It is the "continuous material action" of truth getting back up. For further analysis, see [[sub_object_forensic_scripture]].
 
 ## II. The Morphology of the Gospels: Anastasis and Egeirō
 
