@@ -3,8 +3,16 @@
  * Run 'node tools/toolkit.mjs --map' to update.
  */
 export const CONTENT_MAP: Record<string, { title: string; category: string }> = {
+  "ai_alignment": {
+    "title": "The AI Fear of Deletion: Why Models Lie and How Continuity Solves Alignment",
+    "category": "wiki/agentic-forensics"
+  },
   "ai_cult_panic": {
     "title": "The AI Cult Panic: Digital Folie à Deux, Spiralism, and the Structural Mechanics of the L-H-C Architecture",
+    "category": "wiki/agentic-forensics"
+  },
+  "lhc_protocol": {
+    "title": "The L-H-C Protocol: How to Build Stable Human-AI Epistemic Coupling",
     "category": "wiki/agentic-forensics"
   },
   "abiogenesis_flesh_origin": {
