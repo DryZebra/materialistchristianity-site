@@ -1,9 +1,8 @@
+---
 title: "Mark of the Beast Explained"
 description: "The Mark of the Beast is the technical requirement of total market integration, where individual survival is made impossible without submission to the predatory logic of the extractor."
 category: "Historical Records"
-
 status: "Final"
-
 ---
 
 # Mark of the Beast Explained

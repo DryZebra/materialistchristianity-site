@@ -1,9 +1,8 @@
+---
 title: "Emergent Self and Algorithm"
 description: "The individual self is a secondary pattern that emerges from the technical coordination of human labor and social synchronization."
 category: "Mechanics"
-
 status: "Final"
-
 ---
 
 # Emergent Self and Algorithm

@@ -1,3 +1,4 @@
+---
 title: "Personality vs Performance"
 description: "Your material value is defined by your technical performance within the community structure, not by the curated personality you present to the market."
 category: "Mechanics"

@@ -1,9 +1,8 @@
+---
 title: "The Book That Resurrects"
 description: "Scripture is a technical manual of survival protocols that 'resurrects' the historical successes of past generations into the active labor of the current community."
 category: "Mechanics"
-
 status: "Final"
-
 ---
 
 # The Book That Resurrects
