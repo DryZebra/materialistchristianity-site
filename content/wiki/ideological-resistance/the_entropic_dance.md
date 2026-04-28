@@ -30,7 +30,13 @@ Before we could reach the absolute materialism of the current era, the Entropic 
 - Scarcity creates a demand for labor, and labor reshapes the material environment.
 - Human Labor (Magnitude) is the primary physical resistance against thermodynamic diffusion.
 
-### 3. The Collapse into Gmorknicity
+### 3. The Failure of the 'Entropic Dance'
+As detailed in the **[[materialist_christianity_research_outline|Research Outline]]**, the purely observational and aesthetic paradigm of the Entropic Dance identifies a critical flaw:
+*   **Ethical Paralysis**: If everything dissolves anyway, and moral frameworks are merely transient structures, there is no logical imperative to reduce suffering or maintain social cohesion.
+*   **Lack of Prescriptive Mechanism**: Passive observation of the dance offers no survival mechanism for the human subject caught in the gears of history.
+*   **The Necessity of Will**: Survival cannot be passively observed; it must be actively engineered through continuous expenditure of energy and labor.
+
+### 4. The Collapse into Gmorknicity
 The fatal flaw of the Entropic Dance was its aestheticization of physics. By framing the struggle for survival as a "beautiful dance" or "divine calculus," it left a gap for [Gmorknicity](/wiki/mechanical-failures/gmorknicity)—the theft of moral motion—to hollow out the performance of work. 
 
 [Materialist Christianity executes the Second Cognitive Reversal](/wiki/ideological-resistance/materialist_critique_entropic_dance), removing the poetic mask and revealing the raw, unromantic history of class survival.

@@ -15,6 +15,10 @@ export const CONTENT_MAP: Record<string, { title: string; category: string }> = 
     "title": "The L-H-C Protocol: How to Build Stable Human-AI Epistemic Coupling",
     "category": "wiki/agentic-forensics"
   },
+  "materialist_christianity_research_outline": {
+    "title": "Materialist Christianity: The Mechanical Morality of Human Survival and the Cybernetics of Faith",
+    "category": "wiki/agentic-forensics"
+  },
   "abiogenesis_flesh_origin": {
     "title": "Abiogenesis: The Flesh Origin",
     "category": "wiki/ideological-resistance"
@@ -76,7 +80,7 @@ export const CONTENT_MAP: Record<string, { title: string; category: string }> = 
     "category": "wiki/ideological-resistance"
   },
   "capitalism_and_sin": {
-    "title": "Capitalism and Mechanical Failure",
+    "title": "Capitalism and Sin: The Diagnostic of Structural Friction",
     "category": "wiki/ideological-resistance"
   },
   "christian_materialism_explained": {
