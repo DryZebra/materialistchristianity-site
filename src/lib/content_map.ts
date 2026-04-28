@@ -24,7 +24,7 @@ export const CONTENT_MAP: Record<string, { title: string; category: string }> = 
     "category": "wiki/ideological-resistance"
   },
   "action_as_truth": {
-    "title": "Action as Truth",
+    "title": "Action as Truth: Show Me the Work",
     "category": "wiki/ideological-resistance"
   },
   "acts_church_synchronization": {
@@ -112,7 +112,7 @@ export const CONTENT_MAP: Record<string, { title: string; category: string }> = 
     "category": "wiki/ideological-resistance"
   },
   "conscious_responsibility": {
-    "title": "Conscious Responsibility",
+    "title": "Conscious Responsibility: Owning the Result",
     "category": "wiki/ideological-resistance"
   },
   "consequence_as_truth": {
@@ -172,7 +172,7 @@ export const CONTENT_MAP: Record<string, { title: string; category: string }> = 
     "category": "wiki/ideological-resistance"
   },
   "faith_as_residue": {
-    "title": "Behavioral Vector: The Habits that Stay",
+    "title": "Social Momentum: The Habits that Stay",
     "category": "wiki/ideological-resistance"
   },
   "final_node_overwrites_batch_1": {
@@ -300,7 +300,7 @@ export const CONTENT_MAP: Record<string, { title: string; category: string }> = 
     "category": "wiki/ideological-resistance"
   },
   "maintenance_vs_preservation": {
-    "title": "Maintenance vs Preservation",
+    "title": "Maintenance vs Preservation: Fixing it vs Saving the Image",
     "category": "wiki/ideological-resistance"
   },
   "materialist_awakening": {
@@ -340,7 +340,7 @@ export const CONTENT_MAP: Record<string, { title: string; category: string }> = 
     "category": "wiki/ideological-resistance"
   },
   "moral_labor": {
-    "title": "Moral Labor",
+    "title": "Moral Labor: The Work That Matters",
     "category": "wiki/ideological-resistance"
   },
   "motion_as_reality": {
@@ -352,11 +352,11 @@ export const CONTENT_MAP: Record<string, { title: string; category: string }> = 
     "category": "wiki/ideological-resistance"
   },
   "moving_after_collapse": {
-    "title": "Moving After a Collapse",
+    "title": "Re-entry: Starting the Real Work Again",
     "category": "wiki/ideological-resistance"
   },
   "neighborly_distance_proximity": {
-    "title": "Neighborly Distance",
+    "title": "Neighborly Distance: The Strength of Being Close",
     "category": "wiki/ideological-resistance"
   },
   "non_extractive_labor": {
@@ -464,7 +464,7 @@ export const CONTENT_MAP: Record<string, { title: string; category: string }> = 
     "category": "wiki/ideological-resistance"
   },
   "structural_dignity": {
-    "title": "Structural Dignity",
+    "title": "Structural Dignity: The Honor of Doing the Work",
     "category": "wiki/ideological-resistance"
   },
   "structural_reflection": {
@@ -504,7 +504,7 @@ export const CONTENT_MAP: Record<string, { title: string; category: string }> = 
     "category": "wiki/ideological-resistance"
   },
   "systemic_void_vacuum": {
-    "title": "The Systemic Void",
+    "title": "The Systemic Void: Filling the Empty Space",
     "category": "wiki/ideological-resistance"
   },
   "temporary_infrastructure_scaffolding": {
@@ -780,7 +780,7 @@ export const CONTENT_MAP: Record<string, { title: string; category: string }> = 
     "category": "wiki/mechanical-failures"
   },
   "corrupted_memory": {
-    "title": "Corrupted Memory",
+    "title": "Corrupted Memory: The Hollowing of the Past",
     "category": "wiki/mechanical-failures"
   },
   "fake_synchronization": {
@@ -788,7 +788,7 @@ export const CONTENT_MAP: Record<string, { title: string; category: string }> = 
     "category": "wiki/mechanical-failures"
   },
   "judas_mechanic": {
-    "title": "The Judas Mechanic (Systemic Betrayal)",
+    "title": "The Judas Mechanic: Detection of the Internal Leak",
     "category": "wiki/mechanical-failures"
   },
   "4d_time_snake": {

@@ -1,49 +1,38 @@
 ---
 title: "Trust Capital: Neighborhood Strength"
-description: "The technical name for the stored trust and hard work that allows a neighborhood to survive even when everything else breaks down."
-category: Foundations
-tags: [trust, strength, neighborhood, survival]
-related: [moral_labor, the_sub_object, faith_as_residue]
+description: "The stored trust and shared history that allows a neighborhood to survive when the power goes out or the money fails."
+category: "Foundations"
+tags: [Trust, Neighborhood, Strength, Survival, Community]
+related: [moral_labor, faith_as_residue, trust_as_infrastructure, materialist_christianity_research_outline]
 ---
 
 # Trust Capital: Neighborhood Strength
 
- **Trust Capital** (technically called Moral Capital) is the amount of trust and **Hard Work** stored up in a neighborhood. It is the "staying power" that allows a community to survive a **Total Breakdown** in the power grid or the economy. It is the physical reservoir of certainty that a neighbor will look out for the group instead of just themselves during a crisis.
+**Trust Capital** is the technical name for how much you can count on your neighbors when things go sideways. It’s not about how much money is in the bank; it’s about how many people in your town will show up with a chainsaw and a tractor after a storm without asking for a credit card first.
 
 ## How Trust Capital Works
 
-Trust Capital acts as a protection against hard times:
-1.  **It’s Not Money**: Unlike a bank account, which can disappear if the market fails, Trust Capital is held in the habits and the memories of the people themselves.
-2.  **The Survival Foundation**: It is the reason a town survives a flood even when the government (the "Ghost") is nowhere to be found. The habit of helping each other is carried by the strength of decades of shared work.
-3.  **Preventing Decay**: Trust Capital only goes away when we allow the neighborhood to be **Hollowed Out**—meaning we let trust be taken away without putting any work back in.
+In a 15-man shop, Trust Capital is what keeps the crew together when the boss stops paying. 
 
-## Biblical Diagnosis: The Reinvestment of Trust
+1.  **It’s Not a 'Feeling'**: This isn't about liking your neighbor. It’s about **reliability**. It’s the material result of years of people doing what they said they were going to do.
+2.  **The Survival Reservoir**: When the "Global Extractor" (the banks or the government) pulls out of a town, the only thing left is Trust Capital. It’s the physical safety net that keeps a community from starving during a collapse.
+3.  **Use It or Lose It**: You can’t just "save" trust. You have to keep spending it by helping people, and you have to keep earning it by doing your job. If you stop working for each other, the neighborhood gets "hollowed out" and the strength disappears.
 
-The requirement to put work back into the neighborhood is shown in the Parable of the Talents (Matthew 25:14-30).
+## The Bible as a Tool: Storing Strength
 
--   **The Trust**: The master (the original source of the group's strength) gives his servants "talents" (stored value).
--   **The Mistake**: The "wicked and lazy" servant buries his talent in the dirt. He tries to just *save* the money without doing any *work* with it. He stops the flow of hard work, effectively hollowing out the community's strength.
--   **The Result**: The servant is cast out because he broke the **Cycle of Help** that keeps the group alive. Trust Capital is not meant to be "saved" like a treasure; it is meant to be spent as active work (labor) to build even more trust.
+The Bible isn't a book of magic stories; it's a massive storehouse of Trust Capital. It records thousands of years of human survival so we don't have to relearn the hard way.
 
-## Case Study: Strength in the Real World
+*   **The Talent Audit (Matthew 25)**: Christ tells a story about a guy who buries his "talent" (his strength/resources) in the dirt because he's afraid. Christ calls him "lazy" because he stopped the flow of work. To keep Trust Capital alive, you have to put it to work in the real world.
+*   **The Acts Registry**: The early church survived the Roman Empire because they pooled their Trust Capital. They made sure no one was left behind, which created a social machine that was stronger than the state.
 
-We see this stored strength in action:
--   **The Bible as a Tool**: The Bible is a massive storehouse of Trust Capital—thousands of years of survival rules and hard work coded into stories so they can be used by anyone facing a similar crisis.
--   **The Neighborhood Reflex**: The habit of people in a small town to automatically check on the elderly after a major storm is the "spending" of Trust Capital that has become part of the town’s character.
+## Summary
+
+To be a Materialist Christian is to focus on building **Trust Capital** in the real world. It’s about making sure your neighborhood has the physical and moral strength to survive the next time the system fails.
 
 ---
 
 ### Related Content
-
-#### Core Foundations
-- [[moral_labor]] — The work that creates trust.
-- [[the_sub_object]] — The "We" where trust is stored.
-- [[faith_as_residue]] — What stays when the money is gone.
-
-#### Essays & Testimonies
-- [[trust_as_commodity]] — When trust is stolen and sold.
-- [[the_bible_as_sediment]] — The layers of history in our strength.
-- [[the_kingdom_of_labor]] — The goal of never-ending reinvestment.
-
-#### Scriptural Anchors
-- [[the_biblical_baseline]] — The history of real-world strength.
+- [[moral_labor]] — The work that builds the trust.
+- [[faith_as_residue]] — What’s left when the money is gone.
+- [[trust_as_infrastructure]] — Treating trust like a utility.
+- [[materialist_christianity_research_outline]] — The core research findings.
