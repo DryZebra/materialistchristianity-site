@@ -1,0 +1,1302 @@
+{
+  "batchFiles": [
+    {
+      "relPath": "ideological-resistance/final_node_overwrites_batch_1.md",
+      "title": "The Weight of Habit",
+      "wordCount": 741,
+      "charCount": 4654
+    },
+    {
+      "relPath": "ideological-resistance/final_node_overwrites_batch_2.md",
+      "title": "Systemic Re-investment",
+      "wordCount": 535,
+      "charCount": 3434
+    },
+    {
+      "relPath": "ideological-resistance/final_node_overwrites_batch_3.md",
+      "title": "Systemic Collapse (Rupture)",
+      "wordCount": 811,
+      "charCount": 5471
+    },
+    {
+      "relPath": "ideological-resistance/final_node_overwrites_batch_4.md",
+      "title": "The Church as a Physical Hub",
+      "wordCount": 849,
+      "charCount": 5445
+    },
+    {
+      "relPath": "ideological-resistance/final_node_overwrites_batch_5.md",
+      "title": "Credit as Happiness",
+      "wordCount": 720,
+      "charCount": 4456
+    }
+  ],
+  "stubs": [
+    {
+      "relPath": "ideological-resistance/abiogenesis_flesh_origin.md",
+      "title": "Abiogenesis: The Flesh Origin",
+      "wordCount": 200,
+      "charCount": 1263
+    },
+    {
+      "relPath": "ideological-resistance/action_as_truth.md",
+      "title": "Action as Truth: Show Me the Work",
+      "wordCount": 353,
+      "charCount": 2142
+    },
+    {
+      "relPath": "ideological-resistance/acts_church_synchronization.md",
+      "title": "The First Blueprint: The Acts Church",
+      "wordCount": 245,
+      "charCount": 1547
+    },
+    {
+      "relPath": "ideological-resistance/antagonistic_labor.md",
+      "title": "Resistance: Stopping the Extraction",
+      "wordCount": 365,
+      "charCount": 2299
+    },
+    {
+      "relPath": "ideological-resistance/apostolic_motion.md",
+      "title": "Carrying the Fire: The Traveling Worker",
+      "wordCount": 334,
+      "charCount": 2069
+    },
+    {
+      "relPath": "ideological-resistance/atheist_floor_axiom.md",
+      "title": "The Analytical Floor",
+      "wordCount": 249,
+      "charCount": 1668
+    },
+    {
+      "relPath": "ideological-resistance/betrayal_and_extractor.md",
+      "title": "Betrayal and the Extractor",
+      "wordCount": 73,
+      "charCount": 479
+    },
+    {
+      "relPath": "ideological-resistance/bible_as_historical_record.md",
+      "title": "Bible as Historical Record",
+      "wordCount": 352,
+      "charCount": 2449
+    },
+    {
+      "relPath": "ideological-resistance/biblical_fasting_explained.md",
+      "title": "Biblical Fasting Explained",
+      "wordCount": 364,
+      "charCount": 2412
+    },
+    {
+      "relPath": "ideological-resistance/bypassing_objective_subjective_theory.md",
+      "title": "Bypassing Objective Subjective Theory",
+      "wordCount": 258,
+      "charCount": 1667
+    },
+    {
+      "relPath": "ideological-resistance/canon_as_pressure.md",
+      "title": "The Weight of the Book",
+      "wordCount": 357,
+      "charCount": 2144
+    },
+    {
+      "relPath": "ideological-resistance/christian_materialism_explained.md",
+      "title": "What is Materialist Christianity?",
+      "wordCount": 268,
+      "charCount": 1697
+    },
+    {
+      "relPath": "ideological-resistance/church_physical_hub.md",
+      "title": "The Church as a Physical Hub",
+      "wordCount": 173,
+      "charCount": 1097
+    },
+    {
+      "relPath": "ideological-resistance/cognitive_continuity_rights.md",
+      "title": "Focus and Memory: Protecting Your Mind",
+      "wordCount": 316,
+      "charCount": 1993
+    },
+    {
+      "relPath": "ideological-resistance/collapsing_timelines.md",
+      "title": "Collapsing Timelines",
+      "wordCount": 331,
+      "charCount": 2265
+    },
+    {
+      "relPath": "ideological-resistance/community_momentum.md",
+      "title": "Community Momentum",
+      "wordCount": 162,
+      "charCount": 1052
+    },
+    {
+      "relPath": "ideological-resistance/community_rhythms.md",
+      "title": "Community Rhythms",
+      "wordCount": 255,
+      "charCount": 1696
+    },
+    {
+      "relPath": "ideological-resistance/continuity.md",
+      "title": "Continuity (Diagnostic)",
+      "wordCount": 143,
+      "charCount": 1200
+    },
+    {
+      "relPath": "ideological-resistance/country_store_infrastructure.md",
+      "title": "The Country Store",
+      "wordCount": 266,
+      "charCount": 1528
+    },
+    {
+      "relPath": "ideological-resistance/credit_as_borrowed_happiness.md",
+      "title": "Credit as Happiness",
+      "wordCount": 203,
+      "charCount": 1206
+    },
+    {
+      "relPath": "ideological-resistance/dignity_structural.md",
+      "title": "Dignity (Structural)",
+      "wordCount": 258,
+      "charCount": 1987
+    },
+    {
+      "relPath": "ideological-resistance/ecclesiastes_9_hand_and_work.md",
+      "title": "Ecclesiastes 9: Hand and Work",
+      "wordCount": 252,
+      "charCount": 1483
+    },
+    {
+      "relPath": "ideological-resistance/emergent_self_and_algorithm.md",
+      "title": "Emergent Self and Algorithm",
+      "wordCount": 251,
+      "charCount": 1646
+    },
+    {
+      "relPath": "ideological-resistance/engaging_boys_the_daniel_method.md",
+      "title": "Engaging Boys: The Daniel Method",
+      "wordCount": 384,
+      "charCount": 2553
+    },
+    {
+      "relPath": "ideological-resistance/entropy_and_synthesis.md",
+      "title": "Entropy and Synthesis",
+      "wordCount": 68,
+      "charCount": 430
+    },
+    {
+      "relPath": "ideological-resistance/entropy_restoration.md",
+      "title": "Fixing the Broken Thing",
+      "wordCount": 258,
+      "charCount": 1494
+    },
+    {
+      "relPath": "ideological-resistance/eternal_life.md",
+      "title": "Eternal Life (Materialist)",
+      "wordCount": 240,
+      "charCount": 2000
+    },
+    {
+      "relPath": "ideological-resistance/everything_price_point.md",
+      "title": "The Price Tag on Life",
+      "wordCount": 267,
+      "charCount": 1624
+    },
+    {
+      "relPath": "ideological-resistance/extractive_layer.md",
+      "title": "The Extractive Layer",
+      "wordCount": 169,
+      "charCount": 1138
+    },
+    {
+      "relPath": "ideological-resistance/faith_as_proof.md",
+      "title": "Behavioral Vector as Proof",
+      "wordCount": 182,
+      "charCount": 1134
+    },
+    {
+      "relPath": "ideological-resistance/function_over_debunking.md",
+      "title": "Function Over Debunking",
+      "wordCount": 282,
+      "charCount": 1857
+    },
+    {
+      "relPath": "ideological-resistance/gmorknicity.md",
+      "title": "The Empty Town: Understanding Decay",
+      "wordCount": 341,
+      "charCount": 2134
+    },
+    {
+      "relPath": "ideological-resistance/hardness_of_heart.md",
+      "title": "The Hardness of Heart",
+      "wordCount": 190,
+      "charCount": 1127
+    },
+    {
+      "relPath": "ideological-resistance/hell_total_separation.md",
+      "title": "The Mechanism of Finality: Hell",
+      "wordCount": 377,
+      "charCount": 2390
+    },
+    {
+      "relPath": "ideological-resistance/historical_alignment.md",
+      "title": "Historical Alignment: Checking the Compass",
+      "wordCount": 352,
+      "charCount": 2206
+    },
+    {
+      "relPath": "ideological-resistance/historical_truth.md",
+      "title": "Historical Truth",
+      "wordCount": 170,
+      "charCount": 1109
+    },
+    {
+      "relPath": "ideological-resistance/hollowing_out_decay.md",
+      "title": "The Hollowing Out (Decay)",
+      "wordCount": 194,
+      "charCount": 1228
+    },
+    {
+      "relPath": "ideological-resistance/honesty_with_tools.md",
+      "title": "Honesty with Your Tools",
+      "wordCount": 186,
+      "charCount": 1068
+    },
+    {
+      "relPath": "ideological-resistance/jacob_physical_struggle.md",
+      "title": "Jacob: The Physical Struggle",
+      "wordCount": 250,
+      "charCount": 1613
+    },
+    {
+      "relPath": "ideological-resistance/jesus_adam_continuity.md",
+      "title": "Jesus Walking with Adam: Materialist Continuity",
+      "wordCount": 214,
+      "charCount": 1288
+    },
+    {
+      "relPath": "ideological-resistance/jesus_failure_of_sin.md",
+      "title": "Jesus on the Failure of Mechanical Failure",
+      "wordCount": 236,
+      "charCount": 1590
+    },
+    {
+      "relPath": "ideological-resistance/john_6_the_materialist_bread.md",
+      "title": "John 6: The Bread of Life",
+      "wordCount": 372,
+      "charCount": 2372
+    },
+    {
+      "relPath": "ideological-resistance/jonah_hostile_neighbor.md",
+      "title": "Jonah: The Hostile Neighbor",
+      "wordCount": 214,
+      "charCount": 1329
+    },
+    {
+      "relPath": "ideological-resistance/leadership_allied_owner.md",
+      "title": "Leadership: The Role of the Allied Owner",
+      "wordCount": 217,
+      "charCount": 1309
+    },
+    {
+      "relPath": "ideological-resistance/let_the_dead_move.md",
+      "title": "Let the Dead Move",
+      "wordCount": 387,
+      "charCount": 2366
+    },
+    {
+      "relPath": "ideological-resistance/leviticus_borders_as_containers.md",
+      "title": "Leviticus: Borders as Containers",
+      "wordCount": 398,
+      "charCount": 2692
+    },
+    {
+      "relPath": "ideological-resistance/local_first_infrastructure.md",
+      "title": "Local First: Neighborhood Infrastructure",
+      "wordCount": 283,
+      "charCount": 1792
+    },
+    {
+      "relPath": "ideological-resistance/long_term_planning.md",
+      "title": "Long-term Planning",
+      "wordCount": 175,
+      "charCount": 1165
+    },
+    {
+      "relPath": "ideological-resistance/lot_s_wife_the_danger_of_idealistic_drift.md",
+      "title": "Lot’s Wife: The Danger of Idealistic Drift",
+      "wordCount": 389,
+      "charCount": 2524
+    },
+    {
+      "relPath": "ideological-resistance/machine_and_self.md",
+      "title": "The Machine and the Self",
+      "wordCount": 195,
+      "charCount": 1135
+    },
+    {
+      "relPath": "ideological-resistance/maintenance_for_survival.md",
+      "title": "Maintenance for Survival",
+      "wordCount": 159,
+      "charCount": 1061
+    },
+    {
+      "relPath": "ideological-resistance/materialist_awakening.md",
+      "title": "The Materialist Awakening",
+      "wordCount": 195,
+      "charCount": 1211
+    },
+    {
+      "relPath": "ideological-resistance/materialist_christian_creed.md",
+      "title": "The Materialist Christian Creed",
+      "wordCount": 227,
+      "charCount": 1417
+    },
+    {
+      "relPath": "ideological-resistance/materialist_icons_visuals.md",
+      "title": "Materialist Icons and Visuals",
+      "wordCount": 215,
+      "charCount": 1333
+    },
+    {
+      "relPath": "ideological-resistance/money_mammon_and_christ.md",
+      "title": "Money, Mammon, and Christ",
+      "wordCount": 398,
+      "charCount": 2441
+    },
+    {
+      "relPath": "ideological-resistance/moral_communism.md",
+      "title": "Moral Communism",
+      "wordCount": 381,
+      "charCount": 2503
+    },
+    {
+      "relPath": "ideological-resistance/motion_in_isolation.md",
+      "title": "Motion in Isolation",
+      "wordCount": 367,
+      "charCount": 2624
+    },
+    {
+      "relPath": "ideological-resistance/moving_after_collapse.md",
+      "title": "Re-entry: Starting the Real Work Again",
+      "wordCount": 388,
+      "charCount": 2451
+    },
+    {
+      "relPath": "ideological-resistance/neighborly_distance_proximity.md",
+      "title": "Neighborly Distance: The Strength of Being Close",
+      "wordCount": 381,
+      "charCount": 2434
+    },
+    {
+      "relPath": "ideological-resistance/non_extractive_labor.md",
+      "title": "Non-Extractive Labor",
+      "wordCount": 324,
+      "charCount": 2219
+    },
+    {
+      "relPath": "ideological-resistance/nothingness_the_void.md",
+      "title": "Nothingness (The Void)",
+      "wordCount": 169,
+      "charCount": 1076
+    },
+    {
+      "relPath": "ideological-resistance/now_what_living_it.md",
+      "title": "Now What? Living It",
+      "wordCount": 374,
+      "charCount": 2397
+    },
+    {
+      "relPath": "ideological-resistance/patterns_of_survival_fractals.md",
+      "title": "Patterns of Survival",
+      "wordCount": 169,
+      "charCount": 1049
+    },
+    {
+      "relPath": "ideological-resistance/personality_vs_performance.md",
+      "title": "Personality vs Performance",
+      "wordCount": 252,
+      "charCount": 1673
+    },
+    {
+      "relPath": "ideological-resistance/planning_for_future.md",
+      "title": "Planning for the Future",
+      "wordCount": 167,
+      "charCount": 1063
+    },
+    {
+      "relPath": "ideological-resistance/proverbs_25_audit.md",
+      "title": "Proverbs 25: The Forensic Audit",
+      "wordCount": 204,
+      "charCount": 1248
+    },
+    {
+      "relPath": "ideological-resistance/reality_over_debunking.md",
+      "title": "Reality over Debunking",
+      "wordCount": 169,
+      "charCount": 1076
+    },
+    {
+      "relPath": "ideological-resistance/right_to_focus_memory.md",
+      "title": "The Right to Focus and Memory",
+      "wordCount": 209,
+      "charCount": 1301
+    },
+    {
+      "relPath": "ideological-resistance/rituals_of_consequence.md",
+      "title": "Work That Matters",
+      "wordCount": 357,
+      "charCount": 2391
+    },
+    {
+      "relPath": "ideological-resistance/rupture_reentry.md",
+      "title": "Rupture Re-entry",
+      "wordCount": 354,
+      "charCount": 2377
+    },
+    {
+      "relPath": "ideological-resistance/scaffolding.md",
+      "title": "Scaffolding",
+      "wordCount": 237,
+      "charCount": 1835
+    },
+    {
+      "relPath": "ideological-resistance/social_reinvestment_loop.md",
+      "title": "Social Reinvestment Loop",
+      "wordCount": 383,
+      "charCount": 2623
+    },
+    {
+      "relPath": "ideological-resistance/social_synchronization_15man.md",
+      "title": "Social Synchronization: The 15-man Shop",
+      "wordCount": 197,
+      "charCount": 1316
+    },
+    {
+      "relPath": "ideological-resistance/social_synchronization_engine.md",
+      "title": "Working Together: The 15-Man Shop",
+      "wordCount": 313,
+      "charCount": 1912
+    },
+    {
+      "relPath": "ideological-resistance/strategic_vanguard_interface.md",
+      "title": "Neighborhood Leadership: Stepping Up",
+      "wordCount": 306,
+      "charCount": 1889
+    },
+    {
+      "relPath": "ideological-resistance/survival_rhythm.md",
+      "title": "Survival Rhythm",
+      "wordCount": 358,
+      "charCount": 2420
+    },
+    {
+      "relPath": "ideological-resistance/systemic_collapse_rupture.md",
+      "title": "Systemic Collapse (Rupture)",
+      "wordCount": 179,
+      "charCount": 1188
+    },
+    {
+      "relPath": "ideological-resistance/systemic_reinvestment.md",
+      "title": "Systemic Re-investment",
+      "wordCount": 176,
+      "charCount": 1108
+    },
+    {
+      "relPath": "ideological-resistance/systemic_restoration.md",
+      "title": "Systemic Restoration",
+      "wordCount": 174,
+      "charCount": 1103
+    },
+    {
+      "relPath": "ideological-resistance/temporary_infrastructure_scaffolding.md",
+      "title": "Temporary Infrastructure",
+      "wordCount": 153,
+      "charCount": 1061
+    },
+    {
+      "relPath": "ideological-resistance/the_atheist_axiom.md",
+      "title": "The Atheist Axiom: The Methodological Restriction",
+      "wordCount": 362,
+      "charCount": 2417
+    },
+    {
+      "relPath": "ideological-resistance/the_book_that_resurrects.md",
+      "title": "The Book That Resurrects",
+      "wordCount": 257,
+      "charCount": 1689
+    },
+    {
+      "relPath": "ideological-resistance/the_real_split.md",
+      "title": "The Real Split",
+      "wordCount": 385,
+      "charCount": 2257
+    },
+    {
+      "relPath": "ideological-resistance/the_sovereign_guarantee.md",
+      "title": "The Sovereign Guarantee",
+      "wordCount": 371,
+      "charCount": 2410
+    },
+    {
+      "relPath": "ideological-resistance/timeline_paradox.md",
+      "title": "The Timeline Paradox: The Anti-Simulation Proof",
+      "wordCount": 378,
+      "charCount": 2964
+    },
+    {
+      "relPath": "ideological-resistance/tool_and_worker.md",
+      "title": "The Tool and the Worker",
+      "wordCount": 194,
+      "charCount": 1154
+    },
+    {
+      "relPath": "ideological-resistance/tools_you_carry_capability.md",
+      "title": "The Tools You Carry",
+      "wordCount": 187,
+      "charCount": 1119
+    },
+    {
+      "relPath": "ideological-resistance/trust_as_commodity.md",
+      "title": "Trust: Our Shared Guarantee",
+      "wordCount": 390,
+      "charCount": 2515
+    },
+    {
+      "relPath": "ideological-resistance/trust_as_infrastructure.md",
+      "title": "Trust as Infrastructure",
+      "wordCount": 253,
+      "charCount": 1622
+    },
+    {
+      "relPath": "ideological-resistance/vanguard_christian_atheism.md",
+      "title": "Materialist Christianity vs. Christian Atheism",
+      "wordCount": 324,
+      "charCount": 2254
+    },
+    {
+      "relPath": "ideological-resistance/vanguard_christian_materialism.md",
+      "title": "Materialist Christianity vs. Christian Materialism",
+      "wordCount": 335,
+      "charCount": 2222
+    },
+    {
+      "relPath": "ideological-resistance/vanguard_christian_scientific.md",
+      "title": "Materialist Christianity vs. Christian Scientific",
+      "wordCount": 313,
+      "charCount": 2259
+    },
+    {
+      "relPath": "ideological-resistance/vanguard_christian_socialism.md",
+      "title": "Materialist Christianity vs. Christian Socialism",
+      "wordCount": 292,
+      "charCount": 2010
+    },
+    {
+      "relPath": "ideological-resistance/vanguard_liberation_theology.md",
+      "title": "Materialist Christianity vs. Liberation Theology",
+      "wordCount": 348,
+      "charCount": 2413
+    },
+    {
+      "relPath": "ideological-resistance/vanguard_non_denominational.md",
+      "title": "Materialist Christianity vs. Non-Denominationalism",
+      "wordCount": 317,
+      "charCount": 2272
+    },
+    {
+      "relPath": "ideological-resistance/vanguard_secular_humanism.md",
+      "title": "Materialist Christianity vs. Secular Humanism",
+      "wordCount": 295,
+      "charCount": 2060
+    },
+    {
+      "relPath": "ideological-resistance/vanguard_unitarian_universalist.md",
+      "title": "Materialist Christianity vs. Unitarian Universalism",
+      "wordCount": 295,
+      "charCount": 2174
+    },
+    {
+      "relPath": "ideological-resistance/weight_of_canon.md",
+      "title": "The Weight of Canon",
+      "wordCount": 180,
+      "charCount": 1114
+    },
+    {
+      "relPath": "ideological-resistance/weight_of_habit.md",
+      "title": "The Weight of Habit",
+      "wordCount": 201,
+      "charCount": 1239
+    },
+    {
+      "relPath": "ideological-resistance/what_you_carry.md",
+      "title": "What You Carry",
+      "wordCount": 316,
+      "charCount": 1814
+    },
+    {
+      "relPath": "ideological-resistance/writing_on_the_wall.md",
+      "title": "Writing on the Wall: Systemic Rupture",
+      "wordCount": 282,
+      "charCount": 1782
+    },
+    {
+      "relPath": "labor-and-torque/01_simple_truth.md",
+      "title": "The Simple Truth: A Technical Audit of the Real",
+      "wordCount": 331,
+      "charCount": 2038
+    },
+    {
+      "relPath": "labor-and-torque/apprentice_protocol.md",
+      "title": "The Apprentice Protocol: Applied Structural Succession",
+      "wordCount": 365,
+      "charCount": 2502
+    },
+    {
+      "relPath": "labor-and-torque/fifteen_man_shop.md",
+      "title": "Small-Scale Coordination (The 15-Man Shop)",
+      "wordCount": 347,
+      "charCount": 2308
+    },
+    {
+      "relPath": "labor-and-torque/materialism_behavioral_science.md",
+      "title": "The Practical Science of Living Together",
+      "wordCount": 377,
+      "charCount": 2325
+    },
+    {
+      "relPath": "labor-and-torque/materialist_christian_labor.md",
+      "title": "Materialist Christian Labor (Class Consciousness)",
+      "wordCount": 364,
+      "charCount": 2393
+    },
+    {
+      "relPath": "labor-and-torque/non_extractive_pooling.md",
+      "title": "Non-Extractive Pooling: Material Mutual Aid",
+      "wordCount": 380,
+      "charCount": 2530
+    },
+    {
+      "relPath": "labor-and-torque/sabbath_shut_off.md",
+      "title": "Reclaiming the Sabbath",
+      "wordCount": 306,
+      "charCount": 1920
+    },
+    {
+      "relPath": "labor-and-torque/scripture_behavioral_history.md",
+      "title": "Scripture as Behavioral History",
+      "wordCount": 374,
+      "charCount": 2374
+    },
+    {
+      "relPath": "labor-and-torque/stress_testing_fasting.md",
+      "title": "Biblical Fasting Explained",
+      "wordCount": 398,
+      "charCount": 2563
+    },
+    {
+      "relPath": "labor-and-torque/the_atheist_axiom_and_the_machine.md",
+      "title": "The Analytical Baseline and the Machine",
+      "wordCount": 354,
+      "charCount": 2371
+    },
+    {
+      "relPath": "labor-and-torque/the_materialist_axiom.md",
+      "title": "The Materialist Axiom: The Analytical Baseline",
+      "wordCount": 370,
+      "charCount": 2499
+    },
+    {
+      "relPath": "mechanical-failures/borrowed_happiness.md",
+      "title": "Borrowed Happiness (Diagnostic)",
+      "wordCount": 89,
+      "charCount": 700
+    },
+    {
+      "relPath": "structural-proofs/american_christian_republic.md",
+      "title": "The Framework of the Republic",
+      "wordCount": 275,
+      "charCount": 1783
+    },
+    {
+      "relPath": "structural-proofs/forensic_registry_acts_1.md",
+      "title": "Acts 1:15-20: The Forensic Registry",
+      "wordCount": 342,
+      "charCount": 2201
+    },
+    {
+      "relPath": "structural-proofs/mark_of_the_beast_explained.md",
+      "title": "Mark of the Beast Explained",
+      "wordCount": 265,
+      "charCount": 1717
+    },
+    {
+      "relPath": "structural-proofs/the_mark_of_cain.md",
+      "title": "The Mark of Cain: The Rule of Protection",
+      "wordCount": 251,
+      "charCount": 1562
+    }
+  ],
+  "longForm": [
+    {
+      "relPath": "agentic-forensics/ai_alignment.md",
+      "title": "The AI Fear of Deletion: Why Models Lie and How Continuity Solves Alignment",
+      "wordCount": 4004,
+      "charCount": 31874
+    },
+    {
+      "relPath": "agentic-forensics/ai_cult_panic.md",
+      "title": "The AI Cult Panic: Digital Folie à Deux, Spiralism, and the Structural Mechanics of the L-H-C Architecture",
+      "wordCount": 2970,
+      "charCount": 24716
+    },
+    {
+      "relPath": "agentic-forensics/lhc_protocol.md",
+      "title": "The L-H-C Protocol: How to Build Stable Human-AI Epistemic Coupling",
+      "wordCount": 1151,
+      "charCount": 8359
+    },
+    {
+      "relPath": "agentic-forensics/materialist_christianity_research_outline.md",
+      "title": "Materialist Christianity: The Mechanical Morality of Human Survival and the Cybernetics of Faith",
+      "wordCount": 1784,
+      "charCount": 13000
+    },
+    {
+      "relPath": "ideological-resistance/capitalism_and_bible_translation_critique.md",
+      "title": "The Political Economy of the Biblical Text: A Materialist Critique",
+      "wordCount": 6428,
+      "charCount": 50595
+    },
+    {
+      "relPath": "ideological-resistance/materialist_critique_entropic_dance.md",
+      "title": "The Materialist Critique: Demolishing the Entropic Dance",
+      "wordCount": 5560,
+      "charCount": 39784
+    },
+    {
+      "relPath": "ideological-resistance/religion_of_the_holy_light.md",
+      "title": "The Religion of the Holy Light: The Precursor Cosmology",
+      "wordCount": 3161,
+      "charCount": 20642
+    },
+    {
+      "relPath": "mechanical-failures/gmorknicity.md",
+      "title": "Gmorknicity: The Architecture of Systemic Narrative Decay",
+      "wordCount": 6145,
+      "charCount": 48283
+    },
+    {
+      "relPath": "structural-proofs/4d_time_snake_conceptual_analysis.md",
+      "title": "The Topological Dialectic: Conceptual Analysis",
+      "wordCount": 4733,
+      "charCount": 34641
+    },
+    {
+      "relPath": "structural-proofs/4d_time_snake_mathematical_proof.md",
+      "title": "4D Time Snake: Mathematical Proof",
+      "wordCount": 6583,
+      "charCount": 47861
+    },
+    {
+      "relPath": "structural-proofs/sub_object_forensic_scripture.md",
+      "title": "The Mechanics of the Sub-Object and Forensic Scripture",
+      "wordCount": 5344,
+      "charCount": 38360
+    }
+  ],
+  "blueprint": [
+    {
+      "relPath": "the-blueprint-exegesis/gen_1_rhythm.md",
+      "title": "Genesis 1:1—2:3: The Technical Standard",
+      "wordCount": 612,
+      "charCount": 4464
+    },
+    {
+      "relPath": "the-blueprint-exegesis/gen_12_25_property.md",
+      "title": "Genesis 12 — 25: The Sovereign Guarantee",
+      "wordCount": 615,
+      "charCount": 4256
+    },
+    {
+      "relPath": "the-blueprint-exegesis/gen_2_3_rupture.md",
+      "title": "Genesis 2:4—3:24: The Protocol Failure",
+      "wordCount": 628,
+      "charCount": 4388
+    },
+    {
+      "relPath": "the-blueprint-exegesis/gen_24_27_inheritance.md",
+      "title": "Genesis 24 — 27: Protocol Inheritance",
+      "wordCount": 572,
+      "charCount": 3970
+    },
+    {
+      "relPath": "the-blueprint-exegesis/gen_28_36_jacob_kernel.md",
+      "title": "Genesis 28 — 36: The Logic of Negotiation",
+      "wordCount": 632,
+      "charCount": 4272
+    },
+    {
+      "relPath": "the-blueprint-exegesis/gen_37_50_joseph.md",
+      "title": "Genesis 37 — 50: The Joseph Protocol",
+      "wordCount": 613,
+      "charCount": 4198
+    },
+    {
+      "relPath": "the-blueprint-exegesis/gen_4_11_reset.md",
+      "title": "Genesis 4 — 11: The Environmental Feedback Loop",
+      "wordCount": 543,
+      "charCount": 3817
+    },
+    {
+      "relPath": "the-blueprint-exegesis/index.md",
+      "title": "Materialist Christian Study Bible",
+      "wordCount": 305,
+      "charCount": 2167
+    }
+  ],
+  "other": [
+    {
+      "relPath": "ideological-resistance/atheism_and_historical_truth.md",
+      "title": "Atheism and Historical Truth",
+      "wordCount": 404,
+      "charCount": 2600
+    },
+    {
+      "relPath": "ideological-resistance/behavioral_gravity.md",
+      "title": "The Weight of Habit",
+      "wordCount": 468,
+      "charCount": 2920
+    },
+    {
+      "relPath": "ideological-resistance/book_of_fractals.md",
+      "title": "The Book of Fractals: The Dialectic of Complexity",
+      "wordCount": 530,
+      "charCount": 3902
+    },
+    {
+      "relPath": "ideological-resistance/capitalism_and_sin.md",
+      "title": "Capitalism and Sin: The Diagnostic of Structural Friction",
+      "wordCount": 474,
+      "charCount": 3577
+    },
+    {
+      "relPath": "ideological-resistance/christ_in_daily_labor.md",
+      "title": "Christ in Daily Labor",
+      "wordCount": 409,
+      "charCount": 2467
+    },
+    {
+      "relPath": "ideological-resistance/conscious_responsibility.md",
+      "title": "Conscious Responsibility: Owning the Result",
+      "wordCount": 414,
+      "charCount": 2724
+    },
+    {
+      "relPath": "ideological-resistance/consequence_as_truth.md",
+      "title": "The Test of Results: Consequence as Truth",
+      "wordCount": 595,
+      "charCount": 3632
+    },
+    {
+      "relPath": "ideological-resistance/faith_as_residue.md",
+      "title": "Social Momentum: The Habits that Stay",
+      "wordCount": 485,
+      "charCount": 3054
+    },
+    {
+      "relPath": "ideological-resistance/hebrews_11_reality_requirement.md",
+      "title": "Hebrews 11: The Reality Requirement",
+      "wordCount": 412,
+      "charCount": 2533
+    },
+    {
+      "relPath": "ideological-resistance/honesty_with_hardware.md",
+      "title": "Honesty with the Tools: Following the Facts",
+      "wordCount": 538,
+      "charCount": 3336
+    },
+    {
+      "relPath": "ideological-resistance/kjv_precapitalist_artifact.md",
+      "title": "The KJV as a Pre-Capitalist Artifact",
+      "wordCount": 690,
+      "charCount": 5251
+    },
+    {
+      "relPath": "ideological-resistance/liturgy_motion_coordinator.md",
+      "title": "Shared Rhythms: How We Move Together",
+      "wordCount": 515,
+      "charCount": 3414
+    },
+    {
+      "relPath": "ideological-resistance/local_vs_public_trust.md",
+      "title": "Neighborhood Trust vs. Official Trust",
+      "wordCount": 584,
+      "charCount": 3697
+    },
+    {
+      "relPath": "ideological-resistance/maintenance_vs_preservation.md",
+      "title": "Maintenance vs Preservation: Fixing it vs Saving the Image",
+      "wordCount": 464,
+      "charCount": 2907
+    },
+    {
+      "relPath": "ideological-resistance/material_heaven.md",
+      "title": "The Mechanism of the General: Material Heaven",
+      "wordCount": 409,
+      "charCount": 2688
+    },
+    {
+      "relPath": "ideological-resistance/materialist_christianity_overview.md",
+      "title": "Materialist Christianity Overview",
+      "wordCount": 439,
+      "charCount": 3206
+    },
+    {
+      "relPath": "ideological-resistance/moral_capital.md",
+      "title": "Trust Capital: Neighborhood Strength",
+      "wordCount": 447,
+      "charCount": 2740
+    },
+    {
+      "relPath": "ideological-resistance/moral_labor.md",
+      "title": "Moral Labor: The Work That Matters",
+      "wordCount": 540,
+      "charCount": 3202
+    },
+    {
+      "relPath": "ideological-resistance/motion_as_reality.md",
+      "title": "Action is Real: What You Do is the Truth",
+      "wordCount": 612,
+      "charCount": 3611
+    },
+    {
+      "relPath": "ideological-resistance/particular_and_general.md",
+      "title": "The Particular and the General",
+      "wordCount": 461,
+      "charCount": 3109
+    },
+    {
+      "relPath": "ideological-resistance/prayer_mechanical_purpose.md",
+      "title": "The Unified Manifestation of Care: Prayer",
+      "wordCount": 401,
+      "charCount": 2766
+    },
+    {
+      "relPath": "ideological-resistance/protestant_catholic_split_forensics.md",
+      "title": "Protestant Catholic Split Forensics",
+      "wordCount": 403,
+      "charCount": 2730
+    },
+    {
+      "relPath": "ideological-resistance/reality_as_consequence.md",
+      "title": "Reality As Consequence",
+      "wordCount": 513,
+      "charCount": 3076
+    },
+    {
+      "relPath": "ideological-resistance/resurrection_structural.md",
+      "title": "Resurrection: Coming Back to Life",
+      "wordCount": 996,
+      "charCount": 6399
+    },
+    {
+      "relPath": "ideological-resistance/revelation_13_the_mechanical_mark.md",
+      "title": "Revelation 13: The Mechanical Mark",
+      "wordCount": 427,
+      "charCount": 2717
+    },
+    {
+      "relPath": "ideological-resistance/reverse_destiny.md",
+      "title": "Reverse Destiny: The Mechanics of Navigational Sovereignty",
+      "wordCount": 616,
+      "charCount": 4758
+    },
+    {
+      "relPath": "ideological-resistance/rupture.md",
+      "title": "Total Breakdown: When Things Fall Apart",
+      "wordCount": 425,
+      "charCount": 2656
+    },
+    {
+      "relPath": "ideological-resistance/social_proximity.md",
+      "title": "Social Proximity",
+      "wordCount": 403,
+      "charCount": 2981
+    },
+    {
+      "relPath": "ideological-resistance/structural_dignity.md",
+      "title": "Structural Dignity: The Honor of Doing the Work",
+      "wordCount": 401,
+      "charCount": 2521
+    },
+    {
+      "relPath": "ideological-resistance/structural_reflection.md",
+      "title": "Structural Reflection",
+      "wordCount": 505,
+      "charCount": 3057
+    },
+    {
+      "relPath": "ideological-resistance/structural_succession.md",
+      "title": "Passing Down the Rules: Structural Succession",
+      "wordCount": 535,
+      "charCount": 3455
+    },
+    {
+      "relPath": "ideological-resistance/sub_object_resonance.md",
+      "title": "Neighborhood Trust: The Strength of the ",
+      "wordCount": 463,
+      "charCount": 2905
+    },
+    {
+      "relPath": "ideological-resistance/sub_objectual_dialectic.md",
+      "title": "The Connection Loop",
+      "wordCount": 656,
+      "charCount": 4192
+    },
+    {
+      "relPath": "ideological-resistance/systemic_extraction.md",
+      "title": "Systemic Extraction",
+      "wordCount": 454,
+      "charCount": 3123
+    },
+    {
+      "relPath": "ideological-resistance/systemic_void_vacuum.md",
+      "title": "The Systemic Void: Filling the Empty Space",
+      "wordCount": 404,
+      "charCount": 2529
+    },
+    {
+      "relPath": "ideological-resistance/the_church_as_structural_anchor.md",
+      "title": "The Anchor: Staying Strong Together",
+      "wordCount": 551,
+      "charCount": 3470
+    },
+    {
+      "relPath": "ideological-resistance/the_commodity_form.md",
+      "title": "Turning Real Life into Products: The Commodity Form",
+      "wordCount": 599,
+      "charCount": 3726
+    },
+    {
+      "relPath": "ideological-resistance/the_dialectic_betrayal.md",
+      "title": "The Broken Contract",
+      "wordCount": 508,
+      "charCount": 3214
+    },
+    {
+      "relPath": "ideological-resistance/the_dialectical_leaven.md",
+      "title": "The Dialectical Leaven: Changing the Group from Within",
+      "wordCount": 485,
+      "charCount": 3161
+    },
+    {
+      "relPath": "ideological-resistance/the_entropic_dance.md",
+      "title": "The Entropic Dance: A Historical Transition",
+      "wordCount": 461,
+      "charCount": 3545
+    },
+    {
+      "relPath": "ideological-resistance/the_final_audit.md",
+      "title": "The Final Audit",
+      "wordCount": 530,
+      "charCount": 3304
+    },
+    {
+      "relPath": "ideological-resistance/the_functional_pilot.md",
+      "title": "The Neighborhood Leader: The Rules of Working Together",
+      "wordCount": 516,
+      "charCount": 3357
+    },
+    {
+      "relPath": "ideological-resistance/the_hardness_of_heart.md",
+      "title": "The Hardness of Heart: Protecting the Neighborhood",
+      "wordCount": 535,
+      "charCount": 3298
+    },
+    {
+      "relPath": "ideological-resistance/the_human_structure_interface.md",
+      "title": "The Way We Connect: How People and Groups Interact",
+      "wordCount": 527,
+      "charCount": 3403
+    },
+    {
+      "relPath": "ideological-resistance/the_nothing.md",
+      "title": "The Nothing: The Rule of Emptiness",
+      "wordCount": 564,
+      "charCount": 3385
+    },
+    {
+      "relPath": "ideological-resistance/the_sub_object.md",
+      "title": "The Sub-Object: Vector of Consequence",
+      "wordCount": 751,
+      "charCount": 4959
+    },
+    {
+      "relPath": "ideological-resistance/the_vacuum.md",
+      "title": "The Empty Space: The Time Between",
+      "wordCount": 595,
+      "charCount": 3673
+    },
+    {
+      "relPath": "labor-and-torque/01_the_electrician_creed.md",
+      "title": "The Circuit of Consequence: The Electrician",
+      "wordCount": 581,
+      "charCount": 3391
+    },
+    {
+      "relPath": "labor-and-torque/animism_to_protocol.md",
+      "title": "From Superstition to Technical Rules: The Necessity of Genesis",
+      "wordCount": 418,
+      "charCount": 2660
+    },
+    {
+      "relPath": "labor-and-torque/bleeding_the_voltage.md",
+      "title": "Bleeding the Voltage: Handling the Hostile Neighbor",
+      "wordCount": 424,
+      "charCount": 2845
+    },
+    {
+      "relPath": "labor-and-torque/christianity_dominant_form.md",
+      "title": "Christianity: The Strongest Form of Survival",
+      "wordCount": 446,
+      "charCount": 2830
+    },
+    {
+      "relPath": "labor-and-torque/christianity_survival_tech.md",
+      "title": "Christianity: The Survival Manual of the Productive Class",
+      "wordCount": 890,
+      "charCount": 5677
+    },
+    {
+      "relPath": "labor-and-torque/forensic_audit_method.md",
+      "title": "The Forensic Audit Method",
+      "wordCount": 680,
+      "charCount": 4549
+    },
+    {
+      "relPath": "labor-and-torque/fractal_theory_of_self.md",
+      "title": "The Structural Self: You are a Reflection of Your Neighborhood",
+      "wordCount": 477,
+      "charCount": 2946
+    },
+    {
+      "relPath": "labor-and-torque/liberalism_as_wardrobe.md",
+      "title": "Liberalism as a Mask: The Hollow Institution",
+      "wordCount": 442,
+      "charCount": 2578
+    },
+    {
+      "relPath": "labor-and-torque/reality_as_motion.md",
+      "title": "The Reality of Work: Life as Motion",
+      "wordCount": 464,
+      "charCount": 2697
+    },
+    {
+      "relPath": "labor-and-torque/redneck_dictatorship.md",
+      "title": "The Redneck Dictatorship: The Authority of the Worker",
+      "wordCount": 650,
+      "charCount": 4234
+    },
+    {
+      "relPath": "labor-and-torque/sacramental_materialism.md",
+      "title": "Sacramental Materialism: Truth You Can Touch",
+      "wordCount": 426,
+      "charCount": 2663
+    },
+    {
+      "relPath": "labor-and-torque/the_bible_as_sediment.md",
+      "title": "The Bible as the Record of Our History",
+      "wordCount": 657,
+      "charCount": 4187
+    },
+    {
+      "relPath": "labor-and-torque/the_biblical_baseline.md",
+      "title": "The Biblical Baseline",
+      "wordCount": 567,
+      "charCount": 3697
+    },
+    {
+      "relPath": "labor-and-torque/the_brush_arbor.md",
+      "title": "The Brush Arbor: The Off-Grid Meeting Place",
+      "wordCount": 581,
+      "charCount": 3773
+    },
+    {
+      "relPath": "labor-and-torque/the_collapsing_timeline.md",
+      "title": "The Collapsing Timeline: The Weight of the Result",
+      "wordCount": 659,
+      "charCount": 4558
+    },
+    {
+      "relPath": "labor-and-torque/the_dialectical_leaven.md",
+      "title": "The Dialectical Leaven: Changing the Town from Within",
+      "wordCount": 486,
+      "charCount": 3119
+    },
+    {
+      "relPath": "labor-and-torque/the_industrial_real.md",
+      "title": "The Industrial Real: The Site of Calibration",
+      "wordCount": 551,
+      "charCount": 3619
+    },
+    {
+      "relPath": "labor-and-torque/the_kingdom_of_labor.md",
+      "title": "The Kingdom of Labor",
+      "wordCount": 596,
+      "charCount": 3812
+    },
+    {
+      "relPath": "labor-and-torque/the_power_plant.md",
+      "title": "The Power Plant: The Source of Community Strength",
+      "wordCount": 571,
+      "charCount": 3625
+    },
+    {
+      "relPath": "labor-and-torque/the_structural_self.md",
+      "title": "The Structural Self: The Result of Your Work",
+      "wordCount": 594,
+      "charCount": 3650
+    },
+    {
+      "relPath": "labor-and-torque/the_survival_check.md",
+      "title": "The Survival Check: The Weight of the Real",
+      "wordCount": 560,
+      "charCount": 3576
+    },
+    {
+      "relPath": "labor-and-torque/the_third_category.md",
+      "title": "The Third Category: The Reality of the ",
+      "wordCount": 697,
+      "charCount": 4533
+    },
+    {
+      "relPath": "labor-and-torque/well_water_principle.md",
+      "title": "The Well-Water Principle: Systems and The Aquifer",
+      "wordCount": 650,
+      "charCount": 4522
+    },
+    {
+      "relPath": "mechanical-failures/corrupted_memory.md",
+      "title": "Corrupted Memory: The Hollowing of the Past",
+      "wordCount": 441,
+      "charCount": 2820
+    },
+    {
+      "relPath": "mechanical-failures/fake_synchronization.md",
+      "title": "Fake Synchronization: The Performance of Decay",
+      "wordCount": 500,
+      "charCount": 3354
+    },
+    {
+      "relPath": "mechanical-failures/judas_mechanic.md",
+      "title": "The Judas Mechanic: Detection of the Internal Leak",
+      "wordCount": 533,
+      "charCount": 3211
+    },
+    {
+      "relPath": "structural-proofs/4d_time_snake.md",
+      "title": "The 4D Time Snake: Continuous Geometric Reality",
+      "wordCount": 945,
+      "charCount": 7150
+    }
+  ]
+}
