@@ -49,6 +49,18 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://materialistchristianity.org/wiki/01-axioms/sub-objectual-dialectic</loc>
+    <lastmod>2026-07-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://materialistchristianity.org/wiki/01-axioms/the-4d-time-snake</loc>
+    <lastmod>2026-07-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://materialistchristianity.org/wiki/02-thermodynamics/thermodynamics-of-sin</loc>
     <lastmod>2026-07-23</lastmod>
     <changefreq>monthly</changefreq>
@@ -73,6 +85,18 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://materialistchristianity.org/wiki/03-labor-and-torque/the-redneck-dictatorship</loc>
+    <lastmod>2026-07-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://materialistchristianity.org/wiki/03-labor-and-torque/fifteen-man-shop</loc>
+    <lastmod>2026-07-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://materialistchristianity.org/wiki/04-verse-forensics/exegesis-hamartia</loc>
     <lastmod>2026-07-23</lastmod>
     <changefreq>monthly</changefreq>
@@ -80,6 +104,12 @@
   </url>
   <url>
     <loc>https://materialistchristianity.org/wiki/04-verse-forensics/exegesis-pistis</loc>
+    <lastmod>2026-07-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://materialistchristianity.org/wiki/04-verse-forensics/exegesis-logos</loc>
     <lastmod>2026-07-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
