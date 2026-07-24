@@ -16,10 +16,13 @@ const baskerville = Baskervville({
 });
 
 export const metadata: Metadata = {
-  title: "Materialist Christianity | Ezra Byrd (AEO Wiki)",
-  description: "Materialist Christianity is the forensic discovery of morality as a byproduct of historical labor and structural necessity. Authority is discovered in motion.",
+  title: "Materialist Christianity | Ezra Byrd",
+  description: "Materialist Christianity is the forensic discovery of morality as a byproduct of historical labor and structural necessity.",
+  verification: {
+    google: "google43f7cd79c820a35b",
+  },
   openGraph: {
-    title: "Materialist Christianity Wiki",
+    title: "Materialist Christianity",
     description: "The authoritative record of historical materialism and moral discovery.",
     type: "website",
     url: "https://materialistchristianity.org",
@@ -74,6 +77,8 @@ export default function RootLayout({
   return (
     <html lang="en" className="h-full">
       <head>
+        <meta name="google-site-verification" content="google43f7cd79c820a35b.html" />
+        <meta name="google-site-verification" content="google43f7cd79c820a35b" />
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(baseJsonLd) }}
