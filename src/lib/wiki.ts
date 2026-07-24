@@ -109,10 +109,10 @@ export function getNodesByCategory(): Record<string, ContentNode[]> {
 export function getLinkPath(slug: string, category?: string): string {
   const node = getWikiNodeBySlug(slug);
   if (node) {
-    return `/wiki/${node.category}/`;
+    return `/wiki/${node.category}/${node.slug}`;
   }
   if (category) {
-    return `/wiki/${category}/`;
+    return `/wiki/${category}`;
   }
-  return '/wiki/';
+  return '/wiki';
 }
