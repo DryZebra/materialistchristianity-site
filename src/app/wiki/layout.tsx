@@ -1,5 +1,5 @@
 import Link from 'next/link';
-import { getNodesByCategory, getAllWikiNodes, getAllEssays, ContentNode } from '@/lib/wiki';
+import { getNodesByCategory, ContentNode } from '@/lib/wiki';
 import MobileNav from '@/components/MobileNav';
 
 export default function WikiLayout({ children }: { children: React.ReactNode }) {
@@ -13,43 +13,58 @@ export default function WikiLayout({ children }: { children: React.ReactNode }) 
   });
 
   return (
-    <div className="forensic-layout">
+    <div className="forensic-layout min-h-screen bg-concrete text-ash">
       {/* PERSISTENT FORENSIC SIDEBAR (DESKTOP) */}
-      <aside className="forensic-sidebar hidden lg:block">
-        <div className="mb-12">
-          <Link href="/wiki" className="text-3xl font-black text-signal block mb-2 uppercase leading-none italic">
-            Archive
+      <aside className="forensic-sidebar hidden lg:block bg-concrete border-r border-ash/10 p-6 custom-scrollbar">
+        <div className="mb-10 pb-6 border-b border-ash/10">
+          <Link href="/wiki" className="text-xl font-bold text-white block mb-1 hover:text-amber transition-all">
+            Garden Cathedral
           </Link>
-          <div className="text-[10px] uppercase font-mono opacity-40">Status: Operational // Vol II</div>
+          <div className="text-[10px] font-mono text-muted uppercase tracking-widest">
+            Canonical Knowledge Base
+          </div>
         </div>
 
         <nav className="space-y-8">
           <div>
-            <div className="text-xs font-black uppercase opacity-30 mb-4 tracking-widest border-b border-ash/10 pb-1">
-              Testimony
+            <div className="text-[10px] font-mono font-bold uppercase text-amber tracking-widest mb-3">
+              Cathedral Pillars
             </div>
-            <Link href="/wiki/labor-and-torque" className="category-item !opacity-100 !text-ash hover:!text-signal font-bold">
-              Testimony Library
-            </Link>
+            <div className="space-y-1 font-mono text-xs">
+              <Link href="/wiki#01-axioms" className="block py-1 text-muted hover:text-ash transition-all">
+                &rarr; I. Structural Axioms
+              </Link>
+              <Link href="/wiki#02-thermodynamics" className="block py-1 text-muted hover:text-ash transition-all">
+                &rarr; II. Thermodynamics of Sin
+              </Link>
+              <Link href="/wiki#03-labor-and-torque" className="block py-1 text-muted hover:text-ash transition-all">
+                &rarr; III. Labor & Torque
+              </Link>
+              <Link href="/wiki#04-verse-forensics" className="block py-1 text-muted hover:text-ash transition-all">
+                &rarr; IV. Scriptural Forensics
+              </Link>
+              <Link href="/wiki#05-life-mechanics" className="block py-1 text-muted hover:text-ash transition-all">
+                &rarr; V. Life Mechanics
+              </Link>
+            </div>
           </div>
 
           <div>
-            <div className="text-xs font-black uppercase opacity-30 mb-4 tracking-widest border-b border-ash/10 pb-1">
-              Knowledge Map
+            <div className="text-[10px] font-mono font-bold uppercase text-amber tracking-widest mb-4">
+              All Master Nodes
             </div>
-            <Link href="/wiki/structural-proofs" className="category-item !opacity-100 !text-ash hover:!text-signal font-bold mb-4">
-              All Axioms
-            </Link>
             
             {categoryNames.map(category => (
-              <div key={category} className="mb-4">
-                <div className="text-[9px] uppercase font-mono opacity-40 mb-2">{category}</div>
+              <div key={category} className="mb-6">
+                <div className="text-[10px] font-mono uppercase text-muted/60 mb-2 border-b border-ash/10 pb-1">
+                  {category}
+                </div>
                 <div className="space-y-1">
                   {categories[category].map((node: Omit<ContentNode, 'content'>) => (
                     <Link 
                       key={node.slug} 
                       href={node.url} 
-                      className="block px-4 py-2 text-xs font-bold uppercase transition-all duration-200 border-l-2 border-transparent hover:border-signal hover:bg-signal/5 hover:text-signal"
+                      className="block py-1.5 px-2 text-xs font-medium text-ash/80 hover:text-amber hover:bg-slate/50 rounded transition-all line-clamp-1"
                     >
                       {node.title}
                     </Link>
