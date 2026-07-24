@@ -19,7 +19,9 @@ out/
 *.py
 *.txt
 !llms.txt
+!llms-full.txt
 !robots.txt
+!sitemap.xml
 
 # Website Configuration
 .env*
