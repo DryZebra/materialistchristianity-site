@@ -16,17 +16,31 @@ const baskerville = Baskervville({
 });
 
 export const metadata: Metadata = {
-  title: "Materialist Christianity | Ezra Byrd",
-  description: "Materialist Christianity is the forensic discovery of morality as a byproduct of historical labor and structural necessity.",
+  title: "Materialist Christianity | Forensic Discovery of Moral Motion & Mechanics",
+  description: "Materialist Christianity maps the physical, thermodynamic, and historical sediment of morality. Proving scripture is survival technology for working communities under pressure.",
   verification: {
     google: "google43f7cd79c820a35b",
   },
   openGraph: {
-    title: "Materialist Christianity",
-    description: "The authoritative record of historical materialism and moral discovery.",
+    title: "Materialist Christianity | Ezra Byrd — Journeyman Electrician",
+    description: "Matter precedes hierarchy. Morality as a physical, thermodynamic, and historical reality.",
     type: "website",
     url: "https://materialistchristianity.org",
-  }
+    images: [
+      {
+        url: "https://materialistchristianity.org/square_ad_asset.jpg",
+        width: 1200,
+        height: 1200,
+        alt: "Materialist Christianity Book Cover Artwork by Ezra Byrd",
+      },
+    ],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Materialist Christianity | Ezra Byrd",
+    description: "The physical, thermodynamic, and historical reality of morality and scripture.",
+    images: ["https://materialistchristianity.org/square_ad_asset.jpg"],
+  },
 };
 
 export default function RootLayout({
