@@ -172,14 +172,12 @@ export default function GardenCathedralLanding() {
             The full 12-chapter master text recording the complete physical framework, trade analyses, and historical proofs across Volume I and Volume II.
           </p>
           
-          <a
-            href="https://www.amazon.com/dp/B0FMN5PDZ4"
-            target="_blank"
-            rel="noopener noreferrer"
+          <Link
+            href="/thank-you-amazon"
             className="px-8 py-3.5 bg-concrete border border-amber/40 text-amber hover:bg-amber hover:text-concrete text-sm font-mono uppercase font-bold tracking-widest rounded transition-all inline-block"
           >
             Examine Master Text on Amazon (Paperback $19.99 / Kindle $9.99) &rarr;
-          </a>
+          </Link>
         </div>
       </section>
 
