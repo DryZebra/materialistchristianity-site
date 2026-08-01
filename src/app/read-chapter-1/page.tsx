@@ -184,22 +184,18 @@ export default function SampleChapterPage() {
             You have read the opening studs of the foundation. Secure your complete copy of Materialist Christianity on Amazon.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
-            <a
-              href="https://www.amazon.com/dp/B0FMN5PDZ4"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="cta-terminal bg-concrete text-ash font-black uppercase tracking-widest text-sm py-4 px-8"
+            <Link
+              href="/thank-you-amazon"
+              className="cta-terminal bg-concrete text-ash font-black uppercase tracking-widest text-sm py-4 px-8 inline-block"
             >
               Paperback &mdash; $19.99 on Amazon &rarr;
-            </a>
-            <a
-              href="https://www.amazon.com/dp/B0FMN5PDZ4"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="cta-terminal bg-signal text-white font-black uppercase tracking-widest text-sm py-4 px-8"
+            </Link>
+            <Link
+              href="/thank-you-amazon"
+              className="cta-terminal bg-signal text-white font-black uppercase tracking-widest text-sm py-4 px-8 inline-block"
             >
               Kindle Edition &mdash; $9.99 on Amazon &rarr;
-            </a>
+            </Link>
           </div>
         </section>
       </main>
@@ -211,14 +207,12 @@ export default function SampleChapterPage() {
             <span className="font-black text-sm uppercase block tracking-wider text-signal">Materialist Christianity by Ezra Byrd</span>
             <span className="text-xs font-mono opacity-60 uppercase">Available now in Paperback ($19.99) & Kindle ($9.99)</span>
           </div>
-          <a
-            href="https://www.amazon.com/dp/B0FMN5PDZ4"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="cta-terminal !py-3 !px-6 !text-xs font-black uppercase tracking-widest bg-signal text-white whitespace-nowrap"
+          <Link
+            href="/thank-you-amazon"
+            className="cta-terminal !py-3 !px-6 !text-xs font-black uppercase tracking-widest bg-signal text-white whitespace-nowrap inline-block"
           >
             Buy Book on Amazon &rarr;
-          </a>
+          </Link>
         </div>
       </div>
     </div>
