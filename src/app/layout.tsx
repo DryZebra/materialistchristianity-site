@@ -79,6 +79,18 @@ export default function RootLayout({
       <head>
         <meta name="google-site-verification" content="google43f7cd79c820a35b.html" />
         <meta name="google-site-verification" content="google43f7cd79c820a35b" />
+        {/* Google Ads Tag (gtag.js) */}
+        <script async src="https://www.googletagmanager.com/gtag/js?id=AW-18364987806" />
+        <script
+          dangerouslySetInnerHTML={{
+            __html: `
+              window.dataLayer = window.dataLayer || [];
+              function gtag(){dataLayer.push(arguments);}
+              gtag('js', new Date());
+              gtag('config', 'AW-18364987806');
+            `,
+          }}
+        />
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(baseJsonLd) }}

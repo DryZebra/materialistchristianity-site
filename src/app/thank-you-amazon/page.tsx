@@ -9,10 +9,10 @@ export default function ThankYouAmazonPage() {
   const amazonUrl = `https://www.amazon.com/dp/${asin}?tag=${associateTag}&maas=maas_mc_google_ads_conversion&ref_=mc_google_ads`;
 
   useEffect(() => {
-    // Fire Google Ads & Analytics Conversion Event if available
+    // Fire Google Ads & Analytics Conversion Event
     if (typeof window !== 'undefined' && (window as any).gtag) {
       (window as any).gtag('event', 'conversion', {
-        'send_to': 'GOOGLE_ADS_CONVERSION_ID', // Replaced with your Google Ads Conversion ID
+        'send_to': 'AW-18364987806',
         'value': 14.99,
         'currency': 'USD'
       });
