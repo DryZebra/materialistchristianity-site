@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import { Inter, Baskervville } from "next/font/google";
 import "./globals.css";
 import 'katex/dist/katex.min.css';
+import StickyBuyBar from '@/components/StickyBuyBar';
 
 const inter = Inter({
   variable: "--font-inter",
@@ -22,7 +23,7 @@ export const metadata: Metadata = {
     google: "google43f7cd79c820a35b",
   },
   openGraph: {
-    title: "Materialist Christianity | Ezra Byrd — Journeyman Electrician",
+    title: "Materialist Christianity | Ezra Byrd — Journeyman Electrician & JATC Instructor",
     description: "Matter precedes hierarchy. Morality as a physical, thermodynamic, and historical reality.",
     type: "website",
     url: "https://materialistchristianity.org",
@@ -61,29 +62,21 @@ export default function RootLayout({
         "@type": "Person",
         "@id": "https://materialistchristianity.org/#author",
         "name": "Ezra Byrd",
-        "jobTitle": "Author",
-        "description": "Author of Materialist Christianity and historical materialist."
+        "jobTitle": "Journeyman Electrician & JATC Instructor"
       },
       {
-        "@type": "Product",
-        "name": "Materialist Christianity",
+        "@type": "Book",
+        "@id": "https://materialistchristianity.org/#volume1",
+        "name": "Materialist Christianity: Volume I — Moral Motion & Mechanics",
         "author": { "@id": "https://materialistchristianity.org/#author" },
-        "offers": [
-          {
-            "@type": "Offer",
-            "name": "Paperback",
-            "price": "19.99",
-            "priceCurrency": "USD",
-            "url": "https://www.amazon.com/dp/B0FMN5PDZ4"
-          },
-          {
-            "@type": "Offer",
-            "name": "E-Book",
-            "price": "9.99",
-            "priceCurrency": "USD",
-            "url": "https://www.amazon.com/dp/B0FMN5PDZ4"
-          }
-        ]
+        "url": "https://materialistchristianity.org/thank-you-amazon?vol=1"
+      },
+      {
+        "@type": "Book",
+        "@id": "https://materialistchristianity.org/#volume2",
+        "name": "Materialist Christianity: Volume II — Historical Sediments & Applied Mechanics",
+        "author": { "@id": "https://materialistchristianity.org/#author" },
+        "url": "https://materialistchristianity.org/thank-you-amazon?vol=2"
       }
     ]
   };
@@ -111,11 +104,12 @@ export default function RootLayout({
         />
       </head>
       <body
-        className={`${inter.variable} ${baskerville.variable} antialiased selection:bg-signal selection:text-white font-sans`}
+        className={`${inter.variable} ${baskerville.variable} antialiased selection:bg-signal selection:text-white font-sans pb-16 sm:pb-20`}
       >
         <div className="min-h-screen">
           {children}
         </div>
+        <StickyBuyBar />
       </body>
     </html>
   );

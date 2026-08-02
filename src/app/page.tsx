@@ -1,4 +1,5 @@
 import Link from 'next/link';
+import Image from 'next/image';
 import StructuralAuditTool from '@/components/StructuralAuditTool';
 
 export default function GardenCathedralLanding() {
@@ -14,15 +15,27 @@ export default function GardenCathedralLanding() {
       },
       {
         '@type': 'Book',
-        '@id': 'https://materialistchristianity.org/#book',
-        'name': 'Materialist Christianity',
+        '@id': 'https://materialistchristianity.org/#volume1',
+        'name': 'Materialist Christianity: Volume I',
         'author': {
           '@type': 'Person',
           'name': 'Ezra Byrd',
-          'jobTitle': 'Journeyman Electrician, JATC Instructor, Author',
+          'jobTitle': 'Journeyman Electrician & JATC Instructor',
           'url': 'https://materialistchristianity.org/#author'
         },
-        'url': 'https://www.amazon.com/dp/B0FMN5PDZ4'
+        'url': 'https://materialistchristianity.org/thank-you-amazon?vol=1'
+      },
+      {
+        '@type': 'Book',
+        '@id': 'https://materialistchristianity.org/#volume2',
+        'name': 'Materialist Christianity: Volume II',
+        'author': {
+          '@type': 'Person',
+          'name': 'Ezra Byrd',
+          'jobTitle': 'Journeyman Electrician & JATC Instructor',
+          'url': 'https://materialistchristianity.org/#author'
+        },
+        'url': 'https://materialistchristianity.org/thank-you-amazon?vol=2'
       }
     ]
   };
@@ -58,19 +71,61 @@ export default function GardenCathedralLanding() {
       </nav>
 
       {/* HERO SECTION */}
-      <section className="max-w-5xl mx-auto px-6 pt-24 pb-16 text-center">
-        <div className="inline-block bg-slate text-amber px-4 py-1 font-mono text-xs font-bold uppercase tracking-widest mb-6 border border-amber/20 rounded-full">
-          Author: Ezra Byrd &mdash; Journeyman Electrician & JATC Instructor
+      <section className="max-w-6xl mx-auto px-6 pt-16 pb-16">
+        <div className="grid grid-cols-1 lg:grid-cols-12 gap-12 items-center">
+          {/* HERO TEXT COLUMN */}
+          <div className="lg:col-span-7 text-center lg:text-left">
+            <div className="inline-block bg-slate text-amber px-4 py-1 font-mono text-xs font-bold uppercase tracking-widest mb-6 border border-amber/20 rounded-full">
+              Author: Ezra Byrd &mdash; Journeyman Electrician & JATC Instructor
+            </div>
+            
+            <h1 className="text-4xl md:text-6xl lg:text-7xl font-bold tracking-tight mb-6 leading-tight text-white">
+              The Forensic Discovery of <br/>
+              <span className="italic font-serif font-normal text-amber">Moral Motion & Mechanics.</span>
+            </h1>
+            
+            <p className="text-base md:text-lg font-mono text-muted mb-8 leading-relaxed">
+              Mapping the physical, thermodynamic, and historical sediment of human morality. Proving that scripture is not magical decrees, but the survival technology of working communities under pressure.
+            </p>
+
+            <div className="flex flex-col sm:flex-row gap-4 justify-center lg:justify-start items-center mb-6">
+              <Link 
+                href="/thank-you-amazon?vol=1" 
+                className="cta-terminal !py-3.5 !px-7 !text-xs w-full sm:w-auto text-center"
+              >
+                Get Volume I &rarr;
+              </Link>
+              <Link 
+                href="/thank-you-amazon?vol=2" 
+                className="cta-terminal !bg-amber hover:!bg-white !text-concrete !py-3.5 !px-7 !text-xs w-full sm:w-auto text-center"
+              >
+                Get Volume II (New Release) &rarr;
+              </Link>
+            </div>
+          </div>
+
+          {/* HERO VISUAL COVER CARD */}
+          <div className="lg:col-span-5 flex justify-center">
+            <div className="relative w-full max-w-sm aspect-square bg-slate border-2 border-amber/30 rounded-lg overflow-hidden shadow-2xl group hover:border-amber transition-all">
+              <Image 
+                src="/square_ad_asset.jpg" 
+                alt="Materialist Christianity Artwork" 
+                fill 
+                className="object-cover group-hover:scale-105 transition-all duration-700"
+                priority
+              />
+              <div className="absolute inset-0 bg-gradient-to-t from-concrete via-transparent to-transparent opacity-80"></div>
+              <div className="absolute bottom-4 left-4 right-4 text-center">
+                <span className="bg-signal text-concrete font-mono text-[10px] uppercase font-bold px-2 py-0.5 rounded">
+                  AUTHENTICATED MANUSCRIPT
+                </span>
+                <p className="text-xs font-mono text-ash mt-1">
+                  Tested Against Physical Labor & Thermodynamic Reality
+                </p>
+              </div>
+            </div>
+          </div>
         </div>
-        
-        <h1 className="text-4xl md:text-7xl font-bold tracking-tight mb-8 leading-tight text-white">
-          The Forensic Discovery of <br/>
-          <span className="italic font-serif font-normal text-amber">Moral Motion & Mechanics.</span>
-        </h1>
-        
-        <p className="text-lg md:text-xl font-mono text-muted max-w-3xl mx-auto mb-10 leading-relaxed">
-          Mapping the physical, thermodynamic, and historical sediment of human morality. Proving that scripture is not magical decrees, but the survival technology of working communities under pressure.
-        </p>
 
         {/* VOLUME I & II DUAL STACK BANNER */}
         <div className="bg-slate p-6 md:p-8 rounded-lg border border-amber/30 max-w-4xl mx-auto mb-12 shadow-2xl">
