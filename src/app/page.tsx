@@ -60,7 +60,7 @@ export default function GardenCathedralLanding() {
       {/* HERO SECTION */}
       <section className="max-w-5xl mx-auto px-6 pt-24 pb-16 text-center">
         <div className="inline-block bg-slate text-amber px-4 py-1 font-mono text-xs font-bold uppercase tracking-widest mb-6 border border-amber/20 rounded-full">
-          Author: Ezra Byrd &mdash; Journeyman Electrician & Foreman
+          Author: Ezra Byrd &mdash; Journeyman Electrician & JATC Instructor
         </div>
         
         <h1 className="text-4xl md:text-7xl font-bold tracking-tight mb-8 leading-tight text-white">

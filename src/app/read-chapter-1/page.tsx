@@ -68,7 +68,7 @@ export default function SampleChapterPage() {
           What Is Real?
         </h1>
         <p className="text-lg md:text-2xl font-mono uppercase opacity-70 leading-relaxed mb-8">
-          By Ezra Byrd — Electrician, Foreman & Author
+          By Ezra Byrd — Journeyman Electrician & Author
         </p>
 
         <div className="bg-ash text-concrete p-6 md:p-8 border-l-[12px] border-signal font-mono text-sm md:text-base leading-relaxed">
