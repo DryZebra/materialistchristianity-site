@@ -19,6 +19,7 @@ const baskerville = Baskervville({
 export const metadata: Metadata = {
   title: "Materialist Christianity | Forensic Discovery of Moral Motion & Mechanics",
   description: "Materialist Christianity maps the physical, thermodynamic, and historical sediment of morality. Proving scripture is survival technology for working communities under pressure.",
+  referrer: "strict-origin-when-cross-origin",
   verification: {
     google: "google43f7cd79c820a35b",
   },
@@ -86,6 +87,8 @@ export default function RootLayout({
       <head>
         <meta name="google-site-verification" content="google43f7cd79c820a35b.html" />
         <meta name="google-site-verification" content="google43f7cd79c820a35b" />
+        <meta httpEquiv="X-Content-Type-Options" content="nosniff" />
+        <meta httpEquiv="X-Frame-Options" content="DENY" />
         {/* Google Ads Tag (gtag.js) */}
         <script async src="https://www.googletagmanager.com/gtag/js?id=AW-18364987806" />
         <script
