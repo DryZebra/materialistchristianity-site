@@ -103,19 +103,25 @@ export default async function WikiCategoryNodePage({
       {/* AMAZON CONVERSION BANNER */}
       <section className="mt-20 max-w-5xl mx-auto p-8 md:p-12 bg-ash text-concrete border-t-8 border-signal">
         <h3 className="text-2xl md:text-4xl font-black uppercase mb-4 text-signal italic">
-          Examine the Full Manuscript
+          Examine the Full Masterwork
         </h3>
         <p className="text-base md:text-lg font-mono uppercase opacity-80 leading-snug mb-8">
           This node is part of the broader physical and mechanical framework recorded in Materialist Christianity by Ezra Byrd.
         </p>
-        <a
-          href="https://www.amazon.com/dp/B0FMN5PDZ4"
-          target="_blank"
-          rel="noopener noreferrer"
-          className="cta-terminal bg-concrete text-ash font-black uppercase tracking-widest text-sm inline-block"
-        >
-          Examine the Text on Amazon &rarr;
-        </a>
+        <div className="flex flex-col sm:flex-row gap-4 justify-center">
+          <Link
+            href="/thank-you-amazon?vol=1"
+            className="cta-terminal bg-amber text-concrete font-black uppercase tracking-widest text-sm inline-block"
+          >
+            Get Volume I on Amazon &rarr;
+          </Link>
+          <Link
+            href="/thank-you-amazon?vol=2"
+            className="cta-terminal bg-signal text-white font-black uppercase tracking-widest text-sm inline-block"
+          >
+            Get Volume II on Amazon &rarr;
+          </Link>
+        </div>
       </section>
 
       {node.related.length > 0 && (

@@ -47,14 +47,18 @@ export default function SampleChapterPage() {
             <Link href="/wiki" className="hidden sm:inline-block font-mono text-xs uppercase tracking-widest hover:text-signal opacity-70">
               Knowledge Hub
             </Link>
-            <a
-              href="https://www.amazon.com/dp/B0FMN5PDZ4"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="cta-terminal !py-2 !px-4 !text-xs font-black uppercase tracking-widest bg-signal text-white"
+            <Link
+              href="/thank-you-amazon?vol=1"
+              className="cta-terminal !py-2 !px-3 !text-xs font-black uppercase bg-signal text-white"
             >
-              Examine Full Book on Amazon &rarr;
-            </a>
+              Get Vol I &rarr;
+            </Link>
+            <Link
+              href="/thank-you-amazon?vol=2"
+              className="cta-terminal !py-2 !px-3 !text-xs font-black uppercase bg-amber text-concrete"
+            >
+              Get Vol II &rarr;
+            </Link>
           </div>
         </div>
       </header>
@@ -205,14 +209,22 @@ export default function SampleChapterPage() {
         <div className="max-w-5xl mx-auto flex flex-col sm:flex-row justify-between items-center gap-4">
           <div className="text-center sm:text-left">
             <span className="font-black text-sm uppercase block tracking-wider text-signal">Materialist Christianity by Ezra Byrd</span>
-            <span className="text-xs font-mono opacity-60 uppercase">Available now in Paperback ($19.99) & Kindle ($9.99)</span>
+            <span className="text-xs font-mono opacity-60 uppercase block">Volume I & Volume II Available on Amazon</span>
           </div>
-          <Link
-            href="/thank-you-amazon"
-            className="cta-terminal !py-3 !px-6 !text-xs font-black uppercase tracking-widest bg-signal text-white whitespace-nowrap inline-block"
-          >
-            Buy Book on Amazon &rarr;
-          </Link>
+          <div className="flex gap-3">
+            <Link
+              href="/thank-you-amazon?vol=1"
+              className="cta-terminal !py-2.5 !px-4 !text-xs font-black uppercase tracking-widest bg-amber text-concrete whitespace-nowrap inline-block"
+            >
+              Get Volume I &rarr;
+            </Link>
+            <Link
+              href="/thank-you-amazon?vol=2"
+              className="cta-terminal !py-2.5 !px-4 !text-xs font-black uppercase tracking-widest bg-signal text-white whitespace-nowrap inline-block"
+            >
+              Get Volume II &rarr;
+            </Link>
+          </div>
         </div>
       </div>
     </div>

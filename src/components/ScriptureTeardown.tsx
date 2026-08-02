@@ -156,14 +156,20 @@ export default function ScriptureTeardown() {
             &gt; Read Full Exegesis Node ({current.axiomSlug}) &rarr;
           </Link>
 
-          <a
-            href="https://www.amazon.com/dp/B0FMN5PDZ4"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="cta-terminal bg-signal text-white font-black uppercase tracking-widest text-xs py-3 px-6 whitespace-nowrap"
-          >
-            Examine Full Scriptural Audit on Amazon &rarr;
-          </a>
+          <div className="flex gap-3">
+            <Link
+              href="/thank-you-amazon?vol=1"
+              className="cta-terminal bg-amber text-concrete font-black uppercase tracking-widest text-xs py-2.5 px-4 whitespace-nowrap"
+            >
+              Get Volume I &rarr;
+            </Link>
+            <Link
+              href="/thank-you-amazon?vol=2"
+              className="cta-terminal bg-signal text-white font-black uppercase tracking-widest text-xs py-2.5 px-4 whitespace-nowrap"
+            >
+              Get Volume II &rarr;
+            </Link>
+          </div>
         </div>
       </div>
     </div>

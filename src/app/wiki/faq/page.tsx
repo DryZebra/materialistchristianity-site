@@ -63,11 +63,11 @@ export default function FAQ() {
         ))}
       </div>
 
-      <footer className="cta-funnel mt-24">
-        <h2 className="text-2xl mb-8">Purchase the Manuscript</h2>
-        <div className="flex gap-4 justify-center">
-          <a href="https://www.amazon.com/dp/B0FMN5PDZ4" className="btn-signal">Paperback ($19.99)</a>
-          <a href="https://www.amazon.com/dp/B0FMN5PDZ4" className="btn-signal bg-zinc-800">E-Book ($9.99)</a>
+      <footer className="cta-funnel mt-24 text-center">
+        <h2 className="text-2xl mb-8 uppercase font-bold">Purchase the Masterwork</h2>
+        <div className="flex flex-col sm:flex-row gap-4 justify-center">
+          <Link href="/thank-you-amazon?vol=1" className="btn-signal">Get Volume I on Amazon &rarr;</Link>
+          <Link href="/thank-you-amazon?vol=2" className="btn-signal bg-amber text-concrete">Get Volume II on Amazon &rarr;</Link>
         </div>
       </footer>
     </article>

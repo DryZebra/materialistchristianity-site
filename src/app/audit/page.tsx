@@ -29,14 +29,18 @@ export default function AuditPage() {
             <Link href="/wiki" className="hidden md:inline-block hover:text-signal font-bold">
               Knowledge Hub
             </Link>
-            <a
-              href="https://www.amazon.com/dp/B0FMN5PDZ4"
-              target="_blank"
-              rel="noopener noreferrer"
+            <Link
+              href="/thank-you-amazon?vol=1"
               className="cta-terminal !py-2 !px-4 !text-xs font-black uppercase bg-signal text-white"
             >
-              Buy Book on Amazon &rarr;
-            </a>
+              Get Volume I &rarr;
+            </Link>
+            <Link
+              href="/thank-you-amazon?vol=2"
+              className="cta-terminal !py-2 !px-4 !text-xs font-black uppercase bg-amber text-concrete"
+            >
+              Get Volume II &rarr;
+            </Link>
           </div>
         </div>
       </header>
@@ -63,19 +67,25 @@ export default function AuditPage() {
       <section className="max-w-4xl mx-auto px-6 mt-20 text-center">
         <div className="p-8 md:p-12 bg-ash text-concrete border-t-8 border-signal">
           <h3 className="text-3xl font-black uppercase mb-4 text-signal italic">
-            Examine the Full Master Manuscript
+            Examine the Full Two-Volume Masterwork
           </h3>
           <p className="text-base font-mono uppercase opacity-80 max-w-xl mx-auto mb-8">
-            The audit isolates the mechanical problem. The book provides the full 12-chapter physical framework.
+            The audit isolates the mechanical problem. Volume I and Volume II provide the full physical framework.
           </p>
-          <a
-            href="https://www.amazon.com/dp/B0FMN5PDZ4"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="cta-terminal bg-signal text-white font-black uppercase tracking-widest text-sm py-4 px-8 inline-block"
-          >
-            Examine Book on Amazon ($19.99 / $9.99) &rarr;
-          </a>
+          <div className="flex flex-col sm:flex-row gap-4 justify-center">
+            <Link
+              href="/thank-you-amazon?vol=1"
+              className="cta-terminal bg-amber text-concrete font-black uppercase tracking-widest text-sm py-4 px-8 inline-block"
+            >
+              Get Volume I on Amazon &rarr;
+            </Link>
+            <Link
+              href="/thank-you-amazon?vol=2"
+              className="cta-terminal bg-signal text-white font-black uppercase tracking-widest text-sm py-4 px-8 inline-block"
+            >
+              Get Volume II on Amazon &rarr;
+            </Link>
+          </div>
         </div>
       </section>
     </div>

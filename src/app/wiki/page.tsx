@@ -109,16 +109,22 @@ export default function WikiHome() {
           Examine the Master Manuscript
         </h2>
         <p className="text-base md:text-xl font-mono uppercase opacity-80 max-w-3xl mx-auto mb-8">
-          The wiki records the interconnected logical nodes. The full unified thesis is available in trade paperback and ebook formats.
+          The wiki records the interconnected logical nodes. The full unified thesis is available in Volume I and Volume II on Amazon.
         </p>
-        <a
-          href="https://www.amazon.com/dp/B0FMN5PDZ4"
-          target="_blank"
-          rel="noopener noreferrer"
-          className="cta-terminal bg-concrete text-ash font-black uppercase tracking-widest text-sm inline-block"
-        >
-          Secure Your Copy on Amazon &rarr;
-        </a>
+        <div className="flex flex-col sm:flex-row gap-4 justify-center">
+          <Link
+            href="/thank-you-amazon?vol=1"
+            className="cta-terminal bg-amber text-concrete font-black uppercase tracking-widest text-sm inline-block"
+          >
+            Get Volume I on Amazon &rarr;
+          </Link>
+          <Link
+            href="/thank-you-amazon?vol=2"
+            className="cta-terminal bg-signal text-white font-black uppercase tracking-widest text-sm inline-block"
+          >
+            Get Volume II on Amazon &rarr;
+          </Link>
+        </div>
       </section>
     </div>
   );
