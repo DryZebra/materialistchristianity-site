@@ -322,6 +322,20 @@ export default function StructuralAuditTool() {
               <p className="text-sm font-mono leading-relaxed opacity-90">{currentResult.solution}</p>
             </div>
 
+            {/* VISUAL FRICTION PROGRESS BAR */}
+            <div className="space-y-2">
+              <div className="flex justify-between text-xs font-mono font-bold uppercase">
+                <span>Systemic Structural Stress Level:</span>
+                <span className="text-signal">{currentResult.frictionScore}% HIGH TORQUE STRAIN</span>
+              </div>
+              <div className="w-full h-3 bg-concrete border border-ash/20 rounded-full overflow-hidden">
+                <div 
+                  className="h-full bg-signal transition-all duration-1000 ease-out"
+                  style={{ width: `${currentResult.frictionScore}%` }}
+                ></div>
+              </div>
+            </div>
+
             <div className="pt-4 border-t border-ash/20 grid grid-cols-1 sm:grid-cols-2 gap-4 items-center">
               <div>
                 <span className="text-[10px] font-mono uppercase opacity-50 block">RECOMMENDED WIKI NODE:</span>
@@ -334,26 +348,43 @@ export default function StructuralAuditTool() {
               </div>
 
               <div>
-                <span className="text-[10px] font-mono uppercase opacity-50 block">BOOK CHAPTER SOLUTION:</span>
-                <span className="text-xs font-mono font-bold uppercase block">{currentResult.chapterRecommendation}</span>
+                <span className="text-[10px] font-mono uppercase opacity-50 block">RECOMMENDED BOOK CHAPTER:</span>
+                <span className="text-xs font-mono font-bold uppercase block text-ash">{currentResult.chapterRecommendation}</span>
               </div>
             </div>
 
-            <div className="pt-4 flex flex-col sm:flex-row gap-4">
-              <a
-                href="https://www.amazon.com/dp/B0FMN5PDZ4"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="cta-terminal bg-signal text-white font-black uppercase tracking-widest text-xs py-3 px-6 text-center flex-1"
-              >
-                Examine Book on Amazon ($19.99 / $9.99) &rarr;
-              </a>
-              <Link
-                href="/read-chapter-1"
-                className="cta-terminal bg-steel/40 text-ash border-ash font-black uppercase tracking-widest text-xs py-3 px-6 text-center flex-1"
-              >
-                Read Chapter 1 Free &rarr;
-              </Link>
+            {/* HIGH-CONVERTING SALES FUNNEL STACK */}
+            <div className="pt-6 border-t border-ash/20 space-y-4">
+              <span className="text-xs font-mono font-black uppercase text-amber block text-center">
+                RESOLVE SYSTEMIC STRAIN — CHOOSE YOUR NEXT STEP:
+              </span>
+
+              <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
+                <Link
+                  href="/thank-you-amazon?vol=1"
+                  className="cta-terminal !bg-amber !text-concrete hover:!bg-white font-black uppercase tracking-widest text-xs py-3.5 px-4 text-center block shadow-lg"
+                >
+                  Get Volume I on Amazon &rarr;
+                  <span className="block text-[10px] font-normal opacity-80 mt-0.5">Moral Motion & Mechanics</span>
+                </Link>
+
+                <Link
+                  href="/thank-you-amazon?vol=2"
+                  className="cta-terminal !bg-signal !text-white font-black uppercase tracking-widest text-xs py-3.5 px-4 text-center block shadow-lg"
+                >
+                  Get Volume II on Amazon &rarr;
+                  <span className="block text-[10px] font-normal opacity-80 mt-0.5">Historical Sediments & Applied Mechanics</span>
+                </Link>
+              </div>
+
+              <div className="text-center pt-2">
+                <Link
+                  href="/read-chapter-1"
+                  className="text-xs font-mono uppercase text-muted hover:text-amber underline"
+                >
+                  or Read Volume I Chapter 1 Free Online &rarr;
+                </Link>
+              </div>
             </div>
           </div>
         )}
