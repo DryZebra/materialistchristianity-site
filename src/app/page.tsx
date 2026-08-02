@@ -58,8 +58,8 @@ export default function GardenCathedralLanding() {
       </nav>
 
       {/* HERO SECTION */}
-      <section className="max-w-5xl mx-auto px-6 pt-24 pb-20 text-center">
-        <div className="inline-block bg-slate text-amber px-4 py-1 font-mono text-xs font-bold uppercase tracking-widest mb-8 border border-amber/20 rounded-full">
+      <section className="max-w-5xl mx-auto px-6 pt-24 pb-16 text-center">
+        <div className="inline-block bg-slate text-amber px-4 py-1 font-mono text-xs font-bold uppercase tracking-widest mb-6 border border-amber/20 rounded-full">
           Author: Ezra Byrd &mdash; Journeyman Electrician & Foreman
         </div>
         
@@ -68,9 +68,45 @@ export default function GardenCathedralLanding() {
           <span className="italic font-serif font-normal text-amber">Moral Motion & Mechanics.</span>
         </h1>
         
-        <p className="text-lg md:text-xl font-mono text-muted max-w-3xl mx-auto mb-12 leading-relaxed">
+        <p className="text-lg md:text-xl font-mono text-muted max-w-3xl mx-auto mb-10 leading-relaxed">
           Mapping the physical, thermodynamic, and historical sediment of human morality. Proving that scripture is not magical decrees, but the survival technology of working communities under pressure.
         </p>
+
+        {/* VOLUME I & II DUAL STACK BANNER */}
+        <div className="bg-slate p-6 md:p-8 rounded-lg border border-amber/30 max-w-4xl mx-auto mb-12 shadow-2xl">
+          <div className="inline-block bg-signal text-concrete px-3 py-1 font-mono text-xs font-bold uppercase tracking-widest mb-4 rounded">
+            NOW LIVE ON AMAZON: TWO-VOLUME MASTERWORK
+          </div>
+          
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-left">
+            <div className="p-5 bg-concrete border border-ash/10 rounded">
+              <span className="text-xs font-mono text-amber font-bold block mb-1">VOLUME I // AVAILABLE NOW</span>
+              <h3 className="text-xl font-bold text-white mb-2">Moral Motion & Mechanics</h3>
+              <p className="text-xs font-mono text-muted mb-4">The foundational physics, 5 Cathedral Pillars, and thermodynamic sin mechanics.</p>
+              <Link 
+                href="/thank-you-amazon?vol=1" 
+                className="cta-terminal !py-2.5 !px-5 !text-xs w-full text-center block"
+              >
+                Get Volume I on Amazon &rarr;
+              </Link>
+            </div>
+
+            <div className="p-5 bg-concrete border border-amber/40 rounded shadow-lg relative">
+              <div className="absolute -top-3 right-3 bg-amber text-concrete px-2 py-0.5 font-mono text-[10px] font-bold uppercase rounded">
+                NEW RELEASE
+              </div>
+              <span className="text-xs font-mono text-amber font-bold block mb-1">VOLUME II // NEW RELEASE</span>
+              <h3 className="text-xl font-bold text-white mb-2">Historical Sediments & Applied Mechanics</h3>
+              <p className="text-xs font-mono text-muted mb-4">Advanced Koine Greek exegesis, jobsite ethics, and applied life mechanics.</p>
+              <Link 
+                href="/thank-you-amazon?vol=2" 
+                className="cta-terminal !py-2.5 !px-5 !text-xs w-full text-center block"
+              >
+                Get Volume II on Amazon &rarr;
+              </Link>
+            </div>
+          </div>
+        </div>
 
         <div className="flex flex-col sm:flex-row gap-5 justify-center items-center">
           <Link 
